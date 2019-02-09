@@ -1,0 +1,4 @@
+_site
+.sass-cache
+.jekyll-metadata
+yosai.code-workspace
