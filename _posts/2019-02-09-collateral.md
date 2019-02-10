@@ -1,5 +1,9 @@
 ---
+title: Collateral
 layout: post
+era: primitive
+excerpt_separator: <!--more-->
+permalink: /stories/primitive/:title/
 ---
 Chiyoko brought her face close to the ground. A long, black braid hung over her shoulder as she examined the roots of a beech tree, her fingers tracing along the silver bark. She lingered on a deep gouge at the far side of the root. Sap still dripped from the wound. 
 
@@ -10,6 +14,8 @@ She tensed as a face appeared next to hers. The face was handsome with a strong,
 Chiyoko sighed, shaking her head. She pressed a hand against Mamoru's face and shoved him away, smearing sap across his cheek. "How many times have I told you not to interrupt me when I'm focused?"
 
 "Today? Three times. But I was bored! You've been staring at that root for five minutes.” He rubbed at the sap on his cheek, leaving a smear of dirt from his hands. “If you want me to leave you alone you could at least think out loud or something."
+
+<!--more-->
 
 “What, you can’t just sit still for longer than 3 heart beats?”
 
@@ -45,7 +51,7 @@ Mamoru whistled. “Eight! It’s a good thing we caught this one’s trail befo
 
 Chiyoko didn’t share Mamoru’s excitement. Each new tail a kitsune gained granted it a new ability, making it harder to hunt and kill. After just the third tail, a fox could reshape its surroundings on a whim. And more tails meant a bigger, smarter beast. The largest kitsune that Chiyoko and Mamoru had killed was a six-tails. A seven- or eight-tails presented a lot of unknowns.
 
-Worse, the hunt had already been three days longer than expected. The kitsune was using it’s third tail to meticulously wipe clean it’s trail. Chiyoko had to track using markings left on living objects that the fox couldn’t control. /Does it know we’re following? Is it preparing a trap?/
+Worse, the hunt had already been three days longer than expected. The kitsune was using it’s third tail to meticulously wipe clean it’s trail. Chiyoko had to track using markings left on living objects that the fox couldn’t control. *Does it know we’re following? Is it preparing a trap?*
 
 Mamoru waved a hand in front of Chiyoko’s face, breaking her from her worries. “Hey! Hello. Mamoru here. You know, the other human being you’re traveling with. Mind telling me what’s on your mind rather than blanking out again?” Mamoru shook his head. “Frosted dawn Chiyoko, you’re out of it this morning.”
 
@@ -53,7 +59,7 @@ Mamoru waved a hand in front of Chiyoko’s face, breaking her from her worries.
 
 Chiyoko froze as she heard a branch snap in the woods behind Mamoru. It was faint, but Chiyoko had made a habit of throwing her senses as wide as she could over the last few days. Mamoru opened his mouth to speak but Chiyoko held up a hand, her eyes scanning the woods over his shoulder. Mamoru slowly turned in the direction Chiyoko was searching and dropped into a crouch, his hand reaching for the axe at his back.
 
-Nothing moved. The muscles around Chiyoko’s eyes tensed as she pushed her vision deeper into the woods. No sounds. /Maybe it was just a weasel. Or some—/. She caught a dull glimmer emerging from the trees. Some kind of dark, reflective surface moving alongside a pair of torches. Human shapes coalesced from shadows.
+Nothing moved. The muscles around Chiyoko’s eyes tensed as she pushed her vision deeper into the woods. No sounds. *Maybe it was just a weasel. Or some—*. She caught a dull glimmer emerging from the trees. Some kind of dark, reflective surface moving alongside a pair of torches. Human shapes coalesced from shadows.
 
 Chiyoko grabbed Mamoru’s wrist and pulled him towards the edge of the clearing they were standing in. Other than Chiyoko and Mamoru, no one ventured this far outside the walls. The nearest village was 3 weeks trekking through woods that were dangerous even for the two hunters. Encounters in the woods were never happy coincidences.
 
@@ -73,19 +79,19 @@ Chiyoko tensed, preparing to run. But the man in the straw hat placed a hand on 
 
 Seiji’s closed his eyes for a moment. When he opened them they shone with a silver light. His head turned in the direction of the tree root Chiyoko had been studying earlier. “He’s been through here, certainly. His presence is within my range, but still a couple hours out, I think. His aura is faint. There’s some kind of interference. Perhaps he’s in a ravine of some sort - a large body of stone will interfere with my sense.”
 
-/So they’re hunting the fox as well. Maybe we should show ourselves and work together?/ Chiyoko glanced at Mamoru. His face was obscured by the shadows that clung to their bodies, but he made a hand sign to Chiyoko asking the same question she was pondering. Chiyoko shook her head, giving the sign to hold a bit longer. /He said they have a larger force behind them. This deep in the woods, they’re probably part of some wandering tribe. If they see us, they’ll want to know where we come from./ Chiyoko thought of their village. Seiji’s description of the fox’s location sounded like Fangdrop, a fissure less than an hour from Hokko.
+*So they’re hunting the fox as well. Maybe we should show ourselves and work together?* Chiyoko glanced at Mamoru. His face was obscured by the shadows that clung to their bodies, but he made a hand sign to Chiyoko asking the same question she was pondering. Chiyoko shook her head, giving the sign to hold a bit longer. *He said they have a larger force behind them. This deep in the woods, they’re probably part of some wandering tribe. If they see us, they’ll want to know where we come from.* Chiyoko thought of their village. Seiji’s description of the fox’s location sounded like Fangdrop, a fissure less than an hour from Hokko.
 
 Hideyo continued looking into the woods. “Could it have been one of Tsukuyomi’s allies? We’re so far north. If he’s found help we won’t stand much of a chance alone. Maybe we should wait a couple days for everyone to catch up.”
 
 Seiji turned towards Hideyo, a disapproving look on his face. “Hideyo! Have a bit more pride!” He gestured towards the man in the hat. “You were hand picked by Yoshinobu. One of his chosen guard. To speak such fearful words is unbecoming of the rebellion.”
 
-Chiyoko gripped Mamoru’s forearm with shaking hands. /Did he say Tsukuyomi? Yoshinobu? Frosted dawn, what have we gotten ourselves into?/ 
+Chiyoko gripped Mamoru’s forearm with shaking hands. *Did he say Tsukuyomi? Yoshinobu? Frosted dawn, what have we gotten ourselves into?* 
 
 They had been hunting Tsukuyomi. The Nine Tails. Leader of the kitsune and one of the five gods of Yosai. And apparently they had been doing it just a couple days ahead of Yoshinobu’s rebellion.
 
 Chiyoko had only heard rumor’s of the man who had declared war on the gods. Hokko only got news of the south from the rare trapper or trading party willing to brave the northern woods. But what she heard was never good. Entire villages caught in the crossfire and wiped off the map.
 
-Yoshinobu laughed and gave Hideyo a comforting squeeze with the hand that still rested on her shoulder. “Seiji, I appreciate the faith you place in me. But please. I’m still just a carpenter. No more talk of a chosen guard.” Yoshinobu held up his free hand to forestall Seiji’s rebuttal. His fingers were covered in long-healed scars. “If we kill this god, I’ll /consider/ letting you pick some fancy titles for us all. But we’ve got a long way to go before we’ve earn any self importance.”
+Yoshinobu laughed and gave Hideyo a comforting squeeze with the hand that still rested on her shoulder. “Seiji, I appreciate the faith you place in me. But please. I’m still just a carpenter. No more talk of a chosen guard.” Yoshinobu held up his free hand to forestall Seiji’s rebuttal. His fingers were covered in long-healed scars. “If we kill this god, I’ll *consider* letting you pick some fancy titles for us all. But we’ve got a long way to go before we’ve earn any self importance.”
 
 Yoshinobu turned the dwarven woman towards him, placing his other hand on her shoulder. Despite her short stature, Yoshinobu didn’t have to bend to look into her eyes. “I know we’re taking a risk by striking out ahead of everyone like this. But we’ve gone through so much to get to this point. Tsukuyomi is alone. He’s been away from his realm long enough that his powers are diminished. We’ll never have a better chance to strike. If we let him escape over the Shatterspine, we’ll have to face him at full strength, surrounded by allies. Lots more people will die.”
 
@@ -109,7 +115,11 @@ Mamoru spoke first. “We need to get back and warn my mom. She’ll know what t
 
 The two hesitated for a moment, unsure which path to take. Eventually Chiyoko relented. She knew the woods and she was confident she could get to Fangdrop in time. But Mamoru was right. They needed to ask the town’s elder what to do. It wasn’t Chiyoko’s place to decide on behalf of the entire village.
 
+<br />
+
 ---
+<br />
+<br />
 
 Chiyoko and Mamoru sprinted through the woods, crashing through the underbrush at reckless speeds. Years of instincts chided Chiyoko for every sound she made along the way. But there was no other choice.
 
@@ -127,21 +137,21 @@ Ayeka’s plan, assuming Tsukuyomi and the rebellion reached Hokko, was to cede 
 
 They had just made it into position. There hadn’t been much time to share every detail, so many villagers held their weapons and watched the woods with a mixture of trepidation and uncertainty. Chiyoko held an arrow notched and ready to draw.
 
-Ten minutes passed. Twenty. Some of the villagers began to fidget with their armor and weapons. /Maybe Tsukuyomi moved on before they reached Fangdrop…/
+Ten minutes passed. Twenty. Some of the villagers began to fidget with their armor and weapons. *Maybe Tsukuyomi moved on before they reached Fangdrop…*
 
 There was a sharp inhalation of breath to Chiyoko’s left. “There!” The woman’s arm was outstretched, trembling as it pointed into the woods. “I saw something move in the treeline!” As she spoke, birds leapt into the air as 3 sharp cracks rang out like snapping twigs. Trees toppled. 
 
 A roar filled the air, louder than anything Chiyoko had ever heard. The toppled trees were well over 500 feet away, yet Chiyoko could feel Hokko’s wall shaking. Leaves fell from the trees along the edge of the outer wall. Several villagers covered their ears, wincing. Pained cries sounded from the woods.
 
-There was a hiss like sharply inhaled breath as a rush of wind was drawn into the forest, bending the limbs of trees inwards. There was a dull /whoomph/ and a flash of yellow-orange light as a horizontal column of fire 10 feet wide erupted from the trees. Careening through the air at the head of the column was the largest kitsune Chiyoko had ever seen. 
+There was a hiss like sharply inhaled breath as a rush of wind was drawn into the forest, bending the limbs of trees inwards. There was a dull *whoomph* and a flash of yellow-orange light as a horizontal column of fire 10 feet wide erupted from the trees. Careening through the air at the head of the column was the largest kitsune Chiyoko had ever seen. 
 
 Tsukuyomi was at least 30 feet long. Nine snow-white tails wrapped protectively around the giant fox as he blasted through the outer wall of Hokko. The god righted himself as he slid through the rice paddies, his claws digging wide furrows through the ground.
 
 As he came to a halt, Tsukuyomi’s tails snapped outwards. A sphere of cold wind whipped from the fox, freezing the rice paddies around him and leaving his white fur clean and unmarred. 
 
-Tsukuyomi laughed. “Yes! Excellent. /Come/.” 
+Tsukuyomi laughed. “Yes! Excellent. *Come*.” 
 
-As he spoke, one of the god’s tails flared with purple light. All of the blood drained from Chiyoko’s limbs as she felt a crushing presence against her mind. The presence dulled her reflexes, drawing her towards Tsukuyomi. Without thinking, Chiyoko took a step towards the edge of the wall. /Shit. Shit!/ 
+As he spoke, one of the god’s tails flared with purple light. All of the blood drained from Chiyoko’s limbs as she felt a crushing presence against her mind. The presence dulled her reflexes, drawing her towards Tsukuyomi. Without thinking, Chiyoko took a step towards the edge of the wall. *Shit. Shit!* 
 
 With all her willpower, Chiyoko grabbed the head of the arrow in her hand and squeezed. Hard. Blood poured out of her palm, breaking the trance. She saw Mamoru stagger to her right before smacking himself swiftly across the face.
 
@@ -151,13 +161,13 @@ Chiyoko watched as villagers began to lift themselves mindlessly onto the wall. 
 
 Chiyoko rolled the woman off of her and sprang to her feet. She saw Mamoru pulling his mother back from the wall. The rest of the village guards lay moaning in pain below. Several clutched badly broken legs. One who had landed awkwardly lay face down, unmoving.
 
-Chiyoko looked on in shock. /The battle hasn’t even started yet./
+Chiyoko looked on in shock. *The battle hasn’t even started yet.*
 
 Yoshinobu, Seiji, and Hideyo came striding out of the forest. Hideyo began drawing her arms about her, gathering flames from the underbrush into a sphere above her head. Seiji tensed his grip along the hilt of his sword. The onyx blade began to emit a shining silver light.
 
 The man in the straw hat gestured towards Tsukuyomi. “No more running, Tsukuyomi. Yosai will suffer one less god walking its lands today.”
 
-“Yes, yes. Here I stand, no? Who’s running? Honestly Yoshinobu, your one liners really suck the fun out of this for me. /I’m/ supposed to be the dramatic one. Try to lighten up. It’s your last day alive, after all.”
+“Yes, yes. Here I stand, no? Who’s running? Honestly Yoshinobu, your one liners really suck the fun out of this for me. *I’m* supposed to be the dramatic one. Try to lighten up. It’s your last day alive, after all.”
 
 As he spoke, Tsukuyomi tensed his front legs, his shoulders and head dipping forward. His jaw began to tense, as though chewing something dense. Tsukuyomi snapped his head towards Yoshinobu and opened his mouth. Jagged ice crystals the size of a man leapt from the god’s mouth, travelling along the ground like a wave. As it rushed forward, the ice grew in speed and size.
 
@@ -177,21 +187,21 @@ From a wide stance, Yoshinobu made a quick uppercut. As he did so, a wave of for
 
 As Tsukuyomi was pulled upwards, Hideyo hurled the flaming sphere between her hands towards the fox, her brown robes flapping wildly behind her from the temperature gradient. But Tsukuyomi’s tails flared out, restoring his balance and allowing him to knock the ball of fire to the side. The sphere crashed into a building at the edge of Hokko and detonated, blowing rubble in all directions.
 
-Chiyoko looked in horror at the devastation. /This needs to end. Fast./ She turned back to the battle, drawing an arrow and scanning the field. /Which side has the upper hand?/ The woman who had shifted into a giant wolf was struggling to pull herself from the rubble of the wall Tsukuyomi had knocked her through. But Tsukuyomi was now trapped in the sky, his tails whipping about him as he tried to break free. 
+Chiyoko looked in horror at the devastation. *This needs to end. Fast.* She turned back to the battle, drawing an arrow and scanning the field. *Which side has the upper hand?* The woman who had shifted into a giant wolf was struggling to pull herself from the rubble of the wall Tsukuyomi had knocked her through. But Tsukuyomi was now trapped in the sky, his tails whipping about him as he tried to break free. 
 
-Chiyoko drew her bow and sighted the back of Tsukuyomi’s head, waiting for his tails to leave an opening. /Just give me one shot./
+Chiyoko drew her bow and sighted the back of Tsukuyomi’s head, waiting for his tails to leave an opening. *Just give me one shot.*
 
 But before Chiyoko could fire, she felt a firm grip on her shoulder. “No! You’ll draw the god’s anger against us as well.” Chiyoko turned to see Ayeka close behind her.
 
 “But the rebels have the upper hand. Tsukuyomi is an easy target right now and we have him surrounded! It’s the fastest way to end this.”
 
-“He’s a /god/ Chiyoko. He will not fall so easily. And if he did, do you think the other 4 would not come calling soon after?”
+“He’s a *god* Chiyoko. He will not fall so easily. And if he did, do you think the other 4 would not come calling soon after?”
 
 “What would you have us do, then? Just two attacks have already crippled our wall.” Chiyoko tried to shrug free and redraw her bow, but Ayeka held firm.
 
 “Help Tsukuyomi. With you and Mamoru at his back, the playing field will level.”
 
-Chiyoko’s face twisted. “Help the /kitsune?/. His spawn torments our village on a whim!” There was a large crash as Tsukuyomi let lose another blast of ice from above. Caught off guard, Hideyo’s flames barely intercepted the ice in time. The explosion of steam knocked the her off her feet.
+Chiyoko’s face twisted. “Help the *kitsune?*. His spawn torments our village on a whim!” There was a large crash as Tsukuyomi let lose another blast of ice from above. Caught off guard, Hideyo’s flames barely intercepted the ice in time. The explosion of steam knocked the her off her feet.
 
 The figure in black armor had reached the area below Tsukuyomi and launched himself into whatever field held the god aloft. Seiji rose quickly, aiming his sword for Tsukuyomi’s stomach.
 
@@ -201,7 +211,7 @@ Chiyoko turned her attention back to the battle field. Yoshinobu was absorbed wi
 
 “Mamoru, take care of things when they hit the ground.” Without waiting to see if he heard her, Chiyoko took off along the wall at a run. She reached the section where Yoshinobu’s punch had impacted and leapt. Her stomach somersaulted as she flipped her feet towards the sky and compensated for the sudden shift in gravity. She landed heavily along the bottom side of the airborne wall fragment.
 
-Chiyoko rolled with the landing. /Don’t look up. Down. Whatever./ She took off at a sprint, leaping between rubble like stones in a river. When she reached the last rock, she brought her legs close in to her chest and launched towards Tsukuyomi’s back.
+Chiyoko rolled with the landing. *Don’t look up. Down. Whatever.* She took off at a sprint, leaping between rubble like stones in a river. When she reached the last rock, she brought her legs close in to her chest and launched towards Tsukuyomi’s back.
 
 As she connected, Tsukuyomi lashed out reflexively with two tails, attempting to strike Chiyoko from both sides. But Chiyoko bent her legs to absorb the landing and pushed off in the same movement, catapaulting over Tsukuyomi’s shoulder and out of reach of the two tails.
 
@@ -221,7 +231,11 @@ The ground began rising to meet them rapidly. Chiyoko reached for the fur on the
 
 He did not.
 
+<br />
+
 ---
+<br />
+<br />
 
 Chiyoko sat up with a gasp, reaching for her bow reflexively. Her hand found the arm of a woman kneeling over her. The woman startled and toppled backwards, hands held out before her. “Whoa! Whoa! It’s OK, the battle is over!”
 
@@ -237,13 +251,13 @@ Chiyoko’s head pounded. She reached for her temple and winced. All over her bo
 
 Eying Chiyoko warily, Teruko pushed off her butt and balanced on the balls of her feet, hands pressed against her thighs.
 
-“After you shot that arrow, things got pretty messy. Apparently the rebels were relying on the straw hat guy to keep Tsukuyomi in place long enough for them to do their thing. Whatever it was they thought they could do to a /god/.” Teruko shook her head.
+“After you shot that arrow, things got pretty messy. Apparently the rebels were relying on the straw hat guy to keep Tsukuyomi in place long enough for them to do their thing. Whatever it was they thought they could do to a *god*.” Teruko shook her head.
 
-“Anyways, straw hat went down and the three of you up in the air immediately started falling. The dwarf woman throwing fire all over the place did something to stop the man covered in metal from slamming into the ground. Looked like you caught the edge of that, which is why I figure you only /look/ like a dead person instead of /being/ one.”
+“Anyways, straw hat went down and the three of you up in the air immediately started falling. The dwarf woman throwing fire all over the place did something to stop the man covered in metal from slamming into the ground. Looked like you caught the edge of that, which is why I figure you only *look* like a dead person instead of *being* one.”
 
 “Once Tsukuyomi got to the ground, it was clear where the fight was going. But as you can see, he wasn’t exactly discriminating with his attacks.” Chiyoko could feel the cold from the curtain of ice even this far away. “The rebels held for a bit, but eventually they got the idea and fled. Tsukuyomi had taken some hits so he took off in the other direction.”
 
-Chiyoko looked at the wall of ice cutting deep into the village. That single attack had destroyed almost a third of the buildings in Hokko. /Helping the fox was a mistake./ Chiyoko placed one grimy hand on her knee and stood up shakily. The act left her head spinning. She wanted to puke.
+Chiyoko looked at the wall of ice cutting deep into the village. That single attack had destroyed almost a third of the buildings in Hokko. *Helping the fox was a mistake.* Chiyoko placed one grimy hand on her knee and stood up shakily. The act left her head spinning. She wanted to puke.
 
 “Where’s Mamoru?” Chiyoko held her breath.
 
@@ -257,11 +271,11 @@ Teruko’s face softened. “It doesn’t matter how much you did Chiyoko. We al
 
 As Chiyoko walked, she could see several ruined buildings scattered around the inner wall of Hokko. Fires still burned amidst them. There were a few more blasts of ice. One building had been cut in half along a perfect diagonal line.
 
-/The walls are ruined. How much food did we loose? How many people died?/ The more she walked, the worse she felt. 
+*The walls are ruined. How much food did we loose? How many people died?* The more she walked, the worse she felt. 
 
-/After everything they’ve done for me./ Chiyoko remembered a day 12 years ago, when she had come stumbling from the woods, covered in blood and shaking uncontrollably in the snow. She remembered Mamoru, big even at that age, as he dragged her within the walls. She remembered Ayeka caring for her wounds. /They were counting on me./
+*After everything they’ve done for me.* Chiyoko remembered a day 12 years ago, when she had come stumbling from the woods, covered in blood and shaking uncontrollably in the snow. She remembered Mamoru, big even at that age, as he dragged her within the walls. She remembered Ayeka caring for her wounds. *They were counting on me.*
 
-She stopped and forced a few deep breaths. /Ayeka will know what to do./ Chiyoko set off again.
+She stopped and forced a few deep breaths. *Ayeka will know what to do.* Chiyoko set off again.
 
 Chiyoko followed the wreckage inward, but after 20 minutes without luck, she doubled back towards the wall. She had to pause frequently, hands on her knees, to clear her head. 
 
@@ -277,13 +291,17 @@ Chiyoko stood, stunned. Her hand paused halfway towards Mamoru’s shoulder.
 
 Mamoru finally took notice of Chiyoko’s pressence and threw himself at her desperately. His massive form enveloped her in a hug and he bent nearly double to rest his head on her shoulder as he cried. Chiyoko hugged him back with as much strength as she could muster, still staring over his shoulder.
 
-/They were counting on me./
+*They were counting on me.*
+
+<br />
 
 ---
+<br />
+<br />
 
-Finding the rebellion’s trail wasn’t hard. In their rush to flee the battlefield, they left a wide trail of broken branches, muddy footprints, and splatters of blood. Deep furrows marked the trail initially. /Dragging Yoshinobu probably./
+Finding the rebellion’s trail wasn’t hard. In their rush to flee the battlefield, they left a wide trail of broken branches, muddy footprints, and splatters of blood. Deep furrows marked the trail initially. *Dragging Yoshinobu probably.*
 
-Eventually the furrows disappeared and signs of the rebels passage became more rare. /Must have caught their breath. Somebody had enough sense to move with caution./ 
+Eventually the furrows disappeared and signs of the rebels passage became more rare. *Must have caught their breath. Somebody had enough sense to move with caution.* 
 
 Mamoru walked behind Chiyoko, doing his best to stay out of the way. His eyes were bloodshot, his shoulders hunched forward. He no longer peppered Chiyoko with questions about what she was doing. Instead he stared stared out into the woods, following Chiyoko’s orders wordlessly. Chiyoko was surprised how much she missed the distractions.
 
@@ -291,9 +309,9 @@ The only thing that seemed to keep Mamoru moving forward was the village. Both w
 
 But Yoshinobu mentioned a larger force. The rebel army. And armies meant protection from the wilderness. Food rations. Men and women who could help rebuild their walls. They had to convince the rebellion to help.
 
-/Good thing I nearly shot their leader in the heart./ 
+*Good thing I nearly shot their leader in the heart.* 
 
-At one point footprints reappeared alongside two lines in the mud. /Did they get tired? Did they think no one could track them this far?/ Chiyoko followed the trail as it angled to the right. She carried on for a few minutes before something started to feel off. 
+At one point footprints reappeared alongside two lines in the mud. *Did they get tired? Did they think no one could track them this far?* Chiyoko followed the trail as it angled to the right. She carried on for a few minutes before something started to feel off. 
 
 “These prints are deeper than they should be. I think they doubled back.” Chiyoko crouched low to inspect the prints more closely. As she did, she noticed a faint glimmer across the path 10 feet ahead. She approached it carefully, keeping her body close to the ground.
 
@@ -329,13 +347,13 @@ Mamoru slammed his seared foot into the forest underbrush, taking a wide stance 
 
 Chiyoko sighted and prepared to loose her arrow, but her enhanced senses caught motion to her right. Shifting weight to her back foot, she swung her right foot in an arc along the ground, bringing her aim towards the motion without releasing her draw. 
 
-There was a dull sheen of darkened metal 10 feet away. /How did he get so close so fast?/ The armored man rushed towards Chiyoko. His chest was low to the ground. His sword angled back, preparing to swing. 
+There was a dull sheen of darkened metal 10 feet away. *How did he get so close so fast?* The armored man rushed towards Chiyoko. His chest was low to the ground. His sword angled back, preparing to swing. 
 
 Chiyoko's shoulders continued to swing in line with her foot, keeping the now taught and ready to fire. Her head turned faster, eyes scanning the joints of the metal plates, looking for a target. 
 
-8 feet away, his blade began to swing forward. Chiyoko eyed the length of his arms, down the blade. /Can't get a full shot in time./ She twisted at the waste sacrificing a solid stance for speed. Almost in unison the man pushed off his right foot, staying out of Chiyoko's aim as he continued his swing.
+8 feet away, his blade began to swing forward. Chiyoko eyed the length of his arms, down the blade. *Can't get a full shot in time.* She twisted at the waste sacrificing a solid stance for speed. Almost in unison the man pushed off his right foot, staying out of Chiyoko's aim as he continued his swing.
 
-/So fast!/
+*So fast!*
 
 She formed a pattern with the bottom three fingers of her hand holding the arrow. Her thumb still held the string taught. 
 
@@ -343,7 +361,7 @@ She formed a pattern with the bottom three fingers of her hand holding the arrow
 
 Chiyoko fired the arrow wild, still too far up and left of the Knight’s shoulder. 4 feet away.
 
-/This is going to hurt./ 
+*This is going to hurt.* 
 
 Halfway between the two fighters, the arrow exploded in a sphere of violent wind. It knocked both of them away like ragdolls. Chiyoko’s back slammed into a tree, her vision blurring as the pain in her head flared. 
 
@@ -415,13 +433,17 @@ As they walked, Chiyoko fell in step beside Mamoru, who was once again favoring 
 
 “Fighting her was an experience I won’t soon forget.”
 
+<br />
+
 ---
+<br />
+<br />
 
 The camp wasn’t much further beyond the trap that nearly incinerated Mamoru. They found the remaining two members of the rebellion within the bulbous, exposed roots of a moss-laden tree.
 
 The woman, Hideyo, was tending to a well-banked fire that gave off little light or smoke. Across from her, his back propped against the roots and his chest thickly bandaged, was Yoshinobu. He looked alert.
 
-/He’s up already? This guy should have been out for a week. If he woke up at all./
+*He’s up already? This guy should have been out for a week. If he woke up at all.*
 
 “Well, this is not the group I was expecting to come back. Katsumi? Seiji? Care to explain?” Yoshinobu’s eyebrow was cocked, but he gave no signs of concern.
 
@@ -465,7 +487,7 @@ Despite his injuries, Yoshinobu leaned forward. “I thought you wanted nothing 
 
 Mamoru stepped forward from behind Chiyoko. His fists were clenched, his knuckles white. “My mother was killed by Tsukuyomi. She sent him aid and he repaid that with death. If our town is protected, I have no issue hunting that beast.”
 
-The corner of Chiyoko’s mouth twisted down. She could bow, but she couldn’t fully keep the anger from her voive. “Yes, we /wanted/ nothing to do with your fight. But yesterday you took the luxury of that position away from us. I won’t pretend I’m signing up full of fanatic zeal. But if it saves our town, I’ll do what I have to.” She stood and put a hand on Mamoru’s shoulder. The two locked eyes for a moment. “And we do have a debt to pay.”
+The corner of Chiyoko’s mouth twisted down. She could bow, but she couldn’t fully keep the anger from her voive. “Yes, we *wanted* nothing to do with your fight. But yesterday you took the luxury of that position away from us. I won’t pretend I’m signing up full of fanatic zeal. But if it saves our town, I’ll do what I have to.” She stood and put a hand on Mamoru’s shoulder. The two locked eyes for a moment. “And we do have a debt to pay.”
 
 Yoshinobu turned to Seiji and Katsumi. “A 6-tailed slayer’s mark, you said?” Seiji nodded. “And what of the boy?”
 
@@ -481,7 +503,7 @@ Mamoru’s shoulders dropped in relief. But Chiyoko felt her body tense as Yoshi
 
 Chiyoko stared at Yoshinobu, unwavering. “I will guide you through the woods. We will fight for you, just as you want.
 
-“But do not smile at us like everything worked out /oh so nicely/. Our town is wrecked. Our loyalty was bought with the blood of Mamoru’s mother. Hokko is not just a useful resource in your rebellion. This is an /alliance/, and you will treat rebuilding our city as a priority.”
+“But do not smile at us like everything worked out *oh so nicely*. Our town is wrecked. Our loyalty was bought with the blood of Mamoru’s mother. Hokko is not just a useful resource in your rebellion. This is an *alliance*, and you will treat rebuilding our city as a priority.”
 
 Yoshinobu held Chiyoko’s grip, but she could see sweat forming on his brow from the pain in his wound. He nodded. “You have my word.”
 

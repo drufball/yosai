@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "link": "https://www.amazon.com/dp/B002GYI9C4",
+    "blurb": "A heist thriller with a hard magic system where people gain superpowers by eating specific metals.",
+    "recommend": true
+  },
+  {
+    "title": "The War of Art",
+    "author": "Steven Pressfield",
+    "link": "https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG/",
+    "blurb": "Claims that the hardest part of the creative process is consistently creating. Then it goes way off the rails and claims writing can cure cancer...",
+    "recommend": false
+  },
+  {
+    "title": "On Writing: A Memoir Of The Craft",
+    "author": "Stephen King",
+    "link": "https://www.amazon.com/Writing-Memoir-Craft-Stephen-King-ebook/dp/B000FC0SIM/",
+    "blurb": "1 part biography, 1 part treatise on the craft of writing. Full of interesting stories and great advice.",
+    "recommend": true
+  },
+  {
+    "title": "Structuring Your Novel",
+    "author": "K.M. Weiland",
+    "link": "https://www.amazon.com/Structuring-Your-Novel-Essential-Outstanding-ebook/dp/B00EJX08QA/",
+    "blurb": "A useful overview of the various structural elements most stories have.",
+    "recommend": true
+  }
+]
