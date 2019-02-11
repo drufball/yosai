@@ -43,3 +43,9 @@ new things, [join the mailing list](http://eepurl.com/ggSWZD){:target="_blank"} 
 
 Phew! All that out of the way, why don't I shut up and let the writing do the talking? Without further ado,
 I present to you my latest story... 
+
+<br />
+
+---
+<br />
+<br />
