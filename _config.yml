@@ -19,7 +19,7 @@ email: dru@drufball.com
 description: >- # this means to ignore newlines until "baseurl:"
   Yosai is a world inspired by Japan: anime, 90's Nintendo, Zen,
   Shinto, and more. A new short story every week.
-baseurl: "/yosai" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drufball
 newsletter: "Mailing List"
