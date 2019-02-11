@@ -25,6 +25,7 @@ twitter_username: drufball
 newsletter: "Mailing List"
 rss: RSS
 list-url: "http://eepurl.com/ggSWZD"
+google_analytics: UA-134258313-1
 
 # Build settings
 markdown: kramdown
