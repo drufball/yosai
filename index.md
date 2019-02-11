@@ -23,7 +23,7 @@ real life.
 If you like anime, thought experiments, or the Japanese aesthetic (Zen, Shinto, wabi-sabi, etc.)
 then you'll like the stories I write.
 
-I you want to read more about the inspirations behind my stories, check out the [Principles]({{"/principles/" | relative_url }}).
+If you want to read more about the inspirations behind my stories, check out the [Principles]({{"/principles/" | relative_url }}).
 
 # A writer's journey
 I'm a new writer. I'm still learning the craft, finding my creative voice, and building a following.
