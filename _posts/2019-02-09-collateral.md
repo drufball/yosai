@@ -516,4 +516,6 @@ Yoshinobu rubbed the sweat from his brow, a wry smile on his face. “I’m glad
 
 Chiyoko crossed her legs and sat by the fire. “How do you weigh the problems you see against the pain you cause?” Chiyoko raised a hand before Yoshinobu could respond. “No, I don’t need to hear the justificatoins you tell yourself. I don’t need to agree with your war. As long as we’re agreed that Hokko’s no longer just collateral damage, Mamoru and I will fight with you. 
 
-“Let’s get hunting.” 
+“Let’s get hunting.”
+
+**Note:** This is part one of a three part short story series. Tune in next week for the next installment!
