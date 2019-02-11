@@ -3,7 +3,8 @@ title: Collateral
 layout: post
 era: primitive
 excerpt_separator: <!--more-->
-permalink: /stories/primitive/:title/
+permalink: /compendium/primitive/:title/
+feedback: https://goo.gl/forms/ae0MNrW1GJk7iIfC3
 ---
 Chiyoko brought her face close to the ground. A long, black braid hung over her shoulder as she examined the roots of a beech tree, her fingers tracing along the silver bark. She lingered on a deep gouge at the far side of the root. Sap still dripped from the wound. 
 

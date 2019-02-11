@@ -24,6 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drufball
 newsletter: "Mailing List"
 rss: RSS
+list-url: "http://eepurl.com/ggSWZD"
 
 # Build settings
 markdown: kramdown

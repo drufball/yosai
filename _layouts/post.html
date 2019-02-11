@@ -19,6 +19,12 @@ layout: default
     {{ content }}
   </div>
 
+  <h1>Now that you're done reading...</h1>
+  <p>Love the story? Hate it? Take a moment to <a href="{{page.feedback}}" target="_blank">provide feedback</a> so 
+  I can improve my writing in the future!</p>
+
+  <p>If you want to read more of my stories, be sure to <a href="{{site.list-url}}" target="_blank">join the mailing list</a>!</p>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
