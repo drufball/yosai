@@ -306,7 +306,7 @@ Finding the rebellion’s trail wasn’t hard. In their rush to flee the battlef
 
 Eventually the furrows disappeared and signs of the rebels passage became more rare. *Must have caught their breath. Somebody had enough sense to move with caution.* 
 
-Mamoru walked behind Chiyoko, doing his best to stay out of the way. His eyes were bloodshot, his shoulders hunched forward. He no longer peppered Chiyoko with questions about what she was doing. Instead he stared stared out into the woods, following Chiyoko’s orders wordlessly. Chiyoko was surprised how much she missed the distractions.
+Mamoru walked behind Chiyoko, doing his best to stay out of the way. His eyes were bloodshot, his shoulders hunched forward. He no longer peppered Chiyoko with questions about what she was doing. Instead he stared out into the woods, following Chiyoko’s orders wordlessly. Chiyoko was surprised how much she missed the distractions.
 
 The only thing that seemed to keep Mamoru moving forward was the village. Both walls had been destroyed. A third of their crops and food stores had been destroyed. If they didn’t do something, Hokko would die. Mamoru refused to let that be his mother’s legacy.
 
