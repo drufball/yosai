@@ -12,7 +12,7 @@ reader.
 # Short Stories: 1/25
 
 # Today's Stats
-**Words written:** 1094  
+**Words written:** 428  
 **7 day average:** Coming 2/17/19  
 **28 day average:** Coming 3/10/19  
 
