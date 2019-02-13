@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 feedback: 
 ---
-Gasp! It worked! Look at that. Those colors! Where is this? A farm? The detail is unbelievable.
+Gasp! It worked! Look at that. These colors! Where is this? A farm? The detail is unbelievable.
 
 And if the resonance is right... Yes! All these memories. Incredible! Ooph, I did _not_ get a happy one. 
 
