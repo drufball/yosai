@@ -160,7 +160,7 @@ With all her willpower, Chiyoko grabbed the head of the arrow in her hand and sq
 
 Chiyoko watched as villagers began to lift themselves mindlessly onto the wall. They leapt forward, heedless of the 20 foot drop below.  
 
-“Mamoru! You’re mom. Quick!” Chiyoko darted to the left, catching a woman by the collar just as she stepped off the wall. Chiyoko threw herself backwards, countering the woman’s momentum. The woman fell in a heap on top of Chiyoko, eyes blinking in confusion.
+“Mamoru! Your mom. Quick!” Chiyoko darted to the left, catching a woman by the collar just as she stepped off the wall. Chiyoko threw herself backwards, countering the woman’s momentum. The woman fell in a heap on top of Chiyoko, eyes blinking in confusion.
 
 Chiyoko rolled the woman off of her and sprang to her feet. She saw Mamoru pulling his mother back from the wall. The rest of the village guards lay moaning in pain below. Several clutched badly broken legs. One who had landed awkwardly lay face down, unmoving.
 

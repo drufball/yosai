@@ -60,12 +60,28 @@ Hey! Could you try to be a little less confused? It's seeping over the bond and 
 
 Wait, you're here with _me_! The link can go two ways? That's fascinating. We didn't expect that. Maybe you've got some sort of-- seriously! Knock it off with the panic and the questions! How am I supposed to think?
 
-Fine! If I explain things to you, will you be quiet? Alright, shut up for a minute and let me check your memories to see how much you already know... Gasp. You don't know _anything_. I can't believe this. You're supposed to be my secret weapon.
+Fine! If I explain things to you, will you be quiet? Alright, shut up for a minute and let me check your memories to see how much you already know... Gasp. You don't know _anything_. I can't believe this. You were supposed to be my secret weapon.
 
-OK. Where to start. So, you know the Grand Tournament? All those powerful people fighting to be the next Champion? First things first, I'm one of those people. The name's Hideki. My brother and I just got chosen by Amaterasu as her favored fighters. Yeah, chosen by a god. We're kind of a big deal. If you'd ever left your farm you'd probably have heard of us.
+OK. Where to start. So, you know the Grand Tournament? All those powerful people fighting to be the next Champion? First things first, I'm one of those people. The name's Hideki. My brother and I just got chosen by Amaterasu as her favored warriors. Yeah, chosen by a god. We're kind of a big deal. If you'd ever left your farm you'd probably have heard of us.
 
 Anyways, have you ever wondered where we all get our crazy powers? Ugh. Of course you haven't. Look, I get it OK? You live a hard life with more important things to worry about than the latest tournament gossip. You're so frosting _rustic_. Could you at least _pretend_ like there's a bone of intellectual curiosity in your body?
 
 People have powers. They can do incredible things. That is now relevant to you.
 
-The power comes from something called resonance. The people with powers, we call them anchors. They draw their power from some source of energy that exists in the real world. We call those sources of power surges. Between the anchor and the surge is a bond. Someone who is an anchor is able to pull energy out of their surge, across the bond, and then manifest that energy around them.
+Our abilities come from something called resonance. People with powers, we call them anchors. They draw their power from some source of energy that exists in the world. Imagine a raging river or an area with a lot of seismic activity. We call those sources of power surges. Between the anchor and the surge is a bond. An anchor can pull energy out of their surge, across the bond, and then manifest that energy around them. 
+
+With me so far? Nod if you understand. Hah! See, I _can_ control your body.
+
+OK, so an anchor pulls energy out of a surge, across a bond. To form a bond, you have to be physically near a surge and you also have to share some sort of ideal with it. For a river you could be relentless. Or you might be chaotic like the seismic activity. It doesn't matter what, so long as there's a strong similarity. 
+
+In theory, anyone can form a bond. But it's very physically and mentally taxing. You can't bond with more than one thing at a time. Even a lot of really powerful people can only do it subconsciously. But some people, like my brother and I, are able to exert some concious control over our bonds. We're adepts. Most people can only pull power from their source in a fixed way. But people like my brother and I can alter the energy as it's coming across, warping the effects a bit.
+
+Imagine the string of a guitar. Wait... OK, _phew_. At least you've heard music before. 
+
+So imagine the string of a guitar. Most people, all they can do is pluck a string. Well, no. _Most_ people don't even own a guitar. But ignore them. People who resonate subconsciously, it's like all they can do it pluck a string. They only get one sound. But adepts, we can put our hands on the guitar. We can pinch the string in places to create new notes that have different sounds and feelings to it. 
+
+Hey - this is a pretty good analogy isn't it? I should tell Manabu about it. He'll wanna write it down.
+
+Where was I? Right, adepts can make more notes. At first, we can only use one finger to change the sound. But as an adept gets stronger, they can use more and more fingers to alter the resonance. Ultimately, there are 6 harmonics that we can apply to our bond. There's different ways each harmonic can be used, but each level has a certain quality to it. The first harmonic, for example, is malleability. It lets you bend and shape the energy you manifest. Instead of throwing a big ball of fire, using the first harmonic you could make it into a whip, or shape it to avoid your friends.
+
+The most important harmonic is the third harmonic. Well, it's certainly the most important one for this conversation. But it's my favorite harmonic anyways. The third harmonic is polarity.
