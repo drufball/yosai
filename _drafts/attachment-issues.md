@@ -88,11 +88,78 @@ The most important harmonic is the third harmonic. Well, it's certainly the most
 
 Without the third harmonic, well, things would be pretty boring. Energy would only flow one way, and when you manifested that energy, it would always have to originate from your body.
 
-What do you mean I'm overexplaining? This is all interesting stuff!
+What do you mean I'm over-explaining? This is all interesting stuff!
 
 Whatever. With the polarity harmonic, you can do things that alter the poles of a bond. For example, you could reverse the directionality, letting you absorb energy around you and transfer it back to your surge. Or you could flare a pole out of your body temporarily, allowing you to create an effect that doesn't originate from you.
 
-And that's it. Happy? No overexplaining. 
+And that's it. Happy? No over-explaining. 
 
 Oh? You don't get how that leads to us living inside each others' heads? Wow. It's like this stuff is complicated and requires a pretty thorough explanation, huh? Jerk.
 
+So in simple terms, I used two polarity harmonics at the same time. The first harmonic let me create another endpoint. I look across the room to the thick wooden table where I set the metal headrest. That acted as an amplifier, but it's tough to aim at that kind of distance, so I just sort of connected to something at random.
+
+I look back down, returning to my work. A long, serrated blade lays in my lap. An opalescent void stone rests in the hilt, surrounded by a series of gears running along the back of the blade. One of the gears is stuck so I remove it and start rooting through the surrounding scraps for a smaller one.
+
+What do you mean 'where did this come from?' I've been making it while we talked! You think I have enough time to just sit here and lecture farmers all day? Sheesh. Somebody's got a high opinion of himself.
+
+Anyways, I used that amplifier over there to create and project a third endpoint into your head. Then I used another harmonic to reverse the flow at the same time that I broke off the connection with my surge. The idea was that if I dropped the surge endpoint, I'd be left with a bipolar connection directed from you to me. Sound familiar? Wait, seriously? No? It sounds like a normal resonance bond! 
+
+You're the surge, I'm the anchor. If it worked, the process would allow me to create artificial resonance bonds quickly and at huge distances.
+
+The only problem is that resonating with an intelligent surge - I use the term _loosely_ in your case - is always sort of tricky. Both sides can mess with the bond. Usually, the only intelligent surges are gods or Champions. They're entities strong enough to dominate the bond and cancel out any subconscious resistance a new anchor might put up.
+
+Manabu worried that the process for artificial resonance might create a closed loop bond. Remember how I said a resonant bond requires some sort of ideological symmetry? Well, when I connected the two of us, we both started reflexively trying to adapt to the bond. Like how you catch your balance when you stumble. We both tried to warp the bond to our own personality while trying to shift ourselves as well. We're just chasing each other in circles trying to stabilize the bond. And because it can't stabilize, I can't end it.
+
+I told Manabu that we might be able to break the closed loop by transferring my half of the bond into a void stone. I tap the hilt of the sword in my hands. These crystals are completely blank when it comes to resonance. They can hold a bond with anything. Manabu and I invented them.
+
+Which - ugh - it's a pretty big deal! Basically, Manabu and I can use the third harmonic to transfer our half of a resonant bond into the stone. The stone latches on and we're free to resonate with a different surge. But we can still pull energy out of the void stone. True, we can't pull it out at full strength. The void stone is pretty much permanently stuck at a first level harmonic. But we're the only people in the world who can access the power of multiple surges! That's why Amaterasu is so interested in us.
+
+Anyways, I thought if I used the void stone that was set into the amplifier as an interface between us, the bond would stabilize. 
+
+And look. I'm just gonna give it to you straight. I was wrong. The void stone shattered trying to hold two ideals at once. We got stuck in a closed loop resonance. Manabu was right. Nobody is happy about it.
+
+Now, do you want the good news, or the bad news first? 
+
+Ugh. A pessimist. _Figures_.
+
+The bad news is that our minds are stuck linked. Probably forever. Because both of us are sort of maintaining the bond at the same time, though, it's not as physically taxing. So I can still resonate with other things. Yea, I know that only applies to me! I'm just saying.
+
+And plus, there is some benefit for you. Good news time. The bond isn't fully formed, but it's still circulating energy between us. Probably not enough for you to do any cool magic. But it's probably enough to sustain your body like it does mine. You don't need to eat anymore! And you're _probably_ immortal. Very long-lived at the least.
+
+Pretty sweet deal, right? Think of all the farming you'll be able to do!
+
+Don't you think you're overreacting a little? Hey! I can hear your thoughts you know. Sheesh, if it bugs you so much just try not to think about it. So long as neither of us thinks about it, the bond should fade into the background a bit. Our emotional states will still bleed across, but conscious thoughts won't come across. 
+
+I think. That's how normal resonance works at least. The bond is always sort of there, but you're not shooting fireballs out of your hand every second. 
+
+Let's give it a shot.
+
+<br />
+
+---
+<br />
+<br />
+
+See that worked pretty well! You were worried for nothing. Oops, sorry. OK, OK. Carry on.
+
+<br />
+
+---
+<br />
+<br />
+
+What do you think would happen if we ever looked at each other? Do you think it'd be like two mirrors in front of each other, but in _our minds_?
+
+Woah, no need to yell! I'm literally right here. How am I supposed to warn you before I start talking? That would require talking. Fascinating. Maybe I could try to send a pulse of some kind of emotion? Gasp! We could develop an entire language built entirely from the manipulation of one's emotions. Imagine what society would be like if that's how everyone talked.
+
+Quick, can you feel this? My heart lurches, beating fast. The back of my throat stings. Sorrow, loss. Then it's gone.
+
+You felt it? Nice! I'll use that in the future.
+
+Relax, I won't use that exact feeling. I just wanted to start with something strong to see if it worked. Shifting resonances all the time makes you pretty good at jumping into a new mindset - I should be able to make a pulse that's more subtle.
+
+Hm...? Where was that feeling from? Oh you know, same old story. Nothing interesting. I'm standing on a hill. In the valley below, a village burns. Manabu and I are holding hands, our small frames shivering in the cold.
+
+Hey! Stop that. I don't go routing around in your... OK, OK. Point taken. Let's say no more exploring each other's memories without the other's permission? Great.
+
+I'm sorry I went digging around in your head before. And I'm sorry I made you drop all the taro you were carrying. Wanna see something cool?
