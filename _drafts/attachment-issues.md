@@ -84,4 +84,15 @@ Hey - this is a pretty good analogy isn't it? I should tell Manabu about it. He'
 
 Where was I? Right, adepts can make more notes. At first, we can only use one finger to change the sound. But as an adept gets stronger, they can use more and more fingers to alter the resonance. Ultimately, there are 6 harmonics that we can apply to our bond. There's different ways each harmonic can be used, but each level has a certain quality to it. The first harmonic, for example, is malleability. It lets you bend and shape the energy you manifest. Instead of throwing a big ball of fire, using the first harmonic you could make it into a whip, or shape it to avoid your friends.
 
-The most important harmonic is the third harmonic. Well, it's certainly the most important one for this conversation. But it's my favorite harmonic anyways. The third harmonic is polarity.
+The most important harmonic is the third harmonic. Well, it's certainly the most important one for this conversation. But it's my favorite harmonic anyways. The third harmonic is polarity. The bond between surge and anchor has two end points. Usually, those endpoints are the surge and the anchor. But those endpoints also have a sort of directionality to them. And usually, the directionality is from the surge to the anchor.
+
+Without the third harmonic, well, things would be pretty boring. Energy would only flow one way, and when you manifested that energy, it would always have to originate from your body.
+
+What do you mean I'm overexplaining? This is all interesting stuff!
+
+Whatever. With the polarity harmonic, you can do things that alter the poles of a bond. For example, you could reverse the directionality, letting you absorb energy around you and transfer it back to your surge. Or you could flare a pole out of your body temporarily, allowing you to create an effect that doesn't originate from you.
+
+And that's it. Happy? No overexplaining. 
+
+Oh? You don't get how that leads to us living inside each others' heads? Wow. It's like this stuff is complicated and requires a pretty thorough explanation, huh? Jerk.
+
