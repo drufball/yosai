@@ -34,37 +34,45 @@ Katsumi took a long stride and spread her arms. As she did, the furs that dangle
 
 <br />  --- <br /> <br />
 
-Chiyoko’s hunts had taken her this far from the village only a handful of times. The trees were becoming smaller and more gnarled. The familiar lichen coating everything was giving way to stunted shrubs and small snow drifts. 
+Chiyoko’s hunts had taken her this far from the village only a handful of times. The trees were becoming smaller and more gnarled. The familiar lichen coating everything was giving way to stunted shrubs and increasingly large snow drifts. 
 
-The group made camp in the shadow of a rocky overhang, fumbling with their gear in the darkness.  The sun had set a few hours ago, but they had pushed on to make up for time spent traversing the canyon.
+The group made camp in the shadow of a rocky overhang, fumbling with their gear in the darkness.  The sun had set a few hours ago, but they had pushed on to make up for the time they spent traversing the canyon.
 
 _This is exactly what that stupid fox wants, stringing us along until he can spring on us when it suits him best._ 
 
-Chiyoko wanted to move faster. She wanted to catch Tsukuyomi unaware rather than let him pick his battlefield. Hideyo and Yoshinobu both had magic that could circumvent the obstacles the god was creating. But Yoshinobu was wary of using them. He didn't want to catch up to Tsukuyomi without everyone at their maximum. 
+Chiyoko wanted to move faster. She wanted to catch Tsukuyomi unaware rather than let him pick his battlefield. Hideyo and Yoshinobu both had abilities that could circumvent the obstacles the god was creating. But Yoshinobu was wary of using them. He didn't want to catch up to Tsukuyomi without everyone at their maximum. 
 
 _Tsukuyomi is a god. And the closer we get to his domain, the more powerful his control of the land becomes. We’re never going to have everything we want._
 
-Chiyoko stuffed the leather wrapping for her tent back into her pack and double checked her setup. Satisfied, she looked around at the others. Chiyoko was the first one done with her tent, as usual. The only other person who seemed at home in the jungle was Katsumi, who simply shifted into a bear and slept curled somewhere out of the wind.
+Chiyoko stuffed the leather wrapping for her tent back into her pack and double-checked her setup. Satisfied, she looked around at the others. 
 
-Mamoru was working to untangle his tent, chatting with Seiji as he puzzled over the mess. Even in the growing cold, Mamoru left his upper body exposed save for a thin vest hanging open at the front. His thickly muscled arms and back seemed to radiate heat at a rate faster than the cold could chill him. 
+Chiyoko was the first one done with her tent, as usual. The only other person who seemed at home in the jungle was Katsumi, who simply shifted into a bear and slept curled somewhere out of the wind.
 
-The juxtaposition of Mamoru's muscled frame struggling against the fabric of his tent made Chiyoko smile briefly. Her childhood friend could never be bothered to store his tent properly, yet he never seemed bothered by the extra time it took in the evenings.
+Mamoru was working to untangle his tent, chatting with Seiji as he puzzled over the mess. Even in the growing cold, Mamoru left his upper body exposed save for a thin vest hanging open at the front. His thickly muscled arms and back seemed to radiate heat at a rate faster than the wind could chill him. 
+
+The juxtaposition of Mamoru's imposing frame struggling against the tangled fabric made Chiyoko smile. Her childhood friend could never be bothered to store his tent properly, yet he never seemed bothered by the extra time it took in the evenings.
 
 Seiji finished his tent and joined Mamoru. The two wrestled with the cloth for a moment until it was flat on the ground. Seiji stood and clasped his hands behind him. Even out of his armor, the older warrior stood with shoulders wide and back perfectly straight.
 
 “Lad, if you would just fold this properly in the mornings, you wouldn’t need my help in the evenings.”
 
-Glancing at Seiji, Mamoru rolled his shoulders back and stood a bit straighter. He began to drive the tent stakes into the ground with his foot. As he worked, his shoulders hunched forward again. “Chiyoko’s always scolding me. Says all the wrinkles are bad for the tent. But I’m always the last one up. It’s easier to spend more time in the evening, when no one is waiting around for me.”
+Glancing at Seiji, Mamoru rolled his shoulders back and stood a bit straighter. He began to drive the tent stakes into the ground with his foot. As he worked, his shoulders slowly hunched forward again. “Chiyoko’s always scolding me. Says all the wrinkles are bad for the tent. But I’m usually the last one up. It’s easier to spend more time in the evening, when no one is waiting around for me.”
 
-Seiji clasped a hand on Mamoru’s shoulder, pulling his posture back into alignment. The old knight was no small man, but next to Mamoru he looked slender. “Discipline.” Seiji shook his head side to side slowly as he spoke. “A true knight must be master of his body, not the other way around. Tomorrow I will wake you at dawn to join me in my morning rituals.”
+Seiji clasped Mamoru’s shoulder, pulling his posture back into alignment. The old knight was not a small man. Yet next to Mamoru he looked slender. “Discipline.” Seiji shook his head side to side slowly as he spoke. “A true knight must be master of his body, not the other way around. Tomorrow I will wake you at dawn to join me in my morning rituals.”
 
-“Oh, I’d really love that. But you know it’s late tonight and I do need my sleep and-“
+Mamoru's face brightened. "Really? I thought they would be some sort of knightly secret or something."
 
-“Nonsense! A lad like you needs to keep those muscles honed. Plus, Katsumi’s been watching you like - well - like she looks at all the things she eats. She’s itching for a rematch. If you’re not careful we’ll be mopping you off the forest floor.”
+"Nonsense! Anyone who dedicates themselves to protecting the weak and bettering themselves can become a knight."
+
+"Well, if they're not a secret, then I have a _lot_ of questions. How do you make your sword glow like that? And when you sense for Tsukuyomi, are you seeing something? Or does it feel more like you're being pulled? And how did you make the metal that you wear? It's so thin, and it covers your body so perfectly." Mamoru rubbed a massive hand across his bicep, heedless of Seiji as the knight raised a hand and tried to interject.
+
+_These people have been good for him._ It was clear that Mamoru was growing close to the rebels. The newfound friendship was a welcome distraction from the loss of his mother just a few weeks ago. Chiyoko thought back to the moment she found Mamoru kneeling by his mother, how she had frozen. Would she have been able to pull Mamoru from his grief on her own?
+
+“Lad! Please! I can't answer so much at once. Give me a break.” The knight chuckled and shook his head. "I never thought I'd miss the days of Katsumi's frosty silence."
 
 At the mention of Katsumi’s name, Mamoru blushed and looked around the campsite. “Not to worry lad, you’re safe for now. She’s off hunting for food with our great leader.”
 
-“Oh, right.” Mamoru’s shoulders slumped. Chiyoko turned her attention away from the pair.
+**Something about Chiyoko wanting to get close to the group to support Mamoru.**. Chiyoko turned her attention away from the pair.
 
 Hideyo was sitting on her pack, her tent still bundled next to her. The small dwarven woman was fidgeting with some small mechanism by the light of the fire. Chiyoko approached.
 
