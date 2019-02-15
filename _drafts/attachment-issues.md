@@ -134,19 +134,11 @@ I think. That's how normal resonance works at least. The bond is always sort of 
 
 Let's give it a shot.
 
-<br />
-
----
-<br />
-<br />
+<br /> --- <br /> <br />
 
 See that worked pretty well! You were worried for nothing. Oops, sorry. OK, OK. Carry on.
 
-<br />
-
----
-<br />
-<br />
+<br /> --- <br /> <br />
 
 What do you think would happen if we ever looked at each other? Do you think it'd be like two mirrors in front of each other, but in _our minds_?
 
@@ -158,8 +150,96 @@ You felt it? Nice! I'll use that in the future.
 
 Relax, I won't use that exact feeling. I just wanted to start with something strong to see if it worked. Shifting resonances all the time makes you pretty good at jumping into a new mindset - I should be able to make a pulse that's more subtle.
 
-Hm...? Where was that feeling from? Oh you know, same old story. Nothing interesting. I'm standing on a hill. In the valley below, a village burns. Manabu and I are holding hands, our small frames shivering in the cold.
+Hm...? Where was that feeling from? Oh you know, same old story. Nothing interesting. 
+
+I'm standing on a hill. In the valley below, a village burns. Manabu and I are holding hands, our small frames shivering in the cold.
 
 Hey! Stop that. I don't go routing around in your... OK, OK. Point taken. Let's say no more exploring each other's memories without the other's permission? Great.
 
+...
+
 I'm sorry I went digging around in your head before. And I'm sorry I made you drop all the taro you were carrying. Wanna see something cool?
+
+I'm standing on a steep, rocky incline leading up from a small cove. The boat we came in is moored against a stone outcropping several hundred feet below, rocking gently. Beyond the cove, the sea becomes turbulent, the water deep and dark. White crests are blown by the wind. On the horizon, there's a faint outline of the main island of Yosai.
+
+A few chunks of stone skitter past my feet, bouncing down the hillside. I look up. Manabu has reached the top. His long robes, a mix of muted brown and crimson, flap about his lanky form. Even after more than an hour of scrambling up the slope, his robes are immaculate. His long, delicate fingers are unstained by any of the dirt and moss that fills the cracks between rocks. The jagged sword I made earlier is strapped across his back, the gears whirring.
+
+The last 10 feet are nearly straight up, but Manabu doesn't bother looking for handholds. There's a faint _whoomph_ and my hair is blown back by a brief flash of hot air. Manabu floats delicately through the air, rising to the top of the cliff and stepping down onto solid earth again. He turns towards me, extending a hand downwards.
+
+"Care for a lift, brother?" He's smiling. Levitation is a new trick he learned.
+
+I hold up my hands, covered in grime. My trousers are scuffed. There's a tear along one of the knees. "Not much good it'll do me, eh?" I lean forward, planting my hands on the rock and begin to scramble up the last of the slope. 
+
+As I near the top, a hand-sized stone shifts under my foot. My weight shifts suddenly. There's a crackle of sparks all around me as I reach for my new surge. Energy surges through my body, heightening my strength and reflexes. My hand darts forward as I topple backwards, aiming for a large crack in the rock that I can hold on to.
+
+My hand moves faster than I expect, my muscles at least 30% stronger than I'm expecting. This new surge is _strong_. My hand punches through the rock I was aiming for. A cloud of dust and debris hits my face. I continue to fall as my handhold is now non-existent. Whoops.
+
+Before I have a chance to do anything else, my body lurches to a halt. Manabu lifts me slowly through the air. My limbs flail a bit as I try to balance. So embarrassing! How does he stand so gracefully? He must be using extra energy to hold himself upright. I look down the cliffside, wondering if throwing myself down it will be less painful than Manabu's smugness at the top.
+
+Manabu deposits me in front of him, a faint look of concern on his face. "You need to be more careful Hideki. You didn't account for the increased draw from the new surge." There's a flash of heat across my face as Manabu clears the dust and dirt. "You should use--"
+
+"--the second harmonic to modulate intensity." I scratch at my face, getting dirt on my cheeks again. It always itches when he does that cleaning thing. We have superhuman abilities and he finds a way to use it for cleaning? Honestly. "I know, I know! You've only told me 38 times in the last 3 weeks, Man."
+
+"43, I think." 
+
+Would you judge me if I threw my brother off the cliff right now?
+
+No he doesn't have a point! I would have been _fine_. He's always worrying, jumping in before I need his help. If you're going to live in my head, you can't pick his side! 
+
+Besides, he only looks like he has more control because he's wasting energy modulating the bond. He'd be having the same problems as me otherwise.
+
+Oh, right. I keep forgetting you need more context. So, usually the energy you pull from your surge comes in a fixed size? Well, the more powerful your surge, the bigger that fixed size is. Manabu and I both just bonded with larger surges from Amaterasu's domain. But we're still getting used to the strength. We've never had to focus so much energy at once. That's why you see bursts of electricity and heat around us as we're using our powers. As we get better, we'll be able to harness more of the energy that comes across without having to vent some as waste.
+
+Anyways, remember how I said adepts can manipulate their bonds? Well the second harmonic allows for modulating the intensity of the energy that comes across. But using harmonics takes a lot of effort. So right now Manabu is trading off stamina for control. I'd rather just start getting used to the new intensity level.
+
+I turn away from my brother, inspecting the woods around us. Even this close to the cliffside, the trees are huge. Almost 10 feet thick, with trunks at least 100 feet high. Thick, sinewy roots spread from the base, covered in vivid green moss. The forest floor is almost entirely covered. I wonder what kind of trees these are.
+
+What do you mean, Camphor? Camphor what? Oh! The trees are Camphor trees. Hey, watch this.
+
+"Man, look at these Camphor trees. Pretty amazing, right?"
+
+"I didn't realize they were Camphor trees. Have you read of them before?"
+
+"Sorry, I thought you already knew about them. I can lend you some of my books if you'd like?"
+
+That felt _amazing_. Looks like you might not be so useless after all!
+
+A thick fog swirls around the base of the Camphor trees. I take a moment to spin around. Taking in the forest, the cliffside, the churning sea, Yosai's main island in the distance. When you were a kid, did you ever think you'd see something like this?
+
+"Brother! Focus. We need to find the beast and get out of here as quickly as possible. Aratani won't be gone for long."
+
+"Right, sorry!"
+
+We're on a mission from Amaterasu. There's a powerful shifter named Aratani that's been interfering with a lot of the Dawnforge's plans. Manabu found the forest that Aratani is in resonance with and we're here to weaken it.
+
+We actually used to travel with Aratani a while back. But she aligned herself with the Woodheart and we went our separate ways. My brother and I aren't really champions of nature. 
+
+Yeah, she used to be our team member, why? 
+
+No, not really. I mean yeah, we're not _happy_ to be fighting against an old friend. But that's how the Tournament works. There's only one winner at the end. Everyone knows what they're signing up for when they team up. Someday Manabu and I will have to fight too. 
+
+We spend about 20 minutes searching through the woods. Aratani's favored form is a massive snake, so we know there's got to be one of those creatures living in the woods here. If we can find it, we'll have found Aratani's surge.
+
+But like I said, Manabu and I, not big campers. We spend more time in the workshop and the library. We're struggling to find our way through the forest. What do snake tracks even look like?
+
+Look for standing water? How would you know? Um, I think a giant building smashing snake is going to behave a little differently from the little guys slithering around your farm.
+
+We keep searching. As we move in from the windy cliffs, it gets a bit warmer. The ground is softer, more verdant. Everything is damp from fog. I see a faint shimmer between the trees in the distance. It's hard to tell through the fog, but it looks like - maybe a lake reflecting the sun?
+
+...
+
+Standing water, you said?
+
+"Hey! Manabu! I think I read somewhere that snakes like standing water. Maybe we should check near that lake up ahead?"
+
+"Why by the Mother's Scales were you reading about snakes?"
+
+"Oh, you know... I figured we were pursuing a nature-based fighter, so it might be good to research a bit."
+
+Manabu looks surprised for a moment. Eventually he nods approvingly. "That was a strange amount of foresight, brother. Well done."
+
+I swear to the Dawnforge he looks proud right now. He's only 3 seconds older than me! 
+
+Either way, thanks again secret weapon.
+
+<br /> --- <br /> <br />
