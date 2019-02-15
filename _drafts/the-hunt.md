@@ -8,21 +8,21 @@ excerpt_separator: <!--more-->
 
 feedback: 
 ---
-Chiyoko stood at the edge of a rocky cliff face. Pine trees swayed as wind dug icy claws into her cheek and neck. The canyon walls creaked and moaned. She pulled her furs higher and tried not to think what the cold meant for their chances of catching up. 
+Chiyoko stood at the edge of a rocky cliff face. Pine trees swayed as the wind dug its icy claws into her cheek and neck. The canyon walls creaked and moaned. She pulled her furs higher and tried not to think what the cold meant about the time they had left. 
 
-Chiyoko bent down and broke off a sliver of rock hanging over the long drop below. She twisted the rock from side to side, using her other hand to hold the hair out of her face. No matter how many times she braided it, the wind managed to snag a strand and tear it free.
+Chiyoko bent down and broke off a shard of rock hanging over the long drop below. She twisted the rock from side to side, using her other hand to hold the hair out of her face. No matter how many times she braided it, the wind managed to snag a strand and tear it free.
 
-_The rock is too jagged. And the tree line comes right to the edge. This cliff hasn’t had any kind of wind or sun exposure._
+_The cliff face is too jagged. And the tree line comes right to the edge. This cliff hasn’t had any kind of wind or sun exposure._
 
 Chiyoko tossed the rock into the canyon below and lifted her gaze to the opposite cliff face, 100 feet away. “He’s making canyons again.”
 
-From behind her, a silver wolf trotted soundlessly from the forest and stood next to Chiyoko. Crouching by the edge of the cliff face, she barely came to the wolf’s knee. The wolf shook it’s shoulders and the fur along it’s body rippled. The front legs shortened as the hair along them receded, revealing human hands. Chiyoko blinked and the transformation was finished.
+From behind, a silver wolf trotted soundlessly from the forest. Crouching by the edge of the cliff face, Chiyoko barely came to the wolf’s knee. The wolf shook it’s shoulders and the fur along it’s body rippled. Its front legs shortened as the hair along them receded, revealing human hands. Chiyoko blinked and the transformation was complete.
 
 Crouching next to her was a tall, thickly muscled woman covered in a patchwork of animal furs. Even in human form, she looked like a bear.
 
 <!--more-->
 
-Katsumi looked around the cliff-face. Her nose twitched as she sniffed the air. She scraped a long, sharp fingernail along the exposed rock and grunted. 
+Katsumi looked around the cliff face. Her nose twitched as she sniffed the air. She scraped a long, sharp fingernail along the exposed rock and grunted. 
 
 “What, you don’t trust my judgment?”
 
@@ -31,6 +31,36 @@ Katsumi rose to her full 6 and a half feet with feline grace. Chiyoko reached fo
 Katsumi cocked her head and smiled, showing too many teeth. “You grab your bow. Hideyo always takes a step backwards.” Katsumi turned and began walking back into the woods behind them. “I will bring the others.” 
 
 Katsumi took a long stride and spread her arms. As she did, the furs that dangled from her shoulders stretched and stiffened into feathers. Her arms beat down as her legs and torso shrank and lifted off the ground. Taking the form of a hawk, Katsumi flew through the forest with ease.
+
+<br />  --- <br /> <br />
+
+Two hours later, the group was climbing the opposite side of the cliff. Yoshinobu was already at the top. Katsumi had remained in hawk form and flown across. Mamoru was scaling the wall with Hideyo hanging from his back. Her dwarven form was short by most standards, but clinging to Mamoru's huge frame, she looked like a child. Her blond hair tossed fitfully in the wind.
+
+Chiyoko and Seiji were further down, working past a jagged bulwark of stone jutting from the wall. Seiji had just scrambled over the outcropping.
+
+"Careful lass, the rock is slick and loose." As if to emphasize his words, a smattering of lose stones came bouncing down from above. Chiyoko could no longer see the knight, perched as she was beneath the stone protrusion. She waited for the small rockslides to subside before she continued upwards.
+
+Chiyoko reached up and back, searching for a solid handhold on the rock above her head. She found a narrow crack that ran in the direction she was aiming. Jamming the fingers of both hands into the crack, Chiyoko began to edge her way out. She used her legs to push against the stone and maintain tension in her arms. Chiyoko reached the end of the crack, near the edge of the overhang. She lifted one leg over the rock ledge, hooking her heel against the stone. She shifted her weight and began to pull herself upwards.
+
+There was a sharp crack from the stone further up the wall. "Shit, look out lass!" Chiyoko could hear a large chunk of stone crashing down the cliff. She shifted her weight back to her hands and pulled her leg under the overhang just in time to miss a boulder the size of her torso as it careened over the edge.
+
+As the boulder fell in front of her, Chiyoko heard a second snap and felt the stone beneath her fingers give way under her full weight. Chiyoko's stomach somersaulted as she began to fall.
+
+This wasn't the first time Chiyoko had fallen off a cliff. 
+
+Her back was parallel to the ground as she fell through the air. Chiyoko reached for the bow at her waist and drew an arrow smoothly with the other hand. She notched and pulled the arrow back with her thumb, twisting to face the large rock falling alongside her. _I really need to find a less painful way to do this_.
+
+Chiyoko fired towards the rock. As the arrow impacted, it ballooned into a sphere of powerful wind, shattering the boulder on impact. The wind threw Chiyoko back towards the cliff wall. Her shoulder jerked as she caught all her weight on a single arm. The handhold held.
+
+"Yoshinobu quick! Chiyoko is falling! You have to catch--."
+
+"I'm fine!" Still dangling by one arm, Chiyoko stowed her bow and pulled herself back onto the wall. She winced at the pain in her side and shoulder. 
+
+As she searched for new handholds, Chiyoko noticed her breath fogging the air. All around her, the damp cliff face was now coated with a thin layer of frost. In some areas, there were first-sized chunks of ice embedded in the stone. _My wind shots have never done that before..._
+
+"Are you sure? I heard an explosion."
+
+"Yeah." Chiyoko took one last look at the radius of ice surrounding her. _It must be the altitude or something._ "This time, why don't you stay put until I'm out of the way?"
 
 <br />  --- <br /> <br />
 
@@ -72,23 +102,23 @@ _These people have been good for him._ It was clear that Mamoru was growing clos
 
 At the mention of Katsumi’s name, Mamoru blushed and looked around the campsite. “Not to worry lad, you’re safe for now. She’s off hunting for food with our great leader.”
 
-**Something about Chiyoko wanting to get close to the group to support Mamoru.**. Chiyoko turned her attention away from the pair.
+Chiyoko had never been as good around people as Mamoru, but she had to admit that spending time with the rebels felt... different. Was it because they had abilities like Chiyoko and Mamoru? Maybe it was because Chiyoko didn't owe these people the same debt she owed the villagers of Hokko. It felt nice. 
 
-Hideyo was sitting on her pack, her tent still bundled next to her. The small dwarven woman was fidgeting with some small mechanism by the light of the fire. Chiyoko approached.
+Chiyoko turned her attention away from the pair of men. Hideyo was sitting on her pack with her tent still bundled next to her. The small dwarven woman was fidgeting with some small mechanism by the light of the fire. Chiyoko approached.
 
 “Do you need any help with your tent?”
 
 “Hmmm?” Hideyo pulled her gaze away from her hands like a woman woken in the middle of a dream. “I’m sorry, I wasn’t really… can I help you?”
 
-“I was just asking if you needed help with your tent.”
+“Oh, yeah. I was just-- I was just asking if you needed help with your tent.”
 
 “Oh! If you don’t mind.” Hideyo transferred herself to a stump and nudged the pack towards Chiyoko with her foot. She returned her focus to the interlocking bits of metal in her hands.
  
-“You know, I meant more like I could—. Nevermind.” Chiyoko bent forward and began unpacking Hideyo’s tent. “What are you working on?”
+“You know, I meant more like I could—. Never mind.” Chiyoko bent forward and began unpacking Hideyo’s tent. There was a long silence as Chiyoko searched for a topic of discussion. She settled for the obvious. “What are you working on?”
 
 “Oh really? Go on.” Hideyo nodded her head in agreement.
 
-“Hideyo. Hideyo—.” Chiyoko snapped her fingers and waved a hand in front of the dwarf’s face. “I asked what you were working on.”
+Chiyoko considered giving up and finishing the tent in silence. Mamoru was so much better at this. Thinking of Mamoru motivated her. _We need these people to like us. **He** needs these people to like us_. “Hideyo. Hideyo—.” Chiyoko snapped her fingers and waved a hand in front of the dwarf’s face. “I asked what you were working on.”
 
 “Ah!” Hideyo held the device out in both hands, a big smile across her face. It was a sphere composed of several interlocking metal circles around a small diamond. The circles spun intermittently, causing the diamond to glow. “I’m trying to make something that can detect when Tsukuyomi moves the earth like he did earlier today. I figured that would let us change course and go around it faster than waiting for you and Katsumi to find it.”
 
@@ -96,13 +126,17 @@ Hideyo was sitting on her pack, her tent still bundled next to her. The small dw
 
 “No, but in _theory_ it should be pretty simple.” Hideyo knocked the sphere against her leg a couple times. There was a flutter of activity as the circles spun consistently for a moment. Hideyo's face brightened, but the rings quickly returned to their intermittent motion. Hideyo sighed and began scraping one of the metal bands with a small chisel.
 
-Chiyoko worked in silence for a moment before striking up conversation again. “Earlier today, while I was out ahead with Katsumi, she said something interesting.”
+Chiyoko pressed on, hoping to keep Hideyo's attention. “Earlier today, while I was out ahead with Katsumi, she said something interesting.”
 
-“Yeah?” Hideyo didn’t look up from the detector, but she seemed to be listening this time.
+“Yeah?” Hideyo didn’t look up from the detector. 
 
-“Yeah. We were standing next to each other and she moved pretty quickly. I reached for my bow. Just a little. But she looked at me and smiled. She said that you always take a step back.”
+Chiyoko felt a flash of frustration and embarrassment. Was this how people in Hokko felt trying to talk to her? _I wish she'd at least **look** at me_.
 
-“Yeah, that sounds like Katsumi. She’s always watching how others react to her. Like she’s deciding whether they’re predator or prey. Sounds like you passed the test better than I did.”
+Hideyo stopped abruptly and looked at Chiyoko. Her eyes seemed distant for a moment, but she quickly shook her head. "Sorry, I get pretty absorbed in the things I make. Sometimes it's hard for me to pull my attention away. You said Katsumi said something strange?" Hideyo returned to her work, but now she made an effort to look up every once in a while.
+
+“Oh, yeah. We were standing next to each other and she moved suddenly. My body sort of panicked and I reached for my bow. Just a little. But she didn't seem offended. She just smiled and said that you always take a step back.”
+
+“That sounds like Katsumi. She’s always watching how others react to her. Like she’s deciding whether they’re predator or prey. Seems like you passed the test better than I did.”
 
 “Does that ever stop?”
 
@@ -110,7 +144,7 @@ Chiyoko worked in silence for a moment before striking up conversation again. �
 
 “That seems… stressful. I don’t mean to be rude or anything. I’ve only known you all for a couple weeks. But I guess I wonder why the group—. She seems different from everyone else is all I’m trying to say. I’m surprised she’s willing to travel with us.”
 
-Hideyo finished trimming the metal ring in her hands and the detector began to spin and hum consistently. She smiled and watched it for a second before muttering a word. The device came to a stop, all of the rings aligned in a flat circle. Hideyo wrapped a strip of twine around the outer ring and tied the device around her kneck.
+Hideyo finished trimming the metal ring in her hands and the detector began to spin consistently. She smiled and watched it for a second before muttering a word. The device came to a stop, all of the rings aligned in a flat circle. Hideyo wrapped a strip of twine around the outer ring and tied the device around her neck.
 
 “You know, she’s actually been with Yoshinobu the longest.”
 
@@ -118,81 +152,85 @@ Hideyo finished trimming the metal ring in her hands and the detector began to s
 
 “Yeah. Apparently she tried to jump Yoshinobu in the woods one day. He fought her off and convinced her to join him.”
 
-“How did he do that? _Why_ did he do that? I’m not really in the habit of palling around with people who just tried to kill me.”
+“How did he do that? Why would she join up with someone who just beat her in a fight.” Mamoru seemed to be fond of Katsumi. Chiyoko wanted to understand the shapeshifting woman better.
 
-“Yosh told her that she’d see bigger fights if she tagged along. And that he was going to be fighting gods, so if she wanted to beat him in a rematch, she’d better be training the same way.
+“Yosh told her that she’d see bigger fights if she tagged along. And that he was going to be fighting gods, so if she wanted a rematch, she’d better be training the same way."
 
-“To be honest, I think Yosh trusts Katsumi the most out of all of us.”
+There was a lull in the conversation as Hideyo thought. “To be honest, I think Yosh trusts Katsumi the most out of all of us.”
 
-“Why?”
+“Oh really? I would have thought he trusted you the most. Given how you two... you know...” Chiyoko wasn't sure if she was supposed to talk about Hideyo and Yoshinobu's feelings for each other. She was surprised she even brought it up. Despite her initial discomfort, Chiyoko found herself relaxing as they talked. What was it about all of them?
 
-“If Yosh wants to overthrow the gods, he's going to need allies. But anyone who’s strong enough to help is bound to have their own goals. Katsumi seems the most alien of all of us, but I think she’s also very straightforward. Yosh knows as long as he points her at the biggest threat he can find, she won’t complain. Keeping the rest of us on board takes more work.”
+Hideyo smiled. "It's OK, no need to avoid the subject." She patted Chiyoko's hand reassuringly. "You'd think that would affect things, wouldn't you? But for Yosh, those kinds of things have always been secondary. The war sits above everything else. What we have is nice, but he doesn't let it hold any special sway over him."
+
+"That sounds like it would be kind of hard."
+
+"I think it was at first. But eventually I guess we both figured out a rhythm that worked. Part of what pulled me to him was that same drive."
+
+“Anyways, I think Yosh trusts Katsumi the most because her goals are so straightforward. Anyone who’s strong enough to help in his war is bound to have their own plans. Katsumi seems the most alien of all of us, but Yosh knows that as long as he points her at the biggest threat he can find, she won’t complain. Keeping the rest of us on board takes more work.”
 
 “I guess that makes sense. To be honest I always assumed you were all just a bunch of zealots committed to the cause. Otherwise why take such a big risk going against the gods?”
 
-“Don’t get me wrong, Seiji and I still care about the rebellion a lot. It’s more like, we might set slightly different goals or choose different methods. But if we want to be successful, we have to work together.”
+“Don’t get me wrong, Seiji and I still care about the rebellion. It’s more like, we might set slightly different goals or choose different methods. But in the bigger picture, we want similar things. To be successful, we just have to compromise a bit.”
 
-“What kind of different methods would you choose?”
+“What were you and Seiji doing before you joined Yoshinobu?”
 
-Hideyo held up the device that now lay dormant around her neck. “Yosh relies on people more than I would. I prefer building things to solve problems.” Hideyo shrugged. “It’s more reliable, I think.”
+Hideyo held up the device that now lay dormant around her neck. “I built things, mostly. My village was overrun by a group of demon cats when I was young. Most of the survivors decided to risk the trip to a nearby village. I gathered up some of the tools I could find in the wreckage and made my way higher into the mountains. I thought I could create my own mechanical fortress that would protect me from everything. I guess you could have called me a hermit.
+
+"I actually ran into Seiji first. Back then he was just wondering from town to town, offering his sword however it could help. He stumbled into one of my traps as he was moving through the mountains. I felt guilty, so I offered to make him that suit of armor he wears now. While Seiji was waiting for me to finish it, Yosh showed up and recruited us both."
 
 Chiyoko thought back to the day when she and Mamoru had joined the group. Their village had been crippled in a battle between Yoshinobu’s rebellion and Tsukuyomi, one of the 5 gods. Chiyoko and Mamoru had agreed to help hunt down the fox god if the rebellion would help rebuild their village.
 
-“Does it get easier? Compromising like that?”
+“Yoshinobu seems pretty good at pulling people into his war. Was it hard to give up on your dream of a big fortress?”
 
-“If you ask me, compromising isn’t the hard part.”
+"Not really. When I started, I told myself that fighting the Gods would be a great source of inspiration for bigger, better machines. By the time I realized I wasn't building anything on the road, I had already changed a lot. I get caught up in the day to day of things. These people are my friends now. I don't know if I could go back to the mountaintops and be alone again.”
 
-“What do you mean?”
+Chiyoko nodded and looked back to Mamoru and Seiji. Two weeks ago, her friend had been consumed with grief and rage at the loss of his mother. Yet now he was planning morning training routines and making jokes. Every day his grief became a bit more removed. Would he find the same comfort that Hideyo had?
 
-“At least for me, once I decided I was going to follow Yoshinobu, compromising became the simple choice. I get caught up in the day to day of things. And these people are my friends now. It’s easy to lose sight of my original goals. Or to decide they aren’t worth the conflict.”
-
-Chiyoko nodded and looked back to Mamoru and Seiji. Two weeks ago, her friend had been consumed with grief and rage. His mother had been killed by Tsukuyomi in the crossfire between the fox god and the rebellion. Yet now he sat with Seiji, planning morning training routines and joking like old friends. Chiyoko had no doubt that Mamoru still sought vengeance for his mother, but she wondered if that was still the reason he got up each morning and carried on with these people.
+Chiyoko hadn't been able to save Mamoru's mother. She was determined to help him find happiness again. How else could she repay him for that day so long ago, when he carried her out of the snow? 
 
 <br />  --- <br /> <br />
 
-Chiyoko woke in the middle of the night with a start. She reached for the bow left strung beside her while she strained her ears. She pushed her awareness as far outside of her tent as she could, searching for whatever had woken her.
+Chiyoko woke in the middle of the night with a start, reaching for the bow she left strung beside her. She pushed her awareness as far outside of her tent as she could, searching for whatever had woken her.
 
 Nothing. 
 
-As they moved deeper into the snow-laden, primeval woods leading to the Shatterspine Mountains, animals had become scarce. But there was still always _something_. Especially to Chiyoko’s sensitive ears. But now, she couldn’t hear a single sound. 
+As they moved deeper into the snow-laden, primeval woods leading to the Shatterspine Mountains, animals had become scarce. But there was always _something_. Especially to Chiyoko’s sensitive ears. Now, she couldn’t hear a single sound. 
 
-Chiyoko crept from her tent and looked about the campsite. Everyone seemed to be asleep inside their tents. Hideyo had set a fire trap around the perimeter of the camp so they could all sleep without watch. It didn’t seem like the trap had been tripped. 
+Chiyoko crept from her tent and looked about the campsite. Everyone was asleep inside their tents. Hideyo had set a fire trap around the perimeter so they could sleep without a watch. It didn’t look like the trap had been tripped. 
 
-Chiyoko checked the strand of silver running from the smouldering fire out into the woods. It was still taught. The fire trap hadn’t been disarmed.
+She checked the strand of silver running from the smoldering fire out into the woods. It was still taught. The fire trap hadn’t been disarmed either, then.
 
 _Come._ The voice sounded in her mind. Low and gravelly. She had heard it before.
 
-Chiyoko felt a familiar tug, as Tsukuyomi drew her towards him. It took all her effort to remain frozen and scan the treeline around her. She shook her head and began slowly backing towards Mamoru’s tent.
+Chiyoko felt a familiar tug, as Tsukuyomi drew her towards him. It took all her effort to remain frozen. She scanned the tree line around her, slowly backing towards Mamoru’s tent.
 
 The voice sounded again in her mind. _You can continue hunting me in the morning, yes? I’d be gone before you woke even half of your group anyways. You are curious. I can feel it. I am curious too. Come._ There was a twist of amusement.
 
-Chiyoko hesitated. If Tsukuyomi planned to attack the group, he certainly wouldn’t have woken her ahead of time. And if he just wanted to get her alone to kill her, she had been out alone in the woods every day for the last two weeks. She was probably more alert now that she knew he was out there. 
+Chiyoko hesitated. If Tsukuyomi planned to attack the group, he certainly wouldn’t have woken her ahead of time. And if he just wanted to kill her, she had been alone in the woods every day for the last two weeks as she scouted ahead. 
 
-Chiyoko realized she was already 10 feet outside their campsite, her body moving on its own. _Shit._ Chiyoko forced herself to stop, crouching down with her back against a tree. _Can I trust my reasoning now? Or are these thoughts part of his draw? How can I tell?_ Remembering the last time she had resisted Tsukuyomi’s charm, Chiyoko reached back to her arrow quiver and gripped the head of an arrow hard enough to draw blood. The pull on her body eased as the pain cleared her mind.
+Chiyoko realized she was already 10 feet outside their campsite, her body moving on its own. _Shit._ She forced herself to stop, crouching down with her back against a tree. _Can I trust my reasoning now? Or are these thoughts part of his charm? How can I tell?_ Remembering the last time that she had resisted Tsukuyomi’s charm, Chiyoko reached back to her arrow quiver and gripped the head of an arrow hard enough to draw blood. The pain cleared her mind.
 
-It was a risk. Tsukuyomi hadn’t attacked her until now, but maybe he had changed his mind. Maybe they were catching up faster than Chiyoko thought. But she didn’t think so. From past interactions it didn’t seem like the fox god was one to worry much no matter the circumstance. _Besides, if I can keep him talking long enough, maybe someone else will wake up and notice I’m gone. And the longer I keep him here, the less time he has to run ahead._
+It was a risk. Tsukuyomi hadn’t attacked her until now, but he could have changed his mind. Maybe they were catching up faster than Chiyoko thought. 
 
-Chiyoko stood and took a deep breath. She let her body move in the direction of Tsukuyomi’s pull. She wove through the trees, staying low and pressing her awareness as far out as she could. Now that she was included in the spell, crossing Hideyo's fire trap was a much simpler ordeal. 
+From past interactions it didn’t seem like the fox god was one to worry much no matter what the circumstance. _Besides, if I can keep him talking long enough, maybe someone else will wake up and notice I’m gone. And the longer I keep him here, the less time he has to run ahead._
 
-The air grew colder as she darted from tree to tree. The rough, flaky bark of the pine trees dug into her shoulders as she pressed against them, taking a moment to scan for enemies before moving on. 
+Chiyoko stood and took a deep breath before letting her body move in the direction of Tsukuyomi’s pull. She wove through the forest, staying low. The air grew colder as she darted from tree to tree. Rough bark dug into her shoulders as she pressed against the trunks, scanning for enemies before moving on. 
 
-Chiyoko shivered. She hadn’t had time to put on her full leathers before she left. _Numb hands can't draw a bow._ Chiyoko paused. She removed her stockings and wound them around her hands.
+Chiyoko shivered. She hadn’t had time to put on her full leathers before she left. Chiyoko paused. Numb fingers couldn't draw a bow. She removed her stockings and wound them around her hands.
 
-After 45 minutes, she was getting close. The strength of the spell that drew her was nearly unbearable. Whenver she lost focus she found herself sprinting through the woods. A calm curiosity pressed itself against her mind, like a cold towel wrapped around the back of her neck. It wasn’t long before she saw a shock of white fur between the trees ahead of her.
+After 45 minutes, she was getting close. The strength of the spell that drew her was nearly unbearable. Whenever she lost focus she found herself sprinting forwards. A calm curiosity pressed itself against her mind, like a cold towel wrapped around the back of her neck. It wasn’t long before she saw a shock of white fur between the trees ahead of her.
 
-Chiyoko emerged into the clearing slowly. Thin trunks reached for the sky haltingly, bending at sharp angles before continuing upwards. Snow had collected in the crooks of some of the trees. 
+Chiyoko emerged into the clearing slowly. Thin trunks reached for the sky haltingly, bending at sharp angles before continuing upwards. Tsukuyomi lay in the center of the clearing, his white fur shining in the moonlight. The kitsune’s front paws were crossed with his head resting on top of them. Nine tails billowed behind him like smoke curling from a candle. 
 
-Tuskuyomi lay in the center of the clearing, his white fur shining in the moonlight. The kitsune’s front paws were crossed with his head resting on top of them. Nine tails billowed behind him like smoke curling off a candle. 
-
-Icy blue eyes tracked her as Chiyoko stepped into the moonlight. Vertical pupils the size of her head narrowed as they focused on her. Even laying down, Tsukuyomi’s shoulder was above Chiyoko's head by a few feet. A thin coat of frost covered the ground around him, expanding and contracting with his breath.
+Icy blue eyes tracked her as she stepped forward. Vertical pupils the size of her head narrowed as they focused. Even laying down, Tsukuyomi’s shoulder was above Chiyoko's head by a few feet. A thin coat of frost covered the ground around him, expanding and contracting with his breath.
 
 “No, please, take your time. Are you comfortable? Can I get you some tea? I’ve only been waiting the better part of an hour. It’s not like I’m in a hurry or anything”
 
-“Do your servants bring you all of your food? Have you forgotten that you must approach your prey carefully to avoid scaring them away?”
+“What, have you forgotten that you must approach prey carefully to avoid scaring it away?”
 
-The feeling at the back of Chiyoko’s neck blossomed into a warm chuckle. The feeling spread through her limbs, calming some of her shivers. A deep rumble shook the clearing faintly as Tsukuyomi laughed, dislodging snow from the nearest tree. “Prey? I have been called many things, but prey is a new one. Am I at least proving to be an interesting hunt?”
+The feeling at the back of Chiyoko’s head blossomed into a warm chuckle. The warmth spread through her limbs, quieting some of her shivers. A deep rumble shook the clearing faintly as Tsukuyomi laughed. A light mist of snow fell from the nearest tree. “Prey? I have been called many things, but prey is a new one. I hope I'm proving to be an interesting hunt, at least?”
 
-Chiyoko’s heart thundered in her ears, the muscles in her left hand tense around her bow. “The canyons were a bit obvious, honestly." Somehow her thoughts were clear, almost playful. "Can you get out of my head? It’s hard to stay focused with you giggling in the back of my mind the whole time.”
+Chiyoko’s heart thundered in her ears, the muscles in her hand tense around her bow. “The canyons were a bit obvious, honestly." Yet her thoughts were clear, almost playful. "Can you get out of my head? It’s hard to stay focused with you giggling in the back of my mind the whole time.”
 
 “But you're much more interesting with my sense of humor. Is that arrogant? I can’t help it if I make for great conversations, can I? Besides, it’s not exactly easy to shut off. Not unless one of us is willing to change who we are.”
 
@@ -200,59 +238,59 @@ Chiyoko’s heart thundered in her ears, the muscles in her left hand tense arou
 
 “We’re in resonance, little hunter.” Tsukuyomi breathed a cloud of frost across Chiyoko. She realized she was now sitting cross-legged 5 feet from the beast’s mouth.
 
-“Oh, great. Now I see it all so clearly. I’m so glad I risked my life to walk an hour into the woods to talk with a giant fox god." Chiyoko marvelled at her own words. Despite her fear, she was enjoying the conversation. _Mamoru would be so proud._ "Perhaps you could add a little more clarity?”
+“Oh, great. Now I see it all so clearly. I’m glad I walked an hour into the woods and risked my life to talk with a giant fox god. It was all worth it for that wonderfully detailed response." Chiyoko marveled at her own words. Was she enjoying this? _Mamoru would be so proud._ "Perhaps you could add a little more clarity?”
 
-Tsukuyomi smiled. On a 20 foot tall fox, it was more teeth than reassurance. “It is difficult to tell where you end and my wit begins. This conversation is a strange one for me as well.” Tsukuyomi paused for a moment as a deer wandered near the clearing. His eyes tracked the creature as it realized its mistake and quickly fled. “You have power, yes? You can do things that others could not? You’ve had it for some time I imagine. Your big friend, the group you travel with now, they are different as well.”
+Tsukuyomi smiled. On a 20 foot tall fox, it was more teeth than reassurance. “It is difficult to tell where you end and my wit begins. This conversation is a strange one for me as well.” Tsukuyomi paused for a moment as a deer wandered near the clearing. His eyes tracked the creature as it realized its mistake and quickly fled. “You have power, yes? You can do things that others could not? You’ve had it for some time I imagine. Your big friend, the group you travel with now, they are powerful as well.”
 
 “Since we were small children, yes. No one knew why at first, but when it became clear how useful our abilities were, people stopped caring about where they came from. But like you said, everyone hunting you is special. What does that have to do with why you called me here?”
 
 “Resonance. That’s where your powers come from. Each of you draws your power from a source. A creature, a location, a natural element. It doesn’t really matter what. But you share something in common with that source. The more similar you and the source become, the more power you can draw from it.”
 
-Chiyoko was leaning forward, her brow furrowed in concentration. It felt like something important was being said, but it still didn’t make any sense. “This still doesn’t make any sense. Can't you be a little less abstract?”
+Chiyoko was leaning forward. It felt like something important was being said, but she couldn't tell what. “This still doesn’t make any sense. Can't you be a little less abstract?”
 
 “Would you find an example helpful?”
 
 “Well, that’s how people usually explain new concepts so… yeah. Wait.” Chiyoko’s mouth opened in a gasp. “Don’t tell me this is the first time you’ve ever had to… explain something to someone?”
 
-Tsukuyomi snorted another cloud of ice towards Chiyoko, this time cold enough to leave webs of ice running through her hair and eyebrows. “Usually I am too busy _eating_ them to discuss the finer intricacies of the flow of power in the universe.” Chiyoko clamped a hand over her mouth to stifle laughter. The entire situation was too surreal. “_Anyways_. Take the small woman who travels with you. The one who throws fire everywhere. I imagine that she grew up near a large source of heat. Judging by the size of the fire she throws at my head, I’d say a small volcano or something.
+Tsukuyomi snorted another cloud of ice towards Chiyoko. This time the wind was cold enough to leave webs of ice running through her hair and eyebrows. “Usually I am too busy _eating_ them to discuss the finer intricacies involved with the flow of power in the universe.” Chiyoko clamped a hand over her mouth to stifle laughter. The entire situation was too surreal. “_Anyways_. Take the small woman who travels with you. The one who insists on throwing fire everywhere. I imagine that she grew up near a large source of heat. Judging by the size of the fire she flings at my head, I’d say a small volcano or something.
 
-“Fire has many aspects. It consumes. It creates. People gather around it. It kills. Somewhere in her life that woman began to embody one of those aspects. As she did, she started to forge a connection with whatever volcano she grew up in the shadow of. She probably doesn’t realize it, but that’s where she draws her fire from. And the more that she uses that fire, the more its aspect manifests in her personality.
+“Fire has many aspects. It consumes. It creates. People gather around it. It kills. Somewhere in her life that woman began to embody one of those aspects. As she did, she started to forge a connection with the volcano she grew up in the shadow of. She probably doesn’t realize it, but that’s where she draws her fire from. And the more that she uses that fire, the more its aspect manifests in her personality.
 
-“That’s resonance. It’s a connection between someone and a source of power. That connection is built by some defining trait, some part of both entities that _resonates_. The little dwarf can draw heat and flame from her volcano and use it in the world around her. The more powerful the source, the bigger the effect. The more strongly she embodies fire’s aspect, the more control she has.
+“That’s resonance. It’s a connection between a person and a source of power. That connection is built by some defining trait, some part of both entities that _resonates_. The little dwarf can draw heat and flame from her volcano and use it in the world around her. The more powerful the source, the bigger the effect. The more strongly she embodies fire’s aspect, the more control she has.
 
-“Resonance is very rare. It places an enormous stress on your body and your mind. Enough to kill most people. Even your lot can’t resonate with more than one thing at a time. But recently we’ve noticed that more and more of you are being born with the ability. And that ability is growing, letting you challenge us. 
+“Resonance is very rare. It places an enormous stress on your body and your mind. Enough to kill most people. But recently we’ve noticed that more and more of you are being born with the ability. And that ability is growing, letting you challenge us. 
 
-“At first, the plan was just to kill the lot of you and try again. But then, you went ahead and started resonating with me, and now I have an interesting question to answer.”
+“At first, the plan was to kill the lot of you and try again. But then, you went ahead and started resonating with me. And now I have an interesting question to answer.”
 
-Chiyoko blinked. Tsukuyomi’s voice was still calm, but she could feel a quick pulse of menace in the back of her head. Whatever question Tsukuyomi was referring to, Chiyoko got the sense its answer determined whether she walked out of this clearing or not. “So you’re saying this kind of connection - it exists between you and me? But I’ve been able to do things others couldn’t for years. Well before I met you.”
+Chiyoko blinked. Tsukuyomi’s voice was still calm, but she could feel a quick pulse of menace in the back of her head. Whatever question the god was referring to, Chiyoko could tell its answer determined whether she walked out of this clearing or not. “So you’re saying that a connection exists between you and me? But I’ve been able to do things for years. Well before I met you.”
 
 “What you resonate with can change. Your personality might shift. Or you might find something that you resonate with more strongly. Whatever you used to resonate with - well - you’ve certainly upgraded.”
 
-_My powers have been acting strange lately._ “How can that be? I didn’t do anything special when I saw you.”
+_My whirlwind did produce all that ice..._ “How can that be? I didn’t do anything special when I saw you.”
 
-“You don’t necessarily have to. Just a strong shift in priorities or values while a good resonant source is nearby. But the important question is not how it happened, but what we do next about it.
+“You don’t have to. Just a strong shift in priorities or values while a good resonant source is nearby. But the important question is not how it happened, but what we do next.
 
 “I’ve enjoyed Yoshinobu’s little chase. He’s a powerful man. Driven. He never stood much of a chance of killing me. But he certainly _could_ have. I liked giving him that chance. The 5 races are very interesting when they’re confronted with a challenge. Especially you humans.
 
-“But now, with you begining to draw power from a source as big as me, that changes things. I still don’t like your odds of winning. But I like them _a lot more_. And what’s more, this link you’ve forged is two-way.”
+“But things are different with you drawing power from a source as big as me. I still don’t like your odds of winning. But I like them _a lot more_. And what’s more, this link you’ve forged is two-way.”
 
-Chiyoko wanted to make a retort, but she got the sense the conversation had taken a serious turn. At least for a moment. “What do you mean by two-way?”
+Chiyoko wanted to make a retort, but she felt the conversation had taken a serious turn. At least for a moment. “What do you mean two-way?”
 
-“Usually, whatever aspect is linked starts as an imperfect resonance. But over time, as the bond strengthens, both anchor and source come into alignment. So the longer we stay in resonance, the more you’ll become like me. But it also means I’ll become more like you. Given the power differential between us, the change will be bigger in you. But, you know, I’m a god. I don’t know how I feel about _any_ sort of change from a mortal like you.
+“Usually, whatever aspect is linked starts as an imperfect resonance. But over time the bond strengthens. Both anchor and source come into alignment. So the longer we stay in resonance, the more you’ll become like me. But it also means I’ll become more like you. Given the power differential between us, the change will be bigger in you. 
 
-“I called you out here to understand what aspect we have in resonance. And to decide if you’re worthy of that bond.”
+"But, you know, I’m a god. I don’t know how I feel about _any_ sort of change from a mortal like you. I called you out here to understand what aspect we have in resonance. And to decide if you’re worthy of that bond.”
 
 Chiyoko could feel sweat forming along her lower back and on her palms. She was being tested. But she didn’t know how. _Does he want me to join him? To run away? He seems like he takes some enjoyment from our chase. Does he want me to continue the hunt?_ 
 
 It seemed like Tsukuyomi was largely driven by curiosity. By a desire to be surprised. _I need to say something that keeps him interested._
 
-Chiyoko stood, brushing her hands across the front of her legs as casually as she could muster. She took a deep breath of the frigid air surrounding Tsukuyomi. Her lungs burned from the cold as her chest puffed out with the breath. She exhaled sharply, willing whatever these new powers were to grip the air in her lungs and change it. A fine spray of snow and ice came jetting out of Chiyoko’s mouth. Her teeth burned with the passage of the icy wind. 
+Chiyoko stood, brushing her hands across the front of her legs as casually as she could muster. She took a deep breath of the frigid air surrounding Tsukuyomi. Her lungs burned from the cold as her chest puffed out with the breath. She exhaled sharply, willing whatever these new powers were to grip the air in her lungs and change it. A fine spray of snow and ice came jetting out of Chiyoko’s mouth. Her teeth burned from the icy wind. 
 
 A large crust of frost formed along Tsukuyomi’s snout. He blinked and shook his head.
 
-Chiyoko used the distraction to step closer. She grabbed the fur beneath one of his massive blue eyes. “You think the power differential between us is so large? I had you in my sights just a couple weeks ago and I _chose_ not to take the shot.”
+Chiyoko used the distraction to step closer. She grabbed the fur beneath one of his massive blue eyes. “You think the power differential between us is so large? Don't forget, I had you in my sights just a couple weeks ago and I _chose_ not to take the shot.”
 
-The ground rumbled as Tsukuyomi’s mouth opened and his baritone laugh sounded again. He laughed for several heartbeats. This close to his open mouth, it took everything inside of Chiyoko to keep her knees from quivering. She held his gaze as fiercely as she could.
+The ground rumbled as Tsukuyomi’s baritone laugh sounded again. He laughed for several heartbeats. This close to his open mouth, it took everything inside of Chiyoko to keep her knees from quivering. She held his gaze as fiercely as she could.
 
 “Very well little hunter, let us talk.”
 
