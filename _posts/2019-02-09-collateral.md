@@ -74,9 +74,9 @@ Three figures stepped into the clearing. At the front was a man covered in dark 
 
 A short dwarven woman with broad features followed close behind the beetle man. Her shoulders were hunched. A long, blond ponytail whipped about her head as her gaze darted back and forth. In her bare hands were two softly pulsing balls of fire. 
 
-The third figure was a short, stocky man wearing loose-fitting green pants and a brown leather jacket. Over the jacket was a dark green vest. The man’s face was obscured by a conical straw hat. As he entered the clearing, the other two looked to him deferentially. He turned to the beetle man. “You said you heard something from this direction, Sejii?”
+The third figure was a short, stocky man wearing loose-fitting green pants and a brown leather jacket. Over the jacket was a dark green vest. The man’s face was obscured by a conical straw hat. As he entered the clearing, the other two looked to him deferentially. He turned to the beetle man. “You said you heard something from this direction, Seiji?”
 
-Seiji stroked a greying  as he peered into the woods, his eyes squinting to penetrate the gloom. “I would stake my honor on it. Hideyo, don’t be shy now lass, could you hold those flames a bit higher so we can see further?”
+Seiji stroked a greying mustache as he peered into the woods, his eyes squinting to penetrate the gloom. “I would stake my honor on it. Hideyo, don’t be shy now lass, could you hold those flames a bit higher so we can see further?”
 
 Chiyoko tensed, preparing to run. But the man in the straw hat placed a hand on Hideyo’s shoulder. “Hold on a second, I’d prefer to avoid announcing our location too prominently if we can. We left the rest of our force behind so we could catch up faster, not so we could be jumped by every beast in the forest. Seiji, can you sense the fox’s presence nearby?” 
 
@@ -204,7 +204,7 @@ But before Chiyoko could fire, she felt a firm grip on her shoulder. “No! You�
 
 “Help Tsukuyomi. With you and Mamoru at his back, the playing field will level.”
 
-Chiyoko’s face twisted. “Help the *kitsune?*. His spawn torments our village on a whim!” There was a large crash as Tsukuyomi let lose another blast of ice from above. Caught off guard, Hideyo’s flames barely intercepted the ice in time. The explosion of steam knocked the her off her feet.
+Chiyoko’s face twisted. “Help the *kitsune?*. His spawn torments our village on a whim!” There was a large crash as Tsukuyomi loosed another blast of ice from above. Caught off guard, Hideyo’s flames barely intercepted the ice in time. The explosion of steam knocked the her off her feet.
 
 The figure in black armor had reached the area below Tsukuyomi and launched himself into whatever field held the god aloft. Seiji rose quickly, aiming his sword for Tsukuyomi’s stomach.
 
@@ -230,7 +230,7 @@ Chiyoko only had a moment to appreciate her shot before her stomach somersaulted
 
 As she fell, Chiyoko came face to face with one of Tsukuyomi’s large, feline eyes. “I’ve never been used as a stepping stone before. What would the others think?” He chuckled. “It was a nice shot, by the way.”
 
-The ground began rising to meet them rapidly. Chiyoko reached for the fur on the side of Tsukuyomi’s face. “You’d better fucking catch me you stupid fox!”
+The ground began rising to meet them rapidly. Chiyoko reached for the fur on the side of Tsukuyomi’s face. “You’d better frosting catch me, you stupid fox!”
 
 He did not.
 
@@ -274,11 +274,11 @@ Teruko’s face softened. “It doesn’t matter how much you did Chiyoko. We al
 
 As Chiyoko walked, she could see several ruined buildings scattered around the inner wall of Hokko. Fires still burned amidst them. There were a few more blasts of ice. One building had been cut in half along a perfect diagonal line.
 
-*The walls are ruined. How much food did we loose? How many people died?* The more she walked, the worse she felt. 
+*The walls are ruined. How much food did we lose? How many people died?* The more she walked, the worse she felt. 
 
-*After everything they’ve done for me.* Chiyoko remembered a day 12 years ago, when she had come stumbling from the woods, covered in blood and shaking uncontrollably in the snow. She remembered Mamoru, big even at that age, as he dragged her within the walls. She remembered Ayeka caring for her wounds. *They were counting on me.*
+*After everything they’ve done for me.* Chiyoko remembered a day 12 years ago. When she had come stumbling from the woods, covered in blood and shaking in the snow. She remembered Mamoru, big even at that age, as he carried her into the village. She remembered Ayeka caring for her wounds. *They were counting on me.*
 
-She stopped and forced a few deep breaths. *Ayeka will know what to do.* Chiyoko set off again.
+She stopped and forced a few deep breaths. Chiyoko chided herself _Maybe Ayeka was right. It could have been worse than this._ She set off again.
 
 Chiyoko followed the wreckage inward, but after 20 minutes without luck, she doubled back towards the wall. She had to pause frequently, hands on her knees, to clear her head. 
 
@@ -352,7 +352,7 @@ Chiyoko sighted and prepared to loose her arrow, but her enhanced senses caught 
 
 There was a dull sheen of darkened metal 10 feet away. *How did he get so close so fast?* The armored man rushed towards Chiyoko. His chest was low to the ground. His sword angled back, preparing to swing. 
 
-Chiyoko's shoulders continued to swing in line with her foot, keeping the now taut and ready to fire. Her head turned faster, eyes scanning the joints of the metal plates, looking for a target. 
+Chiyoko's shoulders continued to swing in line with her foot, keeping the bow taut and ready to fire. Her head turned faster, eyes scanning the joints of the metal plates, looking for a target. 
 
 8 feet away, his blade began to swing forward. Chiyoko eyed the length of his arms, down the blade. *Can't get a full shot in time.* She twisted at the waist sacrificing a solid stance for speed. Almost in unison the man pushed off his right foot, staying out of Chiyoko's aim as he continued his swing.
 
@@ -382,7 +382,7 @@ Somehow Chiyoko had kept a grip on her bow amidst the blast. She made a show of 
 
 "Please! We surrender. We’ll lay down our weapons. Whatever you want. We’re just here to talk.”
 
-Seiji paused, glaring at Chiyoko. The heavy sword did not waver as he held it aloft. Chiyoko stared back, trying to show the truth of her words. As she watched Seiji’s face, Choyoko saw several of the small cuts along his jaw close with a faint silver glow. This close, Chiyoko could see that Seiji was a good deal older than her. His thick mustache was flecked through with grey.
+Seiji paused, glaring at Chiyoko. The heavy sword did not waver as he held it aloft. Chiyoko stared back, trying to show the truth of her words. As she watched Seiji’s face, Chiyoko saw several of the small cuts along his jaw close with a faint silver glow.
 
 Seiji closed his eyes and took a deep breath. When he opened them, they were completely filled with silver light.
 

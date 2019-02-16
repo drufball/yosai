@@ -296,75 +296,83 @@ The ground rumbled as Tsukuyomi’s baritone laugh sounded again. He laughed for
 
 <br />  --- <br /> <br />
 
-Three days later, Chiyoko cornered her prey. She clutched the top of a rough-barked pine tree at the summit of a low, snow-covered mountaintop. Looking down, she saw a small village nestled below, huddled near a crook in the river that ran through the valley. Steeply angled thatch roofs were laden with snow. Steam rose from the river, visible even from this distance. _Must be a hot spring nearby._
+Three days later, Chiyoko cornered her prey. She clutched the top of a rough-barked pine at the summit of a snow-covered mountaintop. She saw a small village nestled in the valley below, huddled near a crook in a river. Steeply angled thatch roofs were laden with snow. 
 
-The village had a single wall surrounding its buildings, built from snow packed into ice. Tsukuyomi lay within the wall, sleeping at the town’s center. Laying down, his body was only barely below the rooftops around him. His nine tails floated about him, wrapping around the nearby buildings like seaweed in the ocean. Tsukuyomi’s white fur almost vanished in the snow filling the valley.
+Steam rose from the river. _Must be a hot spring nearby._
 
-Chiyoko picked her way down the tree, choosing her steps carefully to avoid moving any branches or dislodging snow that could be seen from the village below. She dropped the last 5 feet, landing without sound. She brushed some of the sap from her leggings and motioned for the rest of the group to approach.
+The village had a single wall built from snow packed into ice. Tsukuyomi lay within the wall, sleeping at the town’s center. Laying down, his body nearly crested the rooftops around him. His tails were wrapping around the nearby buildings like seaweed in the ocean. His white fur nearly vanished in the snow.
 
-Yoshinobu pushed between Mamoru and Seiji. His green vest and conical straw hat stood out starkly against the surrounding white. “What do you see?” His shoulders were tight and his breathing was fast. They had made good time through the woods, but Tsukuyomi had always been one step ahead of them. This was their last chance to catch the kitsune before he made his way over the mountains and back into his own territory.
+Chiyoko picked her way down the tree, avoiding any branches that might dislodge snow that could be seen from the village. She dropped the last 5 feet, landing soundlessly and brushing sap from her leggings. She motioned for the rest of the group to approach.
+
+Yoshinobu pushed forward. His green vest and conical straw hat stood out starkly against the surrounding white. “What do you see?” His shoulders were tight. They had made good time through the woods, but Tsukuyomi had always been one step ahead of them. This was their last chance to catch the kitsune before he made his way over the mountains and back to his own territory.
 
 “Tsukuyomi is there. It looks like he’s resting within the village.”
 
 Yoshinobu’s shoulders slouched and he sighed. Seiji clapped Mamoru on the shoulder. “We’ve caught him at last, lad!”
 
-Mamoru’s face was set, his jaw tight. His hands gripped reflexively against the shaft of his axe. Chiyoko looked away. 
+Her friend’s face was set in determination. His hands gripped against the shaft of his axe. Chiyoko looked away. 
 
-_You pursue your goals without dogma. When it was best to strike against the rebellion you did. When the tide changed, you did not hesitate to change sides. The only thing that holds you back is your reliance on the systems of others. You try to use them. But you must learn to break them._ Tsukuyomi’s voice rang in Chiyoko’s head. She hadn’t told Mamoru about her conversation with the fox 3 nights ago. She didn’t know how he would react.
+_I like those who are ambitious. I don't care what direction that ambition takes them. I just... admire... people who know their goals and pursue them by whatever means necessary._ Tsukuyomi’s voice rang in Chiyoko’s head. _When you thought it best to strike against the rebellion, you did. When the tide changed, you did not hesitate to change with it._ She hadn’t told Mamoru about her conversation with the fox 3 nights ago. She didn’t know how he would react. She didn't even understand how _she_ was reacting.
 
-“Catching him was only part of the battle. The easiest part.” Yoshinobu paced around the group. His short, burly form bent forward in concentration. “If he’s inside the village that means they’re probably helping him. Or at least scared enough to harbor him for a while. A whole village of watchers will make it hard to approach without alerting Tsukuyomi. And we don’t know if they’ll turn on us during the fight. Hideyo.”
+Yoshinobu paced around the group. “Catching him was only part of the battle. The easiest part.” His short, burly form hunched forward as he thought. “If Tsukuyomi's inside the walls, the villagers might be helping him. They're at least scared enough to harbor him for a while. A whole village of watchers will make it hard to approach without alerting the fox. And we don’t know if they’ll turn on us during the fight. Hideyo.”
 
 “Hmm?” 
 
-“What’s the absolute biggest you can go with a fireball? Can you bring something down on the whole town? I can time a gravity swell at the same time. In one go we can eliminate Tsukuyomi’s allies and immobilize him long enough to get in range.”
+“What’s the absolute biggest you can go with a fireball? Can you bring something down on the whole town? I can time a gravity swell at the same time. In one go we might be able to eliminate Tsukuyomi’s allies and immobilize him long enough to get in range.”
 
-“Uh— you want me to blast the whole town? It’s possible, I guess. Depending on the size of the town. But shouldn’t we—.“
+“Uh— you want me to blast the whole town? It’s possible, I guess. I'd need to get a better look at the size of the town. But Yosh, shouldn’t we—.“
 
- Chiyoko stepped in front of Hideyo, putting a hand up to silence the woman. “What the hell are you talking about, Yoshinobu? We have no idea whether those people are on Tsukuyomi’s side. For all we know he forced his way in and they’d turn on him as soon as we made a move.”
+Chiyoko stepped in front of Hideyo, putting a hand up to silence the woman. “What the hell are you talking about, Yoshinobu? We have no idea whether those people are on Tsukuyomi’s side. For all we know he forced his way in. They might turn on him as soon as we make a move.”
 
-“Last time we fought Tsukuyomi, we took a chance and ignored your village. No hard feelings, but the two of you jumping into the battle is the reason Tsukuyomi escaped. I don’t like it. Not at all. But we can’t take that risk again.”
+“Last time we fought Tsukuyomi, we took a chance and ignored your village. No hard feelings, but you and Mamoru are the reason Tsukuyomi escaped. I don’t like it. Not at all. But we can’t take that risk again.”
 
-Chiyoko’s hands were shaking, her cheeks flushed. “Who are you to decide what is and isn’t worth it? It’s not just a _risk_ to be weighed. You’re talking about murdering all of those people down there.”
+_Yoshinobu is intriguing. I've enjoyed watching him strive against me. But he's all logic. He isolates his guilt, his friendships, his doubts. He does not use them. He denies himself what he **wants** in favor of what he thinks is **right**. There's nothing less romantic than a man who pursues a greater good as an emotionless ideal._
 
-“If Tsukuyomi escapes here, he’ll be over the mountains and into his own territory. His powers will be restored and he’ll be surrounded by his underlings. We’ll never have a chance like this again.”
+Chiyoko’s hands were shaking, her cheeks flushed. “Who are you to decide what's worth it? It’s not just a _risk_ to be weighed. You’re talking about murdering all of those people.”
 
-Seiji took a hesitant step towards Yoshinobu, his hand still absentmindedly on Mamoru’s shoulder. “Yoshinobu, I have followed you for many years. And I am loathe to question your judgment. But aren’t we pursuing Tsukuyomi and the rest of the gods to protect people like the villagers below?”
+Seiji took a hesitant step towards Yoshinobu, his hand still absently resting on Mamoru’s shoulder. “Yoshinobu, I have followed you for many years. And I am loathe to question your judgment. But Chiyoko's words ring true to me. Aren’t we pursuing Tsukuyomi and the rest of the gods to protect people like the villagers below?”
 
-Yoshinobu stood between Seiji and Chiyoko, looking back and forth between them. His expression was pained, but his shoulders were squared, his voice did not waver. “This choice hurts me. It will sit with me for the rest of my life. But we’re fighting for more than one village. We’re fighting to free the 5 races. To give them control of their own destiny. If we take unnecessary risks now to protect these villagers, we’re gambling with the future of everyone else in Yosai. All the lives that have been sacrificed until now will be for nothing.” 
+Yoshinobu stood between Seiji and Chiyoko. His expression looked pained, but his shoulders were squared, his voice did not waver. “If Tsukuyomi escapes here, he’ll be over the mountains. We’ll never get a chance like this again. 
 
-Chiyoko thrust a finger at Yoshinobu. “You leave a trail of crippled villages just like mine. You tear apart communities that were otherwise stable. Then you say we must carry on to honor their sacrifice. You manufacture your own moral justification.” Yoshinobu did not shy away from Chiyoko’s anger, he looked up into her eyes steadily. “What future are we fighting for? It hardly seems like freedom to trade one set of all-powerful tyrants for another. You still want to use the lives of the 5 races as currency to buy your goals."
+"We’re fighting for more than one village. We’re fighting to free the 5 races. To give them control of their own destiny. If we take unnecessary risks now to protect these villagers, we’re gambling with the future of everyone else in Yosai. All the lives that have been sacrificed until now will be for nothing.” 
 
-A low growl came from Katsumi as she stepped in front of Yoshinobu, her massive frame bearing down on Chiyoko. The shapeshifter’s arms rippled with dark fur as her hands grew into claws. Her canines became sharp fangs within her mouth. “Do not act so noble.” She thrust a sharp nail into Chiyoko’s chest, slicing through the leathers. Chiyoko managed not to wince. “We are here today because of _you_. You are so quick to blame Yoshinobu for the sacrifices he makes. But if it weren’t for you, we would have killed Tsukuyomi 3 weeks ago. Your village would have been less damaged and we would have been free to help you rebuild. This village is in danger because you _chose_ to rescue that fox. Do not lay blame at the feet of others.”
+Chiyoko thrust a finger at Yoshinobu. “You leave a trail of crippled villages just like ours, tearing apart communities that were otherwise stable. Then you say we must carry on to honor their sacrifice. You manufacture your own justification. What future are we fighting for?" Chiyoko looked at Mamoru. "Will we even have a future if you decide that our sacrifice is necessary?"
 
-Chiyoko could feel a thin bead of blood sliding down her chest. She returned Katsumi’s glare without flinching. “I’m not saying we should let Tsukuyomi go. I know risks and sacrifices are necessary. But this group is powerful and smart enough to do more than smash a fist into the ground. We can find a way to draw Tsukuyomi away from the village before we strike.” A moment passed with the two women’s faces a foot apart, their breath fogging around each other. The rest of the group stood motionless. 
+A low growl came from Katsumi as she stepped in front of Chiyoko. The shapeshifter’s arms rippled with dark fur as her hands grew into claws. Her canines became fangs within her mouth. “Do not act so noble.” She thrust a sharp nail into Chiyoko’s chest, slicing through the leathers. Chiyoko managed not to wince. “We are here today because of _you_. You are so quick to blame Yoshinobu for the sacrifices he makes. But if it weren’t for you, we would have killed Tsukuyomi 3 weeks ago. Your village would have been less damaged and we would have been free to help you rebuild. This village is in danger because you _chose_ to rescue that fox. Do not lay blame at the feet of others.”
 
-Mamoru’s hands appeared between Chiyoko and Katsumi. His arms flexed, thick as tree trunks, and the two women were pushed bodily apart. Chiyoko staggered and barely kept her feet. Katsumi kept her stance. She snarled and made to leap for Mamoru, but he had already leapt towards her, pinning her to the ground. 
+Chiyoko could feel a thin bead of blood sliding down her chest. She returned Katsumi’s glare. “I know risks and sacrifices are necessary. But this group is smart enough and powerful enough to do more than smash a fist into the ground. If we can't find a way to fight while protecting what we care about, what stops us from sacrificing half the world? Or each other? There has to be a line we won't cross.” A moment passed with the two women’s faces a foot apart, their breath fogging around each other. The rest of the group stood motionless. 
 
-Katsumi twisted violently beneath him, shifting from wolf to bear as she snarled and snapped. Mamoru held firm until Katsumi reverted to her human form. He held her hands to the ground, their faces close as their chests heaved from the exhertion.
+_But you. You **feel** your goals. Your desire for them drives you forward. If the good of the world did not include that burly friend of yours, we know where you would fall._
 
-Mamoru didn’t take his eyes from Katsumi’s. “This is exactly what Tsukuyomi wants. I’ll bet he stopped in that village because he knew it would divide us.”
+Mamoru’s hands appeared between Chiyoko and Katsumi. His arms flexed, thick as tree trunks, and the two women were pushed bodily apart. Chiyoko staggered, barely keeping her feet. Katsumi snarled and lunged for Mamoru. He ducked under the shapeshifter's claws, wrapping his arms about her waist and taking her to the ground. 
 
-Yoshinobu cleared his throat. “Mamoru is right. Chiyoko, your point is well taken. I should not decide alone the fate of the village below. We’ll take a vote. I know it’s still not ideal, but in this situation we don’t have time to find an alternative compromise.”
+Katsumi twisted violently beneath him, shifting from wolf to bear as she snarled and snapped. Mamoru held firm until Katsumi reverted to her human form. He held her hands to the ground, their faces close as their chests heaved from exertion.
 
-_You cannot constrain yourself to the structures of those already in power. No matter how much influence you acquire, you will always be pursuing their goals. They will pull you away from yourself. If you wish to create the world you see in your mind, you must be the one building it._ Chiyoko heard Tsukuyomi’s words in her mind, mocking the current situation. “You all know where I stand.”
+Mamoru didn’t take his eyes from Katsumi’s. “This is exactly what Tsukuyomi wants. He probably stopped in that village because he knew it would divide us.”
+
+Yoshinobu cleared his throat. “Mamoru is right. Chiyoko, your point is well taken. I should not decide alone the fate of the village below. We’ll take a vote. I know it’s still not ideal, but in this situation we don’t have time to find a better compromise.”
+
+_The only thing that holds you back is your reliance on others. No matter how much influence you acquire, while you follow, you are pursuing someone else's goals. They will pull you away from yourself._ Chiyoko heard Tsukuyomi’s words in her mind, mocking the current situation. “You all know where I stand.”
 
 “And I believe I made myself clear as well.”
 
-Hideyo stepped from behind Chiyoko, where she had been hiding. “I’m with Chiyoko. We were the ones who messed up and got ourselves in this situation. _All of us._ The people in that village shouldn’t have to pay for our mistakes.”
+Hideyo stepped from behind Chiyoko, where she had been hiding. “I’m going to go abstain. There's six of us, and the worst thing that could happen is a tie where we all keep fighting.”
 
-Seiji stroked his moustache, looking between Yoshinobu and Chiyoko. “Yoshinobu. You have led us for many years. I see the wisdom in what you say. But if we can’t win by holding to our principles, then we deserve to fail. I side with Chiyoko as well.” The older knight stepped towards Chiyoko, refusing to meet Yoshinobu’s eyes.
+Seiji stroked his mustache, looking between Yoshinobu and Chiyoko. “Yoshinobu. You have led us for many years. I see the wisdom in what you say. But Chiyoko is right. If we can’t win by holding to our principles, then we deserve to fail.” The older knight stepped towards Chiyoko, refusing to meet Yoshinobu’s eyes.
 
-“For all we know, the people in that valley would gladly throw away their lives if they knew it would help free Yosai from the gods. Coddling these people does them no service. In nature, the weak die. If we hold to any other principle, we’re subjugating that village to our beliefs all the same. I vote with Yoshinobu.”
+Katsumi still lay pinned beneath Mamoru. “For all we know, the people in that valley would gladly throw away their lives to free Yosai. Protecting them could be the opposite of what they want. In nature, the strong get what they want and the weak die. If we hold to any other principle, we’re forcing our morality on that village just like the gods do today. I vote with Yoshinobu.”
 
-Everyone’s eyes turned to Mamoru. “I do not want Tsukuyomi to escape. But if Chiyoko says that we can defeat the kitsune without destroying the town, I believe her. I choose to have faith in my strength and that of my friends.” Mamoru and Katsumi stared at each other for a moment longer, their eyes hard. Katsumi finally gave a nod and Mamoru released her. 
+Everyone’s eyes turned to Mamoru. 
 
-As Mamoru stood, Seiji caught his eye and gave an approving smile. “It’s a shame there’s not a suit of armor in the world that could fit you. You’d make an excellent knight.” Mamoru rubbed the back of his head.
+“I do not want Tsukuyomi to escape. But if Chiyoko says that we can defeat the kitsune without destroying the town, I believe her. I have faith in my strength." He looked down at Katsumi. "And that of my friends.” They stared at each other for a moment longer. Katsumi finally gave a nod and Mamoru released her.
+
+As she stood, Katsumi's eyes did not leave Mamoru. "That's twice now."
 
 “Well, it looks like I’ve been outvoted.” Yoshinobu let out a long, pent up sigh. He pulled his straw hat from his head and sank to his haunches. “To be honest, I can’t say I’m upset.” 
 
-Yoshinobu stood abruptly and walked to Chiyoko. He threw his arms around her waist and hugged her tightly. “I felt I could not indulge my conscience. That I had to be as hard as those we fought. Thank you.” His body was shaking. 
+Yoshinobu stood abruptly and walked to Chiyoko. He threw his arms around her waist and hugged her tightly. “I felt I could not indulge my conscience. That I had to be as hard as those we fought. Thank you.” His body shook slightly. 
 
-Chiyoko hesitated for a moment, looking to the others around her. After a breath she wrapped her arms around Yoshinobu’s shoulders and rested her cheek on the top of his head. His crudely cropped hair tickled the side of her face.
+Chiyoko hesitated, looking to the others around her. After a breath she wrapped her arms around Yoshinobu’s shoulders.
 
 _Maybe the fox was wrong._
 
@@ -374,7 +382,7 @@ Chiyoko, Katsumi, and Mamoru stood in the shadow of a building at the edge of th
 
 Peering around the edge of the building, Chiyoko had a clear line of sight to Tsukuyomi a few houses away. The fox god’s massive, white-furred form lay motionless save for the rhythmic rise and fall of his chest. Chiyoko felt no presence at the back of her mind. _For now, at least._
 
-She pulled her head back and signalled to the other two. Wordlessly, they got into position. Mamoru looked to Katsumi and held out his hand. She returned the gaze as she gripped his forearm, her knuckles white. There was a new energy between them.
+She pulled her head back and signaled to the other two. Wordlessly, they got into position. Mamoru looked to Katsumi and held out his hand. She returned the gaze as she gripped his forearm, her knuckles white. There was a new energy between them.
 
 Hands locked, the two massive figures sprinted towards Tsukuyomi. They closed ground quickly, making it within 10 feet before the kitsune’s eyes snapped open, his pupils dilating rapidly as he took in the scene in front of him. A massive pressure erupted at the back of Chiyoko’s head. Even directed at Mamoru and Katsumi a full 30 feet away, the weight of Tsukuyomi’s battle focus nearly dropped Chiyoko to her knees.
 
