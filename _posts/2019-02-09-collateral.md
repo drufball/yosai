@@ -218,7 +218,7 @@ Chiyoko rolled with the landing. *Don’t look up. Down. Whatever.* She took off
 
 As she connected, Tsukuyomi lashed out reflexively with two tails, attempting to strike Chiyoko from both sides. But Chiyoko bent her legs to absorb the landing and pushed off in the same movement, catapulting over Tsukuyomi’s shoulder and out of reach of the two tails.
 
-“I’m trying to help you, idiot!” Chiyoko’s body twisted in the air as she continued past Tsukuyomi. As Seiji came into view, Chiyoko loosed an arrow towards his hand. He cursed and dropped his blade. 
+“I’m trying to help you!” Chiyoko’s body twisted in the air as she continued past Tsukuyomi. As Seiji came into view, Chiyoko loosed an arrow towards his hand. He cursed and dropped his blade. 
 
 Chiyoko continued to twist in the air, her head angled towards the ground. The momentum from her leap carried her further past Seiji and Tsukuyomi as they continued to wrestle. Chiyoko drew another arrow and drew her bow again. She forced her breathing to calm. After what felt like an eternity, Chiyoko saw the form of Yoshinobu.
 
