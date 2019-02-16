@@ -520,4 +520,4 @@ Chiyoko crossed her legs and sat by the fire. “How do you weigh the problems y
 
 “Let’s get hunting.”
 
-**Note:** This is part one of a three part short story series. Tune in next week for the next installment!
+This is part 1 of a 3 part story series. You can read the next part [here](https://yosai.world/compendium/primitive/the-hunt/)
