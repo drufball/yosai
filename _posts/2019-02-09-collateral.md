@@ -142,7 +142,7 @@ They had just made it into position. There hadn’t been much time to share ever
 
 Ten minutes passed. Twenty. Some of the villagers began to fidget with their armor and weapons. *Maybe Tsukuyomi moved on before they reached Fangdrop…*
 
-There was a sharp inhalation of breath to Chiyoko’s left. “There!” The woman’s arm was outstretched, trembling as it pointed into the woods. “I saw something move in the tree line!” As she spoke, birds leapt into the air as 3 sharp cracks rang out like snapping twigs. Trees toppled. 
+There was a gasp to Chiyoko’s left. “There!” The woman’s arm was outstretched, trembling as it pointed into the woods. “I saw something move in the tree line!” As she spoke, birds leapt into the air as three sharp cracks rang out like snapping twigs. Trees toppled. 
 
 A roar filled the air, louder than anything Chiyoko had ever heard. The toppled trees were well over 500 feet away, yet Chiyoko could feel Hokko’s wall shaking. Leaves fell from the trees along the edge of the outer wall. Several villagers covered their ears, wincing. Pained cries sounded from the woods.
 
