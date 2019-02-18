@@ -20,8 +20,8 @@ reader.
 **7 day average:** 2 
 **28 day average:** Coming 3/10/19  
 
-**Hours spent editing:** TBD
-**7 day average:** Coming 2/17/19  
+**Hours spent editing:** 1.4
+**7 day average:** 1  
 **28 day average:** Coming 3/10/19  
 
 # What I'm reading
