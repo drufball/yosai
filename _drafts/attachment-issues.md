@@ -8,25 +8,31 @@ excerpt_separator: <!--more-->
 
 feedback: 
 ---
-Gasp! It worked! Where is this? A farm? The detail is unbelievable.
+Gasp! It worked! 
 
-And if the resonance is right... Yes! All these memories. Incredible! Ooph, I did _not_ get a happy one. 
+Look at all these colors! Where is this? A farm? The detail is unbelievable.
 
-And Manabu said it wouldn't work. Well who's laughing now, eh brother? Me! I'm laughing! From now on it's two against one! No more embarrassing--. 
+And if the resonance is right... Yes! So many memories. Incredible! Ooph, I did _not_ get a happy one. 
+
+And Manabu said it wouldn't work. Well who's laughing now, eh brother? Me! I'm laughing! Ha! From now on it's two against one! No more embarrassing--. 
 
 Huh? Wait, stop screaming. Hey! Shut up. Listen.
 
-No seriously, stop freaking out. You're not going crazy. I just - cough, cough, splutter - Did you just throw water in your face? I felt it! I'm a GENIUS. The bond is even stronger than I expected. I wonder if I can...
+No seriously, stop freaking out. You're not going crazy. I just - cough, cough, splutter.
+
+Did you just throw water in your face? I felt it! I'm a GENIUS. The bond is even stronger than I expected. I wonder if I can...
 
 Hey! Slap yourself in the face. 
 
-No? I guess senses are the limit. At least you stopped screaming, though. That part wasn't fun. I'm going to have to figure out some kind of filter for people who startle easily. It's like, what, you've never had a second consciousness spontaneously sprout in your mind? What are you, some kind of farmer? Oh... 
+Shoot. I guess senses are the limit. 
+
+At least you stopped screaming, though. Nobody enjoyed that. I'm going to have to figure out some kind of filter for people who startle easily. It's like, what's the big deal? So a second consciousness spontaneously sprouted in your mind. You don't have to freak out about it.
 
 Hey! Would you mind looking around? I want to see if there are any distinguishing substances I could use to filter out people like you when I try this again.
 
 What's that? Don't worry about it. It turns out you _are_ going crazy. No wait, I've got a better one. 
 
-Ooooh, I'm a ghoooost. Now pick up that rock and tell me if it tastes like it has a higher than normal zinc concentration or I'll eat your soulllll.
+I'm a ghoooost. Oooooh. Now pick up that rock and tell me if it tastes like it has a higher than normal zinc concentration or I'll eat your soulllll.
 
 Ugh, this is taking so long. I have things to do! Manabu will be back soon with a location for the beast. I'll just have to figure something out for the filter on my own. 
 
@@ -36,25 +42,31 @@ Your life seems interesting. Super sad though. Hang in there, buddy. You keep on
 
 ...
 
-Phew! Mother's scales that guy was _dull_. Good thing it wasn't permanent like Manabu said it would be. Hah! Manabu, overcautious as always. That's why I'll be the last one standing at the Tournament's end.
+Phew! Mother's scales that guy was _dull_. Good thing it wasn't permanent like Manabu said it would be. Ha! Manabu, overcautious as always. That's why I'll be the last one standing in the end.
 
-I pull the metal band off my head and take a look at the cloudy white void stone inlaid at its center. The stone is badly cracked and it fades to grey in my hands. Guess it's a single use.
+I pull the metal band off my head and take a look at the cloudy white void stone inlaid at its center. The stone is badly cracked and it's color quickly fades to grey in my hands. Guess it's a single use per connection.
 
-I lay the headband on the heavy wooden table next to me. It's littered with half finished, badly broken, partially exploded metallic mechanisms. Manabu won't notice one more amidst the pile.
+I lay the headband on the heavy wooden table next to me. It's littered with half finished, badly broken, partially exploded mechanisms. Manabu won't notice one more amidst the pile.
 
-I should probably put something together for the mission before Manabu gets back, otherwise he'll wonder what I was up to. I brush back my thick red robe and pull another void stone from my belt. This one flashes blue occasionally. A miniature thunderstorm crackles within the cloudy white depths. Why is it crackling like that?
+I should probably put something together for the mission before Manabu gets back, otherwise he'll wonder what I was up to. I brush back my thick red robe and pull another void stone from my belt. This one flashes blue occasionally. A miniature thunderstorm crackles within the cloudy white depths. 
+
+I feel a sudden rush of alarm and resist the urge to throw the stone away from me. Why is it crackling like that?
 
 That's a stupid question. It's holding my new seismic resonance, obviously. 
 
-I guess it was pretty recent. Still getting used to the upgrade. I focus on the stone, letting my heart rate rise, stoking my impatience. _Frenetic_. The hairs all over my body stand on end for a minute as the harmonics reestablish themselves. The thunderstorm disappears from the stone in my hands.
+I guess the upgrade _was_ pretty recent. Still getting used to it.
 
-I stow the void stone and walk to the large furnace across the room. I pull open the thick iron door, one hand blocking the searing heat from my face. A few ingots lay amongst the coals, ready in case the inspiration for something fun strikes me unexpectedly.
+I focus on the stone, letting my heart rate rise, stoking my impatience. _Frenetic_. The hairs all over my body stand on end for a minute as the harmonics reestablish themselves. The thunderstorm disappears from the stone in my hands.
 
-Right, time to whip up something quick for the mission. What was the mission again? 
+I stow the now-empty void stone and walk to the large furnace across the room. I pull open the thick iron door, one hand blocking the searing heat from my face. A few ingots lay amongst the coals, ready in case the inspiration for something fun strikes me unexpectedly.
 
-We're hunting down Aratani's source. Sheesh, what's wrong with me? I feel like some of that farmer's dumb rubbed off on me. I need to pull it together before Manabu gets back or he'll suspect something.
+Right, time to whip up something quick for the mission. 
 
-Manabu. I keep saying that name. Who is that?
+Confusion springs from nowhere, washing over me. Mission? What mission? What am I talking about? 
+
+We're hunting down Aratani's source. Sheesh, what's wrong with me? I feel like some of that farmer's dumb rubbed off while I was in his head. I need to pull it together before Manabu gets back or he'll suspect something.
+
+More confusion. Manabu. I keep saying that name. Who is that?
 
 My twin brother! Honestly, how could the effects be this extreme this long after-- oh.
 
@@ -62,53 +74,63 @@ You're still here, aren't you?
 
 Don't just say yes like some kind of idiot! Do you have any idea what this means? Of course you don't. You're a farmer. 
 
-It means Manabu was RIGHT. Ughhh. He's going to be so frosting _smug_. I can just imagine that stupid, imperious face of his. First he'll be like _I told you the link could be permanent._ Then he'll be all _We don't know how void stones react with sentient resonances. You should have waited until we understood more._ 
+It means Manabu was RIGHT. Ughhh. He's going to be so frosting _smug_. I can just imagine that stupid, imperious face of his. First he'll be like _'I told you the link could be permanent.'_ Then he'll be all _'We don't know how void stones react with sentient resonances. You should have waited until we understood more.'_ 
 
-Hey! Could you try to be a little less confused? It's seeping over the bond and it feels... weird. Is this how normal people usually feel?
+Hey! Could you try to be a little less confused? It's seeping over the bond and it feels... weird. Is this how people usually feel?
 
 Wait a minute. You're here with _me_! The link can go two ways? That's fascinating. We didn't expect that. Maybe you've got some sort of-- seriously! Knock it off with the panic and the questions! How am I supposed to think?
 
 Fine! If I explain things to you, will you be quiet? Alright, shut up for a minute and let me check your memories to see how much you already know. 
 
-Gasp. You don't know _anything_. I can't believe this. You were supposed to be my secret weapon.
+Gasp. You don't know _anything_. I can't believe this. You were supposed to be my secret weapon!
 
-OK. Where do I even start with a slate this blank? 
+Yikes. Where do I even start with a slate this blank? 
 
-So, you know the Grand Tournament? All those powerful people fighting to be the next Champion? First things first, I'm one of those people. My brother and I just got chosen by Amaterasu as her favored warriors. Yeah, chosen by a god. We're kind of a big deal. If you'd ever left your farm you'd probably have heard of us.
+OK, so you know the Grand Tournament? All those powerful people running around Yosai, fighting to be the next Champion? First things first, I'm one of those people. My brother and I were just chosen by Amaterasu as her favored warriors. Yeah, chosen by a god. We're kind of a big deal. If you'd ever left your farm you'd probably have heard of us.
 
-Anyways, have you ever wondered where we all get our crazy powers? 
+Anyways, have you ever wondered where we all get our crazy powers? Ugh. Of course you haven't. 
 
-Ugh. Of course you haven't. Look, I get it OK? You live a hard life with more important things to worry about than Tournament gossip. You're so frosting _rustic_. But could you at least _pretend_ like there's a bone of intellectual curiosity in your body?
+Look, I get it OK? You live a hard life with more important things to worry about than Tournament gossip. You're so frosting _rustic_. But could you at least _pretend_ like there's a bone of intellectual curiosity in your body?
 
 People have powers. They can do incredible things. This is now relevant to you.
 
-Our abilities come from something called resonance. People with powers, we call them 'anchors'. They draw their power from some source of energy that exists in the world. Imagine a raging river or an area with a lot of seismic activity. We call those sources of power 'surges'. Between the anchor and the surge there's a bond. An anchor can pull energy out of their surge, across the bond, and then manifest that energy around them. 
+Our abilities come from something called resonance. People with powers, we call them 'anchors'. They draw their power from a source of energy that exists somewhere in the world. Like a raging river or an fault line with a lot of seismic activity. We call those sources of energy 'surges'. An anchor can pull energy out of their surge and manifest that energy in the world around them. 
 
-With me so far? Nod if you understand. Hah! See, I _can_ control your body.
+With me so far? Nod if you understand. Ha! See, I _can_ control your body.
 
-OK, so an anchor pulls energy out of a surge, across a bond. To form a bond, you have to be physically near a surge and you also have to share some sort of ideal with it. For a river you could be 'relentless'. Or you might be 'chaotic' like seismic activity. It doesn't matter what, so long as there's a strong similarity. 
+OK, so an anchor transfers energy from a surge across a resonant bond. To create the bond, you have to share some sort of ideal with the surge. For a river you could be 'relentless'. Or you might be 'chaotic' like the fault line. It doesn't matter if it's pretty abstract, so long as there's a strong similarity. 
 
-In theory, anyone can form a bond. But it's very taxing. You can't bond with more than one thing at a time. And even a lot of really powerful people can only do it subconsciously. Those people can only pull power from their source in a fixed way. But some people, like my brother and I, are able to exert conscious control over our bonds. They call us 'adepts' and we're very rare. We can alter the energy as it's coming across, warping the effects a bit.
+Most people maintain the sort of extremely lopsided personality needed to create a resonance. And even people who do usually only do it subconsciously. They're not really aware of the resonant structure. They can only pull power from their source in a fixed way. 
 
-Imagine the string of a guitar. Wait... OK, _phew_. At least you've heard of music before. 
+But some people, like my brother and I, are able to exert conscious control over our bonds. We're called 'adepts' and we're very rare. We can alter the energy as it's coming across, creating a wider range of effects.
 
-So imagine the string of a guitar. Most people, all they can do is pluck a string. Well, no. _Most_ people don't even own a guitar. But ignore them. People who resonate subconsciously, it's like all they can do is pluck a string. They only get one sound. But adepts, we can put our hands on the guitar. We can pinch the string in places to create new notes with different sounds and feelings to it. 
+Here, let me try an analogy. Imagine the string of a guitar. Wait... OK, _phew_. At least you've heard of music.
+
+Don't sound so offended! I'm not taking any level of knowledge for granted anymore.
+
+OK, So imagine the string of a guitar. Most people, all they can do is pluck a string. Well, no. _Most_ people don't even own a guitar. Those are the people who can't resonate at all. But ignore them. 
+
+People who can only resonate subconsciously. For those people it's like all they can do is pluck a string. They only get one sound. That means when they draw energy from their surge it comes out the same every time. If they can throw fire, that's all they can do. And the amount of heat energy that comes across is always the same. As their body gets used to channeling the energy, they'll get better at focusing the energy. But that's about the only change you'll see.   
+
+Being an adept is like being able to make chords with your other hand while you pluck the strings. We can create new notes with different sounds and feelings to them. 
 
 Hey - this is a pretty good analogy isn't it? I should tell Manabu about it. He'll wanna write it down.
 
-Where was I? Right, adepts can make more notes. At first, we can only use one finger to change the sound. But as we get stronger, we can use more fingers to alter the resonance. Ultimately, there are 6 harmonics that we can apply to our bond. 
+Where was I? Right, adepts can make more notes. We call those different notes 'harmonics'. At first, an adept can only change the sound in very basic ways. But as we get stronger, we learn to play increasingly complicated things. Ultimately, there are six harmonics that can be applied to a bond. 
 
-Each new harmonic has a certain quality to it. The first harmonic, for example, is 'malleability'. It lets you bend and shape the energy you manifest. Instead of throwing a big ball of fire, using the first harmonic you could make it into a whip, or shape it to avoid your friends.
+Well, six seems like it should be the hard theoretical limit, at least.
 
-The most important harmonic is the third harmonic. Well, it's certainly the most important one for this conversation. But it's my favorite harmonic anyways. The third harmonic is 'polarity'. 
+You can't just do anything with a harmonic, though. Each one has a very specific way that it changes the energy you draw. The first harmonic, for example, is 'shape'. It makes the energy more malleable as you manifest it. Instead of throwing a big ball of fire, you could use the first harmonic make it into a whip, or bend it around your friends.
 
-You see, the bond between surge and anchor usually has two end points and those endpoints are usually the surge and the anchor. But those endpoints also have a directionality between them. And usually, the directionality is from the surge to the anchor.
+The most important harmonic is the third harmonic. Well, it's certainly the most important one for this conversation. But it's also the most interesting harmonic, in my opinion. It's called 'polarity'. 
 
-Without the third harmonic, things would be pretty boring. Energy would only flow one way, and when you manifested that energy, it would always have to originate from your body.
+You see, the bond between surge and anchor usually has two end points. Those endpoints are usually just the surge and the anchor. And energy can only flow in one direction between those endpoints. And, _usually_, the direction of flow is from the surge to the anchor.
+
+Without the third harmonic, energy only flows one way, and when you manifest that energy, it has to appear in your immediate vicinity. Sure, you can throw it like you throw a rock or something. But it would have to originate from you.
 
 What do you mean 'get to the point'? This is all interesting stuff!
 
-Whatever. With the polarity harmonic, you can alter the poles of a bond. For example, you could reverse the direction, letting you absorb energy around you and transfer it back to your surge. Or you could flare the endpoint out of your body temporarily, allowing you to create an effect that doesn't originate from you.
+Whatever. With the polarity harmonic, you can alter the endpoints of a bond. For example, you could reverse the directionality, letting you absorb energy around you and transfer it back to your surge. Or you could shift the endpoint out of your body temporarily, allowing you to create an effect that doesn't originate directly from you.
 
 And that's it. Happy? No over-explaining. 
 
@@ -116,55 +138,77 @@ Oh? You don't get how that leads to us living inside each others' heads? Wow. It
 
 Jerk.
 
-So in simple terms, I used two polarity harmonics at the same time. The first harmonic let me create another endpoint. I look across the room to the thick wooden table where I set the metal headrest before. That acted as an amplifier to let me throw the new endpoint really far away from myself. But it's tough to aim at that kind of distance, so I just sort of connected to something at random.
+So in simple terms, I used two polarity harmonics at the same time. The first harmonic let me _add_ a third endpoint to the chain. 
+
+I look across the room to the thick wooden table where I set the metal headpiece before. 
+
+That thing over there acted as an amplifier so I could throw the new endpoint really far away from myself. But it's tough to aim at that kind of distance, so I just sort of connected to something at random.
 
 I look back down, returning to my work. A long, serrated blade lays in my lap. An opalescent void stone rests in the hilt, surrounded by a series of gears running along the spine of the blade. One of the gears is stuck so I remove it and start rooting through the surrounding scraps for a smaller one.
 
-What do you mean 'where did this come from?' I've been making it while we talked! You think I have enough time to just sit here and lecture farmers all day? Sheesh. Somebody's got an ego.
+What do you mean 'where did this come from?' I've been making it while we talked! You think I have enough time to just sit here and lecture farmers all day? Sheesh. _Somebody's_ got an ego.
 
-Anyways, I used that amplifier over there to create and project a third endpoint into your head. Then I used another the third harmonic again to reverse the flow so things pointed from you, to me, to the surge. The idea was that if I dropped the surge endpoint, I'd be left with a bipolar connection directed from you to me. Sound familiar? 
+Anyways, I used that amplifier over there to create and project a third endpoint into your head. Then I used the third harmonic _again_ to reverse the directionality. Originally, the energy went from surge, to me, to you. But I changed it so things pointed from you, to me, to the surge. The idea was that once I dropped the surge endpoint, I'd be left with a two-endpoint connection directed from you to me. Sound familiar? 
 
 Wait, seriously? No? 
 
 It sounds like a normal resonance bond! You're the surge, I'm the anchor. If it worked, the process would allow me to create artificial resonance bonds quickly and at huge distances.
 
-The only problem is that resonating with an intelligent surge - I use the term _loosely_ in your case - is always sort of tricky. Both sides can mess with the bond. Usually, the only intelligent surges are gods or Champions. They're entities strong enough to dominate the bond and cancel out any subconscious fidgeting from a new anchor.
+The only problem is that resonating with an intelligent surge - and I use the term 'intelligent' _loosely_ in your case - is tricky. Both sides can change and mess with the bond. Usually, the only intelligent surges are gods or Champions. They're strong enough to dominate the bond and cancel out any subconscious fidgeting from a new anchor.
 
-Manabu worried that the process for artificial resonance might create a closed loop bond. Remember how I said resonance requires some sort of ideological symmetry? When I connected the two of us out-of-the-blue, we both started reflexively trying to adapt to the bond. Like how you catch your balance when you stumble. We both tried to warp the bond to our own ideology while also trying to shift our own personality a bit. Now we're both just chasing each other in circles trying to stabilize the bond. And because it can't stabilize, I can't end it.
+So remember how I said resonance requires some sort of ideological symmetry? When I connected the two of us out-of-the-blue, we both started reflexively trying to adapt to the bond. Like how you catch your balance without thinking when you stumble. We both tried to adjust the bond to match our own ideology while also compromising and shifting our own personality a bit. 
 
-I told Manabu that we might be able to break the closed loop by transferring my half of the bond into a void stone. I tap the hilt of the sword in my hands. These crystals are completely blank when it comes to resonance. They can hold a bond with anything. Manabu and I invented them.
+Manabu worried that the process for artificial resonance might create a permanent unstable bond. Basically, his fear was that we'd both just continue chasing each other in circles trying to stabilize on a single ideal. And the bond can't be ended until it stabilizes.
 
-Which - ugh - it's a pretty big deal! Basically, Manabu and I can use the third harmonic to transfer our half of a resonant bond into the stone. The stone latches on and we're free to resonate with a different surge. But we can still pull energy out of the void stone. 
+I thought that we might be able to break the endless cycle by transferring my half of the bond into a void stone. 
 
-Admittedly, we can't pull the energy out at full strength. The void stone is pretty much permanently stuck at a first level harmonic. But we're the only people in the world who can access the power of multiple surges! That's why Amaterasu is so interested in us.
+I tap the hilt of the sword in my hands. 
+
+These crystals are completely blank when it comes to resonance. They can hold a bond with anything. Manabu and I invented them.
+
+Which - ugh - it's a pretty big deal! Basically, Manabu and I can use the third harmonic to transfer our half of a resonant bond into these stones. They latch on and we're free to resonate with a different surge while still pulling energy out of the old surge using the void stone. 
+
+Admittedly, we can't pull the energy out at full strength. A void stone can't use harmonics. But we're the only people in the world who can access the power of multiple surges! That's why Amaterasu is so interested in us.
 
 Anyways, I thought I could use a void stone as an interface between us so we wouldn't have to resonate directly. 
 
-And look. I'm just gonna give it to you straight. I was wrong. The void stone shattered trying to hold two ideals at once. We got stuck in a closed loop resonance. Manabu was right. Nobody is happy about it.
+And look. I'm just gonna give it to you straight. I was wrong. The void stone shattered trying to hold both our ideals at once. We got stuck in an unstable resonance loop. Manabu was right. Nobody is happy about it.
 
 Now, do you want the good news, or the bad news first? 
 
 Ugh. A pessimist. _Figures_.
 
-The bad news is that our minds are stuck linked. Probably forever. Because both of us are sort of maintaining the bond at the same time, though, it's not that physically taxing. So I can still resonate with other things. Yeah, I know that only applies to me! I'm just saying.
+The bad news is that our minds are stuck linked. Probably forever. But because both of us are maintaining the bond at the same time, it's not that physically taxing. So I can still resonate with other things. 
 
-And plus, there is some benefit for you. Good news time. The bond isn't fully formed, but it's still circulating energy between us. Probably not enough for you to do any cool magic. But it _is_ probably enough to sustain your body like it does mine. You don't need to eat anymore! And you're _probably_ immortal. Very long-lived at the least.
+Yeah, I know that only applies to me! I'm just saying.
+
+There _is_ some benefit for you, though. Good news time. The bond isn't fully formed, but it's still circulating energy between us. Probably not enough for you to do any cool magic. But it's probably enough to sustain your body like it does mine. You don't need to eat anymore! And you're _probably_ immortal. Very long-lived at the least.
 
 Pretty sweet deal, right? Think of all the farming you'll be able to do!
+
+...
 
 Don't you think you're overreacting a little? 
 
 Hey! I can hear your thoughts you know. Sheesh, if it bugs you so much just try not to think about it. So long as neither of us focuses on the other, the bond should fade into the background. Our emotional states will still bleed across, but conscious thoughts won't. 
 
-I think. That's how normal resonance works at least. The bond is always sort of there, but you're not shooting fireballs out of your hand every second. 
+I think. That's how normal resonance works, at least. The bond is always sort of there, but you're not shooting fireballs out of your hand every second. 
 
 Let's give it a shot.
 
-<br /> --- <br /> <br />
+<br />
+
+---
+<br />
+<br />
 
 See that worked pretty well! You were worried for nothing. Oops, sorry. OK, OK. Carry on.
 
-<br /> --- <br /> <br />
+<br />
+
+---
+<br />
+<br />
 
 What do you think would happen if we ever looked at each other? Do you think it'd be like two mirrors in front of each other, but in _our minds_?
 
@@ -196,7 +240,7 @@ I'm standing on a steep, rocky incline leading up from a small cove. The boat we
 
 A few chunks of stone skitter past my feet, bouncing down the hillside. I look up. Manabu has reached the top. His long robes, a mix of muted brown and crimson, flap about his lanky form. Even after more than an hour of scrambling up the slope, his robes are immaculate. His long, delicate fingers are unstained by any of the dirt and moss that fills the cracks between rocks. The jagged sword I made earlier is strapped across his back, the gears whirring.
 
-The last 10 feet are nearly straight up, but Manabu doesn't bother looking for handholds. There's a faint _whoomph_ and my hair is blown back by a flash of hot air. Manabu floats delicately upwards, rising to the top of the cliff and stepping down onto solid earth again. He turns towards me, extending a hand downwards.
+The last ten feet are nearly straight up, but Manabu doesn't bother looking for handholds. There's a faint _whoomph_ and my hair is blown back by a flash of hot air. Manabu floats delicately upwards, rising to the top of the cliff and stepping down onto solid earth again. He turns towards me, extending a hand downwards.
 
 "Care for a lift, brother?" He's smiling. Levitation is a new trick he learned.
 
@@ -210,7 +254,7 @@ Before I have a chance to do anything else, my body lurches to a halt. Manabu li
 
 Manabu deposits me in front of him, a look of concern on his face. "You need to be more careful, brother. You didn't account for the increased draw from the new surge." There's a flash of heat across my face as Manabu burns away the dust and dirt. "You should use--"
 
-"--the second harmonic to modulate intensity." I scratch at my face, getting dirt on my cheeks again. It always itches when he does that. We have superhuman abilities and he finds a way to use it for cleaning? Honestly. "I know, I know! You've only told me 38 times in the last 3 weeks, Man."
+"--the second harmonic to modulate intensity." I scratch at my face, getting dirt on my cheeks again. It always itches when he does that. We have superhuman abilities and he finds a way to use it for cleaning? Honestly. "I know, I know! You've only told me 38 times in the last three weeks, Man."
 
 "43 times, I think." 
 
@@ -224,7 +268,7 @@ Oh, right. I keep forgetting you need more context. So, usually the energy you p
 
 In the meantime, remember how I said adepts can manipulate their bonds? Well the second harmonic allows for modulating the intensity of the energy that comes across. But using harmonics takes a lot of effort. Even more than regular resonance. So right now Manabu is trading off stamina for control. I'd rather just get better at focusing.
 
-I turn away from my brother, inspecting the woods around us. The trees are huge. Almost 10 feet wide, with trunks over 100 feet high. Thick, sinewy roots spread from the base, covered in green moss. The forest floor is almost entirely covered. I wonder what kind of trees these are.
+I turn away from my brother, inspecting the woods around us. The trees are huge. Almost ten feet wide, with trunks over 100 feet high. Thick, sinewy roots spread from the base, covered in green moss. The forest floor is almost entirely covered. I wonder what kind of trees these are.
 
 What do you mean, Camphor? Camphor what? Oh! The trees are Camphor trees. Hey, watch this.
 
@@ -272,7 +316,7 @@ Standing water, you said?
 
 Manabu looks surprised for a moment. Eventually he nods approvingly. "That was a strange amount of foresight, brother. Well done."
 
-I swear to the Dawnforge he looks proud right now. He's only 3 seconds older than me! 
+I swear to the Dawnforge he looks proud right now. He's only three seconds older than me! 
 
 <br /> --- <br /> <br />
 
@@ -306,7 +350,7 @@ My breathing is shallow. My hands begin to sweat. I've never seen anything like 
 
 At the back of the cave, roots have been formed into what can only be described as a trophy case. Gems sit atop gnarled pillars of wood, the bark slowly growing around them. Swords and shields swing from vines. Clockwork mechanisms ranging from hand-sized to larger than a cart sit in organic wooden cages. 
 
-Aratani has been waging war against civilization and the 5 Races' desire to create for almost 10 years. And we just found the stash of things even _she_ thought were too impressive to destroy.
+Aratani has been waging war against civilization and the five Races' desire to create for almost ten years. And we just found the stash of things even _she_ thought were too impressive to destroy.
 
 I squirm my way between the rough-barked bars of one of the larger cages. Inside is a metal wheel three feet wide and taller than myself. On both of its circular faces, gems have been set into the metal near the edges.
 
@@ -328,7 +372,7 @@ I turn back to the wheel, wondering how it works.
 
 Oh! Right. I almost forgot you were there. Sorry. I'm guessing you've never seen artifacts like this, huh? They're pretty rare, which is why finding so many in one place is so unbelievable. 
 
-Why are they rare? Look at you! 3 days connected to a powerful magical being and now you're thinking 'why isn't magic just everywhere?'. Not so rustic anymore, eh? 
+Why are they rare? Look at you! three days connected to a powerful magical being and now you're thinking 'why isn't magic just everywhere?'. Not so rustic anymore, eh? 
 
 Artifacts like this are rare because you have to form them using the fourth harmonic. It takes a very skilled adept to reach that level - Manabu and I just reached it a few months ago. 
 
@@ -358,7 +402,7 @@ The snake? OH RIGHT THE SNAKE.
 
 The snake lunges towards Manabu, it's mouth opening in slow motion. There's a shimmer along it's fangs. A faint mist of poison fills the space in it's mouth. Manabu is still turning, a book in each hand. 
 
-I reach to my belt, pulling off two metal spheres and hurling them at inhuman speed. One strikes at the base of the snake's jaw. The other hits the snake's body where it hangs from the ceiling. There's a satisfying _zzt_ as both projectiles deliver their charge. The snake's muscles tense involuntarily, snapping it's jaw shut and causing it to veer off course from my brother. It crashes heavily into the ground 10 feet away from Manabu, leaving a long gouge in the trees along the wall.
+I reach to my belt, pulling off two metal spheres and hurling them at inhuman speed. One strikes at the base of the snake's jaw. The other hits the snake's body where it hangs from the ceiling. There's a satisfying _zzt_ as both projectiles deliver their charge. The snake's muscles tense involuntarily, snapping it's jaw shut and causing it to veer off course from my brother. It crashes heavily into the ground ten feet away from Manabu, leaving a long gouge in the trees along the wall.
 
 The books in Manabu's hands erupt into flames as he focuses a blast of fire in front of him. The flame jet slams into the snake's side, hissing as it burns away some of the snakes scales. All around Manabu, the wood is blackened and scorched. Manabu looks to the charred remains of the bookshelf next to him, crestfallen.
 
