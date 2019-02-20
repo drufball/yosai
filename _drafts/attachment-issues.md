@@ -438,7 +438,7 @@ But Mamoru doesn't stop there. The flames surrounding the blade shrink as he foc
 
 Manabu lands in a crouch behind the snake, one hand planted on the ground and the glowing sword held behind him. He rises from his crouch and spins, swinging the sword in front of him. The heat of the blade ignites an arc of flame in the air, which races forward. Another sizzle as the heat impacts the snake's scales.
 
-Ugh, why does he have to be so frosting _cool_? Ha! That was a pretty good pun. Do you think it's too late to say it out loud?
+Ugh, I shouldn't have given him the sword. _Showoff_.
 
 I'm so focused on my brother, I don't see the tail whipping towards me from behind. There's a crunching sound as the back half of the creature comes crashing through the wooden cage I'm still standing in.
 
