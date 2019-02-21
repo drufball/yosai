@@ -12,7 +12,7 @@ reader.
 # Short Stories: 1/25
 
 # Today's Stats
-**Words written:** 1,976  
+**Words written:** 557 (Done writing for the week)  
 
 **7 day average:** 2,059    
 
