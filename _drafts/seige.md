@@ -221,13 +221,13 @@ Chiyoko and Tsukuyomi walked to the head of the army, dropping to a terrace belo
 
 Mamoru immediately began to approach, but Hideyo put out her arm. "Wait, it could be a trap. What if they're just trying to take out the three biggest threats before the fight begins? They should come to us."
 
-On the other side of Mamoru, Katsumi began to walk forward. "If I die today, it will be surrounded by enemies, ripping out the throat of one of those dragons. Cower by the wall like a little mouse if you must."
+On the other side of Mamoru, Katsumi began to walk forward. "If I die today, it will be surrounded by enemies, ripping out the throat of one of those dragons. Cower by the wall if you must."
 
 Hideyo blinked, stung by the words. Mamoru pushed past her and joined Katsumi, drawing his axe from over his shoulder.
 
 Hideyo hesitated a moment longer. "That woman is going to get us all killed." Reluctantly she trotted after them, moving quickly to catch up.
 
-Tsukuyomi sat behind Chiyoko, his tails billowing about him. His ice-blue eyes glistening in the cold morning light. Chiyoko stood five feet in front. She looked the same as she always had save for her eyes. They were the same blue as the god's.
+Tsukuyomi sat behind Chiyoko, his tails billowing about him, ice-blue eyes glistening in the cold morning light. Chiyoko stood five feet in front. She looked the same as always save for her eyes. They were the same blue as the god's.
 
 The air was noticeably colder as Mamoru and the others pulled themselves onto the terrace and stood face to face with the pair.
 
@@ -237,7 +237,7 @@ Chiyoko looked to Hideyo. "Is it true? Where is Seiji?" She looked tense.
 
 Hideyo was silent, glaring at Chiyoko. Mamoru stepped forward. "He's alive. But he's still unconscious." 
 
-One of Tsukuyomi's tails arced forward slowly in front of the Tsukuyomi's face. His eyes turned towards the tail, ignoring the group for a moment. "Unconscious? A shame."
+One of Tsukuyomi's tails twisted forward slowly in front of the god's face. His eyes turned towards the tail, ignoring the group for a moment. "Unconscious? A shame."
 
 There was silence for a time. No one seemed to know what to say. Mamoru and the others remained tense, ready to move at a moment's notice. Eventually, Hideyo broke the silence. "We're prepared to fight if we have to. But as you can see by the flags along our wall, we're ready to surrender. Are you here to discuss terms?"
 
@@ -249,69 +249,69 @@ Mamoru nodded knowingly. His hand tightened on the shaft of his axe and he glare
 
 Mamoru paused, letting his axe drop slightly. "Huh?"
 
-Hideyo finally tore gaze from Chiyoko. Her eyes narrowed as she turned them towards Tsukuyomi, who was still in the process of inspecting his tail. "I second Mamoru's confusion. That seems... strangely lenient. What's to stop us from turning on you at the first opportunity? A promise can be broken. Why take that risk? What do you get out of this deal? "
+Hideyo finally tore her gaze from Chiyoko. Her eyes narrowed as she turned towards Tsukuyomi, who was still in the process of inspecting his tail. "I second Mamoru's confusion. That seems... strangely lenient. What's to stop us from turning on you at the first opportunity? A promise can be broken. Why take that risk? What do you get out of this? "
 
 Tsukuyomi looked back down to the dwarven woman. The ground rumbled as he chuckled. "My my. She's gotten one good shot at slaying me and now she assumes it will happen again. It took an army, led by the six strongest members of your people, _years_ just to find one opportunity. And you failed." Tsukuyomi's lips pulled back in a smile, showing too many teeth. "So please go on about this great risk we're taking.
 
 "As for what we gain, the answer is time. Now that this diversion has reached its end, we planned to wipe the slate clean. Rebellion was fun. Now we'd like to try something new. But starting from scratch is so _slow_. Yosai is quite boring when it's empty. With you lot serving us, we don't have to start over, but we also don't have to waste our time policing the five races. 
 
-"You'd have us serve him? Listen to how he talks about the five races. Like pieces in a game. At least if we die now, others can try to fight in our place. If we join the gods, their control will be absolute."
+Hideyo turned back to Chiyoko. "You'd have us serve him? Listen to how he talks about us. Like pieces in a game. At least if we die now, others can try to fight in our place. If we join the gods, their control will be absolute."
 
 "I--." Chiyoko sighed in frustration. "There's so much to explain! Let me start with this." Chiyoko pointed to her eyes, shining blue. "Tsukuyomi explained to me where we all get our powers. We each have a bond with a source of energy somewhere in the world. When we use our abilities, we're drawing from whatever that source of energy is. Mamoru, take your strength for example. It probably comes from the people of Hokko."
 
 Mamoru blinked, clearly confused by the direction the conversation was going. "What does this have to do with anything right now?"
 
-"It has _everything_ to do with right now!" Chiyoko's eyes flashed, feral for a moment before she calmed herself. "Everything hinges on this. You see, in order for a bond to form, you have to be ideologically similar to whatever the source of power is. Mamoru, your loyalty embodies this town. Everyone takes care of everyone else. And because you believe that to your core, you're able to draw energy from the people around you. And the more power you draw from your bond, the more strongly you come to embody the ideal created it. 
+"It has _everything_ to do with right now!" Chiyoko's eyes flashed, feral for a moment before she calmed herself. "Everything hinges on this. In order for a bond to form, you have to be ideologically similar to whatever the source of power is. Mamoru, your loyalty embodies this town. Everyone takes care of everyone else. And because you believe that to your core, you're able to draw energy from the people around you. And the more power you draw from your bond, the more strongly you come to embody the ideal that created it. 
 
-"But your bond can _change_ if your ideals change. Or if you find a different source of energy that shares similar ideals. That's what happened to me. I kept putting my trust in others and it kept leading to the things I cared about getting hurt. I was frustrated with Yoshinobu and how he was putting people's lives in danger. How he was putting your life in danger." Chiyoko looked to Mamoru. "I decided I had to protect the things I cared about myself. And when I made that decision, I started to resonate with Tsukuyomi.
+"But your bond can _change_ if your ideals change. Or if you find a different source of energy that shares similar ideals. That's what happened to me. I kept relying on others and the people I cared about kept getting hurt." Chiyoko looked to Mamoru. "I decided I had to protect the things I cared about myself. And when I made that decision, I started to resonate with Tsukuyomi.
 
 "That's why the bonds are so important. I couldn't convince the gods to let you go free. You're all too powerful. But if each of you can shift your bond to one of them, they'll let you live. You're not just making a promise to serve. Over time, it will change who you are. That's why they're not worried."
 
 "My point still stands then. If we save ourselves, the five races will be subjugated forever."
 
-"It won't be that way. Yes, no one will be able to overthrow the gods. But we won't have to. These bonds I'm talking about, the changes they create go in both directions. We'll become more like the gods, but they'll also become more like us. And those changes will ripple through all the beasts they've created." Chiyoko gestured at the gods' army above them. "The rebellion was never going to succeed. But even if it had, what happened after we killed the gods? We'd still be trapped in the vicious playground they built for us. This is the only way we can actually build a future that doesn't destroy everything in the process."
+"It won't be that way. Yes, no one will be able to overthrow the gods. But we won't have to. These bonds I'm talking about, the changes they create go in both directions. We'll become more like the gods, but they'll also become more like us. And those changes will ripple through all the beasts they've created." Chiyoko gestured at the gods' army above them. "The rebellion was never going to succeed. Even if we had killed the gods, what would happen next? We'd still be trapped in the vicious playground they built for us. This is the only way we can actually build a future that doesn't destroy everything in the process."
 
 Hideyo paused, considering Chiyoko's words.
 
-Mamoru took another step forward, looking between Hideyo and Chiyoko. Eventually his gaze settled on Chiyoko, looking into her eyes. "The two of you are so focused on what comes at the end. You always keep your eyes forward, looking to where we're going. That's why you were always the better tracker than me.
+Mamoru looked between Hideyo and Chiyoko. Eventually his gaze settled on Chiyoko, looking into her eyes. "The two of you are so focused on what comes at the end. You always keep your eyes forward, looking to where we're going.
 
 "But we can't just focus on the outcome. Getting there, it shapes who we are. Whatever result we end up with, then we have to _live_ as the people who got to that point. Hideyo wanted me to abandon her so that the villagers in Hokko could survive. But then we would be a village of people who abandon their friends to save themselves. You want us to pledge ourselves to the gods. But then we would be a race who bows to tyrants. We would give them everything, despite what they've done, so long as they give us a choice we can't refuse.
 
 "We can't just strive for a perfect world. We have to deserve it when we get there." Mamoru took one last look at Chiyoko. He smiled sadly. Then he turned, facing the giant fox god behind her. "You killed my mother. Make whatever deals you want with them when we're done, but I will not bow to you." 
 
-Mamoru gripped his axe, knuckles white. He raised the weapon over his head and roared, the muscles on his body surging. The ground beneath his feet shattered as he leapt with all his might towards the god.
+Mamoru gripped his axe, knuckles suddenly white. He raised the weapon over his head and roared, the muscles on his body surging. The ground beneath his feet shattered as he leapt with all his might towards the god.
 
 He moved faster than anyone in the group could react. Even Tsukuyomi seemed caught off guard. As he flew through the air, Mamoru's axe began to spark. Small pulses of electricity flared to life across the blade, disappearing just as quickly.
 
-Arcing out of the woods, directly towards Mamoru's hand, lightning struck.
+Arcing out of the woods, directly towards Mamoru's axe, lightning struck.
 
-As the bolt of electricity connected with Mamoru's hand, the energy condensed, forming a hand. The bolt flared, blinding everyone as it materialized into a gigantic human form holding Mamoru's wrist. Mamoru's arm wrenched as his momentum was completely halted.
+As the bolt of electricity connected with Mamoru's arm, the energy condensed, forming a hand. The bolt flared, blinding everyone as it materialized into a gigantic human form holding Mamoru by wrist. Mamoru's body swung violently as his momentum was completely halted.
 
-"Whoo! What a speech!" With their free hand, the creature clapped against their forearm, causing Mamoru to shake in the air. "Right before dramatically leaping to your death, too!" Their voice crackled and distorted like static shocks off a blanket. They had the shape of a human, though they were nearly 15 feet tall. A cloak covered their body, hood up. Their lean muscled limbs were wrapped tightly in bandages. A porcelain mask covered their face. Across the blank white surface of the mask, electricity crawled, forming eyes and a mouth that moved in conjunction with the creature's words.
+"Whoo! What a speech!" With their free hand, the creature clapped against their forearm, causing Mamoru to shake in the air. "Bonus points for dramatically leaping to your death right afterwards." Their voice crackled and distorted like static shocks. They had the shape of a human, though they were nearly 15 feet tall. A cloak covered their body, hood up. Lean-muscled limbs were wrapped tightly in bandages. They wore a blank white mask with electricity crawling across its surface. The energy shaped itself into eyes and a mouth that moved in conjunction with the creature's words.
 
-Chiyoko reacted before the rest. In a blur of movement, she pulled the bow from her hip as she turned towards the new creature. The air popped as she pulled an ice arrow into exist and took aim. "Put him _down_ Susano." 
+Chiyoko reacted before the rest. In a blur of movement, she pulled the bow from her hip as she turned towards the new creature. The air popped as she pulled an ice arrow into existence and took aim. "Put him _down_ Susano." 
 
-Susano lifted Mamoru by the arm, bringing his face to their own. Despite Mamoru's bulk, they seemed to moved him with ease. "Relax. I like this one!" There was a crack in the air as the creature and Mamoru disappeared in a flash of electricity. They reappeared ten feet away, standing on the other side of Tsukuyomi. The creature now held Mamoru around the shoulders with both hands. "I choose him." They planted Mamoru on the ground roughly, the ground buckling under Mamoru's feet as he absorbed the shock with his legs.
+Susano lifted Mamoru by the arm, bringing his face to their own. Despite Mamoru's bulk, they lifted him with ease. "Relax. I like this one!" There was a crack in the air as the creature and Mamoru disappeared in a flash of electricity. They reappeared ten feet away, standing on the other side of Tsukuyomi. The creature now held Mamoru around the shoulders with both hands. "I choose him." They planted Mamoru on the ground roughly, the ground buckling under Mamoru's feet as he absorbed the shock with his legs.
 
 Susano peered around the nine tailed fox's shoulder. "Leave it to you to pick the most dramatic one, Tsuk." The electricity arcing across their face formed into a tongue sticking out at Chiyoko.
 
-One of Tsukuyomi's tails flicked forward and snapped across the back of Susano's head lightly. "And leave it to you to pick the biggest fool." Tsukuyomi growled at Mamoru briefly.
+One of Tsukuyomi's tails flicked forward and snapped across the back of Susano's head. "And leave it to you to pick the biggest fool." Tsukuyomi growled at Mamoru.
 
-Susano rubbed the back of their head. "Ow! Sheesh what was that for. Hey, what'd you think of the entrance? Pretty cool, right?" Tsukuyomi rolled his eyes.
+Susano rubbed the back of their head. "Ow! Sheesh, what was that for? Hey, what'd you think of the entrance? Pretty cool, right?" Tsukuyomi rolled his eyes.
 
-Chiyoko sighed, relaxing her bow and standing out of her crouch. Mamoru still seemed stunned by the sudden change in circumstances, but Hideyo and Katsumi were both tensed, ready. to attack. The ice arrow dissipated in Chiyoko's hand as she raised it in a calming gesture. "It's OK, we're still just here to talk." Chiyoko turned back towards the woods and raised her voice. "I guess you all might as well come out now."
+Chiyoko sighed, relaxing her bow and standing out of her crouch. Mamoru still seemed stunned by the sudden change in circumstances, but Hideyo and Katsumi were both tensed, ready to attack. The ice arrow dissipated in Chiyoko's hand as she raised it in a calming gesture. "It's OK, we're still just here to talk." Chiyoko turned back towards the woods and raised her voice. "I guess you all might as well come out now."
 
-There was more movement amongst the gods' army as two more figures emerged from the tree. The first was a man similar in height to Susano, but more solidly built. His skin was like burnished silver and he wore immaculate white robes. Six diamond shaped pieces of metal, each a different type, orbited his head like a halo. Ninigi, The Emperor.
+There was more movement amongst the army as two more figures emerged from the tree line. The first was a man similar in height to Susano, but more solidly built. His skin was like burnished silver and he wore immaculate white robes. Six diamond shaped pieces of metal, each a different type, orbited his head like a halo. Ninigi, The Emperor.
 
-Beside him, slightly taller, walked a woman with rough, brown skin made of bark. Her clothes were a chaotic weave of vines and leaves. Sharply pointed antlers, three feet in length, emerged from her forehead. Around them, long brown hair flowed to the woman's waist. Pink flowers were continually blossoming and wilting in her hair, the dead petals trailing behind her. Sakuya, The Woodheart.
+Beside him, slightly taller, walked a woman with rough, brown skin made of bark. Her clothes were a chaotic weave of vines and leaves. Sharply pointed antlers, three feet in length, emerged from her forehead. Around them, long brown hair flowed to the woman's waist. Pink flowers were continuously blossoming and wilting in her hair, the dead petals trailing behind her. Sakuya, The Woodheart.
 
-Above them, the trees rustled as a massive serpentine form emerged. Floating through the air was an enormous, golden dragon. It was similar in shape to the dragons that floated about the army, but over twice as large. As she flew, the air around the dragon periodically ignited into ribbons of flame. Amaterasu, The Dawnforge.
+Above them, the trees rustled as a massive serpentine form emerged. Floating through the air was an enormous, golden dragon. It was similar in shape to those that already floated about the army, but over twice as large. As she flew, the air around the dragon periodically ignited into ribbons of flame. Amaterasu, The Dawnforge.
 
 The three came to rest near Susano and Tsukuyomi. Arrayed behind Chiyoko were the five gods of Yosai.
 
-Hideyo took a step backwards, overwhelmed by the gods' appearance. Seeing her step backwards, Amaterasu - the giant gold dragon - flowed towards Hideyo. Hideyo's hands ignited reflexively. She held them the flames in front of her defensively.
+Hideyo took a step backwards, overwhelmed by the gods' appearance. Seeing her step backwards, Amaterasu - the giant gold dragon - flowed towards Hideyo. The small woman's hands ignited reflexively. She held the the flames in front of her.
 
-The Dawnforge continued, swirling around Hideyo. As she did, the flames leapt from Hideyo's hands of their own accord, joining the random bursts of flame already swirling around the dragon.
+The Dawnforge continued, swirling around Hideyo. As she did, the flames leapt from Hideyo's hands of their own accord, joining the random bursts already swirling around the dragon.
 
 "You are the one who built those towers below, yes? Chiyoko has told me about you. About the things you create. I have been so _disappointed_ with the five races. All you do is destroy and consume. When we shaped you, I had such hopes for what you would build."
 
@@ -319,29 +319,29 @@ Hideyo looked around nervously as the god encircled her. Sweat formed on her bro
 
 Susano bent at the waist, looking down at Mamoru between their legs. A small jolt of energy arced to Mamoru's shoulder from the god's finger tip. Mamoru tensed. "Hey, wasn't there supposed to be another one of you?"
 
-"I... uh... Seiji is unconscious. In the village." Mamoru's fury had left him completely, overwhelmed by the rapid developments.
+"I... uh... Seiji is unconscious. In the village." Mamoru's fury had left him completely, undone by the rapid developments.
 
-Chiyoko turned towards Susano, the ground beneath her feet frosting ominously. "You will not treat him like a plaything, Stormbringer. I told you this before." To her left, Tsukuyomi growled softly, adding weight to her words. 
+Chiyoko turned towards Susano, the ground beneath her feet frosting. "You will not treat him like a plaything, Stormbringer. I told you this before." To her left, Tsukuyomi growled softly, adding weight to her words. 
 
 Susano held both of their hands up in front of them. "Woah! Lighten up! I'm just getting to know the guy." Susano stepped to the side of Mamoru and patted his back with a massive hand. There was another spark and Mamoru jumped forwards. "Whoops! Sorry. Really - I've just never tried to _not_ do it before."
 
-As Mamoru walked towards Hideyo and Katsumi, Susano pointed a finger at Ninigi's spinning metal halo and arced a lightning bolt to it. "Hey Ninigi, wasn't Seiji the one you were interested in? Sounds like you got the weak one!" Ninigi caught the lightning bolt in his hand, ignoring Susano's comment. 
+As Mamoru walked towards Hideyo and Katsumi, Susano pointed a finger at Ninigi's spinning metal halo and arced a lightning bolt towards it. "Hey Ninigi, wasn't Seiji the one you were interested in? Sounds like you got the weak one!" Ninigi caught the lightning bolt in his hand, ignoring Susano's comment. 
 
-The giant gold dragon stopped circling Hideyo and swam through the air to Susano, wrapping around them. Unlike when she was circling Hideyo, the Dawnforge let her body, and the flames around her, connect with Susano. They yelped and there was a crack as their body shifted to lightning. It reappeared outside the dragon's embrace. There was a warmth to Amaterasu's voice as she spoke to Susano. "Always causing trouble."
+The giant gold dragon stopped circling Hideyo and swam through the air to Susano, wrapping around them. The Dawnforge let her body, and the flames around her, connect with Susano. They didn't seem to mind. There was a warmth to Amaterasu's voice as she spoke. "Always causing trouble."
 
 When Mamoru passed Chiyoko, she caught him, placing a hand on his thickly muscled chest. She caught his eyes. "I know you could never work with Tsukuyomi, Mamoru. I'm not asking you to. Susano may seem crazy, but they're loyal. They believe much of what you do. Right now the Stormbringer is callous and unthinking, but if you guide them... I think you would like what they become."
 
-Mamoru placed a hand over Chiyoko's. "It doesn't matter, I can't support that beast, even indirectly." Mamoru looked over Chiyoko's shoulder at Tsukuyomi.
+Mamoru placed a hand over Chiyoko's. He looked over her shoulder towards the white-furred fox behind her. "It doesn't matter, I can't support that beast, even indirectly."
 
-"You won't be." Chiyoko turned her back on the gods and spoke to the rest of the group. "There's still one part of the terms I haven't mentioned yet. We don't just have to wait and hope our bonds make the gods grow a conscience. They wanted a new game to hold their interest, so I proposed one. A competition. Between _them_.
+"You won't have to." Chiyoko turned her back on the gods and spoke to the rest of the group. "There's still one part of the terms I haven't mentioned yet. We don't just have to wait and hope our bonds make the gods grow a conscience. They wanted a new game to hold their interest, so I proposed one. A competition. Between _them_.
 
-"The gods have agreed to a set of rules. When we bond with them, we will each be given a domain, an area that we have complete control over. None of the gods, or the creatures they've created will be allowed to interfere within that domain. Even outside of our domains, gods and their creatures must offer any member of the five races a _reasonable_ challenge before they doing anything that would cause that person harm. If the person passes the challenge, they must be left alone.
+"The gods have agreed to a set of rules. When we bond with them, we will each be given a domain, an area that we have complete control over. None of the gods, or the creatures they've created, will be allowed to interfere within that domain. Even outside of our domains, gods and their creatures must offer any member of the five races a _reasonable_ challenge before doing anything that would cause that person harm. If the person passes the challenge, they must be left alone.
 
 "In exchange, we will train and cultivate powerful people to go out into the world and face those challenges. As they do, they will grow stronger. Whenever one of those people becomes strong enough, they must pledge themselves to a god, the same as us. And then they'll be given their own domain, increasing the influence of the god they've joined."
 
 Ninigi spoke for the first time. His voice deep and solemn. "We will battle for control of Yosai."
 
-Chiyoko continued, excited. "And because of the rules, the people of Yosai will mostly be protected. We'll have control of our domains, able to shield them from the chaos that everyone lives in now. And new people who show promise can test themselves and grow their power beyond the protection of our domains." Chiyoko lowered her voice and spoke so only Mamoru could hear. "You can still work to oppose Tsukuyomi. You can even try to kill him. It will be part of the game. And if you bond with Susano, you'll have more power to fight the fox with. _Please_ Mamoru."
+Chiyoko continued, excited. "And because of the rules, the people of Yosai will be protected. We'll have control of our domains, able to shield them from the chaos that everyone lives in now. And new people who show promise can test themselves and grow their power beyond the protection of our domains." Chiyoko lowered her voice and spoke so only Mamoru could hear. "You can still work to oppose Tsukuyomi. You can even try to kill him. It will be part of the game. And if you bond with Susano, you'll have more power to fight the fox. _Please_ Mamoru."
 
 He paused, looking down at her thoughtfully. Hideyo also seemed to be considering her words.
 
@@ -349,8 +349,116 @@ Katsumi had been silent until now. "You are very convincing. But I do not bow to
 
 Sakuya turned, wilted cherry blossoms falling from her hair as new ones sprung up to take their place. "I care little for this proposal. I would prefer we wipe the land clean, rather than let you weeds continue taking root. But I was outvoted. So yes, I guess we will be playing this game together."
 
-"No. I will not bow to you because you asked. Or to help the five races. I do not fight to save others. I fight because a predator kills. If you wish for me to follow you, then don't let me kill you." Katsumi leaned forward, her body swelling in size. Her arms elongated as her legs bent the wrong direction. She shook her body and grey fur erupted, completing her transformation into a ten foot tall grey wolf.
+"No. I will not bow to you because you asked. Or to help the five races. I do not fight to save others. If you wish for me to follow you, then don't let me kill you." Katsumi leaned forward, her body swelling in size. Her arms elongated as her legs bent the wrong direction. She shook her body and grey fur erupted, completing her transformation into a ten foot tall grey wolf.
 
 Katsumi howled and began to circle Sakuya.
 
-Someone says "Katsumi stop this! you don't stand a chance!" Ninigi says something like "she must learn her place, I respect that" to show love of order.
+Mamoru pushed past Chiyoko, concern on his face. "Kats, what are you doing? Your injuries haven't healed yet." 
+
+Hideyo didn't move, but she looked at the gods nervously. "Even if they had, what do you think you could do in this situation? Think of the people in the city Katsumi. We can't risk a fight."
+
+The wolf ignored them, lowering its head and growling.
+
+Ninigi waved a hand dismissively. "Relax. The shapeshifter seeks to understand her place in the hierarchy. Admirable, if unnecessary. You will not be punished."
+
+Mamoru hefted his axe and continued towards Katsumi, his face set in grim determination. "I'm still not letting you do this alone."
+
+The wolf turned her head and growled in Mamoru's direction. Sakuya raised an eyebrow. "It seems she does not want your help." Mamoru stopped reluctantly, keeping a tight grip on his axe.
+
+Sakuya lifted her arms, palms turned upwards. Thick roots erupted from the ground in front of her, hanging in the air like snakes poised to strike. "Very well. Killing you will be no great loss." The roots lashed out.
+
+Katsumi didn't hesitate, charging forward to meet the onrushing limbs. At the last moment she leapt to the side, letting the limbs rush past. Before the roots could twist around Katsumi caught one in her mouth. Her powerful canine jaws flexed and she bit clean through the wood.
+
+The remaining roots plunged into the ground, erupting directly beneath Katsumi. Her wolf form leapt backwards, avoiding the strike. 
+
+She landed on all fours 10 feet back and stumbled. The fur upon her body rippled and her form began to shrink. Katsumi shook herself and the form stabilized. She sprinted forward again.
+
+This time, the roots flared wide as they neared, making evasion impossible. The giant wolf leapt into the air. As the writhing wooden snakes converged, aiming to encircle Katsumi, her body shrank rapidly, shifting into the form of a small grey monkey.
+
+The monkey ricocheted between the constricting limbs, continuing forward. She burst through a gap and raced towards Sakuya along one of the thick tree roots. Katsumi got within 10 feet and threw herself into the air, enlarging as she took her bear form. 
+
+At the last moment, a thick, gnarled tree limb several feet in diameter sprang from Sakuya's chest and crashed into the bear flying towards her. Katsumi was knocked bodily aside.
+
+The shapeshifter landed heavily, rolling through the dirt. As she slid, Katsumi returned to her human form. She managed to right herself, coming to a halt in a crouch with one hand against the ground. Her other hand held her stomach. She coughed and blood splattered the ground before her. 
+
+The Woodheart clenched her rough-barked hands before her and the ground began to shake. Fissures appeared in the ground racing hungrily forwards. The ground beneath Katsumi ripped open and the woman began to fall. She stretched her arms out and shifted into the form of a hawk. Her body twisted and turned, wings flapping furiously as she dodged the falling rocks around her.
+
+Katsumi emerged from the fissure, angling steeply upwards. But before she could gain any altitude, a thick root whipped from behind, smacking the hawk viciously into the ground. Katsumi's body returned to it's human form the instant she impacted the ground. Her limbs flailed as she bounced. 
+
+Katsumi came to rest face down in the dirt. Her body shook as she slowly tried to rise. The roots snaking through the air turned, surging towards their fallen prey. As they approached, they twisted around one another, fusing into a single massive spike.
+
+"Look out!" Mamoru threw himself forward, standing in front of Katsumi. He squared his feat and raised his axe, ready to absorb the blow.
+
+Katsumi dragged herself upright, breathing raggedly. She wiped blood from her mouth. Her shirt had been badly ripped, revealing the scar on her stomach. Blood poured from it, the wound reopened. "I. said. NO!" Twisting tree roots sprung from the ground to Mamoru's right. He turned in surprise as the roots gripped his arm and pulled him out of the way.
+
+Katsumi caught the onrushing mass of wood as it slammed into her. The muscles in her arms bulged. A vein stood out angrily against her neck as she slid backwards. She slammed the roots into the ground, halting their momentum. Katsumi planted her feet and roared at the sky. The wound along her stomach closed rapidly, the scar tissue replaced by a thick, bark-like skin.
+
+Katsumi rushed forward, faster than she had before. 
+
+Sakuya brought her hands up, drawing more roots from the ground around her. But before the god could send the roots forward, Katsumi thrust her hand out. She clenched them into fists and pulled them apart like she was tearing a cloth in front of her. The ground beneath Sakuya ripped open, forcing the god to stumble and leap to the side.
+
+Katsumi used the distraction to close the distance. Her body swelled as she returned to her massive bear form, throwing herself towards the god. 
+
+Sakuya regained her balance quickly, but Katsumi was too close for her to evade. The Woodheart planted her feet and lunged forward, meeting the onrushing bear with her massive antlers. Even as a ten foot tall bear, Katsumi was still dwarfed by the size of Sakuya. 
+
+Katsumi snapped her jaws, raking out with furious claws. The god's antlers had scored massive slashes across the shapeshifter's shoulders, but they quickly closed, covered with the same bark-skin as earlier.
+
+Sakuya took a step forward. She raised her head, lifting Katsumi's bear form into the air and flinging her ten feet away. Katsumi shifted midair, catching herself as a hawk and arcing back towards her opponent.
+
+As the two fought, Mamoru pulled himself off the ground, ripping free of the roots that had gripped him. He lifted his axe from the ground. But before he could go running forward, there was a crack and a blinding flash. Susano stood before him, bending at the waist, their arms clasped behind their back as they stared down at Mamoru. "Need a hand?"
+
+Mamoru staggered back. "You! Why would you help me?"
+
+"You care about her, right? Seems like a good enough reason to me. Your friend is strong but she's going to die if she keeps fighting alone." Behind Susano, Sakuya had grabbed Katsumi and thrown her to the ground. The god held the shapeshifter in place as tree roots gathered ominously overhead.
+
+Susano held one large hand out, their cloak billowing in the wind. The lightning eyes on their mask scrunched closed as they grinned. "I can give you the power to help."
+
+There was no time to hesitate. Mamoru reached out, clasping Susano's forearm. The loose rocks and dirt surrounding them were flung away as a sphere of electrical current discharged outwards. Mamoru's entire body tensed as he felt his muscles growing even more massive, his body lengthening as he reached nearly 7 feet tall. His eyes glowed a bright blue.
+
+"I'm going to throw you now." Mamoru nodded his ascent. "By the way, I've never done this before."
+
+Mamoru turned towards the god, their hands still clasped. "Thrown someone?"
+
+"No. Had a friend! I always wanted one." Their electric grin widened, almost manic. "But you're all so _fragile_."
+
+Mamoru opened his mouth to respond, but the attempt was cut short. Susano turned their body towards Sakuya, pivoting at the hips and tensing the muscles in their arm. Mamoru barely had time to clamp down on the god's forearm. Even clasping with all his might, Mamoru had a moment of panic that his arm would simply be ripped off. 
+
+The surge of strength from the god was unbelievable. But Mamoru found his muscles filled with new strength. His mind moved faster, allowing him to react as his body was pulled off the ground. He lifted his axe as Susano released him. The air around him began to burn from the speed of his passage. He opened his mouth to roar but the force of his travel pressed the sound to the bottom of his lungs.
+
+Sakuya's eyes moved, glancing in the direction of Mamoru's approach. That was all she managed.
+
+To the rest of the world, Sakuya had Katsumi pinned, ready to deliver a fatal blow. Susano grabbed Mamoru by the forearm. They nodded to each other. The Stormbringer turned, hefting Mamoru. Then Mamoru and Sakuya disappeared. 
+
+In their place, a column of burning air extended from Susano. It passed through the point Sakuya had been standing and burned a line through the woods as far as the eye could see. A ten foot wide swath of the army had been incinerated instantly.
+
+A heartbeat later, a shockwave flattened the surrounding crops. The god's leaned into the surge of pressure and weathered it as it passed them by. Chiyoko barely managed to keep her feet by clutching onto Tsukuyomi. Everyone else was knocked prone.
+
+"Whoops! Maybe that was a bit too much..." There was a crack as Susano disappeared in a flash of sparks. A moment later, another crack heralded their return. The god held Mamoru in their arms. He was unconscious, badly bruised, bleeding from a few gashes, but otherwise still breathing. "Ha! Look at that. He's OK!"
+
+Chiyoko released Tsukuyomi's fur and charged towards Susano. "What have you done? I told you not to treat him like a plaything!" Chiyoko drew her bow and aimed an arrow at the god.
+
+"Hey, woah! I get it! I'm still getting used to working with your kind." Susano laid Mamoru along the ground. "He'll be fine though." Susano looked over their shoulder to Tsukuyomi. "Did you see that? I picked a good one." The god was beaming.
+
+Amidst the confusion, Katsumi picked herself up off the ground and approached. She had returned to her human form, though the bark-like skin remained, covering the spot on her stomach where her scar had been. She crouched beside Mamoru's unconscious body and lifted him delicately.
+
+Holding Mamoru, she turned to Susano. "Sakuya, does she live?"
+
+"Huh? Oh, yeah she's fine. You should have seen her face though! She looked so indignant trudging back through the forest." The god's electric eyes closed again as they laughed. "Are you going to keep fighting her when she gets back?"
+
+Katsumi shook her head. "No. She bested me. I will follow, for now." Katsumi turned away. "Hideyo! Can you come heal Mamoru's wounds?"
+
+Hideyo approached cautiously. She glanced at Katsumi's bark-infused skin. Chiyoko's ice-blue eyes and the frost that formed around her feet when she stopped moving. Mamoru's even more imposing frame.
+
+Hideyo held her hands out as she began sending energy into Mamoru. She looked over his body at Chiyoko, who looked down at her childhood friend in concern. After a moment, Chiyoko took notice and looked up. Hideyo's face was full of anger as she spoke. "You haven't left me with much of a choice, have you?"
+
+There was a tense silence as the two women stared at one another. "The rebellion accepts your terms." Without looking over her shoulder, Hideyo addressed the giant gold dragon. "I will follow you."
+
+<br />
+
+---
+<br />
+<br />
+
+Outline
+- Mamoru must choose between Chiyoko and Katsumi, chooses Kats
+- Some poignant line about Chiyoko's state

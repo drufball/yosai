@@ -12,19 +12,19 @@ reader.
 # Short Stories: 1/25
 
 # Today's Stats
-**Words written:** 2,362  
+**Words written:** 1,976  
 
-**7 day average:** 1,848    
-
-**28 day average:** Coming 3/10/19  
-
-**Hours spent writing:** 4.3  
-
-**7 day average:** 3.15  
+**7 day average:** 2,059    
 
 **28 day average:** Coming 3/10/19  
 
-**Hours spent editing:** 1.3  
+**Hours spent writing:** 3.2  
+
+**7 day average:** 3.5  
+
+**28 day average:** Coming 3/10/19  
+
+**Hours spent editing:** X (Done editing for the week)  
 
 **7 day average:** 1   
 
