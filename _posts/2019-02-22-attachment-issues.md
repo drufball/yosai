@@ -6,8 +6,10 @@ permalink: /compendium/tournament/:title/
 layout: post
 excerpt_separator: <!--more-->
 
-feedback: 
+feedback: https://goo.gl/forms/PbkTRRwtNa3sALIs2
 ---
+**Note: This week, I took a break from [Chiyoko's story](https://yosai.world/compendium/primitive/collateral/) to try out a different style of writing. Next week, I'll return with part 3!**
+
 Gasp! It worked! 
 
 Look at all these colors! Where is this? A farm? The detail is unbelievable.
@@ -23,6 +25,8 @@ No seriously, stop freaking out. You're not going crazy. I just - cough, cough, 
 Did you just throw water in your face? I felt it! I'm a GENIUS. The bond is even stronger than I expected. I wonder if I can...
 
 Hey! Slap yourself in the face. 
+
+<!--more-->
 
 Shoot. I guess senses are the limit. 
 
