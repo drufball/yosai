@@ -11,7 +11,7 @@ The 5 races struggle to establish themselves. The Grand Tournament doesn't yet e
 
 {% for post in site.posts %}
   {% if post.era == "primitive" %}
-  - [{{post.title}}]({{post.url | relative_url }})
+  - [{{post.title}}]({{ post.url | relative_url }})
   {% endif %}
 {% endfor %}
 
@@ -21,7 +21,7 @@ The Grand Tournament has fuelled an expansion in the civilizations of the 5 race
 
 {% for post in site.posts %}
   {% if post.era == "tournament" %}
-  - [{{post.title}}]({{post.permalink}})
+  - [{{post.title}}]({{ post.url | relative_url }})
   {% endif %}
 {% endfor %}
 
@@ -30,6 +30,6 @@ All of Yosai is covered in a single, sprawling metropolis. Advanced, magic-power
 
 {% for post in site.posts %}
   {% if post.era == "megacity" %}
-  - [{{post.title}}]({{post.permalink}})
+  - [{{post.title}}]({{ post.url | relative_url }})
   {% endif %}
 {% endfor %}
