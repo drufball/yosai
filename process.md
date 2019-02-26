@@ -24,9 +24,9 @@ reader.
 
 **28 day average:** Coming 3/10/19  
 
-**Hours spent editing:** 1.75  
+**Hours spent editing:** 1.2  
 
-**7 day average:** 1.3   
+**7 day average:** 1.1   
 
 **28 day average:** Coming 3/10/19  
 

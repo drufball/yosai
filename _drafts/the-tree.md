@@ -1,5 +1,12 @@
 # The Tree
-<!-- TOC -->autoauto- [The Tree](#the-tree)auto- [Beginning at the end](#beginning-at-the-end)autoauto<!-- /TOC -->
+<!-- TOC -->
+
+- [The Tree](#the-tree)
+- [Beginning at the end](#beginning-at-the-end)
+- [First Contact](#first-contact)
+- [Return](#return)
+
+<!-- /TOC -->
 
 # Beginning at the end
 Osoro Kidani sat on a large stone, staring at a soft, mossy patch next to the river. The air was crisp but the sun was high and bright, warming him slowly. The occasional gust, cutting through the valley on its way out the other side, pulled the hard-earned heat from him with greedy fingers, leaving him shivering as he waited for the sun to warm him again. 

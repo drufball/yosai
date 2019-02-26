@@ -9,8 +9,20 @@ excerpt_separator: <!--more-->
 feedback: 
 ---
 
+<!-- TOC -->
+
+- [Bedside Manner](#bedside-manner)
+- [Bad News](#bad-news)
+- [No Choices](#no-choices)
+- [The Army Arrives](#the-army-arrives)
+- [Negotiations](#negotiations)
+- [The Gods Appear](#the-gods-appear)
+- [Fight!](#fight)
+
+<!-- /TOC -->
+
 # Bedside Manner
-Mamoru paused in front of the door. He took a deep breath and rolled his shoulders a few times, steeling himself for the confrontation ahead. He pulled a cloth bandage from the satchel at his side and draped it across one arm. He pressed his coarse hair flat with his free hand.
+Mamoru paused in front of the door. He took a deep breath and rolled his shoulders a few times, steeling himself for the confrontation ahead. He pulled a cloth bandage from the bag at his side and draped it across one arm. He pressed his coarse hair flat with his free hand.
 
 He knocked, wincing as his knuckles wrapped against the wood.
 
@@ -20,11 +32,11 @@ Mamoru pushed the door open slightly and waved his hand through the crack. "Kats
 
 There was a moment of silence. "Come in."
 
-Mamoru slid through the doorway, closing it delicately. The room he stepped into was small and windowless. The ceiling was tall enough for Mamoru to stand at his full six and a half feet, but short enough that he slouched reflexively. A small fire pit smoldered in the corner, coating the wall in soot. 
+Mamoru slid through the doorway into a small, windowless room. The ceiling was tall enough for him to stand at his full six and a half feet, but short enough that he slouched reflexively. A small fire pit smoldered in the corner, coating the wall in soot. 
 
-Functional was the only word that could be applied to the buildings in Hokko.
+Functional was a good word for most of the buildings in Hokko.
 
-The rest of the room was dominated by layers of animal furs arranged into a bed. Katsumi sat amongst them, her back propped against the wall. When she saw the bandage in Mamoru's other hand, her eyes narrowed.
+The opposite side of the room was dominated by layers of animal furs arranged into a bed. Katsumi sat amongst them with her back propped against the wall. When she saw the bandage in Mamoru's other hand, her eyes narrowed.
 
 "She sent you, didn't she."
 
@@ -34,21 +46,21 @@ The rest of the room was dominated by layers of animal furs arranged into a bed.
 
 Mamoru sighed as he knelt down beside Katsumi. "How are you feeling?"
 
-"I feel fine. It's been three months. I am ready to leave."
+"Fine. It's been three months. I am ready to leave."
 
 "Hideyo says you need another week or two. Her magic stitched you up, but your body isn't done strengthening the threads. Can I take a look?"
 
-Katsumi nodded and pulled her rough-spun shirt over her head. She wore nothing underneath. Mamoru took a moment to admire her thickly muscled arms, her powerful shoulders. His eyes lingered on her breasts. Katsumi watched him as he looked at her.
+Katsumi nodded and pulled the rough-spun shirt over her head. She wore nothing underneath. Mamoru took a moment to admire her thickly muscled arms, her powerful shoulders. His eyes lingered on her breasts. Katsumi watched him as he looked at her.
 
-He blushed and shifted his gaze to the bandages wrapped around the shapeshifter's midsection. "I, uh... I need to look at the... can I remove the..." He shifted his hands awkwardly, reaching towards the bandages and quickly pulling them away.
+He blushed and shifted his gaze to the bandages wrapped around the her midsection. "I, uh... I need to look at the... can I remove the..." He shifted his hands awkwardly, reaching towards the bandages gingerly.
 
 Katsumi snorted. "Like a frightened deer every time." She raised her arms over her head.
 
-Mamoru set the new bandage on the furs next to him, careful not to contaminate the thick poultice smeared across it. He moved closer to Katsumi and untied the knot on the old binding. His arms wrapped around her waist as he unwound the bandage. Her hands rested on his shoulders as he worked, their faces inches apart. Their breathing quickened.
+Mamoru set the new bandage on the furs next to him, careful not to touch the thick poultice smeared across it. He moved closer to Katsumi and gingerly untied the knot on the old binding. His arms wrapped around her waist as he unwound the bandage. Her hands rested on his shoulders as he worked, their faces inches apart. Their breathing quickened.
 
-Mamoru finished removing the bandage. A fist-sized, angry red scar obscured Katsumi's otherwise well-defined abs. Mamoru's fingers rested against scar, still looking into Katsumi's eyes. His hand moved upwards hesitantly, trailing along Katsumi's skin. She pulled him towards her.
+Mamoru finished removing the bandage, revealing a fist-sized, angry red scar that obscured Katsumi's otherwise well-defined abs. Mamoru's fingers rested against the scar. His hand moved upwards hesitantly, trailing along Katsumi's skin. She pulled him towards her.
 
-Katsumi kissed like she fought. She used her strength to move Mamoru where she wanted, pulling his body onto hers. Mamoru tensed in surprise as she bit his lip. But he quickly adjusted, letting the energy overtake him as well. Mamoru grabbed one of Katsumi's hands resting at the back of his neck and pushed it against the wall behind her. Lost in the moment, his hand moved faster than he expected, slamming her hand into the wall harder than he intended. She winced briefly.
+Katsumi kissed like she fought. She used her strength to move Mamoru where she wanted, pulling his body onto hers. Mamoru tensed in surprise as she bit his lip. But he quickly adjusted, letting the energy overtake him as well. Mamoru grabbed one of Katsumi's hands and pushed it against the wall behind her. Lost in the moment, his hand moved faster than he expected. She winced briefly.
 
 Mamoru pulled back like a man avoiding a blow. "Ah, sorry! I'm still getting used to--."
 
@@ -56,9 +68,9 @@ Katsumi reached out and grabbed him, pulling him back towards her. "Don't insult
 
 But Mamoru pressed a hand against the wall, holding himself back. "No, this is a bad idea. I'm still not used to the strength Tsukuyomi left inside me. I could hurt you." Mamoru pulled himself away with visible reluctance.
 
-Katsumi growled and brought her hands down in frustration. "I am not as _fragile_ as you think I am."
+Katsumi growled and brought her hands down in frustration. "I am not as fragile as you think I am."
 
-"I know you're not fragile, Kats. But you _are_ injured. Accepting one doesn't require the other." Mamoru clasped his hands behind his head. "I already did _this_ to you. I'd rather not make it worse." 
+"I know you're not fragile, Kats. But you _are_ injured. Acknowledging one doesn't require accepting the other." Mamoru clasped his hands behind his head. "I already did _this_ to you. I'd rather not make it worse." 
 
 There was a long silence as the two regained their composure.
 
@@ -68,29 +80,29 @@ Mamoru's face fell. "Still? The rebellion needs you."
 
 "The rebellion is dead, Mamoru. It died when your friend shot Yoshinobu in the heart." Katsumi looked towards the coals of the fire. "It's time I found my own battles again."
 
-"The rebellion isn't dead. We still have the three of us. And Seiji once he wakes up. We have the army here. Hideyo says more should be coming up from the south soon." Mamoru paused for a moment. "And Chiyoko. I don't know what her plan is, but she has one. That's how she always was, growing up. Three steps ahead of me."
+"The rebellion isn't dead. We still have the three of us and Seiji once he wakes up. Hideyo says more soldiers should be coming up from the south soon." Mamoru paused for a moment. "And Chiyoko. I don't know what her plan is, but she has one. That's how she always was, growing up. Three steps ahead of me."
 
-"You are a fool. Chiyoko struck because she was strong and Yoshinobu was weak. That's just how things work."
+"You are a fool. Chiyoko struck because she was strong and Yoshinobu was weak. That's all."
 
-"That's not how _she_ works."
+"That's not how she works."
 
 "Regardless. I did not join the rebellion because these people _needed_ me. I joined to fight. Without Yoshinobu, the army thinks only of defense."
 
-"It won't always be that way, though." Mamoru picked up the new bandage and began to wind it around Katsumi. She did not move to stop him, but neither did she look back from the fire.
+"It won't always be that way, though." Mamoru picked up the new bandage and began to wind it around Katsumi. She continued looking into the fire.
 
-"It's been three months and all Hideyo has done is strengthen the walls and build defenses. There is no fire in the soldier's eyes. Only fear and sadness. If I stay here I may as well be a beast in a cage."
+"It's been three months and all Hideyo has done is strengthen the walls and build defenses. There is no fire in her eyes. Only fear and sadness. If I stay here I may as well be a beast in a cage."
 
 "What about us?" Mamoru caught himself and quickly added. "If you leave you'll never get your chance for a rematch, I mean."
 
 "I have said that you may join me."
 
-"You know I can't leave the people here. Not while they're in danger."
+"I want to. With Chiyoko gone and my mom... there's a lot of pain for me here now. But I can't leave these people. Not while they're in danger."
 
-"And you know I cannot stay."
+"And I cannot stay."
 
 Mamoru finished wrapping Katsumi's bandage in silence, unsure what to say. Eventually he finished and the two sat next to each other, their shoulders touching. The mood fell into to a comfortable silence.
 
-After a few minutes, the pair was broken from their reverie by a knock at the door. "Mamoru, sir. Hideyo has asked that you meet her on the walls." One of the soldiers from the rebellion. No one from Hokko would ever call Mamoru sir.
+After a few minutes, the pair was broken from their reverie by a knock at the door. "Mamoru, sir. Hideyo has asked that you meet her on the walls." One of the soldiers from the rebellion. No one from Hokko would call Mamoru sir.
 
 "Can it wait?"
 
@@ -105,13 +117,11 @@ After a few minutes, the pair was broken from their reverie by a knock at the do
 # Bad News
 Mamoru hurried between buildings, his breath fogging in the perpetual cold. A soldier had pointed him in the direction of Hideyo and he made his way as directly as he could, picking through the busy village.
 
-Rebellion soldiers had helped rebuild several of the single-story, thatched roof buildings of Hokko. But the village was still littered with rubble from the battle with Tsukuyomi nearly four months ago.  A group of men and women were splitting tree trunks piled at the village center, preparing them to use for further repairs. They discussed the newly arrived soldiers in nervous whispers.
+Rebellion soldiers had helped rebuild many of the single-story, thatched roof buildings of Hokko. But the village was still littered with rubble from the battle nearly four months ago.  A group of men and women were splitting tree trunks piled at the village center, preparing them to use for further repairs. They discussed the newly arrived soldiers in nervous whispers.
 
-Slender pyramids built from wood dotted the perimeter of the village, just inside the inner wall. Each tower had a series of interlocking gears working from the base of the structure up to a large metal sphere covered in holes. Periodically, a small gout of flame would erupt from one of the openings. 
+Slender pyramids built from wood dotted Hokko's perimeter just inside the inner wall. Each tower had a series of interlocking gears working from the base of the structure up to a large metal sphere covered in holes. Periodically, a small gout of flame would erupt from one of the openings. 
 
-Mamoru still hadn't convinced Hideyo to explain to him how her towers maintained their perpetual flame.
-
-Between Hokko's inner and outer wall lay the village farmlands. Many of the terraced rice paddies had been drained to accommodate the rebellion's forces. For nearly three months, tents and cook fires had sprawled along the patchwork hillside. At roughly two hundred soldiers, the rebellion almost doubled Hokko's population. Thankfully, they brought enough rations to sustain themselves.
+Between Hokko's inner and outer wall lay the town's farmlands. Many of the terraced rice paddies had been drained to accommodate the rebellion's forces. For nearly three months, tents and cook fires had sprawled along the patchwork hillside. At roughly two hundred soldiers, the rebellion almost doubled Hokko's population. Thankfully, they brought enough rations to sustain themselves.
 
 When Mamoru reached Hideyo on the inner wall, she was already listening to a beleaguered soldier with a long, black braid down his back. By the bandage on his arm and the ragged condition of his clothing, Mamoru guessed it was a member of the southern forces. 
 
@@ -121,11 +131,11 @@ Hideyo turned and looked over her shoulder. She acknowledged Mamoru with a curt 
 
 A flash of annoyance crossed the soldier's face as they started the story over. "Yes, sir. I'm the new leader of the southern detachment. Umako is dead. 
 
-"We were traveling north, escorting the heavy weaponry you had built. While we were crossing the mountains we were ambushed and eventually overrun. We were forced to abandon the weapons. 
+"We were traveling north, escorting the heavy weaponry you built. While we were crossing the mountains we were ambushed and eventually overrun. We were forced to abandon the weapons. 
 
-"We've been fleeing north ever since, taking heavy losses. About 80 of us are still alive. Of that, probably only 60 are able to fight. The enemy forces are no more than a couple days behind us."
+"We've been fleeing north ever since, taking heavy losses. About 80 of us are still alive. Of that, probably 60 are able to fight. The enemy forces are no more than a couple days behind us."
 
-Hideyo's face was stern and hard to read. Since taking over the rebellion, she had become increasingly detached. The timid woman had been scoured away as she fought desperately to protect Yoshinobu's legacy. "80 survivors from an initial force of 300. And armed with our heavy weaponry, no less. This must have been quite the force. Kitsune?"
+Hideyo's face was stern and hard to read. Since taking over the rebellion, she had become increasingly detached and calculating. The timid woman had been scoured away as she fought desperately to protect Yoshinobu's legacy. "80 survivors from an initial force of 300. And armed with our heavy weaponry, no less. This must have been quite the force. Kitsune?"
 
 The man nodded. "Not just the foxes, though. Tengu as well. Plus a couple dragons."
 
@@ -133,70 +143,74 @@ Hideyo's eyes widened slightly. "Ninigi and Amaterasu have joined with Tsukuyomi
 
 "No, sir. But there was a woman who fought alongside them. Before she showed up we might have had a chance to hold." The man shook his head. "I've never seen anything like what she did. Not even from you and the rest of the commanders. She took out 50 men on her own."
 
-"Did she fight with a bow?" The man nodded. "We're aware of her. Is there anything else?" Hideyo dismissed the man when he shook his head. As he walked away, Hideyo turned to Mamoru. Her short form suddenly looked very weary.
+"Did she fight with a bow?" The man nodded. "We're aware of her. Is there anything else?" Hideyo dismissed the man when he shook his head. As he walked away, Hideyo turned to Mamoru. Her short form suddenly looked weary.
 
 # No Choices
 "Well, your friend has been busy."
 
-Mamoru's mind was reeling. "There must be some sort of mistake, or something's gone wrong with Chiyoko's plan."
+Mamoru's mind was reeling. "There must be some sort of mistake. Or something's gone wrong with Chiyoko's plan."
 
-"Mamoru. Chiyoko doesn't have a secret plan. She _betrayed_ us." Hideyo's face twisted in anger, but she quickly let the emotion fade. She held up a hand. "No, it doesn't matter. There's no reason to have this fight again. We've lost."
+"Mamoru. Chiyoko doesn't have a plan. She _betrayed_ us." Hideyo's face twisted in anger, but she quickly let the emotion fade. She held up a hand. "No, it doesn't matter. There's no reason to have this fight again. We've lost."
 
 "What are you talking about? We can't give up now."
 
-"Don't be stupid. Did you hear him? We were relying on those soldiers and those weapons. And that was just to defend against Tsukuyomi. If there were tengu and dragons attacking, then at least three of the gods have decided that our rebellion is no longer amusing. I think we finally struck a nerve when we fought Tsukuyomi.
+"Don't be stupid. Did you hear him? We were relying on those soldiers and those weapons. And that was just to defend against Tsukuyomi. If there were tengu and dragons attacking, then at least three of the gods have decided that our rebellion is no longer amusing. I think we struck a nerve when we fought Tsukuyomi.
 
-"And that's not even talking about Chiyoko. You saw what she was capable of. So unless that newfound strength you got from Tsukuyomi's possession is a _lot_ more than you've let on, how exactly do you suggest we get out of this?"
+"And that's not even talking about Chiyoko. You saw what she was capable of. Unless that newfound strength you got from Tsukuyomi's possession is a _lot_ more than you've let on, how exactly do you suggest we get out of this?"
 
 Mamoru stared at Hideyo, unable to find an answer.
 
-The woman shrugged. "The best we can do is get the villagers out of here. If we can dig in and hold on long enough, we might be able to give you a big enough head start to get away. You'll have to leave immediately. I'll have the soldiers round up enough rations for all of you. We won't be needing them much longer."
+The woman shrugged. "The best we can do is get the villagers out of here. If we can hold on long enough, we might be able to give you a big enough head start to get away. You'll have to leave immediately. I'll have the soldiers round up enough rations for all of you. We won't be needing them much longer."
 
-"We're not leaving you here to die Hideyo. We all leave together or we all stand and fight."
+"We're not leaving you here to die, Hideyo. We all leave together or we all stand and fight."
 
-"Mamoru, there's no reason everyone has to die. The gods are going to pursue the rebellion no matter what. But what do they care about your village? You could save them."
+Hideyo pounded her fist on the wall next to her. "I'm not asking you to leave people behind, Mamoru. I'm asking you to save at least _some_ of the people here." She opened her arms, gesturing to the soldiers and the village. "Look at everyone here. They all followed Yoshinobu because he made them believe we could change things. He was wrong. And now they're all going to die. 
 
-"Why are you all so intent on giving up? I'm not letting Tsukuyomi get away with what he's done and I'm not leaving others behind. What's the point in living if you have to spend your life running from everything that matters?"
+"I don't care what we have to do. Or how we have to do it. All I want is to salvage _something_. Otherwise... otherwise everything he did will have been worse than useless. The gods are going to pursue the rebellion no matter what. But what do they care about your village? You can save them."
 
-"You're being shortsighted, Mamoru. Even if you lose everything now, you can always rebuild as long as you're alive. But when you die you're just... gone." Hideyo looked down quickly, tears in her eyes.
+"Why are you all so intent on giving up? What's the value in just salvaging things? Why live if you have to spend your life running from everything that matters?"
 
-Mamoru softened his shoulders, tears welled in his eyes and ran down his cheeks as he watched Hideyo struggling to regain her composure. He reached out and pulled Hideyo into a hug. "I'm sorry, Hideyo. I didn't mean to... I'm not saying we should all throw our lives away carelessly." Mamoru held the hug for a few heartbeats. Hideyo did not cry, but he felt her body relax after a moment. "We all miss him. I wish I'd had more time to get to know him."
+"Don't be shortsighted, Mamoru. Even if you lose everything now, you can always rebuild. There's nothing noble about dying pointlessly for a cause. You're just... gone. You leave everyone else trying to find some meaning in it." Hideyo looked down quickly, tears in her eyes.
+
+Mamoru softened his shoulders, tears welled in his eyes and ran down his cheeks as he watched Hideyo struggling to regain her composure. He reached out and pulled Hideyo into a hug. "I'm sorry, Hideyo. I didn't mean to... I'm not saying let's just throw our lives away." Mamoru held the hug for a few heartbeats. Hideyo did not cry, but he felt her body relax into him. "I wish I'd had more time to get to know him."
 
 The two pulled back, Mamoru wiping his eyes with the back of his hands. "But you don't have to do this alone. Our best chance is together."
 
-"Mamoru... we have _no_ chance. The odds were stacked against us when we were only going after Tsukuyomi. I'm not just trying to pointlessly martyr myself here. We pulled you into this mess, at least now we can make sure you and your village escape."
+"Mamoru... we have _no_ chance. The odds were stacked against us when we were only hunting Tsukuyomi. We pulled you into this mess, at least now we can make sure you and your village escape."
 
 "You all _are_ my village, Hideyo. Once we let anyone through those walls, we look out for them. You can ask anyone in Hokko. Besides, where would we go? 300 people wandering through the forest don't have any chance to survive either."
 
-Hideyo shook her head, laughing incredulously. "It's... The odds are just _so_ overwhelming. Three gods surrounded by all their followers.  Not even Yosh would have tried, I think."
+Hideyo shook her head, laughing incredulously. "It's... The odds are just _so_ overwhelming. Three gods, accompanied by all of their followers.  Not even Yosh would have tried, I think."
 
-Mamoru paused, thoughtful. "Don't you think it's a little _too_ overwhelming?"
+Mamoru paused, thoughtful. "Do you think it's a little _too_ overwhelming?"
 
 "What do you mean?"
 
 "Think about it. When we came staggering back here three months ago, Seiji and Katsumi were completely out. Hokko was a ruin. We had no defensive fortifications. Tsukuyomi was right next to his domain. 
 
-"Why didn't he just gather his followers and overwhelm us straight away? Why be so methodical? Since when have the gods acted cautiously? This doesn't sound like them at all. It sounds more like... Chiyoko, don't you think?"
+"Why didn't he just gather his followers and overwhelm us straight away? Why be so methodical? Since when have the gods acted cautiously? This doesn't sound like them at all. It sounds more like... Chiyoko."
 
 Hideyo sneered. "What's the difference?"
 
-"There _is_ a difference. I know you don't trust her. But just think about it logically for a minute. Even if Chiyoko is grabbing for power, she has no reason to _want_ to destroy Hokko. I think she's been trying to keep the confrontation away from us as long she could." 
+"There _is_ a difference. I know you don't trust her. But think about it for a minute. Even if Chiyoko is grabbing for power, why would she be so methodical about destroying Hokko? This is her home town. Maybe she would just let Tsukuyomi run over it. But intentionally avoiding the town, gathering followers, and bringing such overwhelming force that there couldn't be any survivors. Why go so far? 
 
-"Why, though?"
+"I think she's been trying to keep the confrontation away from us as long she could." 
 
-"You said it yourself, the gods can't let the rebellion keep going. Chiyoko probably can't stop them attacking us, but she knows if they came in a bunch of smaller waves, we'd try to fight. And we'd just keep fighting until we die. 
+"Why, bother though? We're still going to be destroyed in the end."
+
+"You said it yourself. The gods can't let the rebellion keep going. Chiyoko probably can't stop them from attacking us. And she knows that if they came in a bunch of smaller waves, we'd try to fight. And we'd just keep fighting until we're all dead. 
 
 "She wants it to be obvious it's over. I think she's trying to tell us to surrender. She must have some sort of plan!"
 
-"Or she just wants us to give up so they win without a fight. But... either way, you have a point. It does sound like we're being set up to surrender."
+"Or she just wants us to give up so they win without a fight. But... either way, you have a point. It does feel like we're being set up to surrender."
 
-"Exactly!"
+"Exactly."
 
-"Look, Mamoru, I don't think Chiyoko has some master plan and she's going to suddenly be on our side. But it doesn't really matter at this point. We only ever had a chance when the gods thought they were toying with us. If they're taking it seriously now, well, giving up is better than dying. 
+"Look, Mamoru. I don't think Chiyoko has a master plan. She's not going to suddenly jump back to our side. But it doesn't really matter at this point. We only had a chance when the gods thought they were toying with us. If they're taking the rebellion seriously... well, giving up is better than dying. 
 
-"I'll have everyone hole up inside the walls and prepare to surrender. On the _off chance_ Chiyoko does something, we'll be ready. But if we're wrong and everyone stays here... are you sure you want to take that risk?"
+"If Chiyoko _does_ try something, I'm not helping her unless we're certain it will work. If the gods offer any kind of surrender, I plan to take it. Even if all we can do is get safe passage for the soldiers, that's better than nothing. They'll know they fought and lived. They'll pass that to their children.
 
-Mamoru nodded without hesitation. "Chiyoko's got a plan. I trust her."
+"This war _has_ to mean something more than a pile of dead bodies and burning villages."
 
 <br />
 
