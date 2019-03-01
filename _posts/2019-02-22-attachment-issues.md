@@ -6,6 +6,10 @@ permalink: /compendium/tournament/:title/
 layout: post
 excerpt_separator: <!--more-->
 
+cast: "['Hideki','Manabu']"
+pronunciations: "['HEE-deh-key','MAH-nah-boo']"
+colors: "['#31639c','#e7bd42']"
+
 feedback: https://goo.gl/forms/PbkTRRwtNa3sALIs2
 ---
 **Note: This week, I took a break from [Chiyoko's story](https://yosai.world/compendium/primitive/collateral/) to try out a different style of writing. Next week, I'll return with part 3!**

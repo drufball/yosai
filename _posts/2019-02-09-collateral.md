@@ -6,6 +6,10 @@ permalink: /compendium/primitive/:title/
 layout: post
 excerpt_separator: <!--more-->
 
+cast: "['Chiyoko','Mamoru','Ayeka','Seiji','Hideyo','Katsumi','Yoshinobu','Tsukuyomi']"
+pronunciations: "['chee-YOH-koh','mah-MOH-roo','eye-AY-kah','SAY-ji','hee-DEH-yo','cat-SOO-mee','YOH-shee-NOH-boo','SOO-koo-YOH-mee']"
+colors: "['#e71837','#ffc65a','#f2e1ec','#909090','#e7bd42','#cca978','#49b675','#8bb9dd']"
+
 feedback: https://goo.gl/forms/ae0MNrW1GJk7iIfC3
 ---
 Chiyoko brought her face close to the ground. A long, black braid hung over her shoulder as she examined the roots of a beech tree, her fingers tracing along the silver bark. She lingered on a deep gouge at the far side of the root. Sap still dripped from the wound. 

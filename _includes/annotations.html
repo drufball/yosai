@@ -1,0 +1,217 @@
+<style id="annotation-styles">
+body {
+    position: relative;
+}
+
+
+</style>
+
+<script>
+let cast = {{ include.cast }};
+let pronunciations = {{ include.pronunciations }};
+let colors = {{ include.colors }};
+
+const EYE_OPEN_URL = '/assets/img/eye-open.png';
+const EYE_CLOSED_URL = '/assets/img/eye-closed.png';
+
+let readyToRemove = false;
+let showAnnotations = true;
+
+const annotateParagraphs = (cast) => {
+    let paragraphs = document.getElementsByTagName('p');
+    for( p of paragraphs ) {
+        let pContent = p.innerHTML;
+        const namesPresent = cast.filter(name => pContent.includes(name));
+
+        let wrappedText = pContent;
+        if( namesPresent.length > 0 ) {
+            wrappedText = wrapNames(pContent, cast);
+        }
+
+        p.innerHTML = wrappedText;
+    }
+}
+const wrapNames = (text, names) => {
+    let wrappedText = text;
+    for( name of names ) {
+        const tokens = wrappedText.split(name);
+        const wrappedName = `<span class="annotate show">${name}</span>`;
+        wrappedText = tokens.join(wrappedName);
+    }
+
+    return wrappedText;
+}
+
+const attachListeners = () => {
+    const annotations = document.getElementsByClassName('annotate');
+    for( span of annotations ) {
+        span.addEventListener('click', displayAnnotation, {passive: true});
+    }
+}
+const displayAnnotation = (e) => {
+    if( !showAnnotations ) {
+        return;
+    }
+
+    const target = e.target;
+
+    const position = target.getBoundingClientRect();
+
+    const name = target.innerHTML;
+    
+    const annotation = createAnotationPopover(position, name);
+    document.body.appendChild(annotation);
+    window.setTimeout(() => readyToRemove = true, 100);
+}
+const createAnotationPopover = (position, name) => {
+    let { left, top, right, bottom } = position;
+    let annotationText = `Pronounced: ${pronunciations[cast.indexOf(name)]}.`;
+    
+    let popover = document.createElement('div');
+    popover.innerHTML = annotationText;
+    popover.id = 'annotation';
+    popover.classList.toggle(name);
+    
+    popover.style.width = 'fit-content';
+    popover.style.height = 'fit-content';
+    popover.style.padding = '5px';
+    let { width, height } = measureElement(popover);
+
+    popover.style.position = 'absolute';
+    let x = left + width < window.innerWidth ? left : right - width;
+    let y = top + height < window.innerHeight ? bottom : top - height;
+
+    popover.style.left = `${x + window.scrollX}px`;
+    popover.style.top = `${y + window.scrollY}px`;
+
+    return popover;
+}
+const measureElement = (el) => {
+    const oldPos = el.style.position;
+    const oldVis = el.style.visibility;
+    
+    el.style.position = 'absolute';
+    el.style.visibility = 'hidden';
+    
+    document.body.appendChild(el);
+    const rect = el.getBoundingClientRect();
+    const width = rect.width;
+    const height = rect.height;
+
+    el.parentNode.removeChild(el);
+    el.style.position = oldPos;
+    el.style.visibility = oldVis;
+
+    return {width, height};
+}
+
+const initAnnotationTeardown = (annotation) => {
+    const options = { passive: true};
+    window.addEventListener('click', removePopover, options);
+    window.addEventListener('resize', removePopover, options);
+    window.addEventListener('scroll', removePopover, options);
+}
+const removePopover = () => {
+    if( readyToRemove ) {
+        let annotation = document.getElementById('annotation');
+        annotation.parentNode.removeChild(annotation);
+        readyToRemove = false;
+    }
+}
+
+const createAnnotationToggler = () => {
+    const ICON_SIZE = 52;
+    let toggle = document.createElement('div');
+
+    toggle.style.position = 'fixed';
+    toggle.style.bottom = `${ICON_SIZE / 4}px`;
+    toggle.style.right = `${ICON_SIZE / 4}px`;
+
+    toggle.style.width = `${ICON_SIZE}px`;
+    toggle.style.height = `${ICON_SIZE}px`;
+    toggle.style.borderRadius = `${ICON_SIZE}px`;
+    toggle.style.background = '#b19cd9';
+
+
+    document.body.appendChild(toggle);
+    
+    
+    const eye = new Image(ICON_SIZE / 2, ICON_SIZE / 2);
+    eye.src = EYE_OPEN_URL;
+    eye.id = 'annotations-toggle';
+    eye.style.position = 'absolute';
+    eye.style.left = `${ICON_SIZE / 4}px`
+    eye.style.top = `${ICON_SIZE / 4}px`
+    toggle.appendChild(eye);
+
+    toggle.addEventListener('click', toggleAnnotations, {passive: true});
+}
+const toggleAnnotations = (e) => {
+    showAnnotations = !showAnnotations;
+    let icon = document.getElementById('annotations-toggle');
+    icon.src = showAnnotations ? EYE_OPEN_URL : EYE_CLOSED_URL;
+
+    const annotations = document.getElementsByClassName('annotate');
+    for( span of annotations ) {
+        span.classList.toggle('show');
+    }
+}
+const applyStyles = () => {
+    const annotationStyles = document.getElementById('annotation-styles').sheet;
+    console.log(annotationStyles);
+    for( name of cast ) {
+        const color = colors[cast.indexOf(name)];
+        const ruleHighlight = `.annotate.show.${name} {
+            border-bottom: dotted 2px ${color}; 
+        }`;
+        const rulePopover = `#annotation.${name} { 
+            background-color: ${LightenDarkenColor(color, 120)};
+            border: solid 2px ${color};
+            margin-top: -2px;
+        }`;
+        annotationStyles.insertRule(ruleHighlight);
+        annotationStyles.insertRule(rulePopover);
+    }
+
+    const annotations = document.getElementsByClassName('annotate');
+    for( span of annotations ) {
+        const name = span.innerHTML;
+        span.classList.toggle(name);
+    }
+}
+const LightenDarkenColor = (col, amt) => {
+  
+  var usePound = false;
+
+  if (col[0] == "#") {
+      col = col.slice(1);
+      usePound = true;
+  }
+
+  var num = parseInt(col,16);
+
+  var r = (num >> 16) + amt;
+
+  if (r > 255) r = 255;
+  else if  (r < 0) r = 0;
+
+  var b = ((num >> 8) & 0x00FF) + amt;
+
+  if (b > 255) b = 255;
+  else if  (b < 0) b = 0;
+
+  var g = (num & 0x0000FF) + amt;
+
+  if (g > 255) g = 255;
+  else if (g < 0) g = 0;
+
+  return (usePound?"#":"") + (g | (b << 8) | (r << 16)).toString(16);
+
+}
+
+annotateParagraphs(cast);
+applyStyles();
+attachListeners();
+initAnnotationTeardown();
+createAnnotationToggler();
+</script>

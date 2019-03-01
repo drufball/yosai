@@ -25,10 +25,11 @@ layout: default
 
   <p>If you want to read more of my stories, be sure to <a href="{{site.list-url}}" target="_blank">join the mailing list</a>!</p>
 
+  {% include annotations.html cast=page.cast pronunciations=page.pronunciations colors=page.colors %}
+  {%- include mailchimp-popup.html -%}
+  
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
-
-  {%- include mailchimp-popup.html -%}
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
