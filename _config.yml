@@ -27,6 +27,9 @@ rss: RSS
 list-url: "http://eepurl.com/ggSWZD"
 google_analytics: UA-134258313-1
 
+disqus:
+  shortname: yosai
+
 # Build settings
 markdown: kramdown
 theme: minima
