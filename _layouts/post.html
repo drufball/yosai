@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{%- include education.html -%}
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -25,7 +26,7 @@ layout: default
 
   <p>If you want to read more of my stories, be sure to <a href="{{site.list-url}}" target="_blank">join the mailing list</a>!</p>
 
-  {% include annotations.html cast=page.cast pronunciations=page.pronunciations colors=page.colors %}
+  {%- include annotations.html cast=page.cast pronunciations=page.pronunciations colors=page.colors -%}
   {%- include mailchimp-popup.html -%}
   
   {%- if site.disqus.shortname -%}

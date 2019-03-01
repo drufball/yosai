@@ -1,0 +1,56 @@
+<style>
+    #center {
+        position: absolute;
+        left: 0;
+        right: 0;
+        min-height: 135px;
+
+        border-top: solid 2px #b19cd9;
+        border-bottom: solid 2px #b19cd9;
+        background: #e2d5fa;
+        padding-top: 20px;
+
+
+        margin-top: -30px;
+
+        text-align: center;
+    }
+    #education {
+        margin-left: auto;
+        margin-right: auto;
+
+        max-width: 740px;
+        text-align: left;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    #push {
+        height: 150px;
+    }
+</style>
+<div id="center">
+<div id='education'>
+    <p>These stories use a lot of Japanese names. To help, you can tap on any word with a colored 
+        underline to show the proper English pronunciation.
+    </p>
+    <p>If you find the feature distracting, you can turn it off by clicking on the icon in the bottom
+        right corner of the screen. Happy reading!
+    </p>
+</div>
+</div>
+<div id="push">
+
+</div>
+<script>
+const resizePush = (e) => {
+    let push = document.getElementById('push');
+    let center = document.getElementById('center');
+
+    let rect = center.getBoundingClientRect();
+    console.log(rect.height);
+    push.style.height = `${rect.height}px`;
+}
+
+window.addEventListener('resize', resizePush);
+window.addEventListener('DOMContentLoaded', resizePush);
+</script>
