@@ -1,7 +1,8 @@
-# The Tree
+---
+cast: "['Osoro','Kidani','Chinami','Emiko','Suzume','Amaya', 'Kodama']"
+---
 <!-- TOC -->
 
-- [The Tree](#the-tree)
 - [Rebirth](#rebirth)
 - [Revel](#revel)
 - [Resolve](#resolve)
@@ -11,9 +12,9 @@
 <!-- /TOC -->
 
 # Rebirth
-Osoro Kidani sat on a large stone staring at a soft, mossy patch next to the river. The air was cold but the sun was high and bright, warming him slowly. The occasional gust, cutting through the valley on its way out the other side, pulled away his hard-earned heat with greedy fingers, leaving him shivering as he waited for the sun to warm him again. 
+Osoro Kidani sat on a large stone and stared at a mossy patch next to the river. The air was cold but the sun was high and bright, warming him slowly. The occasional gust, cutting through the valley on its way out the other side, pulled away his hard-earned heat with greedy fingers, leaving him shivering as he waited for the sun to warm him again. 
 
-He knew he should move. The black pines along the Eastern slope were in need of new supports. He would have to make a decision soon about how he wanted to shape them further. With the sun so clear in the sky, he really ought to see to some of the more exposed mosses. They were such fragile things.
+He knew he should move. The black pines along the eastern slope were in need of new supports. He would have to make a decision soon about how he wanted to shape them further. And with the sun so clear in the sky, he really ought to see to some of the more exposed mosses. They were such fragile things.
 
 Chinami's Rebirth was just beginning. The river raged, swollen with snowmelt from the mountains above, announcing the changing of seasons with forceful pride. Osoro smiled for a moment, reminded of Yuko. She loved the river during Rebirth. 
 
@@ -21,29 +22,29 @@ Osoro preferred the more subtle blossoming of his plants. The gentle spread of g
 
 Osoro sat for a moment longer, feeling the heat emanating from the hard rock beneath him. He let out a shaky sigh and pushed himself off the rock, brushing dirt from his hands. He was tall, with slender limbs and delicate features. As Rebirth came, the dull ochre of his skin was shifting to a verdant green. The vines and leaves that sprouted from his head like hair were returning to life. 
 
-He took one final look at the moss beside the river before turning his back on the boisterous waters. Well-manicured woods sprawled before him. The rough-barked pines twisted intricately, held aloft by stilts of sturdy bamboo. Stone pathways crawled between the trees, seeking out the shaded groves and windswept viewpoints that Osoro cherished.
+He took one final look at the moss beside the river before turning his back on the boisterous waters. Well-manicured woods sprawled before him. Rough-barked pines twisted intricately, held aloft by stilts of sturdy bamboo. Stone pathways crawled between the trees, seeking out the shaded groves and windswept viewpoints that Osoro cherished.
 
 On a nearby tree, a small white-and-black mottled bird stared down at Osoro, its head cocked sideways. He felt a questing sense of curiosity, plucking at his mind. Osoro looked up at the bird, eyes closing in a smile. "I'll head to the eastern grove, I think. Perhaps you could check the mosses along the riverbank? I'm sorry to be a bother, Bird. Normally Yuko would check but we'll just have to make do until she returns." 
 
-Bird chirped and took off from the branch. Osoro called after as is fluttered towards the water's edge. "Oh! Please do land gently!"
+Bird chirped and took off from the branch. Osoro called after as she fluttered towards the water's edge. "Oh! Please do land gently!"
 
-Osoro passed the rest of the day pleasantly, caring for the black pines further up the mountainside. They were coming along nicely. Perhaps another 10 or 15 years and their shapes would be where he wanted them. Not too long. 
+Osoro passed the rest of the day caring for the black pines further up the mountainside. They were coming along nicely. Perhaps another 10 or 15 years and their shapes would be where he wanted them. Not too long. 
 
 He was a keeper after all.
 
-He checked in a couple times with Bird. Sharing the creature's sight long enough to note the dryer patches and ensure that she wasn't rooting around in the delicate mosses for worms. She was incorrigible. Osoro would sleep easier when Yuko returned. Bird was better behaved when Yuko was there to discipline.
+He checked in a couple times with Bird. Sharing the creature's sight long enough to note the dryer areas and ensure that she wasn't rooting around in the delicate mosses for worms. She was incorrigible. Osoro would sleep easier when Yuko returned. Bird was better behaved when Yuko was there to discipline.
 
-On his way back from the higher slopes of the valley, Osoro came across Bear and Monkey. Bear worked to push a large boulder across a clearing. Twice as large as a normal bear, she often took care of the more strenuous tasks around the forest. Osoro had asked Bear to move this boulder so that it caught a more gentle sunlight. He had plans for a wonderful sea-blue lichen that would compliment the clearing marvelously. 
+On his way back from the higher slopes of the valley, Osoro came across Bear and Monkey. Bear worked to push a large boulder across a clearing. Twice as large as a normal bear, she took care of the more strenuous tasks around the forest. Osoro had asked Bear to move this boulder so that it caught a more gentle sunlight. He had plans for a wonderful sea-blue lichen that would compliment the clearing marvelously. 
 
-A deep furrow in the ground marked the path of the boulder, which Monkey was supposed to be filling and smoothing. Instead he slept atop the boulder Bear was pushing. When Monkey saw Osoro approaching, he sniffed in surprise and winked out of sight, turning invisible. Osoro shook his head and continued back towards the river.
+A deep furrow in the ground marked the path of the boulder, which Monkey was supposed to be filling and smoothing. Instead he slept atop the rock as Bear pushed it. When Monkey saw Osoro approaching, he sniffed in surprise and winked out of sight, turning invisible. Osoro shook his head and continued back towards the river.
 
 Yuko had left her three familiars behind to help Osoro care for the forest. He hoped that she wouldn't need them or their abilities in the trials she faced.
 
-Yuko was a spark, a shifter who could do more than just take on the form of animals within her domain. Just as adepts could shape the magic they used, sparks could alter and enhance the creatures to which they were bound, imbuing them with powers. 
+Yuko was a spark, a shifter who could do more than just take on the form of the animals within her domain. Just as adepts could shape the magic they used, sparks could alter and enhance the creatures to which they were bound, imbuing them with powers. 
 
 Osoro was grateful for Yuko's abilities. They were a marvelous gift. When they weren't causing problems, at least. 
 
-Osoro reminded himself that those problems were nearly over. When Yuko returned a Champion, the gods could no longer hunt her.
+Osoro paused and reminded himself that those problems were nearly over. When Yuko returned a Champion, the gods could no longer hunt her.
 
 The sun was setting as Osoro reached the bottom of the hills. He took the long path home, the one that veered towards the river before continuing on to the secluded grove where he and Yuko slept. Just one more check to see that the spot remained clear. The peace of mind would help him sleep better. 
 
@@ -51,24 +52,38 @@ Osoro rounded a corner and the river came into view. His eyes immediately jumped
 
 The spot that now had a sapling sprouting at its center. 
 
-Osoro rushed forward, unable to believe his eyes. The sapling was small, but growing visibly. Leaves opened tentatively along the branches, like a newborn deer uncertain of the legs beneath it. "Oh." Osoro dropped to his knees, crushing the fragile moss beneath him. He reached for the small tree before him, his hands shaking as they hesitated, outstretched.
+Osoro rushed forward, unable to believe his eyes. The sapling was small, but growing visibly. Leaves opened tentatively along the branches, like a newborn deer uncertain of the legs beneath it. "Oh." Osoro dropped to his knees, crushing the fragile moss beneath him. He reached for the small tree, his hands shaking as they hesitated, outstretched.
 
 Then Osoro wept.
+
+<br />
+
+---
+<br />
+<br />
+
+The feel of soft, dusty fur beneath his fingers and against his face as he held Monkey close and buried his face against Bear's side. Bird chirped a melancholy note as they stood around the newly formed tree.
+
+The ache in his limbs as he slept on the ground within the clearing, his body cold and shivering. Delaying the moment when he would see _their_ home and know that it was now simply _his_ home.
+
+Warm rain beating against his back as he wove a roof of grasses to protect the fragile sapling from the heavy downpour. The water running into his eyes and down his nose as he worked, making a simple task difficult.
+
+The pull of mud between his toes and around his feet as he took his first steps from the clearing. Accepting that the trees and the gardens he cared for so deeply would fall into disarray if he did not drag himself back into the world.
 
 # Revel
 Osoro stood, placing his hands on his hips and arching his back as he stretched. The river's cool waters swirled around his legs while the warm sun beat against his bared back. Emiko's Revel was the best time for working on the water features. 
 
 Osoro looked at the newly-built bridge with pride. It formed a semi-circle, arcing over the river like a leaping deer. 
 
-The bridge was young and raw, out of place amongst the stately elegance of the surrounding forest. But time would fix that. The wind and the sun would weather the wood. Mosses would reclaim the churned earth on either side. Soon it would be at home with its new surroundings.
+The bridge was young and raw, out of place amongst the stately elegance of the surrounding forest. But time would fix that. The wind and the sun would leave the wood dark and weathered. Mosses would reclaim the churned earth on either side. Soon it would be at home with its new surroundings.
 
-"What do you think, Tree?" Osoro waded from the waters, making his way towards the beech tree growing near the river. Though it's growth had slowed after the first few weeks, Tree continued to grow faster than normal. After only a few months, Osoro could no longer wrap his arms around the trunk. The silver-tan bark was littered with knots from the rapid growth. They looked like eyes. 
+"What do you think, Tree?" Osoro waded from the waters, making his way towards the beech tree growing near the river. Though it's growth had slowed after the first few weeks, Tree continued to grow faster than normal. After only a few months, Osoro could no longer wrap his arms around the trunk. The silver-tan bark was littered with knots from the rapid growth that looked like eyes. 
 
-Ten feet up, Tree's trunk split into a web of thick branches. Growing from the branches were what looked very much like pears, glowing with a faint yellow light. The effect was quite striking at night.
+Ten feet up, Tree's trunk split into a web of thick branches. Growing from those branches were what looked very much like pears, glowing with a faint yellow light. The effect was quite striking at night.
 
 Tree did not respond.
 
-"Mmm. You're right, I think." Osoro rubbed his chin thoughtfully, taking a seat on one of Tree's roots. "Perhaps a nice stone arrangement around the base is best. Monkey, I know it's a bother, but would you mind bringing in some stones today?"
+"Mmm. You're right, I think." Osoro rubbed his chin thoughtfully, taking a seat on one of Tree's roots. "Perhaps a nice rock arrangement around the base is best. Monkey, I know it's a bother, but would you mind bringing in some stones today?"
 
 Monkey lay nestled at the crook of several branches, staring out at the surrounding forest blankly. Monkey did not acknowledge Osoro's questions. He did not do much of anything these days. The poor creature was still heartbroken.
 
@@ -78,13 +93,13 @@ There was so much work to do. The riverside arrangement had not been well suited
 
 The bridge was just the beginning. There would be a fountain, fed by the river, that would sit in the shade of the tree. He would replace the thick, bright green moss with something thinner and more demure. And of course a bench. It would be a lovely spot to appreciate the cicadas on warm Revel days such as this one. 
 
-Osoro sat in Tree's shade for a moment longer. Delaying the inevitable. He wished he could stay here. Devoting all his time to improving the clearing. But these things took time. He had to be respectful of the existing plants as he worked. He could not simply change everything around them all at once. And the rest of the forest still needed tending.
+Osoro sat in Tree's shade for a moment longer. Delaying the inevitable. As always, he wished that he could stay here. Devoting all his time to improving the clearing. Never leaving the comforting shade of Tree. But these things took time. He had to be respectful of the existing plants as he worked. He could not simply change everything around them all at once. And the rest of the forest still needed tending.
 
 Osoro stood reluctantly. He grabbed his shirt, draped across a tree branch, and pulled it over his head. He placed his hand against Tree's trunk. The smooth bark was cool against his palm. "See you soon."
 
 He turned and walked from the clearing. 
 
-The warmth of the sun left him as he entered the shade of the surrounding trees. He tried to hold onto the feeling, remembering the heat against his shoulders; the companionable silence leaning against Tree's trunk. He would return soon. He could be strong for just a little while. 
+The warmth of the sun left him as he entered the shade of the surrounding trees. He tried to hold onto the feeling, remembering the heat against his shoulders; the companionable silence resting against Tree's trunk. He would return soon. He could be strong for just a little while. 
 
 But with each step the feeling slipped through his fingers like sand. His limbs cooled. The loneliness returned.
 
@@ -104,7 +119,7 @@ Leaving a hand against Bear's shoulder, Osoro continued up the mountain slope. H
 
 "Bird. Something seems to be the matter." Osoro closed his eyes and reached out.
 
-He was looking down from a tree branch near the western pass, seeing what Bird saw. A human woman picked her way through the trees. Her black hair was cut short and she wore a mix of close fitting green cloth and brown leathers. A bow was slung across her back. She moved into the valley carefully, but without much concern. She looked around at the well manicured trees and pathways, a faint smile across her face. 
+He was looking down from a tree branch near the western pass, seeing what Bird saw. A human woman picked her way through the trees. The woman's black hair was cut short and she wore a mix of close fitting green cloth and brown leathers. A bow was slung across her back. She moved into the valley carefully, but without much concern. She looked around at the well manicured trees and pathways, a faint smile across her face. 
 
 Bird followed the woman as she moved further into the valley. She was heading for the river.
 
@@ -118,15 +133,15 @@ She made her way to the river, stopping to refill her water skin. She looked at 
 
 "Please do hurry, Bear." He wanted to run and hide away, but he could not risk letting this woman traipse about the clearing. What if she started a fire? Or broke a tree branch to whittle a new arrow?
 
-The woman entered the clearing before Osoro and Bear made it back. Tree caught her eyes immediately - it was the only beech tree in the valley after all. The ranger's eyes traveled up the trunk. She looked at the glowing fruit amidst Tree's branches, curiosity written across her face. 
+The woman entered the clearing before Osoro and Bear made it back. Tree caught her eyes immediately. She looked up the trunk, her gaze coming to rest on the glowing fruit amidst Tree's branches, curiosity written across her face. 
 
-She took a few steps forwards before Monkey appeared, no longer invisible, hissing protectively from the upper branches. The woman reacted instinctively, reaching for her bow. 
+She took a few steps forward before Monkey appeared, no longer invisible, hissing protectively from the upper branches. The woman reacted instinctively, reaching for her bow. 
 
 Osoro opened his eyes, returning to his own vision. The woman stood with an arrow knocked, regarding Monkey warily. As Bear entered the clearing, the woman started and took several steps back, trying to keep everything in her field of view.
 
 "Ah, I am sorry to startle you. Please, there is no need for violence. Monkey is only protecting the tree." Osoro gestured and Monkey stopped hissing, though he continued to watch the ranger with suspicion. Osoro dropped from Bear and held his hands up.
 
-The woman kept her bow trained on Bear for a moment longer, eyes narrowed, before she reluctantly lowered the arrow. As some of the tension eased, the woman took a more careful look at Osoro. "You're a keeper aren't you? I've never seen one before."
+The woman kept her bow trained on Bear for a moment longer, eyes narrowed, before she reluctantly lowered the arrow. As some of the tension eased, she took a more careful look at Osoro. "You're a keeper aren't you? I've never seen one before."
 
 Osoro bowed his head slightly. "Yes. My friends and I watch over this valley. I am called Osoro Kidani." His heart beat loudly in his ears. What would this woman do? Did she come to this valley intentionally, or had she simply stumbled upon it?
 
@@ -152,7 +167,7 @@ Osoro swallowed, his throat dry. "Ah, yes. Well." It was difficult to speak. His
 
 "Sorry... what?"
 
-"_Her_ fruit, not 'its'. The tree is... she was my partner" Bear leaned her head against Osoro, offering support. "When a keeper passes away, their spirit forms a tree in the land that they were sworn to protect. A 'kodama' is how the other races refer to it, I believe.
+"_Her_ fruit, not 'its'. The tree is... she was my partner." Bear leaned her head against Osoro, offering support. "When a keeper passes away, their spirit forms a tree in the land that they were sworn to protect. A 'kodama' is how the other races refer to it, I believe.
 
 "My partner had a powerful spirit. Some of that strength still radiates from the tree. That is why her fruit glows."
 
@@ -176,9 +191,9 @@ Bear let loose a low growl, taking a step into the clearing.
 
 Watching Bear, the woman took a step back from Tree. She held her hands up. "Alright, alright. Fine."
 
-"If you don't mind, it's still early and there is much work to be done on the gardens. Are you able to continue on and leave this valley? If you would like to appreciate the gardens, I can suggest a suitable trail so that you do not disturb the mosses."
+"If you don't mind, it's still early and there is much work to be done. Are you able to continue on and leave this valley? If you would like to appreciate the gardens, I can suggest a suitable trail so that you do not disturb the mosses."
 
-The woman acquiesced, eyeing the fruit one last time as she left along the trail Osoro indicated. Bear escorted her. Osoro was grateful for his friends' vigilance.
+The woman acquiesced, eyeing the fruit one last time as she left along the trail Osoro indicated. Bear escorted her.
 
 When the woman was out of sight, Osoro sank to the ground with his back against Tree. He buried his face in his hands, tears running down his cheeks. Nothing had happened. But what if something had? More people would eventually stumble across the valley. What if they were not so easily sent away?
 
@@ -186,18 +201,30 @@ The garden was supposed to be safe. Protected. Yuko was supposed to be here, smi
 
 But she was gone. And the garden, the world he had so lovingly crafted, was now a scary place.
 
-# Resolve
-Osoro stood with his back against Tree. The ground in front of him was a smattering of orange and yellow. Suzume's Resolve had come a month earlier and most of the trees had already dropped their leaves.
+<br />
 
-The majority of the trees in Osoro's gardens were pines, providing the timeless look that he preferred. But Yuko had insisted there be at least one grove that changed with the seasons. 
+---
+<br />
+<br />
+
+The sudden prick of sweat that jumped to his arms and back each day as he spun around at the sound of any broken twig or wandering animal.
+
+Bird's nervous energy bleeding into his mind as she began to circle the perimeter of the valley each day.
+
+Looking to the ridge-line with trepidation each evening, fearing the spark of a campfire as Emiko's Revel came to an end and the night's grew cold. A faint spark of hope, quickly tamped down, that they might pass the season without another encounter.
+
+# Resolve
+Osoro stood with his back against Tree. The ground in front of him was a smattering of orange and yellow. Suzume's Resolve had come a month earlier and many of the trees had already dropped their leaves.
+
+Most of Osoro's garden was filled with pines, providing the timeless look that he preferred. But Yuko had insisted there be at least one grove that changed with the seasons. 
 
 Osoro remembered that first crisp morning. They had awoken before dawn, walking along the misty trails in darkness to reach the copse before sunrise. They sat together amongst the trees, watching as the early morning light caught the leaves at the peak of their color. 
 
 Osoro had smiled the entire day. Yuko was right of course. Since then, he had created many arrangements to highlight the coming of Resolve and the changing of the leaves.
 
-Pressed against Tree's trunk, his skin was the color of the bark behind him. The camouflage was a reflexive defense mechanism of all keepers.
+He missed the stillness of that morning. The valley's quiet serenity felt so far away right now.
 
-Osoro should have seen it coming. Yuko would have. 
+"Hey, we said get out of the way." The man's harsh voice jarred him out of his memories. Osoro's skin was the color of the bark behind him. The camouflage was a reflexive defense mechanism of all keepers.
 
 Standing at the edge of the clearing was a group of four. Two of the individuals were large, wearing full armor that covered their faces. They looked comfortable with the two-handed blades they wielded. 
 
