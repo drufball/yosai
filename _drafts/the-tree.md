@@ -58,19 +58,17 @@ Then Osoro wept.
 
 <br />
 
----
-<br />
-<br />
-
-The feel of soft, dusty fur beneath his fingers and against his face as he held Monkey close and buried his face against Bear's side. Bird chirped a melancholy note as they stood around the newly formed tree.
-
-The ache in his limbs as he slept on the ground within the clearing, his body cold and shivering. Delaying the moment when he would see _their_ home and know that it was now simply _his_ home.
-
-Warm rain beating against his back as he wove a roof of grasses to protect the fragile sapling from the heavy downpour. The water running into his eyes and down his nose as he worked, making a simple task difficult.
-
-The pull of mud between his toes and around his feet as he took his first steps from the clearing. Accepting that the trees and the gardens he cared for so deeply would fall into disarray if he did not drag himself back into the world.
-
 # Revel
+_The feel of soft, dusty fur beneath his fingers and against his face as he held Monkey close and buried his face against Bear's side. Bird chirped a melancholy note as they stood around the newly formed tree._
+
+_The ache in his limbs as he slept on the ground within the clearing, his body cold and shivering. Delaying the moment when he would see their home and know that it was now simply his home._
+
+_Warm rain beating against his back as he wove a roof of grasses to protect the fragile sapling from the heavy downpour. The water running into his eyes and down his nose as he worked, making a simple task difficult._
+
+_The pull of mud between his toes and around his feet as he took his first steps from the clearing. Accepting that the trees and the gardens he cared for so deeply would fall into disarray if he did not drag himself back into the world..._
+
+<br />
+
 Osoro stood, placing his hands on his hips and arching his back as he stretched. The river's cool waters swirled around his legs while the warm sun beat against his bared back. Emiko's Revel was the best time for working on the water features. 
 
 Osoro looked at the newly-built bridge with pride. It formed a semi-circle, arcing over the river like a leaping deer. 
@@ -203,18 +201,18 @@ But she was gone. And the garden, the world he had so lovingly crafted, was now 
 
 <br />
 
----
-<br />
-<br />
-
-The sudden prick of sweat that jumped to his arms and back each day as he spun around at the sound of any broken twig or wandering animal.
-
-Bird's nervous energy bleeding into his mind as she began to circle the perimeter of the valley each day.
-
-Looking to the ridge-line with trepidation each evening, fearing the spark of a campfire as Emiko's Revel came to an end and the night's grew cold. A faint spark of hope, quickly tamped down, that they might pass the season without another encounter.
-
 # Resolve
-Osoro stood with his back against Tree. The ground in front of him was a smattering of orange and yellow. Suzume's Resolve had come a month earlier and many of the trees had already dropped their leaves.
+_The sudden prick of sweat that jumped to his arms and back as he spun towards the sound of every broken twig or wandering animal._
+
+_Bird's nervous energy bleeding into his mind as she began to circle the valley perimeter each day._
+
+_Looking to the ridge-line with trepidation each evening, fearing the spark of a campfire as Emiko's Revel came to an end and the nights grew cold._ 
+
+_A faint spark of hope, quickly tamped down, that they might pass the season without another encounter..._
+
+<br />
+
+Osoro stood in front of Tree, his back to her. The ground in front of him was a smattering of orange and yellow. Suzume's Resolve had come almost a month ago and many of the trees had already dropped their leaves.
 
 Most of Osoro's garden was filled with pines, providing the timeless look that he preferred. But Yuko had insisted there be at least one grove that changed with the seasons. 
 
@@ -224,11 +222,11 @@ Osoro had smiled the entire day. Yuko was right of course. Since then, he had cr
 
 He missed the stillness of that morning. The valley's quiet serenity felt so far away right now.
 
-"Hey, we said get out of the way." The man's harsh voice jarred him out of his memories. Osoro's skin was the color of the bark behind him. The camouflage was a reflexive defense mechanism of all keepers.
+"Hey, we said get out of the way." The man's harsh voice jarred Osoro out of his memories. Standing at the edge of the clearing was a group of four. 
 
-Standing at the edge of the clearing was a group of four. Two of the individuals were large, wearing full armor that covered their faces. They looked comfortable with the two-handed blades they wielded. 
+Two of the individuals were large, wearing full armor: a man and a woman. The man had short black hair and a scar across his cheek. He held a large greatsword in front of him. The woman had her hair pulled back into a tight ponytail. A heavy, two-sided axe hung in her hand. They both looked comfortable with the blades they wielded. 
 
-The third member of the group was a man who wore little in the way of protection. He was thin and lithe, with clothes that would not impede his movement. He wore two rows of daggers along a strip of leather that went from his left shoulder to his right hip.
+The third member of the group was a man who wore little in the way of protection. He was thin and lithe, with clothes that would not impede his movement. He wore two rows of daggers along a strip of leather that went from his shoulder to his hip.
 
 The fourth member of the group, standing at the back with bow drawn, was Trailfinder.
 
@@ -238,71 +236,73 @@ Monkey hissed from the branches above Osoro. Bear stood in the middle of the cle
 
 "Sorry friend, I promised these three a glowing, mystical fruit. Not a pleasant stroll through gardens. Nothing against you or your animal friends, but I gotta make a living."
 
-One of the armored figures stepped forward, raising their sword. "You mentioned a bear, but you didn't say how big it was! This beast will make a fine trophy." The voice was masculine.
+The armored man stepped forward and raised his sword in one hand. He scratched the scar along his cheek with the other. "You mentioned a bear, but you didn't say how big it was! This beast will make a fine trophy."
 
-The other armored figure came forward as well, it sounded like a woman beneath the metal visor. "Now, don't you two get jealous when I'm the one to slay the thing and my ranking goes higher than both of yours combined!"
+The armored woman came forward as well. "Now, don't you two get jealous when I'm the one to slay the thing and my ranking goes higher than both of yours!"
 
 Osoro watched in dismay. They bantered with one another lightly, like they played some sort of game. They fancied themselves heroes. Bear was their monster, Tree was their reward. How could he stop them? 
 
 The two armored figures began to circle to Bear's flanks.
 
-Seeing herself surrounded, Bear roared and lashed out towards the armored man on her left. He raised his sword in surprise, managing to get the blade in front of Bear's claw. But his strength was nothing compared to that of the ten foot tall bear. His elbows buckled. Bear's claw, and the sword beneath, went crashing into the man's chest and knocked him sprawling onto the ground.
+Seeing herself surrounded, Bear roared and lashed out towards the towards the man with the scar to her left. He raised his sword in surprise, managing to get the blade in front of Bear's claw. But his strength was nothing compared to that of the ten foot tall bear. His elbows buckled. Bear's claw, and the sword beneath, went crashing into the man's chest and knocked him sprawling onto the ground.
 
-"Hah! Watch how it's really done!" Taking advantage of Bear's focus on the man, the armored woman leapt forward with her sword, swinging down against Bear's flank. The woman cut a large gash and Bear cried out in pain. Bear turned her hulking frame towards the armored woman and snapped her jaws. But the woman was careful to step back out of range, avoiding Bear's teeth.
+Osoro cried out in alarm and backed towards Tree. He could feel her cool bark against the palms of his hands as he pressed himself against her trunk.
 
-The agile man darted forward, pulling two daggers from the belt across his chest. He planted one foot on Bear's massive shoulder and vaulted onto her back, sinking both daggers into her fur. Bear growled and shook, trying unsuccessfully to dislodge the man and his blades. 
+"Hah! Watch how it's really done!" Taking advantage of Bear's focus on the man, the armored woman leapt forward with her axe, swinging down against Bear's flank and cutting a large gash. Bear cried out in pain and turned her hulking frame towards the attack. The woman was careful to step back out of range, avoiding Bear's snapping jaws.
 
-The armored man who had been knocked prone brought himself back to his feet, shaking his head and retrieving his sword.
+The agile man darted forward, pulling two daggers from the belt across his chest. He planted one foot on Bear's shoulder and vaulted onto her back, sinking both daggers into her fur. Bear growled and shook, trying to dislodge the man and his blades. 
 
-Osoro stood at the base of Tree, helpless. His mind raced. What could he do? There was a large rock between the roots at his feet. Could he hurl it at one of them? What would it even do against their armor?
+The scar-faced man brought himself back to his feet, armor clanking as he shook his head and retrieved his sword.
+
+Osoro stood at the base of Tree, helpless. What could he do? There was a large rock between the roots at his feet. Could he hurl it at one of them? Would it do anything against their armor?
 
 Monkey screeched as he leapt from Tree's upper branches. As he flew through the air, Trailfinder - still standing far back - loosed her bow at him. The arrow missed, embedding itself in Tree. Dark red sap began to seep around the projectile.
 
-Monkey landed on Bear's back, still screeching wildly. The agile man with the daggers turned, drawing another blade from the belt strapped around his chest. The two armored figures looked up. Monkey's body tensed and his fur began to glow. 
+Monkey landed on Bear's back, still screeching wildly. The man crouching on Bear's back turned towards the noise, drawing another dagger from his belt. The two armored figures looked up. Monkey's body tensed and his fur began to glow. 
 
 Yuko had given Monkey the ability to absorb and emit light, something which he usually used to turn invisible and avoid work. But now he released a concentrated flash of blinding white. Osoro, recognizing what Monkey was doing, closed his eyes against the pulse. He heard the group of intruders all cry out in surprise. There was a heavy thud.
 
 When Osoro opened his eyes, the man with daggers lay on his back to the side of Bear. He was wrestling frantically with an invisible force, scratches opening along his face and arms out of nowhere. Monkey continued to screech as he attacked. 
 
-The armored man was stepping backwards, flailing with his sword blindly to prevent Bear from approaching. Trailfinder and the armored woman were similarly incapacitated.
+The man with the greatsword was stepping backwards, flailing blindly to prevent Bear from approaching. Trailfinder and the woman with the axe were similarly incapacitated.
 
-The man slashing about with his sword stumbled backwards into a black pine tree. He cried out and spun, fearing an attack from behind. Osoro's heart sank further as the man's sword arced down on one of the tree limbs, snapping it. That had taken years to shape.
+The scar-faced man stumbled backwards into a black pine tree. He cried out and spun, fearing an attack from behind. Osoro's heart sank as the man's sword arced down on one of the tree limbs. It took only a second to snap what had taken years to shape.
 
-Bear leapt onto the armored woman, taking advantage of her blindness to pin her to the ground. There was a nasty crunch as Bear's full weight landed on one of the woman's arms. She cried out in pain and swung her sword wildly with her free hand, forcing bear to pull back and avoid the blow.
+Bear leapt onto the woman with the ponytail, taking advantage of her blindness to pin her to the ground. There was a nasty crunch as Bear's full weight landed on the arm holding the woman's axe. She cried out in pain and swung her free hand in a fist at Bear's face.
 
-Regaining her sight, Trailfinder knocked an arrow and fired at Bear. The missile embedded itself in the thick fur around Bear's neck, causing her to cry in pain again. The woman, still pinned beneath Bear, dropped her sword and drew a long dagger, stabbing the blade into one of Bear's front legs. Bear roared and bit down on the woman's shoulder, near her neck. The metal resisted Bear's teeth, but it began to groan and bend under the pressure. The woman screamed in fear.
+Regaining her sight, Trailfinder knocked an arrow and fired. The missile embedded itself in the thick fur around Bear's neck, causing her to cry in pain again. The armored woman, still pinned beneath Bear, drew a long dagger and began stabbing the blade into one of Bear's front legs. Bear roared and bit down on the woman's shoulder, near her neck. The armor resisted Bear's teeth, but it began to groan and bend under the pressure. The woman screamed in fear.
 
-The armored man, able to see again, hefted his sword and charged at Bear's back, rushing to help his comrade. Osoro lifted the rock at his feet and hurled it at him. The man hardly even slowed as the rock bounced harmlessly off his armor.
+Able to see again, the scar-faced man hefted his sword and charged at Bear's back, rushing to help his comrade. Osoro lifted the rock at his feet and hurled it at him. He hardly even slowed as the rock bounced harmlessly off his armor.
 
-The armored man reached Bear and brought his sword down in a massive two handed swing, laying open Bear's back leg. The swing carried downwards, digging a deep gouge through the moss along the floor of the clearing. 
+He reached Bear and brought his sword down in a heavy two-handed swing, laying open Bear's back leg. The swing carried downwards, digging a deep gouge through the moss-covered ground. 
 
-Bear groaned but did not flinch away. She pressed down harder with her jaws. One of Bear's teeth punctured the metal of the woman's armor, sinking into the flesh of her shoulder. Blood poured out. The woman slashed wildly at Bear's neck in a blind panic as she saw her life coming to an end.
+Bear groaned but did not flinch away. She pressed down harder with her jaws. One of Bear's teeth punctured the metal of the woman's armor, sinking into the flesh of her shoulder. Blood poured out. The woman thrashed in a blind panic as she saw her life coming to an end.
 
 At birth, a keeper was given some part of the land to shepherd. Preserving that land against the encroachment of civilization was everything. It was a keeper's reason for existing. Osoro's very name - Kidani - evoked the valley around him.
 
-Osoro looked at the clearing in horror. Broken tree limbs, no longer bending slowly towards their ideal arrangement. Delicate mosses with deep furrows gouged and large areas flattened by falling bodies. The wonderful, verdant green mottled with red blood, turning the ground an ugly brown. The bleeding arrow wound in Tree's trunk. 
+He looked at the clearing in horror. Broken tree limbs, no longer bending slowly towards their ideal arrangement. Delicate mosses with deep furrows gouged and large areas flattened by falling bodies. The wonderful, verdant green mottled with red blood, turning the ground an ugly brown. The bleeding arrow wound in Tree's trunk. 
 
-He watched as the man with daggers got hold of Monkey and threw him bodily against a nearby tree. He saw Bear's form, prickled with arrows and daggers, bleeding profusely. He saw the armored man rearing up to deliver another vicious blow.
+Osoro watched as the man with daggers got hold of Monkey and threw him bodily against a nearby tree. He saw Bear's form, prickled with arrows and daggers, bleeding profusely. He saw the armored man rearing up to deliver another vicious blow.
 
 He couldn't lose the gardens. He couldn't lose Bear. Or Monkey. Who would he be without these things?
 
-"Stop!" Osoro cried out, screaming with such panic he felt his voice cracking. The cry was so raw, it shook everyone from their fury. The man with daggers paused as he got to his feet. Trailfinder hesitated, an arrow half drawn. Bear released her jaws. The woman pinned beneath was unconscious. Whether from blood loss or sheer terror was hard to tell. The armored man lowered his sword.
+"Stop!" Osoro cried out, screaming with such panic he felt his voice cracking. The cry was so raw, it shook everyone from their fury. The man with daggers paused as he got to his feet. Trailfinder hesitated, an arrow half drawn. Bear released her jaws. The woman pinned beneath was unconscious. Whether from blood loss or sheer terror was hard to tell. The scar-faced man lowered his sword.
 
 Frustrated tears streamed down Osoro's face as he continued. "If we give you the fruit, will you leave? Please. You are hurt. We are hurt. We will give you the fruit and let you leave. Just go without causing more harm."
 
-The man with daggers looked across his companions, his face bleeding freely from several deep scratches along his face. The woman beneath Bear was nearly dead. She needed immediate medical attention if she hoped to survive. Her left arm would probably never be the same.
+The man with daggers looked across his companions, his face bleeding freely from several deep scratches around his eyes. The woman beneath Bear was nearly dead. She needed immediate medical attention if she hoped to survive. Her left arm would probably never be the same.
 
 The man nodded, sheathing his daggers. "OK, fair enough." He looked at his comrade and the armored man stepped away from Bear.
 
-Bear stepped back, favoring the front leg that the armored woman had stabbed repeatedly. She limped back to the base of Tree.
+Bear limped back to the base of Tree, favoring the leg that the armored woman had stabbed repeatedly.
 
-The intruders quickly regrouped around their fallen comrade, dragging her to the edge of the clearing. They pried off her armor and Trailfinder began wrapping the woman's shoulder tightly with a bandage. Their previous excitement was replaced by grim shock.
+The intruders regrouped around their fallen comrade, dragging her to the edge of the clearing. They pried off her armor and Trailfinder began wrapping the woman's shoulder tightly with a bandage. Their previous excitement was replaced by grim shock.
 
 Numbly, Osoro climbed Tree. He extended a hand towards the nearest fruit. He paused with his arm outstretched, feeling the smooth skin of the fruit against his fingers. "I'm sorry, love." He closed his eyes and plucked the fruit. There was a brief moment of resistance before the stem broke free. Osoro felt Tree shudder faintly beneath him.
 
 Osoro climbed back to the ground. He could not meet Bear or Monkey's eyes as he walked towards the intruders. The clearing suddenly felt like a great distance, taking an eternity to cross. Osoro flinched as the armored man took the fruit with rough, dirty hands.
 
-Trailfinder took the limb that had been broken during the fight. She angled it against a tree trunk and stomped violently near the center. Once. Twice. The limb snapped, loud like bone. They used it to form a litter and placed the armored woman on it.
+Trailfinder picked up the limb that had been broken during the fight. She angled it against a tree trunk and stomped violently near the center. Once. Twice. The limb snapped, loud like bone. They used it to form a litter and placed the armored woman on it.
 
 Eventually, they left. 
 
@@ -310,46 +310,60 @@ Osoro sat with Bear's paw in his lap. He tended to the deep wounds while in a so
 
 Monkey sat amongst Tree's branches, staring with contempt at Osoro. His glare was full of accusations. He had betrayed Yuko. He was weak. Unworthy of the gardens around him.
 
-"I do not disagree with you, my friend. But I do not know what I could have done differently." He felt hollow.
+"I do not disagree with you, my friend. But I do not know what I could have done differently." Osoro felt hollow.
+
+<br />
 
 # Remorse
+_The angry bite of steel, felt for the first time. Burning a line along his cheek._
+
+_The sense of dread as Bird warned of new intruders. Bear standing painfully, determined despite her unhealed wounds._
+
+_That first primal triumph as he knelt over a man's hateful face, choking the life from him. His fury quickly evaporating as he turned and puked in disgust._ 
+
+_The weariness in his bones, and muscles, and bruises. Rising each day preparing for the worst..._
+
+<br />
+
 Amaya's Remorse was always a quiet time in the valley. The snows fell heavily, hiding away the wonderful greens. They slowed the growth of the trees and choked the river's playful babble with ice. 
 
 Yuko had always itched with boredom during Remorse, but Osoro had loved curling by the fire, laying against Bear's warm fur. They would talk quietly, making up games to pass the time. They only ventured outdoors occasionally, wading through the drifts to knock free the heavy snow and unburden the poor trees' limbs.
 
 Osoro paused along the slope, screwing his eyes shut as he waited for the panic to pass. His body broke into a sweat beneath the many layers of rough-spun clothing he wore. His heart beat painfully at the back of his throat. He felt like he needed to scream, to run away from this feeling, to let it out somehow. At the same time he felt fragile, like any movement would tear him apart. He felt he should simply crumple to the ground beneath the weight of things.
 
-It was the snow. The way it blanketed the valley in silence. How the heavy flakes falling from the sky blocked his vision, made him feel further from Tree and his friends. The way his feet crunched in the snow, loud and alone. 
+It was the snow. The way it blanketed the valley in silence. How the heavy flakes falling from the sky blocked his vision, made him feel further from Tree and his friends. The way his footsteps crunched in the ice, loud and alone. 
 
 Eventually, the pain in his heart passed. Osoro knew it would return. But he could not stop. The valley needed him more than ever.
 
 Bear no longer accompanied him into the woods. Her scars hurt in the cold and made it difficult to walk long distances.
 
-Osoro traced the thin scar along his own cheek, shockingly pink against the dull brown of his skin during Remorse. The ache in his left shoulder was a constant presence. It had been a trying time for all of them.
+Osoro traced the thin scar along his own cheek, shockingly pink against the dull brown of his skin during Remorse. The new ache in his shoulder was a constant presence. It had been a trying time for all of them.
 
 He planted the base of his staff deep in the snow and pushed against it, continuing up the hill. The length of freshly carved wood in his hands was mottled brown and crimson. At this point, Osoro could not remember which of the stains came from his own blood.
 
 He so hoped the snows might quiet the tide of intruders for a time.
 
-After a while, Osoro reached his destination. The clearing was empty, save for a fire pit smoldering at its center. The heat from the dying coals had kept away the morning's snow, leaving the circle of soot standing like an ugly wound in the middle of the white snow surrounding it. A tent occupied the clearing to the right, stakes driven into the nearby trees to hold it aloft.
+After a while, Osoro reached his destination. The clearing was empty, save for a fire pit smoldering at its center and an empty tent to the right. Heat from the dying coals of the fire had kept the morning's snow at bay. The circle of soot stood like an ugly wound in the middle of the undisturbed white surrounding it. The tent was held aloft by stakes driven into the nearby trees.
 
-Yesterday, Osoro had buried the bodies of the intruders who made the camp. A pair of young rangers. He thought they might have been siblings. He tried to make the graves respectfully. If nothing else, he wished for them to be in harmony with the surrounding features. 
+Yesterday, Osoro had buried the bodies of the intruders who made this camp. A pair of young rangers. He thought they might have been siblings. He tried to make the graves respectfully. If nothing else, he wished for them to be in harmony with the surrounding features. 
 
 He wasn't sure he had done a good job. He was still learning how to make a graveyard.
 
-Osoro sighed as he walked to the fire pit and shoveled snow over the coals. When the heat had left it, he would return and fill the pit in. 
+Osoro sighed as he walked to the fire pit and pushed snow over the coals. When the heat had left it, he would return and fill the pit in. 
 
 Next, he approached the tent and began tearing it down. He could not remove the stakes that had been driven into the tree trunks. He could only hope they would not be enough to kill the pines. He bundled the materials he had been able to collect and placed them in a pile.
 
-The easy things done, Osoro turned to the trees surrounding the clearing. In his mind's eye, he remembered this place. He remembered shaping the branches so that they pulled away, giving a wonderful view of the river and the valley beneath. It had been a perfect grove for contemplating the changing leaves during Resolve. A gift for Yuko many years earlier.
+The easy things done, Osoro turned to the trees surrounding the clearing. 
+
+In his mind's eye, he remembered this place. He remembered shaping the branches so that they pulled back, giving a wonderful view of the river and the valley beneath. It had been a perfect grove for contemplating the changing leaves during Resolve. A gift for Yuko many years earlier.
 
 He remembered the stubborn cedar standing directly in front of him. Working with it had been a challenge, the tree steadfastly resisting his attempts to coax it into harmony with the rest of the clearing. It had taken nearly 10 years for them to understand one another.
 
 He remembered the pride he felt, pulling Yuko by the hand into the clearing. Showing her the cedar, its trunk flowing back on itself like a crashing wave, it's branches happily framing the view below.
 
-Those branches now lay on the ground, surrounding the tree. Some had been whittled into crudely shaped totems. Another seemed to be in the beginning shapes of a bow.
+Those branches now lay on the ground surrounding the tree. Some had been whittled into simple totems. Another was in the beginning shapes of a bow.
 
-Over the months, the rumors had grown. Travelers now believed that the entire forest was blessed. Fueled by the mystical kodama at the center of the valley, the wood from any tree was now thought to be a powerful material for weapons and charms. When intruders came, the wondrous shapes of the clearing only confirmed the rumors. The other four races could not fathom that the valley had been shaped by nothing more than a patient, caring hand.
+Over the months, the rumors had grown. Travelers now believed that the entire forest was blessed. Fueled by the mystical kodama at the center of the valley, the wood from any tree was thought to be a powerful material for weapons and charms. When intruders came, the wondrous shapes of the clearing only confirmed the rumors. The other four races could not fathom that the valley had been shaped by nothing more than a patient, caring hand.
 
 Osoro picked up the bow, contemplating whether he could finish it. Could the other fallen branches be shaped into arrows? Could he learn to shoot with any accuracy?
 
@@ -359,17 +373,17 @@ Osoro dropped the branch and ran from the clearing.
 
 He sprinted through the snow in a panic. Fleeing from everything his world had become.
 
-He tripped, falling heavily into the deep snow banks. He pulled himself to his feet desperately, leaning on his staff. He looked at the blood-stained wood in his hands, revulsion filling him. He threw the staff into the woods and continued his flight through the woods. 
+He tripped, falling heavily into the deep snow banks. He pulled himself to his feet desperately, leaning on his staff. He looked at the blood-stained wood in his hands, revulsion filling him. He threw the staff into the woods and continued his flight. 
 
 At some point he heard the nervous twittering of Bird, jumping from branch to branch above him. She reached out for his mind but he flung her thoughts away.
 
-Osoro burst into Tree's clearing. Chest heaving, his eyes wild. Bear raised her head in alarm. Her fur was now a patchwork of scars, one eye permanently closed, replaced by an angry red wound. She began to rise, her body moving stiffly.
+Osoro burst into Tree's clearing. Chest heaving, his eyes wild. Bear raised her head in alarm. Her fur was now a patchwork of scars. One eye was permanently closed, replaced by an angry red wound. She began to rise, her body moving stiffly.
 
 "No!" Osoro flung a shaking hand in Bear's direction. He knew that standing pained her. Her wounds never had time to heal. He did not want Bear to hurt any longer. He did not want his gardens to continue suffering. "Stay where you are Bear. Keep resting." 
 
 Bear settled back to the ground, watching Osoro with a mix of concern and confusion.
 
-Osoro rushed to the pile of steel and iron laying at the edge of the clearing. He hadn't known what to do with the ugly metal weapons. They had no place in his gardens. Now he began to pull pieces away, flinging them wildly. He tossed a sword into the distance. Then a pair of ornate daggers. There had to be something here.
+Osoro rushed to the pile of steel and iron laying at the edge of the clearing. He hadn't known what to do with the ugly metal weapons. They had no place in his gardens. Now he began to pull pieces away, flinging them carelessly. He tossed a sword into the distance. Then a pair of ornate daggers. There had to be something here.
 
 He found it near the middle of the pile. A heavy metal axe. He remembered the bite of its blade in his shoulder. Osoro would have died that day if not for Monkey, leaping on the man from behind.
 
@@ -385,11 +399,11 @@ Osoro felt a weight land against his chest and a sharp pain along his face as Mo
 
 "Do not look at me that way!" Osoro's voice broke as he spoke, tears falling down his cheeks. "She would not have wanted this!"
 
-Monkey took a step backwards towards Tree, maintaining his defensive crouch.
+Monkey took a step backwards, maintaining his defensive crouch.
 
-"Look at what the gardens have become. Look at Bear! We cannot continue this way. I do not have her strength." Osoro dropped to his knees, running his hands through the snow looking for the axe. His hand ran along the blade, opening a cut along his palm. The snow turned crimson as he lifted the axe again. 
+"Look at what the gardens have become. Look at Bear! We cannot continue this way. I do not have her strength." Osoro dropped to his knees, moving his hands through the snow looking for the axe. His hand ran along the blade, opening a cut along his palm. The snow turned crimson as he lifted the weapon again. 
 
-Monkey leapt into the air, disappearing as he flew. The small creature collided with Osoro's face and began scratching wildly. Osoro cried out in pain, falling backwards into the snow. He could feel Monkey's nails leaving deep gouges across his cheeks. His eyes filled with blood and he could not see.
+Monkey leapt into the air, disappearing as he flew. The small creature collided with Osoro's face and began scratching. Osoro cried out in pain, falling backwards into the snow. He could feel Monkey's nails leaving deep gouges across his cheeks. His eyes filled with blood and he could not see.
 
 Osoro yelled, overcome with pain and fury. He grabbed Monkey and flung him away. He heard a thud as Monkey's body hit Tree's trunk.
 
