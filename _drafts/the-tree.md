@@ -1,22 +1,25 @@
 ---
-cast: "['Osoro','Kidani','Chinami','Emiko','Suzume','Amaya', 'Kodama']"
+title: One Year
+era: tournament
+permalink: /compendium/tournament/:title/
+
+layout: post
+excerpt_separator: <!--more-->
+
+cast: "['Osoro','Kidani','Yuko','Chinami','Emiko','Suzume','Amaya','Kodama']"
+pronunciations: "['oh-SOH-roh','kee-DAH-nee','YOO-koh','CHEE-nah-mee','EH-mee-koh','soo-ZOO-meh','ah-MAH-yah','koh-DAH-mah']"
+colors: "['#228010','#228010','#c20030','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e']"
+
+feedback: https://goo.gl/forms/Fj5eEsONULnHeZS23
 ---
-<!-- TOC -->
-
-- [Rebirth](#rebirth)
-- [Revel](#revel)
-- [Resolve](#resolve)
-- [Remorse](#remorse)
-- [Rebirth](#rebirth-1)
-
-<!-- /TOC -->
-
 # Rebirth
 Osoro Kidani sat on a large stone and stared at a mossy patch next to the river. The air was cold but the sun was high and bright, warming him slowly. The occasional gust, cutting through the valley on its way out the other side, pulled away his hard-earned heat with greedy fingers, leaving him shivering as he waited for the sun to warm him again. 
 
 He knew he should move. The black pines along the eastern slope were in need of new supports. He would have to make a decision soon about how he wanted to shape them further. And with the sun so clear in the sky, he really ought to see to some of the more exposed mosses. They were such fragile things.
 
 Chinami's Rebirth was just beginning. The river raged, swollen with snowmelt from the mountains above, announcing the changing of seasons with forceful pride. Osoro smiled for a moment, reminded of Yuko. She loved the river during Rebirth. 
+
+<!--more-->
 
 Osoro preferred the more subtle blossoming of his plants. The gentle spread of green as mosses reclaimed the hillside from the snows. The coyness of the cherry blossoms, their buds peaking before they stepped fully into the sun.
 
@@ -59,13 +62,13 @@ Then Osoro wept.
 <br />
 
 # Revel
-_The feel of soft, dusty fur beneath his fingers and against his face as he held Monkey close and buried his face against Bear's side. Bird chirped a melancholy note as they stood around the newly formed tree._
+_Soft, dusty fur beneath his fingers as he held Monkey and buried his face against Bear's side. Bird chirping a melancholy note as they stood around the newly formed tree._
 
-_The ache in his limbs as he slept on the ground within the clearing, his body cold and shivering. Delaying the moment when he would see their home and know that it was now simply his home._
+_Shock as he saw their home and realized that it was now simply **his** home._
 
-_Warm rain beating against his back as he wove a roof of grasses to protect the fragile sapling from the heavy downpour. The water running into his eyes and down his nose as he worked, making a simple task difficult._
+_Warm rain beating against his back as he wove a roof of grasses to protect the fragile sapling. Water running into his eyes, making a simple task difficult._
 
-_The pull of mud between his toes and around his feet as he took his first steps from the clearing. Accepting that the trees and the gardens he cared for so deeply would fall into disarray if he did not drag himself back into the world..._
+_The pull of mud between his toes and around his feet as he dragged himself back into the world..._
 
 <br />
 
@@ -202,11 +205,11 @@ But she was gone. And the garden, the world he had so lovingly crafted, was now 
 <br />
 
 # Resolve
-_The sudden prick of sweat that jumped to his arms and back as he spun towards the sound of every broken twig or wandering animal._
+_The prick of sweat that jumped to his arms and back as he spun towards the sound of every broken twig or wandering animal._
 
-_Bird's nervous energy bleeding into his mind as she began to circle the valley perimeter each day._
+_Bird's nervous energy bleeding into his mind as she circled the valley perimeter each day._
 
-_Looking to the ridge-line with trepidation each evening, fearing the spark of a campfire as Emiko's Revel came to an end and the nights grew cold._ 
+_Looking to the ridge-line with trepidation, fearing the spark of a campfire as Emiko's Revel ended and the nights grew cold._ 
 
 _A faint spark of hope, quickly tamped down, that they might pass the season without another encounter..._
 
@@ -317,11 +320,11 @@ Monkey sat amongst Tree's branches, staring with contempt at Osoro. His glare wa
 # Remorse
 _The angry bite of steel, felt for the first time. Burning a line along his cheek._
 
-_The sense of dread as Bird warned of new intruders. Bear standing painfully, determined despite her unhealed wounds._
+_Dread as Bird warned of new intruders. Bear rising painfully, determined despite her unhealed wounds._
 
-_That first primal triumph as he knelt over a man's hateful face, choking the life from him. His fury quickly evaporating as he turned and puked in disgust._ 
+_Primal triumph as he knelt over a man's hateful face, choking the life from him. Fury quickly evaporating as he turned and puked in disgust._ 
 
-_The weariness in his bones, and muscles, and bruises. Rising each day preparing for the worst..._
+_Weariness in his bones. And muscles. And bruises. Rising each day preparing for the worst..._
 
 <br />
 
@@ -423,23 +426,41 @@ But how could it be alive without her?
 
 "Why didn't you come back?"
 
+<br />
+
 # Rebirth
-Osoro closed his eyes and felt the warm, delicate breeze across his face. It was early in Rebirth, and the sun still peeked from behind the clouds and the mountains self-consciously. Embarrassed it had been gone so long.
+_The jarring thrum of the wooden axe handle. Pain in his arms and back as he swung with grim determination._
 
-Osoro could hear the river raging to his right, fueled by snowmelt from the mountains. Beneath the boisterous tumbling of the river, he could hear the steady rhythm of the fountain. The hollow _plok_ as the wood tipped backwards, filling with water. Then the steady gush as the hollow tube filled and tipped forward again, spilling it's contents into the rock-filled pool at its base.
+_The lurch in his heart that first morning, when he returned and saw the lifeless wood lying in the clearing._
 
-Osoro sat on a bench, appreciating the clearing. The moss was still gouged in some places and barren in others. Osoro had pulled up the areas too permanently stained with blood. Several trees looked naked, branches broken and trunks badly scarred. It would be a long time before the clearing returned to its pristine beauty. But Osoro could wait. He was a keeper after all.
+_Hope, as a group of intruders left the valley, disappointed and confused. Bear resting peacefully, undisturbed._ 
 
-Osoro turned his attention back to the fountain. To the bench beneath him. Both carved from fresh beech wood. He looked over his shoulder at the large tree stump sitting in the clearing. Seeing it still made his heart wrench. He tried to shake off the pain.
+_Dirt beneath his fingernails, sweat across his brow as he knelt and tended to the mosses that had been so poorly neglected..._
 
-Osoro had continued to shape the clearing for a large feature. To anyone who wandered through, they would never know. Or perhaps they might notice that something was subtly off. The arrangement might feel out of balance. 
+<br />
 
-But to Osoro it was obvious in the way all the other trees bent. Where the mosses swirled. The way the fountain and the bench pointed. Where the bridge was placed. In all these things he could see the form of Tree, still shaping the clearing around her.
+Osoro closed his eyes and felt the warm, delicate breeze across his face. It was early in Rebirth and the sun still peeked from behind the clouds self-consciously. Embarrassed it had been gone so long.
 
-The tide of intruders had slowed, then stopped. Bird still flew nervously around the edges of the forest, just to be safe. Bear's wounds had finally healed. She lay curled in the shadows at the edge of the clearing, white scars and brown fur.
+Osoro could hear the river calling happily to his right. Beneath its boisterous tumbling was the steady rhythm of the fountain. The bright _plok_ of wood against stone as the hollow bamboo tipped backwards, filling with water. Then the steady gush as the tube filled and tipped forward again, spilling it's contents into the pool at its base.
+
+Osoro sat on a bench, contemplating his surroundings. The moss was still gouged and barren in places, recovering slowly from the blood-drenched soil. Several trees looked naked, branches broken and trunks badly scarred. It would be a long time before the clearing returned to its pristine beauty. But Osoro could wait. 
+
+He was a keeper after all.
+
+He turned his attention to the fountain and the bench beneath him. Both made of freshly carved beech wood. They were raw and light in color, their lines hard and unnatural. But time would fix that, just as it would heal the clearing that was their home.
+
+Osoro looked over his shoulder at the large stump sitting behind him. Seeing it still made his heart wrench, but he tried to shake off the pain.
+
+He had continued to shape the clearing for a large feature. To anyone who wandered through, they might never know. Or perhaps they would notice that something was subtly off. The arrangement may seem out of balance. 
+
+But to Osoro, it was obvious in the way the other trees bent. Where the mosses swirled. The way the fountain and the bench pointed. Where the bridge leapt across the river. 
+
+In all these things he could see the form of Tree, her branches proud and stretched towards the sun. Still shaping the clearing around her.
+
+The tide of intruders had slowed, then stopped. Bird still flew around the forest, just to be safe. But Bear's wounds had finally healed. She lay curled at the edge of the clearing, brown fur and white scars absorbing the sunlight.
 
 Monkey never returned, though Osoro hoped dearly that someday he might.
 
-The forest still felt lonely. Leaving the clearing still filled Osoro with fear. Perhaps it always would. But his gardens were beginning to thrive again. They were finding wonderful shapes beneath his careful, guiding hands. The cicadas would be out soon. And then the leaves would begin to change their colors.
+The forest still felt lonely. Leaving the clearing still filled Osoro with pain. Perhaps it always would. But his gardens were beginning to thrive again. They were finding wonderful shapes beneath his careful, guiding hands. The cicadas would be out soon. And then the leaves would begin to change their colors.
 
 Perhaps some day it would feel like enough.
