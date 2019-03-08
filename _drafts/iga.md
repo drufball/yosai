@@ -271,7 +271,7 @@ Keta nodded towards a table by the doorway, full of food for the training Dagger
 
 Keta wagged a finger as he swallowed another bite of apple. "There is nothing more important than enjoying a delicious meal whenever you can. What's the point of life if you don't let yourself indulge?"
 
-"Well, some of us need to make sure we don't get kicked out before we can think about indulging." Moto walked to the wooden railing that separated the entrance of the Dojo from the interior landscape. He watched as someone ran along the surface of the pond, flipping and weaving to avoid bolts of flame thrown by another two individuals at the edge of the lake.
+"Well, some of us need to make sure we don't get kicked out before we can think about indulging." Moto walked to the wooden railing that separated the entrance of the dojo from the interior landscape. He watched as someone ran along the surface of the pond, flipping and weaving to avoid bolts of flame thrown by another two individuals at the edge of the lake.
 
 He knew about resonance. Most people did, considering how important the Tournament was in day-to-day life. But he didn't know anything about how to make it happen. Which resonance should he even choose? He thought that this would be part of his instruction to be a Dagger, not a prerequisite.
 
@@ -329,7 +329,7 @@ Moto looked at the symbols on the back of Fumi's hands. "So you're... wind house
 
 Fumi nodded, her face lighting up. "My dad is the head of Zephys. I won't be a full member until I resonate tomorrow though."
 
-The group continued talking, but Moto barely paid any attention. He knew what he needed to do tomorrow. Zephys specialized in assassination. And it's leader was exactly the man he had been trying all these years to get close to. 
+The group continued talking, but Moto barely paid any attention. He knew what he needed to do, now. Zephys specialized in assassination. And it's leader was exactly the man he had been trying all these years to get close to. 
 
 No matter what, Moto had to join Zephys.
 
@@ -352,48 +352,135 @@ The same younger kid from the day before raised their hand. Iruka rolled his eye
 
 "Any other questions obviously covered by the rules I just explained?" The kid shrank back, embarrassed. "Alright, let's get started."
 
-Iruka turned and walked into the Playground. Inside, Moto could tell that things had been changed overnight. The rock faces on the small mountain peeks were more sheer, and every few seconds they seemed to shift. There were shimmers of movement in the trees. Moto squinted and saw what looked like a large bear. There was the glint of a coin fastened along it's back. Another coin seemed to be suspended in midair, almost 50 feet above the tallest mountain peek.
+Iruka turned and walked into the Playground. Inside, Moto could tell that things had been changed overnight. The rock faces on the small mountain peeks were more sheer, and every few seconds they seemed to shift. There were shimmers of movement in the trees. Moto squinted and saw what looked like a large bear with the glint of a coin fastened along it's back. Another coin was suspended in midair, almost 50 feet above the tallest mountain peek.
 
-Iruka turned towards the group. "All 9 coins are in this building, so don't go thinking your clever and rushing back outside to look on the roof. Those people always bug me."
+Iruka turned towards the group. "All 9 coins are in this building, so don't go thinking you're clever and rush back outside to look on the roof. Those people always bug me."
 
 Iruka reached into the folds of his belt and pulled out a gold coin. He flipped it in the air and caught it. "Otherwise, coins can be anywhere." He smiled and jumped backwards, clearing the handrail without looking. He turned and sprinted into the woods. "What are you waiting for? Go!"
 
-Several kids burst forward in surprise sprinting after Iruka. A few others started racing towards the ladders to get to a higher vantage point along the walls. Moto stood and thought.
+Several kids burst forward in surprise, sprinting after Iruka. A few others started racing towards the ladders to get to a higher vantage point along the walls. Moto stood and thought.
 
 What were his options? Iruka clearly had a coin, but there were already several kids going after him. There was the coin he'd seen on the bear. Had anyone else noticed that? There was the coin floating towards the ceiling. There might be one hidden at the bottom of the pond. Definitely more in the forest somewhere. 
 
 But more importantly, what was each coin testing?
 
-- Competition is to retrieve a coin.
-- Challenges:
-    - Water
-        - Flexibility
-        - Relentlessness
-        - Calm
-    - Earth
-        - Determination
-        - Perseverance
-        - Stubbornness
-    - Wind
-        - Whimsical
-        - Quiet, unseen
-        - Quick witted
-    - Fire
-        - Passion
-        - Fury
-        - Friendship
-- Analyze a few challenges, figure out which one seems to be wind.
-    - Flexibility + dexterity
-    - Maybe stealth
-    - Looks at:
-        - Water, no
-        - Surrounded by coals, no
-        - Animals in the forest, maybe
-        - Mountaintop, yes
-- Go for it, compete with Fumi
-- Lose because trying to think to much about what ideal he's manifesting
-    - Fumi is very natural, just leaping without thinking, ends up manifesting wind to launch herself to the top
-- Last minute, go for another coin
-    - Fighting animals, someone else competes for it, looks like they're going to get it at the last minute.
-- Pull a coin with gravity towards him
+Moto had thought a lot about the traits of wind over the last day. He had decided that it was the trickiest of the elements. It could change directions on a whim, travel unseen, and change from a light breeze to an overwhelming gust in an instant. Flexibility and nimbleness. Those were the kind of tests he was looking for.
 
+Catching Iruka and taking his coin seemed like it would take speed and quick reflexes, but there were so many other kids to compete with. The bear might be the same, but it could also be a test of courage or strength. The coins that were more thoroughly hidden were probably testing things like diligence.
+
+That left the coin suspended from the ceiling, hanging over the shifting cliff faces. 
+
+Moto dashed forward, planting a hand on the railing and vaulting over it into the woods beyond. He wove through the trees, ignoring the kids fanning out around him. Eventually the crowd started to thin out.
+
+By the time Moto reached the based of the mountain, there was no one else around him. He looked around in confusion. He couldn't have been the only one who saw the coin, why was no one else going for it?
+
+"I'll race ya for it!" 30 feet away, a form came darting out of the woods, long black hair trailing. Fumi reached the base of the vertical cliff face, planted her foot on a stone outcropping, then launched herself nearly ten feet in the air, grabbing a ledge with both hands. 
+
+Moto cursed. Of course. This coin was the most obvious test for wind. No one wanted to compete with a Soundstealer. It was probably best to find a different coin to go for.
+
+Moto set his shoulders and charged towards the cliff face. 
+
+He aimed for an area where two rocks jutted from the wall and created a chimney a few feet wide. Moto jumped, planting his foot on the right wall and pushing off towards the left. As he connected with the left wall, turning to repeat the process, he heard a loud grating sound. The stone shifted as he pushed against it.
+
+Moto flailed through the air, losing much of his forward momentum. Instead of landing easily atop the rightmost outcropping, he collided with it painfully at the waist, knocking the wind out of him. Moto gasped for air as his hands searched for purchase. He found a crack wide enough for his fingers and managed to anchor himself before he fell off. He pulled himself onto the rock, forcing himself to ignore the pain in his hips and find the next step up.
+
+His path had brought him closer to Fumi. He could see her stretching for a handhold ten feet up and a few feet to his right. As one of the stones shifted under her foot, she let herself fall with it, pushing off with the other foot. For a moment she was completely separated from the cliff face, then she snagged the wall with one hand, letting her momentum swing her legs up to a ledge she couldn't have reached otherwise. She was directly above him now. Once she pulled herself onto the ledge she had hooked with her feet she would be halfway to the top.
+
+Moto reminded himself he needed to move like that. Working with the unexpected and building off it. He needed to plan for the rocks to shift beneath him and use that to his advantage.
+
+Moto began to climb the wall, moving quickly between handholds. He reached a difficult point, with a handhold too far out of his reach. Normally, he'd have to move cautiously, re-centering his wait and shuffling his footholds higher. But instead he pushed off hard with both feet and threw himself up towards the handhold.
+
+It was a risk. He'd be off balance and there were would be no place to put his feet. But he gambled that the rock would shift. It did. The grip slid several inches down the rock face under his weight, letting his foot touch down on a wide protrusion.
+
+The minute his foot touched down he flexed his leg and pushed upwards again, pulling hard with both hands against the loose handhold. As it slid down, he brought his knees close to his chest, cramming his toes next to his hands. He used his upward momentum to lengthen his body, grabbing onto two handholds higher up and letting his feet dangle as the loose stone eventually broke free from the cliff face all together. Moto was now only a couple feet below Fumi.
+
+He realized he was in the same spot Fumi had been a moment before. He planted his foot on the same stone she had. It shifted beneath him, as expected. He leapt, aiming for the same handhold Fumi had. But as his hands caught the rock and his weight began to pull against it, he felt a sudden lurch.
+
+He wasn't sure if it was because he was heavier than Fumi, or if the stone had been loosened by her swing, but the rock came tearing away from the wall while he was in mid swing. There was no way he had enough momentum to reach the ledge that Fumi was crouched on.
+
+Maybe this was it. The moment of need that Keta had mentioned. Moto focused on a sense of lightness and flexibility as he stretched his hand forward and reached.
+
+Fumi's hand shot out and caught his wrist.
+
+Moto swung wildly in the air. Above him, Fumi gritted her teeth as she braced herself against his weight. Eventually Moto's momentum came to a halt and he hung, clasping Fumi's forearm.
+
+Moto looked up in shock. "Why would you catch me?"
+
+"Oh. You know." Fumi was painting from the strain of holding his weight. "Why don't we talk about it once you're not just a deadweight hanging in my grip?" She began to pull him up.
+
+Moto didn't understand. They were competing for the same coin. She got nothing out of helping him. Was she toying with him? Well, see how she liked this. Moto planted his feet against the wall and pulled hard. The unexpected surge sent Fumi skidding off the rock, launching out into open air.
+
+His body lurched upwards from the pull, bringing him close enough to grasp the ledge that Fumi was standing on. He looked down to see Fumi spinning in the air, her face a mask of surprise as she grabbed for a handhold. It was too late, her momentum had carried her too far from the wall. Moto felt a surge of triumph.
+
+Fumi's expression shifted, her brow furrowed in concentration. She threw her hands towards the ground and a massive gust of wind erupted beneath her. Her hair whipped around her as her fall was halted and she suddenly shot upwards, past Moto. She laughed as she did a casual flip, landing softly at the top of the mountain. 
+
+"Finally!" Fumi was still laughing as she spoke. She flexed her legs and jumped again, sending another burst of wind beneath her. Moto was nearly blown from cliff face as Fumi launched 50 feet into the air and snagged the coin, using another gust of wind to cushion her fall back to the top of the mountain. She started shooting blasts of wind in random directions, everything else forgotten.
+
+Moto looked on with dismay. Iruka was right. Once someone resonated it was like the challenge disappeared. 
+
+He turned his back to the cliff face and looked out over the surrounding woods. Competing with Soundstealer had been a mistake. How many coins were left? Moto's eye's darted across the landscape quickly. Standing by the entrance to the Playground there were six kids, they laughed and clapped each other on the shoulders. Including Fumi, that meant 7 coins had been found.
+
+Moto could see Iruka, jumping from tree to tree with a huge crowd of desperate kids rushing after him. Not surprising that his coin hadn't been taken yet. Iruka and his followers were heading towards Moto's cliff face. Should he join the chase? It looked like most of the remaining kids were following. Maybe he should look for the other coin.
+
+"Yes!" Moto's gaze shot over to the pond, where a girl came launching into the air propelled by a jet of water. A coin glittered in her dripping hand.
+
+Well, that settled that.
+
+Moto looked back to Iruka. The man's trajectory would bring him close to the rock face, almost directly beneath Moto. There was no time to climb down and try to join the chase. That didn't seem to be working for any of the kids below, anyways. He needed to catch Iruka off guard. Moto pressed a hand against the rock behind him, tensing his legs. It was a good 20 feet to the tree-line below. He'd only get one shot.
+
+As Iruka passed beneath him, Moto leapt.
+
+This was always his advantage. When all else failed. When he was cornered. When he faced a bigger opponent. Moto could take the pain that others flinched away from. Iruka said a coin was all he needed. So he'd take it by sheer force of will.
+
+Tree limbs whipped against Moto's face, drawing blood as he broke into the tree cover. He felt a rib snap as he collided heavily with a tree branch. It didn't matter.
+
+It was a remarkably accurate jump. Iruka had no reason to look up, his focus on the kids behind him. Moto was positioned perfectly above him. He pushed against a tree trunk with his foot, shifting his trajectory as the branch against his ribs broke and his momentum carried him downwards. He reached out for the coin in Iruka's hands.
+
+At the last minute, Iruka's attention whipped forward, drawn by the sound of snapping wood. Moto's fingers were inches from the coin. 
+
+With lighting fast reflexes, Iruka snatched his hand backwards and somersaulted over Moto. 
+
+Moto's hands closed on air as he continued to fall. His shoulder collided with the tree limb Iruka had leapt from. There was a crunch and Moto's world spun as his body pivoted around the branch. His arm flared with pain.
+
+His back now facing the ground, Moto looked up and saw Iruka leaping away from him. Saw his goals receding from his grasp. "No!" Moto reached out with his hand. He couldn't give up. He wouldn't.
+
+He felt a surge of energy within his body. Suddenly, his outstretched hand felt heavy. He could feel that weight pulling on everything around him, drawing it towards his hand. Moto blocked everything else out. He ignored the pain in his body and the wind rushing past him. Moto focused on the coin in Iruka's hands and _pulled_.
+
+Iruka's hand snapped backwards as the coin was ripped from his grasp. It shot through the air, glittering as it rotated. Moto felt a light _thump_ against the palm of his hand and closed his fingers greedily.
+
+Then he hit the ground.
+
+<br />
+---
+<br />
+<br />
+
+Moto stood amongst the other 12 genin, waiting for their first instruction as Daggers. He leaned heavily against Keta. His left arm was in a sling and his ribs were tightly bound, making breathing difficult. Apparently, there was a rule in Iga that Daggers had to live with the consequences of their injuries for one week before they could be healed.
+
+Moto didn't care. He looked down at his new black robes. A brown mountain was stitched along the back of each hand.
+
+Keta tightened his arm around Moto's waist. He nodded at the mountain emblems as Moto stared at them. "I am not surprised that you resonated with stone. Cold and rigid, just like your hug." Keta looked at him with twinkling eyes.
+
+Moto ignored the jab, enjoying the heat from Keta's over-warm body in the cold mountain wind. 
+
+It wasn't exactly according to plan, but he'd made it. He'd find another way to get closer to Soundstealer.
+
+Moto looked towards Fumi, standing on the opposite side of the group. She caught his glance and shot him an angry glare.
+
+Keta noticed the exchange. "What did you do to make her so angry? She seemed so nice the other day."
+
+"I tried to throw her off a cliff after she kept me from falling."
+
+"Ah." Keta looked from Fumi to Moto's badly broken body. "I can see who that worked out for."
+
+"I don't get it. We were going after the same coin. If I had gotten to it first she might not have become a Dagger. But she tried to help me anyways. And if she hadn't resonated when I threw her, I _would_ have beaten her."
+
+"Perhaps she just had faith in her compatibility with wind. Or did not want to see you fall."
+
+Moto shook his head, wincing at a twinge of pain in his shoulder. "She reminds me of my dad."
+
+"This is... a good thing, yes?"
+
+"My dad was an idiot. It worked out for her this time, but that kind of blind faith gets people killed."
+
+Moto clamped down on the flood of memories. Now wasn't the time for looking back. He could do that once his work was done. For now, it had only just begun.
