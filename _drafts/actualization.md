@@ -270,6 +270,8 @@ He might not be able to get in tonight, but it didn't hurt to make friends with 
 <br />
 <br />
 
+*Point for above - doesn't eat a lot anyways*
+
 - Obstacle course begins, joke about how they love making them collect things
 - Chance to show off leveled up abilities for internals
 - Keta surmounts wall first, Moto and Fumi manage to keep up with the earth-eaters

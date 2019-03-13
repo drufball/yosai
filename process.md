@@ -26,7 +26,7 @@ reader.
 
 **Hours spent editing:** 0.7  
 
-**7 day average:** 1   
+**7 day average:** 0.9   
 
 **28 day average:** 1  
 

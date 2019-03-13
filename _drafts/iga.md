@@ -202,7 +202,7 @@ Keta placed a hand on Moto's shoulder, looking into his eyes and smiling. Moto w
 
 Keta continued smiling as he slid a brown and a red band onto Moto's good arm. He took one of the white rings for himself and then turned to the crowd. He gave a deep bow and there was a smattering of applause from the Daggers in the stands. 
 
-Ignoring the pain for a moment, Moto allowed himself a smile. It wasn't pretty, but that didn't matter. Whatever Keta said, Moto knew life was more like a knife-fight than a dance recital. 
+Ignoring the pain for a moment, Moto allowed himself a smile. It wasn't pretty, but that didn't matter. Whatever Keta said, Moto knew life was more like a knife-fight than a poem. 
 
 One step closer.
 
@@ -211,41 +211,41 @@ One step closer.
 <br />
 <br />
 
-Moto stood amongst a group of 20 kids his age. They were in a wide, rocky courtyard atop a towering mountain peak. There were no railings or walls near the cliff edges. Just a plunge several hundred feet into the clouds below. This high up, the air was frigid and strong winds came gusting out of nowhere.
+Moto stood amidst a group of 20 kids his age. They were in a wide, rocky courtyard atop a towering mountain peak. There were no railings or walls near the cliff edges. Just a plunge several hundred feet into the clouds below. This high up, the air was frigid and strong winds came gusting from nowhere.
 
-Moto stood as close to the center of the courtyard as possible, but the wide open heights still made him feel nauseous. He wasn't afraid of heights, but after two years in the dark, cramped alleyways of Koga, just seeing the sun every day was taking some getting used to. Moto tried not to think of the sheer drop on all sides around him.
+Moto stood as close to the center of the courtyard as possible, but the wide open heights still gave him vertigo. He wasn't afraid of heights, but after two years in the dark, cramped alleyways of Koga, just seeing the sun every day was taking some getting used to.
 
-The peak that Moto and the other kids stood upon was relatively narrow. Aside from the courtyard, the rest of the summit was dominated by a dojo nearly 10 stories high. It was one of the tallest buildings Moto had ever seen. The dojo's black-shingled roof made a steep triangle with the bottom flaring back towards the sky. Thick paper shoji doors barred the entrance, criss-crossed with a dense lattice of wood to hold against the wind.
+The peak that Moto and the other kids stood upon was relatively narrow. Aside from the courtyard, the rest of the summit was dominated by a dojo nearly ten stories high. It was the tallest building Moto had ever seen. The dojo's black-shingled roof was steeply angled with the lower portion flaring back towards the sky. Thick paper shoji doors barred the entrance, criss-crossed with a dense lattice of wood to hold against the wind.
 
-Moto could hear the screech of metal mining carts, racing along the railways that connected the many isolated peaks. He had known that Iga was on a mountaintop, but the village seemed a little too eager to embrace the aesthetic.
+Moto could hear the screech of metal mining carts, racing along the railways that connected the many isolated peaks. He had known that Iga was on a mountaintop, but the village seemed a little _too_ eager to embrace the aesthetic.
 
-Moto and the rest of the kids wore many thin layers of fur and leather to guard against the biting wind. Keta, of course, wore only his bright red and orange dancer's clothes.
+Moto and the rest of the kids wore many thin layers of fur and leather to guard against the biting wind without restricting mobility. Keta, of course, wore only his bright red and orange dancer's clothes.
 
-"You seriously never get cold?"
+"You really never get cold?"
 
 "Not so long as there is flame nearby." Keta nodded towards the large bonfire burning at the entrance to the dojo. 
 
 "Must be nice to have a resonance already." 
 
-It had been a week since Selection Day. As was customary, the winners of the fight were taken away immediately. The life of a Dagger required you to leave everything else behind. Not much of a sacrifice in Moto's case. 
+It had been a week since Selection Day. As was customary, the winners of the fight were taken away immediately. The life of a Dagger required you to leave everything else behind. Not much to leave in Moto's case. 
 
 Someone had healed Moto's shoulder on the week long journey to the summit of Iga. Along the way, they had joined up with a few other kids coming from across Yosai to train. They had all arrived the night before.
 
 Iruka, the man who had overseen Selection Day in Koga, emerged from the dojo ahead of them. He walked down the steps and stopped in front of the new recruits, crossing his arms. His fitted black clothes now bore a brown mountain emblazoned on the back of each hand and across the shoulders.
 
-"Alright, pay attention everyone. I won't repeat myself. You lot have been chosen from around Yosai or amongst the houses here in Iga as the next potential class of Daggers." Looking around, Moto noticed that some of the kids were already dressed in black with emblems across their back. He saw what looked like a few flames and crashing waves. Two backs had mountains like Iruka. One girl had what appeared to be blowing wind.
+"Alright, pay attention because I don't want to repeat myself. You lot have been chosen from around Yosai or from the houses here in Iga as the next class of potential Daggers." Looking around, Moto noticed that some of the kids were already dressed in black with emblems across their back. He saw a few flames and crashing waves. Two backs had mountains like Iruka. One girl had a gust of wind.
 
-"For those of you who are new, Daggers are split into four houses based on their specialty: fire, water, earth, and air. You'll be placed into a house based on the surge you eventually resonate with. Those kids who grew up in a house will be moved if they resonate with something different."
+"For those of you who are new, Daggers are split into four houses based on their specialty: fire, water, earth, and air. You'll be placed into a house based on the element you eventually resonate with. Those kids who grew up in a house will be moved if they end up resonating with something different."
 
 Iruka turned back towards the dojo and began walking up the stairs. "Don't fall behind." The kids scrambled to follow.
 
 "You'll still do general training as a class, but your house will instruct you on the finer uses of your resonance." Iruka slid open the doors to the dojo and entered. As Moto stepped inside he was hit by a feeling of warmth and the smell of sweat.
 
-Inside, the dojo was a single large room. The walls were lined with stairs and walkways. Thick ropes criss-crossed through the air. Dominating most of the floor was a small jungle. The right corner had a pond surrounded by open grasses. Trees covered the rest of the floor, with large rock platforms rising up like mountain peaks. Replica buildings were scattered throughout.
+Inside, the entire dojo was a single towering room. The walls were lined with stairs and walkways. Thick ropes criss-crossed through the air. Dominating most of the floor was a small jungle. The right corner had a pond surrounded by open grasses. Trees covered the rest of the floor, with large rock platforms rising up like mountain peaks. Replica buildings were scattered throughout.
 
-All over the interior landscape, kids in dark black clothing bounded. They sparred with each other, or raced up the mountain peaks. Some practiced throwing daggers at a target as they slid along the ropes that connected the exterior walkways.
+All over the interior landscape, kids in dark black clothing bounded. They sparred with each other, or raced up the mountain peaks. Some practiced throwing daggers at a target as they slid along the ropes strung between the walls.
 
-Iruka gave the kids a moment to stare in wonder before he continued. "Daggers are broken into three levels: genin, chunin, and jonin. Genin and chunin practice here in the playground.
+Iruka gave the kids a moment to stare in wonder before he continued. "Daggers are broken into three levels: genin, chunin, and jonin. Genin and chunin practice here in the Playground.
 
 "I understand that a few of you already have resonances?" Iruka looked towards Keta. A few other kids stepped forward as well. "Congratulations, you're all genin. You should report to the correct house by this evening to get a room.
 
@@ -253,15 +253,15 @@ Iruka gave the kids a moment to stare in wonder before he continued. "Daggers ar
 
 One of the younger kids raised a hand to get Iruka's attention. "What happens if we don't resonate during the exam?"
 
-"Then you won't be a Dagger. We don't waste our time training anything less than the best. Anyone without a resonance will join the support staff for the village." The kid put his hand down, looking nervous. "What, you thought because you made it this far, you were guaranteed a spot going forward? Being a Dagger requires constant effort.
+"Then you won't be a Dagger. We don't waste our time training anything less than the best. Anyone without a resonance will join the support staff for the village." The kid put his hand down, looking nervous. "What, you thought because you made it this far, you were guaranteed a spot going forward? Being a Dagger means constant effort.
 
-"Anyways, you're all granted access to the playground for the rest of the day. You can prepare any way you want for the test tomorrow. We'll meet outside in the courtyard at dawn." Iruka walked away without waiting to see if anyone had questions.
+"Anyways, you're all granted access to the Playground for the rest of the day. You can prepare any way you want for the test tomorrow. We'll meet in the courtyard outside at dawn." Iruka walked away without waiting to see if anyone had questions.
 
-The kids all shifted about awkwardly in Iruka's absence. Most of them had arrived in Iga the night before from far-flung corners of Yosai. A few friend groups seemed to have formed during the long treks to reach the mountain village, but for the most part these people were loners.
+The kids all shifted about awkwardly in Iruka's absence. Most of them had arrived in Iga from far-flung corners of Yosai just last night. A few friend groups had formed during the long treks to reach the mountain village, but for the most part everyone was still loners.
 
-Some broke off and wandered aimlessly into the terrain below, uncertain how to prepare for tomorrow's exam. A few others tried to attach themselves to the groups that had already formed. They hovered like eager pups, slowly inching their way further into the circles of discussion.
+Some broke off and wandered aimlessly into the terrain below, uncertain how to prepare for tomorrow's exam. A few others attached themselves to the groups that had already formed, especially the groups that contained kids wearing black robes.
 
-Keta appeared at Moto's side, biting into an apple. He held a second fruit in his other hand, tapping Moto on the chest with it. "Mmm?"
+Keta appeared at Moto's side, biting into an apple. He held another fruit in his other hand, tapping Moto on the chest with it. "Mmm?"
 
 "No thanks, I'm not really hungry right now." It was a lie. Moto was always hungry. But he remembered how much he suffered three years ago. How hard it was to adjust to life on his own. He would never let himself get that soft again.
 
@@ -269,19 +269,19 @@ Keta appeared at Moto's side, biting into an apple. He held a second fruit in hi
 
 "Where did you even get that?"
 
-Keta nodded towards a table by the doorway, full of food for the training Daggers. Then he patted a leather pouch at his side, which was clearly stuffed.
+Keta nodded towards a table by the doorway, full of food for the training Daggers. He patted a leather pouch at his side, which was clearly stuffed.
 
 "Don't you think we have more important things to be worrying about than stuffing our faces?"
 
 Keta wagged a finger as he swallowed another bite of apple. "There is nothing more important than enjoying a delicious meal whenever you can. What's the point of life if you don't let yourself indulge?"
 
-"Well, some of us need to make sure we don't get kicked out before we can think about indulging." Moto walked to the wooden railing that separated the entrance of the dojo from the interior landscape. He watched as someone ran along the surface of the pond, flipping and weaving to avoid bolts of flame thrown by another two individuals at the edge of the lake.
+"Well, some of us need to make sure we don't get kicked out before we can think about indulging." Moto walked to the wooden railing that separated the entrance of the Playground from the interior landscape. He watched as someone ran along the surface of the pond, weaving to avoid bolts of flame thrown by another two individuals at the edge of the lake.
 
-He knew about resonance. Most people did, considering how important the Tournament was in day-to-day life. But he didn't know anything about how to make it happen. Which resonance should he even choose? He had thought that this would be part of his instruction, not a prerequisite.
+He knew about resonance. Most people did, considering how important the Tournament was in day-to-day life. But he didn't know anything about how to make it happen. Which resonance should he even choose? He thought that this would be part of his instruction, not a prerequisite.
 
 "Keta, how did you get your resonance?"
 
-Keta walked up and placed his hands on the railing next to Moto, standing close as he always did. "My parents taught me." Keta smiled as he remembered. "We have been fire dancers for many generations, so we are very familiar with the personalities of flame. When I was young, my parents taught me many philosophies, all of which were compatible with fire. I chose the path of passion and consumption, and they helped me to understand how to live my life by those principles."
+Keta walked up and placed his hands on the railing next to Moto, standing close as he always did. "My parents taught me." Keta smiled as he remembered. "We have been fire dancers for many generations, so we are very familiar with the personalities of flame. When I was young, my parents taught me many philosophies, all of which were compatible with fire. I chose the path of passion, and they helped me to understand how to live my life by those principles."
 
 "But how did you actually make the resonance _start_ once you were compatible?"
 
@@ -291,29 +291,29 @@ Keta walked up and placed his hands on the railing next to Moto, standing close 
 
 Keta pushed him playfully. "So prickly. I am saying that the connection will just happen. You should focus on the compatibility. The more you embody the ideal that connects you to a surge, the more likely it's power will come when you call."
 
-Moto only had a day. He wasn't going to be making any big changes to his personality in that time, so he was probably going to be stuck with whatever ideals he had currently. He couldn't think of anything that stood out at the moment. But there had to be a lot of newcomers in the same boat. And Iruka had said the exam was designed to heighten their ideals. He'd just have to trust that process.
+Moto only had a day. He wasn't going to be making any big changes to his personality in that time, so he was probably stuck with whatever ideals he had currently. He couldn't think of anything that stood out at the moment, but there had to be a lot of newcomers in the same boat. And Iruka had said the exam was designed to heighten their ideals. He'd just have to trust that process.
 
 What he really needed was to know more about the houses. If he had a choice about which ideal to strengthen during the exam, he wanted to know which house was going to give him the biggest advantage.
 
-Standing near the entrance to the dojo was a group of kids already wearing black. Those who grew up in Iga. "I'm going to go talk to those people by the door and try to learn more about the houses. Care to join?" Keta shrugged and followed after him.
+Standing near the entrance to the dojo was a group of kids wearing black. Those who grew up in Iga. "I'm going to go talk to those people by the door and learn more about the houses. Care to join?" Keta shrugged and followed after him.
 
-Moto and Keta stood next to the group of three, waiting for a moment to interject. Two of the individuals, a boy with a crashing wave on his back and one of the girls with a mountain symbol like Iruka, stood listening to the third who spoke animatedly. She was tall and thin, with long black hair that tossed back and forth around her head as she gestured. She laughed and slapped the boy on the shoulder.
+Moto and Keta stood next to the group of three, waiting for a moment to interject. Two of the individuals, a boy with a crashing wave on his back and one of the girls with a mountain symbol like Iruka, stood listening to a girl who spoke animatedly. She was tall and thin, with long black hair that tossed back and forth around her head as she gestured. She laughed and slapped the boy on the shoulder.
 
-After a moment, the group noticed Moto and Keta and turned towards them. The girl who had been speaking earlier stuck out her hand to shake. "Hello! You're two of the newcomers right?"
+After a moment, the group noticed Moto and Keta, turning towards them. The girl who had been speaking stuck out her hand to shake. "Hello! You're two of the newcomers, right?"
 
-Moto stared down at the hand for a moment, caught off guard. The girls eyes were scrunched up in a smile. He clasped her hand slowly. She shook his hand vigorously.
+Moto stared down at the hand for a moment, caught off guard. The girl's eyes were scrunched up in a smile. He clasped her hand slowly. She shook vigorously.
 
-"Welcome to Iga." She turned to Keta and stuck her hand out again. Keta grabbed her hand and pulled her into a hug. "Oh!" She quickly returned the gesture. "You were one of the people Iruka said already had a resonance, right?"
+"Welcome to Iga." She turned to Keta and stuck her hand out again. Keta grabbed and pulled her into a hug. "Oh!" She quickly returned the gesture. "You were one of the people Iruka said already had a resonance, right?"
 
-Keta stepped back, smiling himself. "She hugs much better than you." Keta turned back to the girl. "Yes, I am a fire dancer. My name is Keta Gracetouch."
+Keta stepped back, smiling at Moto. "She hugs much better than you." Keta turned back to the girl. "Yes, I am a fire dancer. My name is Keta Gracetouch."
 
 "Shoot! Where are my manners. My name is Fumi Soundstealer. Nice to meet you Keta."
 
-Moto's mind reeled. He didn't hear as the other two introduced themselves. Soundstealer was one of the most infamous Daggers alive. Most Iga fighters tried to remain anonymous for fear that a reputation might disrupt their work. But Soundstealer was known across Yosai for the high profile assassinations and sabotage missions they took.
+Moto's mind reeled. He didn't bother to listen as the other two introduced themselves. Soundstealer was one of the most infamous Daggers alive. Most Iga fighters tried to remain anonymous for fear that a reputation might disrupt their work. But Soundstealer was known across Yosai for the high profile assassinations and sabotage missions they took.
 
 Missions like singlehandedly wiping out Moto's entire village.
 
-Moto swallowed hard. "Soundstealer? As in you're related to _the_ Soundstealer?"
+Moto swallowed hard. "Soundstealer? As in... you're related to _the_ Soundstealer?"
 
 "Oh yeah, it's my dad's name." The girl deflated for a moment, but quickly brightened. "Someday I'm going to earn my own name, though!"
 
@@ -323,17 +323,17 @@ Fumi shook her head. "Not me. Everyone's going to know me and my squad. Speaking
 
 Keta held up his hands. "I'm sorry, I'm not even sure what that means. My friend and I are still trying to figure out how everything works here. I think he had some questions to ask, actually." Keta elbowed Moto, nodding towards the group. 
 
-Moto tried to calm himself. One step at a time. He knew he was going to meet Soundstealer here. This wasn't a surprise. Right now he needed to be prepared for tomorrow. "Right, sorry. I just got a bit distracted. My name's Moto Tidecliff. I wanted to learn more about the houses that Iruka was talking about. He said they each have a specialty?"
+Moto calmed himself. One step at a time. He had known that Soundstealer was in Iga. Meeting his daughter wasn't _that_ big of a surprise. Right now he needed to prepare for tomorrow. "Right, sorry. I just got a bit distracted. I'm Moto. I was interested in the specialties of each house that Iruka mentioned. What are they?"
 
 Fumi smiled, enjoying the attention. "Yeah, each type of resonance is good at certain things. So the houses specialize, training their members in specific techniques. Fire focuses on sabotage and support. Water handles disguise and spy work. Earth is close combat. And wind is infiltration and assassination.
 
-"You do most of your training in your house, but when you go on missions you need to join a squad that has all the specialties."
+"When you go on serious missions, you need a squad with members from each house so all the specialties are covered."
 
 Moto looked at the symbols on the back of Fumi's hands. "So you're... wind house?"
 
-Fumi nodded, her face lighting up. "My dad is the head of Zephys. I won't be a full member until I resonate tomorrow though."
+Fumi nodded, her face lighting up. "My dad is the head of Zephys. I won't be a full member until I resonate tomorrow, though."
 
-The group continued talking, but Moto didn't pay any attention. He knew what he needed to do, now. Zephys specialized in assassination. And it's leader was exactly the man he had been trying all these years to get close to. 
+The group continued talking, but Moto didn't pay any attention. He knew what he needed to do, now. Zephys specialized in assassination. And it's leader was exactly the man he had been trying to get close to for all these years. 
 
 No matter what, Moto had to join Zephys.
 
