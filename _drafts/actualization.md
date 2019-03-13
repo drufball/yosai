@@ -94,15 +94,17 @@ The boy who asked the question melted back into the crowd a bit, his face red.
 <br />
 <br />
 
-Moto hid the ground with a dull thud. He slammed his fists against the ground, cursing loudly. The wall loomed above him, mocking his attempts.
+Moto hit the ground with a dull thud. He slammed his fists in the dirt, cursing loudly. The wall loomed above him, mocking his attempts.
 
 "How did climbing a wall get _harder_ when I learned to control gravity."
 
 Moto pulled against the wall with his power, bringing himself to his feet. He'd lost count of how many times he had brushed the dirt from his back. He walked away from the wall, his movements stiff, steeling himself for another attempt. He was alone. The other kids had gone back to their houses to ask for advice or moved on to other obstacles. It didn't matter.
 
-Moto didn't feel like he had much progress to show for the last two days. He needed to work harder. Moto knelt down, placing his hands on either side of his front foot. He sprinted towards the wall again. 
+Moto didn't feel like he had much progress to show for the last two days. He needed to work harder. 
 
-As he pumped his arms, he reached out and grabbed the earth in front of him, pulling himself forward by invisible ropes of force. Each stride was twice as long as normal. When he reached the wall, he focused gravity into his feet, giving him traction. He kept pulling on the wall above, which was now in front.
+Moto knelt down, placing his hands on either side of his front foot. He sprinted towards the wall again. 
+
+As he pumped his arms, he reached out and grabbed the earth in front of him, pulling himself forward by invisible ropes of force. Each stride was twice as long as normal. When he reached the wall, he focused gravity into his feet, giving him traction. He kept pulling on the wall above.
 
 What was the difference between Eaters and Bringers? On the surface, the answer was simple. Eaters could pull power into their body. Bringers could manifest the energy in the world around them. But Moto knew there was more to the question.
 
@@ -110,15 +112,15 @@ Eaters were durable. The energy they focused into their bodies allowed them to c
 
 Bringers were fragile. Their bodies still broke normally. So they had to apply a smaller, more constant force. If Moto was careful to always be pulling against the ground in front of him, he could reach the same speed as Keta. If he could get the timing right he could clear the wall just as quickly. 
 
-The first time, he'd used too much gravity at once, trying to stick his feet to the wall completely. It was better to hit the barrier at high speed, using the gravity just enough to give him traction as he continued upwards. 
+On the first run, he'd used too much gravity at once, trying to stick his feet to the wall completely. It was better to hit the barrier at high speed, using gravity to give him just enough traction as he continued upwards. 
 
-Moto bounded up the wall easily, all awkwardness gone from his stride. He could tell he was getting better at the constant pulling. As he neared the top of the wall he pulled behind himself, slowing his run so that he would come to rest on top of the wall. He increased the gravity in his feet, compensating for the decreased momentum. This was it, he could feel it.
+Moto bounded up the wall easily, all awkwardness gone from his stride. He was getting better at the constant pulling. As he neared the top of the wall he pulled behind himself, slowing his run so that he would come to rest on top of the wall. He increased the gravity in his feet, compensating for the decreased momentum. This was it, he could feel it.
 
-Moto's foot slipped along the wall. He hadn't compensated enough with the gravity in his feet. His hand slapped the smooth surface of the wall, just a few inches below the ledge. It was amazing how much he had grown to hate that ledge.
+Moto's foot slipped. He hadn't compensated enough with the gravity in his feet. His hand slapped the smooth surface of the wall, just a few inches below the ledge. It was amazing how much he had grown to hate that ledge.
 
-Moto pulled against the wall to slow his fall, but he let himself drop the last few feet onto his back, feeling his own inadequacy. Why had he gotten such a difficult resonance to use?
+Moto pulled against the wall to slow his descent, but he let himself drop the last few feet onto his back, feeling his own inadequacy. Why had he gotten such a difficult resonance to use?
 
-Moto hit the ground, forcing the hopeless thoughts out of his mind. He pushed himself upright. Even if he got the hardest resonance, he'd find a way. He hadn't gotten handouts in the last three years and he didn't need any now either. Moto allowed himself one last hateful glance at the top of the wall, mentally taking a sledgehammer too it.
+Moto forced the hopeless thoughts out of his mind. He pushed himself upright. Even if he got the hardest resonance, he'd find a way. He hadn't gotten handouts in the last three years and he didn't need any now either. Moto allowed himself one last hateful glance at the top of the wall, mentally taking a sledgehammer to it.
 
 As he looked, Iruka's head appeared over the ledge. "You're wasting your time practicing here."
 
@@ -142,13 +144,13 @@ Iruka stroked his goatee thoughtfully. "Huh, I guess that's one way you could ha
 
 Iruka shook his head. "You're too focused on the areas where you think others are stronger than you. If you just try to copy Keta, he'll always have an advantage over you. You have to take a different path. Here, I'll show you."
 
-Iruka walked around the wall, not bothering to check if Moto followed. Moto considered ignoring the man and continuing with his current training. But maybe his back could use a few minutes' break from absorbing his falls.
+Iruka walked around the wall, not bothering to check if Moto followed. Moto considered ignoring the man and continuing with his current training. But maybe his back could use a few minutes break from absorbing his falls.
 
 When they reached the other side of the wall, Iruka stopped and pointed out Fumi, who was standing a few feet back from the edge of the ravine filled with wooden beams. She had a look of concentration on her face, smiling slightly.
 
 Moto watched as she took a running leap into the pit, blasting air behind her. She managed to travel about a fourth of the way across the chasm before she grabbed on to one of the poles. Her jump had been a little off course, though. Instead of landing square against the pillar, she was forced to reach out with one arm, just barely hooking around it. 
 
-The awkward catch sent her swinging around the pole. But instead of waiting for the momentum to stop, Fumi threw her free hand behind her and shot another blast of wind. The force sent her rocketing around the pole. She let go at the height of the spin and went launching into the air. She didn't have much control over the move yet, but she was able to latch onto a beam almost three quarters of the way across the chasm. It was nearly twice as far as her initial jump.
+The awkward catch sent her swinging around the pole. But instead of waiting for her momentum to stop, Fumi threw her free hand behind her and shot another blast of wind. The force sent her rocketing around the pole. She let go at the height of the spin and went launching into the air. She didn't have much control over the move yet, but she was able to latch onto a beam almost three quarters of the way across the chasm. It was nearly twice as far as her initial jump.
 
 Iruka laughed at Moto's dumbfounded expression. "Running up that wall for two days straight feels pretty dumb, doesn't it? You see it, now. The difference between Eaters and Bringers. For Eaters, the power comes before they move. For Bringers, the power comes _while_ they move." Iruka walked away, waving over his shoulder. "I think you can figure out the rest."
 
@@ -157,11 +159,125 @@ Iruka laughed at Moto's dumbfounded expression. "Running up that wall for two da
 <br />
 <br />
 
-- Flashback to practice going well
-- Moto walks through town, looking for records
-- Finds out about the squad formed from those who finish the obstacle course
-- Tries to break in, but too heavily guarded
-- Decides to wait until competition
+Moto stood in the cavernous stone entry chamber to Terran House tying off a cloth satchel filled with his dinner. The chamber was carved from the stone of the mountain, an echoing cave-like structure large enough that it could have held several normal buildings. Originally, the entry chamber had been completely smooth, but over the years stalactites and stalagmites had begun to form, helped along by stone-bringer residents who thought they added a nice cave-like vibe to their home. There were numerous pathways eroded into the floor, weaving around the more precarious stone spikes, detouring towards some of the artistically painted walls, and eventually plunging into the ant-hill of subterranean tunnels that led to the rest of Terran.
+
+Moto threw the sack over his shoulder and made for the exit. The other kids of Terran didn't interest him much, so he usually bundled his food and took it to the Playground so he could eat with Keta. Tonight, though, he had another destination in mind. 
+
+He'd made a lot of headway in the last week of practice. It took a while to adapt the ideas from Fumi's air spin into something that felt right for his own ability, but he was satisfied with the result. Satisfied enough that he felt OK taking a break from training to pursue another goal.
+
+Moto emerged from Terran and immediately cursed, shielding his face as the setting sun stabbed daggers into his eyes. The rugged peaks of Iga were quite beautiful. Many features of the village, like Terran's west-facing exit, had been created to heighten the experience of the mountain. Moto still thought they were a little _too_ caught up in the aesthetic.
+
+Eventually, his eyes adjusted enough that he could lower his hand, though they still watered as he looked down the rock face. The metal mining cart that he usually took to the Playground was immediately to his right. In front of him was a steep, switchbacked trail leading down the mountain. The other three houses were isolated, but Terran was located in the largest source of stone in Iga, which meant it shared its squat, bulky peak with the main village below. 
+
+The village was huddled in the crook of several upthrust spears of stone. The rock formations blocked the wind and hid the massive plunge into clouds on all sides. The village was where those who supported the normal functions of the village lived, so it was made to feel more welcoming.
+
+Moto set off down the trail. He let his body lean forward precariously, pulling on the stone behind to steady himself. Occasionally, his focus would slip and he would stumble forward, coming alarmingly close to the edges of the trail. But Moto pushed himself to use his ability constantly. He wanted it to be as easy as breathing. 
+
+Besides, it made every hill feel like a flat surface, which was a huge advantage amidst a village of mountain-crazed architects.
+
+Moto made it to the base of the mountain and passed between the modest wooden buildings of the village, watching as shop keepers stood on ladders, lighting paper lanterns for the evening. Many of the lanterns were painted with a many tailed fox, ready to pounce. The image was repeated in stone statues all over Iga, paying tribute to Tsukuyomi. The Champion who protected Iga was aligned with the fox god.
+
+At the edge of the buildings, Moto walked along the raised walkways that passed between the public gardens. At this altitude, Iga imported most of it's food from Koga below, but the village made sure to produce enough to last a while on its own, just in case.
+
+On the other side of the gardens, the Gearhouse stood pressed against one of the stone outcroppings. The building was nearly as big as the Playground, 6 stories tall and as wide as three houses from the village behind Moto. From this side, the building looked dull. It's unadorned square lines and small windows hiding the chaos that rang within. The Gearhouse was where they maintained the mechanisms that powered the steel carts connecting the spires of Iga. It was also where new weapons were invented and tested.
+
+The opposite side of the Gearhouse, which protruded from the other side of the rock outcropping, was a web of steel railways and open-air rooms for testing projectiles and explosives. Not all of the rooms were open-air by design.
+
+Moto entered the building and approached the railcart hub. The Gearhouse had a connection to every spire in Iga, which often made it the fastest way to get around.
+
+A short, young woman with bright red hair and ruby-colored eyes sat at the barrier in front of the railcart tracks, drumming her fingers against the railing and looking into the distance absently. She didn't notice Moto as he approached. A notebook lay open in the woman's lap. From his angle, Moto could only make out a series of figures and numbers scrawled haphazardly across the page. Moto tapped the woman's shoulder.
+
+The woman yelped in surprise, throwing her notebook into the air as she leapt from her seat and spun towards Moto. Moto managed to pull the notebook through the air and into his hand before if crashed to the ground.
+
+The woman stood with her hand on her chest, breathing heavily as she looked up at Moto. "Mother's Scales, what's _wrong_ with you? You can't say something a few feet away like a normal person? You scared me half to death!" The woman gasped and looked around the ground frantically. "My notebook! Have you seen--"
+
+Moto held the book out to her, still too caught off by her reaction to say anything. The woman snatched the book from his hands and sat back on the stool in a huff. She looked at his tight-fitting black clothes.
+
+"All you Daggers are so creepy, moving around without making a sound. Well? Don't you have anything to say for yourself?"
+
+"I'm uh-- I'm sorry? I thought you could see me. I walked straight towards you."
+
+"Apology accepted. Now, what can I do for you? I'm a little busy, in case you hadn't noticed." The woman waved her notebook in front of Moto.
+
+"I wanted to take a cart to the Contract House. Could you bring one over?"
+
+The woman eyed Moto. "Why would a youngling like you have business at the Bloodhall?"
+
+Moto bristled. The woman only seemed to be a few years older than him. "Why would a glimmer like you be manning the railcarts?"
+
+Most of the mechanical work and weapons research in Iga was overseen by glimmers. The race's supernatural affinity for crystals and metallic alloys gave them an innate proficiency with tinkering. Most made new tools and technologies for society. The less scrupulous ones invented weapons for Iga. Almost none operated railway carts.
+
+"Hah! Fair enough. I'm on probation." She bore the fact like a badge of pride.
+
+"What for?" Moto hoped she would forget her earlier question.
+
+The woman rolled her eyes toward the ceiling, tilting her head to the side and imitating a high, nasally voice. "_Unauthorized demolitions work._" She threw a hand in the air. "Like no one has ever blown a hole in the building before. I mean _look_ at the cliffside wall." She did have a point.
+
+"You're a demolitionist then?" It made sense, the woman's red hair and eyes marked her as a gemstone glimmer. She would specialize in infusing gems with energy to be discharged at a later date. And rubies held fire.
+
+The woman sniffed. "No, I'm an _artist_."
+
+Moto sighed, smiling despite himself. "I think I have a friend you would like talking to."
+
+"Oh? And are they the chunin-ranked individual waiting for you at the Bloodhall?" She looked at him knowingly. Damn. So much for distracting her.
+
+Moto rubbed the back of his head. "Iruka told our class that the top four finishers in the obstacle course next week earn the right to join him on a D-rank contract. I was just curious to look at the contracts and see what some of them might be."
+
+It was a lie. He wanted unsupervised time amongst the records. He was very curious to know who had funded a specific contract from three years ago.
+
+The woman sat silently, having none of it.
+
+"Alright, alright. I was going to try and sneak into the jonin training area." Moto looked at the ground guiltily. "I wanted to train with the cooler weapons."
+
+The woman nodded. It hadn't taken much time living on his own for Moto to learn that the best way to lie was to let the other person catch you in a smaller one first.
+
+"You know no genin are allowed at the Contract House without an escort who's chunin or higher. If you got caught, _especially_ if you got caught in the jonin training area, I'd be stuck here for weeks!"
+
+Moto looked up from the ground, doing his best to sound conspiratorial. "You could come along too! That way you could keep an eye on me." Moto took a leap based on the story she'd told earlier. It didn't sound like she was very senior, so she probably didn't get much time with the more powerful explosives. "Plus you could try out some of the higher grade explosives yourself!"
+
+The woman looked tempted for a minute, but eventually thought better of it. She waved her hands in front of her as though she was physically batting away the rebellious thoughts. "I'm in too much trouble already. Sorry, friend."
+
+Moto sighed theatrically. "Ah, you're probably right anyways." He slumped down on the stool next to the woman.
+
+He knew it wasn't likely he'd be able to just stroll into the Contract House on his first attempt. If he won the obstacle course next week, maybe he'd have a chance to slip away when Iruka took them to choose their first mission. At the very least he'd have a chance to scout the building out a bit. He could wait.
+
+Moto turned his attention to the real reason he had come. 
+
+"Well, so much for a night of adventure. Do you mind if I eat my dinner here?" He pulled open the satchel of food.
+
+"Doesn't bother me."
+
+Moto sat and pulled apart a loaf of bread, eating it quietly as the woman returned to the figures in her notebook. He waited a moment, then leaned over her shoulder. "What're you working on?"
+
+She waved a hand distractedly. "You probably wouldn't find it that interesting."
+
+Moto slid his stool a bit closer, trying to sound curious. "No, try me! It looks cool."
+
+The woman turned to look at him. "You really wanna know?" Moto nodded. "Well, how much do you know about the discharge rates of the resonant gems?"
+
+Moto shook his head. "Not much. But hopefully I'll know more by the end of the night." He smiled.
+
+"Hah. Sure, why not? I wasn't going to get much work done without my tools anyways." She closed her notebook and set it on her lap. "It'll be nice to have some company. Let's start with the basics..."
+
+While the glimmer woman talked, Moto sliced off a piece of warm taro root and offered it to her. She paused to eat it gratefully. "My name's Moto, by the way."
+
+She spoke through a mouthful of food. "Nice to meet you Moto. I'm Seiko."
+
+He might not be able to get in tonight, but it didn't hurt to make friends with the person who held the keys.
+
+<br />
+---
+<br />
+<br />
+
+- Obstacle course begins, joke about how they love making them collect things
+- Chance to show off leveled up abilities for internals
+- Keta surmounts wall first, Moto and Fumi manage to keep up with the earth-eaters
+- Catch up/shine in the wooden beams, neck and neck by the end
+- Moto gets majorly effed by the fighting interference of people (esp. flood-bringer near the river) in the woods
+- Thinks he's going to loose (he can only go so fast, stopping will slow him down) realizes that the real meaning of Iruka's words is to never touch ground.
+- Crazy motion sequence through the buildings. Gets third, but make some point about him moving faster than Fumi
+
 
 
 
