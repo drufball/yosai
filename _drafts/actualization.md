@@ -1,4 +1,4 @@
-
+cast = hako
 
 # Training
 Moto raced towards the wall, jockeying for position amongst the other students. No one wanted to be last. As usual, Keta was first.
@@ -167,31 +167,31 @@ He'd made a lot of headway in the last week of practice. It took a while to adap
 
 Moto emerged from Terran and immediately cursed, shielding his face as the setting sun stabbed daggers into his eyes. The rugged peaks of Iga were quite beautiful. Many features of the village, like Terran's west-facing exit, had been created to heighten the experience of the mountain. Moto still thought they were a little _too_ caught up in the aesthetic.
 
-Eventually, his eyes adjusted enough that he could lower his hand, though they still watered as he looked down the rock face. The metal mining cart that he usually took to the Playground was immediately to his right. In front of him was a steep, switchbacked trail leading down the mountain. The other three houses were isolated, but Terran was located in the largest source of stone in Iga, which meant it shared its squat, bulky peak with the main village below. 
+Eventually, his eyes adjusted enough that he could lower his hand, though they still watered as he looked down the rock face. The metal mining cart that he usually took to the Playground was immediately to his right. In front of him was a steep, switchbacked trail leading down the mountain. The other three houses were isolated, but Terran was situated within the largest source of stone in Iga, which meant it shared its squat, bulky peak with the main village below. 
 
-The village was huddled in the crook of several upthrust spears of stone. The rock formations blocked the wind and hid the massive plunge into clouds on all sides. The village was where those who supported the normal functions of the village lived, so it was made to feel more welcoming.
+The village was huddled in the crook of several upthrust spears of stone. The rock formations blocked the wind and hid the massive drop into clouds on all sides. The village was where those who supported the normal functions of the village lived, so it was made to feel more welcoming.
 
 Moto set off down the trail. He let his body lean forward precariously, pulling on the stone behind to steady himself. Occasionally, his focus would slip and he would stumble forward, coming alarmingly close to the edges of the trail. But Moto pushed himself to use his ability constantly. He wanted it to be as easy as breathing. 
 
 Besides, it made every hill feel like a flat surface, which was a huge advantage amidst a village of mountain-crazed architects.
 
-Moto made it to the base of the mountain and passed between the modest wooden buildings of the village, watching as shop keepers stood on ladders, lighting paper lanterns for the evening. Many of the lanterns were painted with a many tailed fox, ready to pounce. The image was repeated in stone statues all over Iga, paying tribute to Tsukuyomi. The Champion who protected Iga was aligned with the fox god.
+Moto made it to the base of the mountain and passed between the modest wooden buildings of the village, watching as shop keepers stood on ladders, lighting paper lanterns for the evening. Many of the lanterns were painted with a many-tailed fox, ready to pounce. The image was repeated in stone statues all over Iga, paying tribute to Tsukuyomi. The Champion who protected Iga was aligned with the fox god.
 
 At the edge of the buildings, Moto walked along the raised walkways that passed between the public gardens. At this altitude, Iga imported most of it's food from Koga below, but the village made sure to produce enough to last a while on its own, just in case.
 
-On the other side of the gardens, the Gearhouse stood pressed against one of the stone outcroppings. The building was nearly as big as the Playground, 6 stories tall and as wide as three houses from the village behind Moto. From this side, the building looked dull. It's unadorned square lines and small windows hiding the chaos that rang within. The Gearhouse was where they maintained the mechanisms that powered the steel carts connecting the spires of Iga. It was also where new weapons were invented and tested.
+On the other side of the gardens, the Gearhouse stood pressed against one of the stone outcroppings that surrounded the village. The building was nearly as big as the Playground, 6 stories tall and as wide as three houses from the village behind Moto. From this side, the building looked dull. It's unadorned square lines and small windows hiding the chaos that rang within. The Gearhouse was where they maintained the mechanisms that powered the steel carts connecting the spires of Iga. It was also where new weapons were invented and tested.
 
 The opposite side of the Gearhouse, which protruded from the other side of the rock outcropping, was a web of steel railways and open-air rooms for testing projectiles and explosives. Not all of the rooms were open-air by design.
 
 Moto entered the building and approached the railcart hub. The Gearhouse had a connection to every spire in Iga, which often made it the fastest way to get around.
 
-A short, young woman with bright red hair and ruby-colored eyes sat at the barrier in front of the railcart tracks, drumming her fingers against the railing and looking into the distance absently. She didn't notice Moto as he approached. A notebook lay open in the woman's lap. From his angle, Moto could only make out a series of figures and numbers scrawled haphazardly across the page. Moto tapped the woman's shoulder.
+A short, young woman with bright red hair and ruby-colored eyes sat at the barrier in front of the railcart tracks, drumming her fingers against the railing and looking into the distance absently. She didn't notice Moto as he approached. A notebook lay open in her lap. From his angle, Moto could only make out a series of figures and numbers scrawled haphazardly across the page. Moto tapped the woman's shoulder.
 
 The woman yelped in surprise, throwing her notebook into the air as she leapt from her seat and spun towards Moto. Moto managed to pull the notebook through the air and into his hand before if crashed to the ground.
 
 The woman stood with her hand on her chest, breathing heavily as she looked up at Moto. "Mother's Scales, what's _wrong_ with you? You can't say something a few feet away like a normal person? You scared me half to death!" The woman gasped and looked around the ground frantically. "My notebook! Have you seen--"
 
-Moto held the book out to her, still too caught off by her reaction to say anything. The woman snatched the book from his hands and sat back on the stool in a huff. She looked at his tight-fitting black clothes.
+Moto held the book out to her, still too caught off guard by her reaction to say anything. The woman snatched the book from his hands and sat back on the stool in a huff. She looked at his tight-fitting black clothes.
 
 "All you Daggers are so creepy, moving around without making a sound. Well? Don't you have anything to say for yourself?"
 
@@ -211,9 +211,11 @@ Most of the mechanical work and weapons research in Iga was overseen by glimmers
 
 "What for?" Moto hoped she would forget her earlier question.
 
-The woman rolled her eyes toward the ceiling, tilting her head to the side and imitating a high, nasally voice. "_Unauthorized demolitions work._" She threw a hand in the air. "Like no one has ever blown a hole in the building before. I mean _look_ at the cliffside wall." She did have a point.
+The woman rolled her eyes toward the ceiling, tilting her head to the side and imitating a high, nasally voice. "_Unauthorized demolitions work._" She threw a hand in the air. "Like no one has ever blown a hole in the building before. I mean _look_ at the cliffside wall." 
 
-"You're a demolitionist then?" It made sense, the woman's red hair and eyes marked her as a gemstone glimmer. She would specialize in infusing gems with energy to be discharged at a later date. And rubies held fire.
+She did have a point.
+
+"You're a demolitionist then?" It made sense, the woman's red hair and eyes meant she was a gemstone glimmer. She would specialize in infusing gems with energy to be discharged at a later date. And rubies held fire.
 
 The woman sniffed. "No, I'm an _artist_."
 
@@ -227,11 +229,11 @@ It was a lie. He wanted unsupervised time amongst the records. He was very curio
 
 The woman sat silently, having none of it.
 
-"Alright, alright. I was going to try and sneak into the jonin training area." Moto looked at the ground guiltily. "I wanted to train with the cooler weapons."
+"Alright, alright. I was going to try and sneak into the jonin training area." Moto looked at the ground guiltily. "I wanted to use the cooler weapons."
 
 The woman nodded. It hadn't taken much time living on his own for Moto to learn that the best way to lie was to let the other person catch you in a smaller one first.
 
-"You know no genin are allowed at the Contract House without an escort who's chunin or higher. If you got caught, _especially_ if you got caught in the jonin training area, I'd be stuck here for weeks!"
+"You know no genin are allowed at the Contract House without an escort who's chunin or higher. If you got caught, _especially_ if you got caught in the jonin area, I'd be stuck here for weeks!"
 
 Moto looked up from the ground, doing his best to sound conspiratorial. "You could come along too! That way you could keep an eye on me." Moto took a leap based on the story she'd told earlier. It didn't sound like she was very senior, so she probably didn't get much time with the more powerful explosives. "Plus you could try out some of the higher grade explosives yourself!"
 
@@ -239,7 +241,7 @@ The woman looked tempted for a minute, but eventually thought better of it. She 
 
 Moto sighed theatrically. "Ah, you're probably right anyways." He slumped down on the stool next to the woman.
 
-He knew it wasn't likely he'd be able to just stroll into the Contract House on his first attempt. If he won the obstacle course next week, maybe he'd have a chance to slip away when Iruka took them to choose their first mission. At the very least he'd have a chance to scout the building out a bit. He could wait.
+He knew it wasn't likely he'd be able to stroll into the Contract House on his first attempt. If he won the obstacle course next week, maybe he'd have a chance to slip away when Iruka took them to choose their first mission. At the very least he'd have a chance to scout the building a bit. He could wait.
 
 Moto turned his attention to the real reason he had come. 
 
@@ -270,7 +272,111 @@ He might not be able to get in tonight, but it didn't hurt to make friends with 
 <br />
 <br />
 
+It was strange to see the Playground filled with people who weren't training. The lower walkways lining the walls of the building were filled people who came to watch the new recruits run the obstacle course. Apparently, this was the point when more senior Daggers started to pay attention, looking for promising candidates to recruit onto their squads.
+
+There were even some regular individuals from the town, sitting in small clusters along the railings. They carried small boxes full of snacks and chatted happily. While the crowd was mostly Daggers, the villagers contributed almost all of the festival-like atmosphere.
+
+The 13 new Dagger recruits milled about in the grass around the starting line. Moto could tell he wasn't the only one who was unsettled by the cheery ambiance. The kids were quiet, stealing furtive glances towards the walls of spectators before looking back to the ground. For a bunch of loners, training in the secret arts of stealth and assassination, the biggest challenge for all of them today was probably the happy, smiling parents bouncing babies on their knee and pointing in the recruits' direction.
+
+Well, it was probably the biggest challenge for everyone except two of the recruits.
+
+Moto honestly couldn't tell who was working the crowd more, Fumi or Keta. Fumi was, as always, loud and brash. She threw herself into the air on blasts of wind, flipping and twisting, then striking dramatic poses. She seemed especially fond of landing in a crouch, head down, one hand pressed against the ground, the other thrust out behind her. She held the position for effect, breathing heavily. Then she spun rapidly, gripping a handful of grass and blasting it at the crowd. Her antics had earned her a boisterous crowd of fans, cheering and clapping appreciatively after every move. 
+
+Keta's routine was more polished. He stretched his body into incredible poses or walked about on his hands. At one point during a handstand, he lifted one hand to the side, so that his weight was supported by a single arm. He raised onto his fingertips, then curled his pinky and ring fingers in to his palm so that he only held himself with three fingers. Moto lost count of how many pushups he did in this pose. 
+
+But whereas Fumi turned to the crowd after each stunt, hyping up their applause, Keta hardly spared them a glance. But it was clear that he positioned himself to be seen, and he waved warmly at any of the children who called out to him. His audience seemed to be caught in a state of quiet awe. Moto was also amused to see that it was mostly starry-eyed young women.
+
+Moto approached Keta and crossed his arms, smiling. "Having fun showing off?"
+
+The shapeling dropped from his handstand, knocking dirt from his hands. His cheeks were flushed with excitement. "I am not showing off, I am _performing_. This audience has taken from their day to come see us. These are precious moments that they will never get back. It is a wonderful gift. And it is our duty to make these moments memorable."
+
+"I don't think you have many allies in that opinion." Moto looked over his shoulder at the other recruits, all of whom seemed to be in progressive stages of mental breakdown. They'd all snap together once the contest started, but it was cute seeing them so nervous.
+
+Moto caught himself. These were kids training to be killers. Some day they might descend on a festival like this, blades slick with blood.
+
+Keta noticed Moto's frown. "What are you thinking?"
+
+"Nothing, just running through the course in my mind again."
+
+Keta smiled. "Always so serious, living in your head instead of your body."
+
+"Keta, why do you want to be a Dagger? You seem to love performing. Why willingly adopt a life in the shadows?"
+
+Moto saw Iruka drop from one of the walkways along the wall and move towards the recruits. It was almost time to start. Keta grabbed Moto's hand and started walking to the start line. Moto was amused to see several girls' faces fall.
+
+"I love my family. And my dance troupe. And our performances. I miss them all, it is true. But we spent our entire lives moving between a tiny set of towns. It was too dangerous to journey any further.
+
+"For most of us, this was not a problem. It is simply how the world works. But my mother has always wanted more. She yearns to see the world. To share our dancing with all the people of Yosai. You can see the fire in her eyes when she talks about it.
+
+"I joined the Daggers so that I could make the world a safer place. I hope that some day my mother can travel freely across Yosai. After everything she has given me in life, it seems that giving up the stage is a small enough sacrifice."
+
+Moto was silent for a moment, just appreciating the feel of Keta's fingers laced between his own. For the first time, he worried what Iga might do to Keta's worldview. "But not every contract is going to be about making the countryside safer."
+
+"I will not take those contracts." Keta spoke matter-of-factly. As though it really would be that simple.
+
+Moto didn't bother arguing. Now wasn't the time. And he knew the odds of changing Keta's mind on just about anything.
+
+By the time the two reached the starting line, most of the other recruits were already in place, focusing ahead. Fumi was walking backwards, waving and bowing to her fans.
+
+Keta squeezed Moto's hand one last time before letting go. "Besides, it is not like I have lost all opportunities to perform. I will have fun today, I think." He flashed a mischievous grin. 
+
+Everyone was in place now. Iruka walked to the front of the group and spoke quietly. "Alright, you all know the bulk of what's going on, so I won't waste anyone's time repeating it. There's only two things that are different from what you've been practicing the last few weeks. One, the finish line is no longer outside the woods. The towers were finished last night, and the new finish line is on their rooftops.
+
+"The buildings are filled with coins similar to the entrance exam. You need one to finish, which means you can't just jump to the top of the buildings and be done, you'll have to go inside. Now, the second change is-- oh, for crying out-- _what?!_"
+
+Moto looked to his left and saw a familiar young boy holding his hand up, an earnest look on his face. He was on the younger side of the recruits, 15 years old at most. He had long hair tied back in a ponytail and circular glasses. Moto had to strain for a moment to remember his name. Hako. Man, that kid faded into the background.
+
+Hako winced at Iruka's outburst, but pushed on. "Are there enough coins for everyone? And can we collect more than one coin?"
+
+They were actually pretty good questions. Somehow, this seemed to bother Iruka more.
+
+"Yes there are enough coins for everyone. And no, you can't take more than one coin. This time everyone is meant to finish. OK, moving on. The second difference is that you all can interfere with each other this time." Iruka looked up at the audience along the walls. "Attacks should be meant to slow your opponents down, not hurt or disable them. If we see any of you attacking too aggressively, you'll be disqualified.
+
+"Any questions?" Iruka looked to Hako with trepidation. The boy stared back innocently.
+
+Moto considered the new rules. He had known the buildings would eventually be a part of the course, so he'd thought a bit about how he could use his powers in that setting. The ability to attack other recruits was unexpected though. Moto could see a ripple through everyone as they processed that information. It changed the nature of the contest significantly.
+
+Taking an early lead would be dangerous now, making you a target for everyone behind. Moto glanced at Keta, wondering what the shapeling would do. He stood calmly, smiling confidently as always. He'd be fine.
+
+But what should Moto do? Pulling ahead seemed risky, but so did getting caught up in the pack, where attacks could come from all sides. Getting hit by someone's attack would probably be a huge setback, more than slipping on the wall or traversing the pit inefficiently. Avoiding others would be the top priority.
+
+Should he run to the side? Moto felt a moment of frustration. He'd spent the last several weeks perfecting a run through the course, but this change turned everything on its head. That was probably the point, though. They wanted to see how the kids adapted. It didn't make it any less annoying though.
+
+Iruka smiled at everyone's uncertainty at the new rules. Seeing no questions, he turned and walked out of everyone's way. The crowd along the walls grew silent in anticipation, tension permeating the air. Iruka raised his arm. Then let it fall.
+
+There was a surge of motion as all the recruits shot forward. They shouldered one another, trying to make space for themselves. A few kids were knocked aside by a burst of wind as Fumi launched herself ahead of the pack, taking the lead.
+
+Moto didn't move, waiting for the other kids to push forward. His ability relied on momentum. He couldn't afford to get hit by others. So he waited for the field to clear a bit.
+
+He was surprised to see two other individuals standing at the starting line as well. Hako was there, which made sense. But so was Keta. Moto gave him a questioning look. "I would not have expected caution from you..."
+
+Most of the kids had reached base of the wall now. Moto was surprised to see the stone-eaters faring better than most. The had originally seemed poorly suited to the contest. But now, their ability to increase their weight and harden their bodies was proving a valuable tool for ignoring the attacks of others. Moto watched as one of them leaned into a blast from a fire-bringer, then reach out and club them off the wall with a stone fist.
+
+Fumi had managed to avoid most of the conflict, reaching the top of the wall unscathed.
+
+Keta turned to him, smiling. "Caution? No friend. Showmanship." He dropped into a crouch and threw his arms back. The muscles on his body flared as a massive gout of steam came hissing off his body. Moto felt a surge of heat hit him, forcing him to take a step back. He gasped as Keta leapt.
+
+Keta was obviously the most skilled amongst the new recruits. He won every competition set before them. He did so with an effortless grace. Moto thought it was because he had more experience with his resonance than everyone else. Maybe that was true. But watching Keta really _try_, Moto become much less certain it was so simple.
+
+Keta cleared the 20 feet from the starting line to the wall in a single jump. He flipped in the air, landing with his feet against the wall, perpendicular to the ground. The stone cracked beneath the weight of the impact. Keta pivoted on the wall, sliding his feet along its surface and spinning. He flung his arms out and knocked two kids off the wall with the weighted silks that dangled from his wrists.
+
+His momentum absorbed by the wall, Keta began to fall back towards the ground. He landed in a roll, spinning back to face the wall. He took three long strides parallel to the wall and jumped, landing with both feet against the shoulders of a stone-eater. Keta kicked off in a backflip. Even with the stone-eater's increased weight, he slid several feet down the wall from the force of Keta's push.
+
+Tumbling through the air, Keta lashed out with his silks again and snagged the ankle of a girl nearing the top of the wall. Keta used her as an anchor to swing himself towards the top of the wall. The motion send the unsuspecting girl toppling backwards. 
+
+Keta landed on top of the wall lightly. He turned towards the largest wall of onlookers and bowed. He dropped off the other side to a thunder of applause.
+
+Moto watched with a mix of pride and jealousy, seeing just how large the gap was.
+
+The girl had taken a couple other kids down with her fall. The stone-eater had been pushed several feet to the side. And the two recruits who Keta first knocked off the wall were still picking themselves up and recovering from their surprise. At this point, the wall was fairly clear. Moto pushed aside his feelings of envy. There was only one way to catch up anyways. Time to act.
+
+*strategy was right*
+
+
+
 *Point for above - doesn't eat a lot anyways*
+
+Moto was genuinely shocked to see it was the kid who raised his hand all the time. Iruka begrudgingly gives him a medal.
 
 - Obstacle course begins, joke about how they love making them collect things
 - Chance to show off leveled up abilities for internals
@@ -279,6 +385,7 @@ He might not be able to get in tonight, but it didn't hurt to make friends with 
 - Moto gets majorly effed by the fighting interference of people (esp. flood-bringer near the river) in the woods
 - Thinks he's going to loose (he can only go so fast, stopping will slow him down) realizes that the real meaning of Iruka's words is to never touch ground.
 - Crazy motion sequence through the buildings. Gets third, but make some point about him moving faster than Fumi
+
 
 
 
