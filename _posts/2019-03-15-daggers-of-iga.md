@@ -203,13 +203,15 @@ Moto looked past the girl's shoulder, hoping for aid from Keita. The dancer had 
 
 So much for help. But his opponent had her back to the other fight. She didn't know whether Keita was coming or not. 
 
-Moto gave the smallest of nods, looking over the girl's shoulder. She glanced backwards. Not a lot. She knew better than to take her eyes off an enemy. But it was enough to slow her response a bit.
+Moto gave the smallest of nods, looking over the girl's shoulder. She glanced backwards. Not a lot. She knew better than to take her eyes off an enemy. But it was enough.
 
-Moto dashed forward, angling low. The girl turned back, readying her own blade. She stepped forward, trying to get to Moto's left side again. Predictable.
+Moto dashed forward, angling low. The girl turned back quickly, but her moment of distraction let him close the gap. She didn't have time to do anything but step forward, trying to get to Moto's left side again. Predictable.
 
 Moto waited for the girl to commit to her swing at his side. Then he planted his foot and pushed off as hard as he could, throwing himself away from her. He twisted in the air and threw his dagger.
 
-Normally, throwing your only weapon in a fight was a bad idea. If it was blocked, you'd be left defenseless. And even if it succeeded, you'd have nothing against the next opponent who showed up. But the girl didn't know that the rest of their opponents were occupied. Moto was counting on the surprise.
+Normally, throwing your only weapon in a fight was a bad idea. If it was blocked, you'd be left defenseless. And even if it succeeded, you'd have nothing against the next opponent who showed up. The girl thought Moto's nod meant others were approaching. She didn't know they were alone. 
+
+Moto was counting on the surprise.
 
 The dagger sank deep, lodging itself between two of the girls ribs. She crumpled to her knees.
 
