@@ -230,6 +230,7 @@ Ignoring the pain for a moment, Moto allowed himself a smile. It wasn't pretty, 
 One step closer.
 
 <br />
+
 ---
 <br />
 <br />
@@ -363,6 +364,7 @@ The group continued talking, but Moto didn't pay any attention. He knew what he 
 No matter what, Moto had to join Zephys.
 
 <br />
+
 ---
 <br />
 <br />
@@ -482,6 +484,7 @@ Iruka's hand snapped backwards as the coin was ripped from her grasp. It shot th
 Then he hit the ground.
 
 <br />
+
 ---
 <br />
 <br />
