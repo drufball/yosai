@@ -35,7 +35,7 @@ At the speed he was traveling, Moto almost didn't have time to react to the larg
 
 Moto slid to a stop just a few feet from a river that ran through the forest. He pulled himself to his feet, groaning and cradling his now bleeding arm. The bear charged, forcing Moto to flee. He pulled on the trees carefully this time, fast enough to outpace the bear, but keeping a more manageable pace.
 
-Moto came bursting from the forest, hoping to make up time on the next obstacle. He came up short as he saw several students standing in a group ahead of him. They were gathered around Iruka, who was waiting for everyone to emerge from the woods. Behind him was a series of multi-story wooden buildings with steeply angled roofs still under construction.
+Moto came bursting from the forest, hoping to make up time on the next obstacle. He came up short as he saw several students standing in a group ahead of him. They were gathered around Iruka, who was waiting for everyone to emerge from the woods. Behind her was a series of multi-story wooden buildings with steeply angled roofs still under construction.
 
 Iruka noticed Moto and gestured. "That's enough for now. The rest of the course is under construction."
 
@@ -77,7 +77,7 @@ Before Keta could respond, the remaining students joined the group at last and I
 
 One of the stone-eaters spoke up. "But shouldn't we be practicing things that suit our resonance? I'm going to be a fighter, not an infiltrator."
 
-Iruka sighed audibly. Moto still didn't understand why the man volunteered to train the new recruits. Maybe it was some sort of punishment.
+Iruka sighed audibly. Moto still didn't understand why the woman volunteered to train the new recruits. Maybe it was some sort of punishment.
 
 "Where exactly do you think you'll be fighting? Outside the castle walls? You're going to go challenge all your targets to duels then and hope they show up?"
 
@@ -96,7 +96,7 @@ The boy who asked the question melted back into the crowd a bit, his face red.
 
 Moto hit the ground with a dull thud. He slammed his fists in the dirt, cursing loudly. The wall loomed above him, mocking his attempts.
 
-"How did climbing a wall get _harder_ when I learned to control gravity."
+"How did climbing a wall feel _harder_ after I learned to control gravity."
 
 Moto pulled against the wall with his power, bringing himself to his feet. He'd lost count of how many times he had brushed the dirt from his back. He walked away from the wall, his movements stiff, steeling himself for another attempt. He was alone. The other kids had gone back to their houses to ask for advice or moved on to other obstacles. It didn't matter.
 
@@ -126,7 +126,7 @@ As he looked, Iruka's head appeared over the ledge. "You're wasting your time pr
 
 "I'm making progress." Moto turned and began walking away from the wall.
 
-"Oh yeah, the dirt all over your butt really screams progress." Iruka jumped off the wall, one hand trailing above him. His fall slowed at the last minute, allowing him to land easily. He was a stone-bringer like Moto. "Why haven't you asked for any advice?"
+"Oh yeah, the dirt all over your butt really screams progress." Iruka jumped off the wall, one hand trailing above her. Her fall slowed at the last minute, allowing her to land easily. She was a stone-bringer like Moto. "Why haven't you asked for any advice?"
 
 "I don't want advice. I need to figure it out on my own."
 
@@ -134,7 +134,7 @@ As he looked, Iruka's head appeared over the ledge. "You're wasting your time pr
 
 "I don't _need_ a tip. I already figured out your question before. The difference between Eaters and Bringers is durability. I need to apply my ability in smaller amounts more frequently. It's just taking time to master."
 
-Iruka stroked his goatee thoughtfully. "Huh, I guess that's one way you could have taken the question. It's true enough I suppose. It's the wrong answer, though."
+Iruka pulled on a tuft of her spiky black hair thoughtfully, head cocked to the side. "Huh, I guess that's one way you could have taken the question. It's true enough I suppose. It's the wrong answer, though."
 
 "What do you mean? I've clearly gotten better using that answer."
 
@@ -142,24 +142,26 @@ Iruka stroked his goatee thoughtfully. "Huh, I guess that's one way you could ha
 
 "He's the best, shouldn't that be my goal?"
 
-Iruka shook his head. "You're too focused on the areas where you think others are stronger than you. If you just try to copy Keta, he'll always have an advantage over you. You have to take a different path. Here, I'll show you."
+Iruka shook her head. "You're too focused on the areas where you think others are stronger than you. If you just try to copy Keta, he'll always have an advantage over you. You have to take a different path. Here, I'll show you."
 
-Iruka walked around the wall, not bothering to check if Moto followed. Moto considered ignoring the man and continuing with his current training. But maybe his back could use a few minutes break from absorbing his falls.
+Iruka walked around the wall, not bothering to check if Moto followed. Moto considered ignoring the woman and continuing with his current training. But maybe his back could use a few minutes break from absorbing his falls.
 
 When they reached the other side of the wall, Iruka stopped and pointed out Fumi, who was standing a few feet back from the edge of the ravine filled with wooden beams. She had a look of concentration on her face, smiling slightly.
 
 Moto watched as she took a running leap into the pit, blasting air behind her. She managed to travel about a fourth of the way across the chasm before she grabbed on to one of the poles. Her jump had been a little off course, though. Instead of landing square against the pillar, she was forced to reach out with one arm, just barely hooking around it. 
 
-The awkward catch sent her swinging around the pole. But instead of waiting for her momentum to stop, Fumi threw her free hand behind her and shot another blast of wind. The force sent her rocketing around the pole. She let go at the height of the spin and went launching into the air. She didn't have much control over the move yet, but she was able to latch onto a beam almost three quarters of the way across the chasm. It was nearly twice as far as her initial jump.
+The awkward catch sent her swinging around the pole. But instead of waiting for her momentum to stop, Fumi threw her free hand behind her and shot another blast of wind. The force sent her rocketing around the pole. She let go at the height of the spin and went launching into the air. She didn't have much control over the move yet, but she was able to latch onto a beam almost three quarters of the way across the chasm. It was twice as far as her initial jump.
 
-Iruka laughed at Moto's dumbfounded expression. "Running up that wall for two days straight feels pretty dumb, doesn't it? You see it, now. The difference between Eaters and Bringers. For Eaters, the power comes before they move. For Bringers, the power comes _while_ they move." Iruka walked away, waving over his shoulder. "I think you can figure out the rest."
+Iruka laughed at Moto's dumbfounded expression. "Running up that wall for two days straight feels pretty dumb, doesn't it? You see it, now. The difference between Eaters and Bringers. For Eaters, the power comes before they move. For Bringers, the power comes _while_ they move." Iruka walked away, waving over her shoulder. "I think you can figure out the rest."
 
 <br />
 ---
 <br />
 <br />
 
-Moto stood in the cavernous stone entry chamber to Terran House tying off a cloth satchel filled with his dinner. The chamber was carved from the stone of the mountain, an echoing cave-like structure large enough that it could have held several normal buildings. Originally, the entry chamber had been completely smooth, but over the years stalactites and stalagmites had begun to form, helped along by stone-bringer residents who thought they added a nice cave-like vibe to their home. There were numerous pathways eroded into the floor, weaving around the more precarious stone spikes, detouring towards some of the artistically painted walls, and eventually plunging into the ant-hill of subterranean tunnels that led to the rest of Terran.
+Moto stood in the cavernous stone entry chamber to Terran House tying off a cloth satchel filled with his dinner. 
+
+The chamber was carved from the stone of the mountain, an echoing cave-like structure large enough that it could have held several normal buildings. Originally, the entry chamber had been completely smooth, but over the years stalactites and stalagmites had begun to form, helped along by stone-bringer residents who thought they added a nice cave-like vibe to their home. There were numerous pathways eroded into the floor, weaving around the more precarious stone spikes, detouring towards some of the artistically painted walls, and eventually plunging into the ant-hill of subterranean tunnels that led to the rest of Terran.
 
 Moto threw the sack over his shoulder and made for the exit. The other kids of Terran didn't interest him much, so he usually bundled his food and took it to the Playground so he could eat with Keta. Tonight, though, he had another destination in mind. 
 
@@ -179,7 +181,7 @@ Moto made it to the base of the mountain and passed between the modest wooden bu
 
 At the edge of the buildings, Moto walked along the raised walkways that passed between the public gardens. At this altitude, Iga imported most of it's food from Koga below, but the village made sure to produce enough to last a while on its own, just in case.
 
-On the other side of the gardens, the Gearhouse stood pressed against one of the stone outcroppings that surrounded the village. The building was nearly as big as the Playground, 6 stories tall and as wide as three houses from the village behind Moto. From this side, the building looked dull. It's unadorned square lines and small windows hiding the chaos that rang within. The Gearhouse was where they maintained the mechanisms that powered the steel carts connecting the spires of Iga. It was also where new weapons were invented and tested.
+On the other side of the gardens, the Gearhouse stood pressed against one of the stone outcroppings that surrounded the village. The building was nearly as big as the Playground, six stories tall and as wide as three houses from the village behind Moto. From this side, the building looked dull. It's unadorned square lines and small windows hiding the chaos that rang within. The Gearhouse was where they maintained the mechanisms that powered the steel carts connecting the spires of Iga. It was also where new weapons were invented and tested.
 
 The opposite side of the Gearhouse, which protruded from the other side of the rock outcropping, was a web of steel railways and open-air rooms for testing projectiles and explosives. Not all of the rooms were open-air by design.
 
@@ -284,7 +286,7 @@ Moto honestly couldn't tell who was working the crowd more, Fumi or Keta. Fumi w
 
 Keta's routine was more polished. He stretched his body into incredible poses or walked about on his hands. At one point during a handstand, he lifted one hand to the side, so that his weight was supported by a single arm. He raised onto his fingertips, then curled his pinky and ring fingers in to his palm so that he only held himself with three fingers. Moto lost count of how many pushups he did in this pose. 
 
-But whereas Fumi turned to the crowd after each stunt, hyping up their applause, Keta hardly spared them a glance. But it was clear that he positioned himself to be seen, and he waved warmly at any of the children who called out to him. His audience seemed to be caught in a state of quiet awe. Moto was also amused to see that it was mostly starry-eyed young women.
+Whereas Fumi turned to the crowd after each stunt, hyping up their applause, Keta hardly spared them a glance. But it was clear that he positioned himself to be seen, and he waved warmly at any of the children who called out to him. His audience seemed to be caught in a state of quiet awe. Moto was also amused to see that it was mostly starry-eyed young women.
 
 Moto approached Keta and crossed his arms, smiling. "Having fun showing off?"
 
@@ -342,7 +344,7 @@ But what should Moto do? Pulling ahead seemed risky, but so did getting caught u
 
 Should he run to the side? Moto felt a moment of frustration. He'd spent the last several weeks perfecting a run through the course, but this change turned everything on its head. That was probably the point, though. They wanted to see how the kids adapted. It didn't make it any less annoying though.
 
-Iruka smiled at everyone's uncertainty at the new rules. Seeing no questions, he turned and walked out of everyone's way. The crowd along the walls grew silent in anticipation, tension permeating the air. Iruka raised his arm. Then let it fall.
+Iruka smiled at everyone's uncertainty at the new rules. Seeing no questions, she turned and walked out of everyone's way. The crowd along the walls grew silent in anticipation, tension permeating the air. Iruka raised her arm. Then let it fall.
 
 There was a surge of motion as all the recruits shot forward. They shouldered one another, trying to make space for themselves. A few kids were knocked aside by a burst of wind as Fumi launched herself ahead of the pack, taking the lead.
 
@@ -350,7 +352,7 @@ Moto didn't move, waiting for the other kids to push forward. His ability relied
 
 He was surprised to see two other individuals standing at the starting line as well. Hako was there, which made sense. But so was Keta. Moto gave him a questioning look. "I would not have expected caution from you..."
 
-Most of the kids had reached the base of the wall now. Moto was surprised to see the stone-eaters faring better than most. They had originally seemed poorly suited to the contest. But now, their ability to increase their weight and harden their bodies was proving a valuable tool for ignoring the attacks of others. Moto watched as one of them leaned into a blast from a fire-bringer, then reach out and clubbed them off the wall with a stone fist.
+Most of the kids had reached the base of the wall now. Moto was surprised to see the stone-eaters faring better than most. They had originally seemed poorly suited to the contest. But now, their ability to increase their weight and harden their bodies was proving a valuable tool for ignoring the attacks of others. Moto watched as one of them leaned into a shove from another recruit, then reach out and clubbed them off the wall with a heavy fist.
 
 Fumi had managed to avoid most of the conflict, reaching the top of the wall unscathed.
 
@@ -424,7 +426,7 @@ It was a narrow thing. One of Moto's feet skipped along the river that ran throu
 
 Moto wanted to pull on the trees behind, slowing his momentum. But at the speed he was moving, it took all his focus just to pull himself out of the way of onrushing tree trunks or to counterbalance as he was slapped by stray branches. His clothes were covered in bloody rips from the glancing collisions.
 
-The forest began to brighten as Moto ripped through the trees. He could see daylight, the end of the forest. Which meant the end of any anchors to slow himself down. Moto angled himself towards and opening in the trees as best he could and turned his attention towards pulling behind himself. He'd just have to hope his aim was good.
+The forest began to brighten as Moto ripped through the trees. He could see daylight, the end of the forest. Which meant the end of any anchors to slow himself down. Moto angled himself towards an opening in the trees as best he could and turned his attention towards pulling behind himself. He'd just have to hope his aim was good.
 
 Moto pulled softly at first, thinking to protect his body. But his momentum was so great that he hardly slowed at all. He pulled with increasing force until he was straining with all his strength. He felt several branches snap behind him as he burst from the tree line. 
 
@@ -443,7 +445,7 @@ Moto's momentum slowed greatly, but his speed was such that his body pushed thro
 <br />
 <br />
 
-Moto awoke in the infirmary. Unsure which part of him hurt worse. One of his legs was splinted. His arms and temple were wrapped tightly tightly in bandages. 
+Moto awoke in the infirmary. Unsure which part of him hurt worse. One of his legs was splinted. His arms and temple were wrapped tightly in bandages. 
 
 He looked at the room around him and saw Fumi lying in the bed next to him. She looked better than he did, though one arm was in a sling. When she noticed him looking at her, Fumi grabbed the curtain between them with her good arm and drew it between them violently.
 
