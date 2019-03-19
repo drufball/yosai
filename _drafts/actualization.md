@@ -3,65 +3,65 @@ cast = hako, seiko, korota
 # Training
 Moto raced towards the wall, jockeying for position amongst the other students. No one wanted to be last. As usual, Keta was first.
 
-The long-limbed shapeling ran ahead of the pack with steam trailing off his body like a cape flapping in the wind. He reached the base of the wall 20 feet ahead of the others, moving with a speed even the other flame-eaters couldn't match. He tensed his legs and jumped nearly twenty feet in the air. Keta planted his foot and pushed off again, continuing upwards.
+The long-limbed shapeling ran ahead of the pack with steam trailing off his body like a cape flapping in the wind. He reached the base of the wall ahead of everyone else, moving with a speed even the other flame-eaters couldn't match. He tensed his legs and jumped, continuing up the stone with a few bounding strides. As his momentum slowed, Keta snapped the bright yellow silks on his wrist towards a post at the top of the wall. The silk wrapped tight and Keta pulled himself over. Just like that, he was out of sight.
 
-The momentum from his push brought him away from the wall, but Keta snapped his arm forward, letting the bright yellow silks wrapped around his wrist shoot towards a post at the top of the wall. The silk wrapped tight and Keta used the anchor to hurl himself over. Just like that, he was out of sight.
+Moto shouldered another student out of the way and reached for his bond with the mountain. A peculiar sense of weight entered his hands, tugging on everything around him. Moto focused the energy forwards, pulling on the wall. His body lurched forwards, the added speed giving him some breathing room from the rest of the pack. He reached the wall and jumped.
 
-Moto shouldered another student out of the way and reached for his bond with the mountain. A peculiar sense of weight entered his hands, tugging on everything around him. Moto focused the energy in front of him, pulling on the wall. His body lurched forwards, the added speed giving him some breathing room from the rest of the pack. He reached the wall and jumped.
+Unlike Keta, Moto jumped a normal human amount. He brought his knees to his chest, focusing gravity into his legs. He landed feet first and began running up the vertical stone.
 
-Unlike Keta, Moto jumped a normal human amount. As he approached the wall, Moto brought his knees to his chest, focusing gravity into his legs. He landed feet first and began running up the vertical stone.
+The movement was awkward. To keep his feet attached, he had to pull hard against the wall. It felt, and probably looked, like walking through mud. The weight of his upper body pulled him backwards. Several kids passed him, shooting jets of flame behind to propel them. Moto saw Fumi clear the wall in a few gust-powered leaps.
 
-The movement was awkward. To keep himself from falling, he had to pull hard against the wall, which made it difficult to lift his feet. The weight of his upper body pulled him backwards. Several kids passed him, shooting jets of flame behind to propel them. Moto saw Fumi clear the wall in a single gust-powered leap.
+Moto cursed under his breath and pulled on the top of the wall, lessening the downward pressure so he could move more easily. He crested the top of the wall in time to watch as those who passed him approached the next obstacle.
 
-Moto cursed under his breath and pulled on the top of the wall. At this distance the force was weak, but it was enough to lessen the downward pressure and allow him to move at a jog rather than a walk. He crested the top of the wall in time to see the wave of students who had passed him as they approached the next obstacle.
+On the other side of the wall, a wide ravine had been carved into the landscape of the Playground. Moto was still amazed at how quickly the master Daggers could change the main training facility. He knew the stone had been chosen carefully for its ease of shaping, but still. Yesterday there had been a small hill there.
 
-A 50 foot wide ravine had been carved into the landscape of the Playground. Moto was still amazed at how quickly the master Daggers could reshape the landscape of the main training facility. He knew the stone had been chosen carefully for its ease of shaping, but still. Yesterday there had been a small hill there.
+Moto jumped from the wall at the same time as a couple of flame-eaters. The heat they pulled into their bodies supercharged their muscles, letting them take the heavy landing in stride. Whatever minor damage their muscles took, it would heal quickly thanks to their enhanced metabolisms. 
 
-Moto jumped from the wall at the same time as a couple of flame-eaters. The heat energy they pulled into their bodies supercharged their muscles, letting them take the heavy landing in stride. Whatever minor damage their muscles took, it would heal quickly thanks to their enhanced metabolisms. Moto had to settle for pulling against the top of the wall to slow his descent. 
+Moto had to settle for pulling against the top of the wall to slow his descent. 
 
-By the time he reached the ground, Moto was only ahead of three students: two stone-eaters and the lone flood-bringer. Their powers were particularly ill-suited for the obstacle course. Moto charged forward, determined to beat more than just the losers.
+By the time he reached the ground, Moto was only ahead of three students whose powers were particularly ill-suited for the obstacle course: two stone-eaters and the lone flood-bringer. Moto charged forward, determined to beat more than just the losers at the back of the pack.
 
-He came to the edge of the ravine and looked down. It was deep, filled with large wooden beams jutting out of the walls and floor at random angles. The chasm was too wide to leap, even for wind-bringers like Fumi who could summon gusts of wind to propel her. She was midway through the cavern jumping from beam to beam. 
+The ravine was deep, filled with large wooden beams jutting at random angles. It was too wide to leap, even for wind-bringers like Fumi who could summon gusts of wind to propel her. She was only midway through the cavern, jumping from beam to beam. Moto scanned the pit, plotting the fastest route to the other side. He could get a running start for his first jump, but after that he would have to rely almost entirely on his power. It would be slow going. Thankfully, it seemed like most of the students were facing similar problems.
 
-Moto scanned the area beneath him, plotting the fastest route to the other side. He could get a running start for his first jump, but after that he would have to rely almost entirely on his power. It would be slow going. Thankfully, it seemed like most of the students were facing similar problems.
+Moto took a step backwards and took a running leap into the ravine. He collided with a pole, gripping tightly. He felt stupid, limbs wrapped around the beam as he shuffled to the other side of the pole to continue forward.
 
-He took a step backwards and took a running leap into the ravine, using his ability to pull on a wooden pillar further than he could otherwise reach. Moto collided, gripping tightly. He felt stupid, limbs wrapped around the beam as he shuffled to the other side of the pole in order could continue forward.
+Moto pulled himself over the opposite ledge of the ravine and sprinted into the woods on the other side. He picked up speed as he moved through the forest, pulling against the trees to increase his speed and maneuverability. The tight quarters were ideal for his gravity pulls. Moto whipped past one kid.
 
-Moto managed to gain some ground on a couple of the fire-bringers. The flames they shot might offer a small speed boost, but they were nothing like the propulsion of Fumi's wind. 
+At the speed he was traveling, navigating the treacherous forest floor was a challenge. Moto considered slowing down to avoid falling. But another recruit was just ten feet ahead. Moto pushed harder.
 
-Moto pulled himself over the opposite ledge of the ravine and sprinted into the woods on the other side. As he moved through the forest, he could run directly towards a trunk, pulling on it to gain speed. At the last moment he would step to the side, and begin the process with a new tree further ahead. The tight forest was ideal for his ability. He whipped past a couple of the other kids.
+The forest made a good counterpoint, snagging his foot with a root and sending him sprawling. He hit the ground hard, skinning his right elbow and knee. Moto slid to a stop just a few feet from a river running through the forest. 
 
-At the speed he was traveling, Moto almost didn't have time to react to the large bear that came leaping at him from the thick undergrowth. He pulled desperately against a nearby tree trunk, barely managing to pull himself out of range of the creature's claws. Moto caught his foot in a tree root, sending him sprawling to the ground. He hit the ground hard, skinning his right elbow and knee.
+He pulled himself to his feet, groaning and cradling his now bleeding arm. He pulled on the trees carefully this time, increasing his speed but keeping a more manageable pace.
 
-Moto slid to a stop just a few feet from a river that ran through the forest. He pulled himself to his feet, groaning and cradling his now bleeding arm. The bear charged, forcing Moto to flee. He pulled on the trees carefully this time, fast enough to outpace the bear, but keeping a more manageable pace.
+Moto came bursting from the forest, hoping to make up time on the next obstacle. He came up short as he saw several students standing in a group ahead of him, gathered around Iruka.
 
-Moto came bursting from the forest, hoping to make up time on the next obstacle. He came up short as he saw several students standing in a group ahead of him. They were gathered around Iruka, who was waiting for everyone to emerge from the woods. Behind her was a series of multi-story wooden buildings with steeply angled roofs still under construction.
+Iruka noticed Moto and gestured. "The finish line will be a bit further back when you run the race for real, but that's it for now."
 
-Iruka noticed Moto and gestured. "That's enough for now. The rest of the course is under construction."
+Moto blinked, the tension leaving him. He counted the students standing around Iruka. Five. He'd only managed to pass one person after climbing the wall. 
 
-Moto blinked, the tension leaving him abruptly at the unexpected end to the competition. He counted the students standing around Iruka. Five. He'd only managed to pass one person after climbing the wall. He clenched his fists as he approached the group, his head hanging.
+He clenched his fists as he approached the group, his head hanging. 
 
-Fumi was talking with Keta, her long hair flying wildly as she gestured. She dropped into a crouch, then stood abruptly, shooting her hands above her head. A gust of wind spiraled around her, ruffling the clothes of everyone in the group.
+Fumi was talking with Keta, her long hair flying wildly as she gestured. She dropped into a crouch dramatically then jumped, shooting her hands above her head. A gust of wind spiraled around her, ruffling the clothes of everyone in the group.
 
-"Whoops! Sorry." Fumi turned back towards Keta, jumping around with more reservation. Keta just stood with arms crossed, smiling warmly. He said listening to Fumi's stories was like watching a play put on by children. Moto was pretty sure he meant it as a complement. 
+"Whoops! Sorry." Fumi turned back towards Keta, jumping around with a bit more reservation. Keta stood with arms crossed, smiling warmly. He said listening to Fumi's stories was like watching a play put on by children. It took Moto a while to realize the shapeling meant this as a complement. 
 
-Moto felt a flash of jealousy watching Fumi bounce around without a care. Wind was the most flexible resonance, useful in almost every situation. Fumi didn't appreciate at all how lucky she was. She had probably never stopped to think about what it would be like to get a weaker resonance. She took it as a given that things would just work out in her favor.
+Moto felt a flash of jealousy watching Fumi bounce around without a care. Wind was the most flexible resonance, useful in almost every situation. She didn't appreciate at all how lucky she was. She took it as a given that things would just work out in her favor.
 
-Keta noticed Moto and raised a hand, motioning him to join. As soon as she saw him approaching, Fumi's gestures ceased. "Hey." She gave a small wave with her hand.
+Keta noticed Moto and raised a hand, motioning him to join. As soon as she saw him approaching, Fumi's gestures ceased. "Oh, hey." She gave a small wave with her hand.
 
 "Hey." Moto looked towards the buildings under construction behind Iruka.
 
-Keta looked between them and shook his head. He placed a hand on Moto's shoulder and pulled him closer, rubbing his back for a moment. Keta looked down at the blood along Moto's arm and tsk'ed. "Always you come away bleeding. You know that is not a requirement of practice, yes?"
+Keta looked between them and rolled his eyes. He placed a hand on Moto's shoulder and pulled him closer, rubbing his back for a moment. Keta looked down at the blood along Moto's arm and tsk'ed. "Always you come away bleeding. You know that is not a requirement of practice, yes?"
 
 Moto waved a hand. "It's fine, I just tripped and skinned my elbow. What were you two talking about?"
 
-Keta nodded towards Fumi. "This one was just telling me how she planned to beat me when we run the full course."
+Keta nodded towards Fumi. "She was just telling me her strategy for beating me when we run the full course."
 
-Fumi took the bait eagerly. "I _will_ beat you! I was just sloppy on the first obstacle. And I've got some ideas for new tricks." She smiled wickedly. 
+Fumi took the bait eagerly. "I _will_ beat you! I was just sloppy getting across the ravine. And I've got some ideas for new tricks." She smiled. 
 
-"I can't wait to see them. Assuming, of course, that I haven't already finished the race by the time you use them. Like today." They were both smiling. Fumi seemed to enjoy the challenge posed by Keta's seeming invincibility. Keta just liked teasing.
+"These tricks sound wonderful. Do you think I'll get a chance to appreciate them from so far ahead?" They were both smiling. Fumi seemed to enjoy the challenge posed by Keta's seeming invincibility. Keta just liked teasing everyone.
 
-"You just wait." Fumi and Keta clapped hands and then she walked away. She didn't bother saying bye to Moto.
+"You just wait." Fumi and Keta clasped hands and then she walked away.
 
 Moto extricated himself from Keta's arm, turning so he could look at the shapeling while they talked. Keta wore tight black clothes emblazoned with his house, just like the rest of the students. He had protested for the first few days, insisting on wearing his vibrant red dancer's clothes. Eventually he had relented to the pressure from the master Daggers, but he still wore the bright yellow silks around his wrists in rebellion.
 
@@ -71,23 +71,23 @@ Moto extricated himself from Keta's arm, turning so he could look at the shapeli
 
 "Some of us actually need the practice, you know."
 
-Before Keta could respond, the remaining students joined the group at last and Iruka called everyone together.
+Before Keta could respond, the remaining students joined the group and Iruka called everyone together.
 
-"This course is going to be our focus for the next couple weeks." The two stone-eaters and the flood-bringer, the students who had come in last, all groaned.
+"This course is going to be our focus for the next couple weeks." The two stone-eaters and the flood-bringer, the students who had just finished, groaned.
 
-One of the stone-eaters spoke up. "But shouldn't we be practicing things that suit our resonance? I'm going to be a fighter, not an infiltrator."
+One of the stone-eaters spoke up. "Shouldn't we be practicing things that suit our resonance? I'm going to be a fighter, not an infiltrator."
 
 Iruka sighed audibly. Moto still didn't understand why the woman volunteered to train the new recruits. Maybe it was some sort of punishment.
 
-"Where exactly do you think you'll be fighting? Outside the castle walls? You're going to go challenge all your targets to duels then and hope they show up?"
+"Where exactly do you think you'll be fighting? Outside the castle walls? You're just going to challenge all your targets to duels and hope they show up?"
 
 The boy who asked the question melted back into the crowd a bit, his face red.
 
-"Motion is the basis for _all_ Daggers. There are plenty of Tournament Heroes and Villains who have similar powers to you. But the ability to apply those powers in unexpected places, unnoticed, and in unpredictable ways is what makes you different. Every one of your powers will change and improve the way you move through the world. This course will help you find the pattern that works with your ability.
+"Motion is the basis for _all_ Daggers. There are plenty of Heroes and Villains who have similar powers to you. But the ability to apply those powers in unexpected places, unnoticed, and in unpredictable ways is what makes you different. Every one of your powers can improve the way you move through the world. This course will help you find the pattern that works with your ability.
 
 "I want you all to spend the rest of the day practicing on your own. Starting tomorrow, you can ask me or your house for advice. But it's also important that you get in the habit of analyzing your abilities and identifying ways to improve on your own. Sometimes circumstances will change in the middle of a mission and you'll have to adapt.
 
-"I will give you one thought to focus your initial explorations. What is the difference between Eaters and Bringers?"
+"I will give you one thought to focus your initial explorations. What is the biggest difference between Eaters and Bringers?"
 
 <br />
 ---
