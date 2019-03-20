@@ -1,9 +1,23 @@
 [
   {
+    "title": "The Colour of Magic",
+    "author": "Terry Pratchett",
+    "link": "https://www.amazon.com/Color-Magic-Discworld-Terry-Pratchett/dp/0062225677/",
+    "blurb": "A hilarious, irreverent book about a cowardly wizard and the first tourist of Discworld. The writing is superb, and it's really inspiring me to rethink the way I write.",
+    "recommend": true
+  },
+  {
+    "title": "Utopia for Realists",
+    "author": "Rutger Bregman",
+    "link": "https://www.amazon.com/Utopia-Realists-Build-Ideal-World-ebook/dp/B01MXDBTWM/",
+    "blurb": "The author argues that we've become overly pessimistic and lost sight of how much good left to be done. His proposals center around things like Living Wage and preventing tax evasion by the rich.",
+    "recommend": true
+  },
+  {
     "title": "Mistborn: The Hero of Ages",
     "author": "Brandon Sanderson",
     "link": "https://www.amazon.com/Hero-Ages-Mistborn-Book/dp/B001L4EDWK/ref=sr_1_1?crid=66R70I4G17BT&keywords=hero+of+ages&qid=1551686673&s=books&sprefix=hero+of+ages%2Caudible%2C271&sr=1-1",
-    "blurb": "Book three in the Mistborn trilogy. I don't want to give any spoilers for those reading book one, so I'll just say it starts a bit slower but continues to be quite good.",
+    "blurb": "Book three in the Mistborn trilogy. I don't want to give any spoilers for those reading book one, so I'll just say it starts a bit slower but continues to be quite good. I did not like the last two chapters, though.",
     "recommend": true
   },
   {
