@@ -6,7 +6,7 @@ permalink: /compendium/tournament/:title/
 layout: post
 excerpt_separator: <!--more-->
 
-cast: "['Moto','Fumi','Keita','Iruka', 'genin', 'chunin', 'jonin','Koga','Iga','Isa','Otoya']"
+cast: "['Moto','Fumi','Keta','Iruka', 'genin', 'chunin', 'jonin','Koga','Iga','Isa','Otoya']"
 pronunciations: "['MOH-toh','FOO-mee','KAY-tah','ee-ROO-kah', 'geh-NIN', 'choo-NIN', 'joh-NIN','KOH-gah','EE-gah','EE-sah','oh-TOH-yah']"
 colors: "['#c98859','#69d4fc','#e84326','#c98859','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e']"
 
