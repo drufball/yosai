@@ -1,5 +1,19 @@
 [
   {
+    "title": "Mort",
+    "author": "Terry Pratchett",
+    "link": "https://www.amazon.com/Color-Magic-Discworld-Terry-Pratchett/dp/0062225677/",
+    "blurb": "A hilarious, irreverent book about the time Death decides he wants a vacation and hires an apprentice. Stronger plot and characters than the first two Discworld books I read.",
+    "recommend": true
+  },
+  {
+    "title": "Leviathan Wakes",
+    "author": "James S. A. Corey",
+    "link": "https://www.amazon.com/Leviathan-Wakes-Expanse-Book-1-ebook/dp/B0047Y171G/",
+    "blurb": "A gritty, sci-fi detective novel with an engrossing, tightly paced plot. The characters take a while to find themselves and the first/second halves of the book feel like two different stories, but overall it was a page turner.",
+    "recommend": true
+  },
+  {
     "title": "The Colour of Magic",
     "author": "Terry Pratchett",
     "link": "https://www.amazon.com/Color-Magic-Discworld-Terry-Pratchett/dp/0062225677/",
