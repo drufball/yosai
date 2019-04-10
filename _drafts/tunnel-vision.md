@@ -1,109 +1,107 @@
 # Sage Fists
-Moto punched forward, crying out in frustration. Sweat dripped freely down his back and brow, his chest heaved, and his limbs felt like lead. His fist traveled straight towards Iruka's smirking face. 
+Moto threw his fist forward, crying out in frustration. Sweat poured down his back and brow, his chest heaved, and his limbs felt like lead. He aimed straight towards Iruka's smirking face. 
 
 She was going to do something. He knew it. She always did. Moto pushed aside the dread and focused. Would it be a rock from behind? Perhaps a pull on his feet to throw off his balance?
 
-Iruka raised her hand up and Moto felt a tug against his chest, pulling him off his feet slightly. At the same time, Iruka ducked down, dodging under his fist and continuing to pull him forward with her outstretched hand. Moto pulled against the ground desperately, anchoring against her pull and trying to stay close as she dodged. Iruka's front foot slid behind him as she dropped into a crouch. Damn.
+Iruka raised a hand above her head and Moto felt a tug against his chest, pulling him off balance. At the same time, Iruka dropped down, dodging under his fist while she continued to pull him forward with her outstretched hand. Moto pulled against the ground desperately, trying to stay close. 
 
-Moto made his feet as heavy as he could. There was a sharp tug on the back of his ankle and his legs shot out from under him. Iruka continued pulling him forward with her hand, giving him a strange sense of vertigo from the random bursts of gravity pulling in different directions. Iruka's pulls were so _powerful_.
+Iruka's front foot slid behind him as she crouched. Moto made his feet as heavy as he could, but there was a sharp tug on his ankles and his legs shot out behind him. Iruka kept pulling him forward with her hand. Moto had a strange sense of vertigo from the bursts of gravity pulling in different directions.
 
-At least he had guessed right about her pulling on his feet.
+At least he was right about her pulling on his feet.
 
-Moto flipped through the air. He reached down towards Iruka and began to pull. If he could just graze her with a finger as he passed over her head.
+Moto flipped through the air. He reached down towards Iruka and pulled in a last ditch effort. If he could just graze her with a finger.
 
-Moto felt a painful _thud_ against his stomach as something collided with him in the air. A rock from behind. Iruka must have been pulling it the whole time he approached, waiting for a good moment to slam it into him. 
+There was a painful _thud_ against his stomach as a rock collided with Moto in the air. Iruka must have been pulling it behind him the whole time he approached, waiting for a good moment to slam it home. It was too bad the test wasn't guessing how Iruka would beat him.
 
-It was too bad the test wasn't guessing how Iruka would beat him.
-
-The rock's momentum pushed Moto up and away, sending him crashing to the ground a few feet from Iruka. She smiled down at him as he lay on his back, the wind knocked out of him. Again.
+The rock's momentum pushed Moto up and away, sending him crashing to the ground a few feet from Iruka. She smiled down at him as he lay on his back. Again.
 
 "You're too focused. All you do is try to hit me."
 
-Moto threw his arms towards the sky, still laying on his back. "You keep saying that like it makes any kind of sense. Of _course_ all I do is try to hit you. That's what you told me to do."
+Moto threw his arms towards the sky. "You keep saying that like it makes any kind of sense. Of _course_ all I do is try to hit you. That's what you told me to do."
 
 Iruka shook her head, walking away from Moto and getting into position for another round. She turned to face him again, arms clasped behind her back. "I told you to hit me. That doesn't mean you have to _try_ to hit me."
 
-"Oh yeah, great. Now it all makes sense to me." Moto pushed himself to his feet, smacking the dirt from his legs forcefully. "At least you follow your own advice, though."
+"Oh yeah, great. Now it all makes sense to me." Moto pushed himself to his feet, smacking the dirt from his legs. "At least you follow your own advice, though."
 
 "What do you mean?"
 
 "Well, I ask you to explain something and you don't even _try_ to explain it."
 
-Iruka laughed, caught off guard by the joke. She snorted and slapped her leg. "That was a good one, kid." She turned her nose up, looking serious and crossing her arms. "What, you don't appreciate learning from a wise, enigmatic sensei?" Moto rolled his eyes dramatically. 
+Iruka snorted and slapped her leg. "That was a good one, kid." She turned her nose up, looking serious. "What, you don't appreciate learning from a wise, enigmatic sensei?" Moto rolled his eyes. 
 
-It had been three weeks of grueling weekend training sessions. And even though he was tired from normal lessons with the other recruits, it felt like Iruka pushed him even harder on his own. But despite the strain, he was surprised how much he enjoyed Iruka's company. Especially with Keta gone on his first contract, Moto found himself looking forward to the lessons.
+It had been three straight weeks of grueling weekend training. And even though he was tired from normal lessons with the other recruits, Iruka was relentless. But despite the strain, Moto was surprised how much he enjoyed Iruka's company. Especially with Keta gone on his first contract, he found himself looking forward to the banter during lessons.
 
-Moto chided himself. What was he doing? He wasn't here to make friends and banter. He settled into a crouch, frowning as he prepared for another attack.
+Moto chided himself. What was he doing? He wasn't here to make friends. He settled into a crouch, frowning as he prepared for another attack.
 
-"Your focus makes you predictable. It gives you tunnel vision. You never stray from your goal and you always take the route that's most likely to lead to success. 
+"Your focus makes you predictable. You never stray from your goal and you always take the route that's most likely to lead to success. 
 
-"Imagine how much easier it would be to hit me if I always responded by trying to jump away from you and maintain the greatest distance possible. Eventually you'd find a way to exploit it."
+"Imagine how much easier it would be to hit me if I always responded by jumping away from you and maintaining the greatest distance possible. Eventually you'd find a way to exploit it."
 
-Moto stood straight again, still frowning. "That doesn't make sense. In your example, always jumping away _isn't_ the most likely strategy for success. Using a mixed strategy is better, but you're still just trying to maximize the chances of achieving your goal."
+Moto stood straight again, still frowning. "But always jumping away _isn't_ the most likely strategy for success. I agree you shouldn't do the same thing all the time. Using a mixed strategy is better. But you're still just trying to maximize the chances of achieving your goal."
 
 Iruka shook her head. "You're putting an unreasonable amount of faith into your own powers of randomization. You _think_ you're pursuing a mixed strategy, but you're a lot more repetitive than you realize."
 
-It was hard to argue given how little success he'd had over the last three weeks. But Moto gave it a shot, digging in his heels. "You're just way more experienced and skilled than I am. Sure, everything I do looks repetitive because I don't have many options at my disposal. But that just means I need to practice more strategies."
+It was hard to argue given how little success he'd had over the last three weeks. But Moto gave it a shot, digging in his heels. "You're just more experienced than I am. Everything I do looks repetitive because I don't have as many options at my disposal. But that just means I need to learn more."
 
-"Even if you practiced an infinite number of strategies, you wouldn't actually be able to choose between those strategies rationally. Even masters develop patterns. And if I know those patterns, I win. So if you can't prevent yourself from developing patterns, you have to mix your goals."
+"Even if you practiced an infinite number of tactics, you wouldn't actually be able to choose between them all rationally. Even masters develop patterns. And if I know those patterns, I win."
 
-Iruka held out both of her hands. Moto jumped in surprise as the rock that had collided with him earlier went zipping over his shoulder towards Iruka. A few other stones arced through the air towards her as well. She spread her arms wide so the stones missed her body.
+"Well what should I do then?"
 
-But instead of shooting off into the distance, the trajectory of the rocks bent sharply as they passed behind her. Iruka was now surrounded by a whirring orbit of four fist-sized stones. They moved in different arcs, outlining a sphere around her.
+"If you mix your goals, your tactics will naturally vary." Iruka held out both of her hands. Moto jumped in surprise as a rock went zipping over his shoulder towards Iruka. A few other stones arced towards her as well. She spread her arms wide so the stones missed her body.
+
+But instead of shooting off into the distance, the trajectory of the rocks bent sharply as they passed behind her. Iruka was now surrounded by four fist-sized stones whirring about in different orbits. They outlined a sphere around her.
 
 "Do you know why you have so much trouble hitting me? Besides the fact that you're slow, predictable, and weak, that is." She smiled at him.
 
-Moto watched the stones flying through the air. He couldn't imagine the amount of control and focus such a move would require. He inched a foot forwards. There's no way she could fend off an attack while maintaining that. The move was probably for offense, not defense. "Why...?" Just keep her talking.
+Moto watched the stones flying through the air. He couldn't imagine the amount of focus such a move would require. He inched a foot forwards. There's no way she could fend off an attack while maintaining that. The move had to be for offense, not defense. "Why...?" Just keep her talking.
 
-"It's because sometimes I'm legitimately _not_ trying to avoid you. I'm just showing off. Or I go for something that provides a general advantage, even if I don't know how it would help in this specific instance."
+"It's because sometimes I'm legitimately _not_ trying to avoid you. I'm just showing off. Or I go for something that provides a general advantage, even if I don't know how it would help in that specific instance."
 
-Moto moved in a slow arc around Iruka, acting as though he was admiring the complexity of the stone sphere. He let the arc take him closer. "You're saying you just act randomly?"
+Moto moved in a slow arc around Iruka, acting as though he was admiring the complexity of the stone sphere. He let the arc take him closer. "You just act randomly?"
 
-Iruka shrugged. "Sort of. Sometimes I tell myself I'm going to avoid you without moving my left foot. It messes with you. Why am I moving that way? Do I have a plan? You hesitate. You struggle to predict my next move."
+Iruka shrugged. "Sort of. Sometimes I tell myself I'm not going to move my left foot. It messes with you. Why am I moving that way? Do I have a plan? You hesitate."
 
 Moto was standing at the edge of Iruka's vision, just a few strides away. He dashed forward.
 
-Iruka smiled, as though she'd sprung a trap on him. One of the orbiting stones arced around Iruka's shoulders and launched towards him. Moto sidestepped, avoiding the blow and moving closer. Right into the path of a second stone.
+Iruka smiled as one of the orbiting stones shot around her shoulders and launched towards him. Moto sidestepped, avoiding the blow and moving closer. Right into the path of a second stone.
 
 "Predictable."
 
-Moto cursed. He threw his hand to the side and pulled on the rock, altering it's trajectory enough to graze past his shoulder. He continued forwards, lashing out towards Iruka. She pulled against one of the stones as it arced behind her, staying out of his reach. Her reactions _were_ slower as she focused on keeping the rocks in orbit. Moto pressed his advantage.
+Moto cursed. He threw his hand to the side and pulled on the rock, altering it's trajectory enough to graze past his shoulder. He continued forward, lashing out toward Iruka. She pulled against a stone as it arced behind her, just barely moving out of his reach. Her reactions _were_ slower. Moto pressed his advantage.
 
 "What if you tried to steal one of my stones? That would have stopped this at least."
 
 Moto felt a pull against his right side, but it was too light to have any effect on him. Unless...
 
-Moto dipped his shoulder as the stone he dodged earlier came flying past. He glanced over his shoulder looking for the second stone. Maybe he could--.
+Moto dipped his shoulder as the stone he dodged earlier came flying past. He glanced backward, looking for the second stone. Maybe he could--.
 
-Moto grunted as Iruka planted both boots against his chest and drop-kicked him away. He staggered backwards, off balance. 
-
-Right as the second stone crashed into his feet. He went sprawling face first into the dirt.
+Moto grunted as Iruka planted both boots against his chest and drop-kicked him away. He staggered backwards, off balance. Right as the second stone crashed into his feet. He went sprawling face first into the dirt.
 
 After a moment, Moto raised himself into a sitting position, spitting mud. His ankles throbbed.
 
-Iruka sat cross-legged in the grass a few feet away. "Your instincts are good, kid. Maintaining the stone cloud was a liability. If I was looking for the optimal strategy, I probably wouldn't have done it. But I wanted to give myself options and put you on unfamiliar ground. I trusted my ability to take advantage of the opportunities that inevitably arise on a dynamic battlefield."
+Iruka sat cross-legged in the grass a few feet away. "Your instincts are good, kid. Maintaining the stone cloud was a liability. If I was looking for the optimal strategy, I probably wouldn't have done it. But I wanted to give myself options and put you on unfamiliar ground. I knew I could take advantage of the opportunities that would arise on a dynamic battlefield."
 
 Again, Moto found it hard to argue with her point. His body was thoroughly seasoned by dirt and grass after so many failed attempts. But he still felt like she was conflating her superior skill with his own weakness. "What you're saying just sounds reckless to me. Treating the battlefield like a game, taking dubious risks, and pursuing random goals hoping that opportunities will arise. A more focused opponent could take advantage of all the inefficiency."
 
-Iruka spun several small stones around her hand idly as she spoke. "I get the feeling. But you're not weighting factors properly. You're just too inexperienced."
+Iruka spun several small stones around her hand idly as she spoke. "I get the feeling. But you're not weighting things properly. You're just too inexperienced."
 
-Moto felt his face flush with anger. "Everyone seemed so certain about how young and inexperienced I am. You have no idea what I went through to make it this far."
+Moto felt his face flush with anger. "Everyone seems so certain about how young and inexperienced I am. You have no idea what I went through to make it this far."
 
-Iruka arced the stones around her hand, shooting them towards Moto's face. He cried out in surprise, shielding his face from the tiny barrage. "Oh yeah. Because you're the only kid at an academy for spies and assassins who's had some hardship in their life." She rolled her eyes. "Nobody gets you."
+Iruka shot the stones towards Moto's face. He cried out in surprise, shielding his face from the tiny barrage. "Oh yeah, you're the only kid at an academy for spies and assassins who's had some hardship in their life." She rolled her eyes. "Nobody gets you."
 
-Her face softened a bit. "Look, I'm not trying to insult you. Well, OK. Maybe I'm trying to insult you a little bit just for fun. But besides that. You're a smart kid with a lot of potential. But you're new to this world. It's only natural that there's things you don't understand yet.
+Her face softened a bit. "Look, I'm not trying to insult you. Well, OK. Maybe I'm trying to insult you a little bit for fun. But besides that. You're a smart kid with a lot of potential. But you're new to this world. It's only natural that there's things you don't understand yet.
 
-"Our abilities _dramatically_ improve our destructive capabilities. But they don't really improve our mental capacity for _using_ those abilities. Being a little inefficient isn't that big of a risk because your opponent won't be much better at exploiting it. But if you're predictable and I get an easy hit on you, that hit comes in like a boulder rolling down a mountain.
+"Our abilities _dramatically_ improve our destructive capabilities. But they don't really improve our mental capacity for _using_ those abilities. Being a little inefficient isn't that big of a risk because your opponent will be pretty average at exploiting it. But if you're predictable and they get an easy hit on you, it comes in like a boulder rolling down a mountain.
 
-"Worse, the dangers you encounter on contracts and the politics you navigate here in Iga are nothing like the bar fights with thugs that you're used to." Iruka held up a hand, preempting Moto's indignant reply. "I'm not saying you haven't been through a lot. But the people in your world now are highly trained and they're _trying_ to mislead you. They will spend their free time concocting schemes to use you and exploit your weaknesses.
+"On top of that, this world is nothing like the bar fights you're used to." Iruka held up a hand, preempting Moto's indignant reply. "I'm not saying you haven't been through a lot. But your enemies now are highly trained and they're _trying_ to mislead you. They will spend their free time concocting schemes to use you and exploit your weaknesses. You have to distrust everything at least a little bit, even things you think are your own ideas.
 
-"As a Dagger, you have to distrust everything at least a little bit. Certainty and predictability are the two most deadly flaws you can have. And as a stone resonant, you're especially weak to both. You need to be more proactive than most in avoiding them."
+"Certainty and predictability are the two most deadly flaws a Dagger can have. And as a stone resonant, you're especially weak to both. You need to be more proactive about avoiding them."
 
-Moto blinked. "What do you mean? Why would a stone resonance be weaker?"
+Moto blinked. "What do you mean? Why would a stone resonant be weaker?"
 
-"All the personalities of stone - relentless, persistent, unmovable, careful, unyielding - they all have a tendency to get you stuck in ruts. And the more you use your power, the more strongly that mindset manifests within you. I've seen the way you walk around outside Terran house. You're always pulling. That's good.
+"All the personalities of stone - relentless, persistent, careful, unyielding - they all have a tendency to get you stuck in ruts. And the more you use your power, the more strongly those mindsets will manifest within you. I've seen the way you walk around outside Terran house. You're always pulling. That's good.
 
-"But I've also watched your fighting style change over the last few months. At Selection Day you were nimble. You tried things. You took risks. At the entrance exam you were only a bit more singleminded. But during the obstacle course, you were so myopic it nearly killed you. All you were thinking about was how to preserve the run you'd been practicing."
+"But I've also watched your fighting style change over the last few months. At Selection Day you were nimble. You tried things. You took risks. At the entrance exam you were only a bit more singleminded. But during the obstacle course, you were so myopic it nearly killed you. All you were thinking about was preserving the run you'd been practicing."
 
 Moto thought back to the moments Iruka referenced. He didn't feel like his mindset had changed much since then. But would he have noticed?
 
@@ -111,9 +109,9 @@ Moto thought back to the moments Iruka referenced. He didn't feel like his minds
 
 "Let's imagine it was. You still nearly _killed_ yourself just to win a practice event. Why would you take such a huge risk for something so small?"
 
-Moto didn't have a response. When he looked back on it, he couldn't quite explain why he'd taken the practice so seriously. Why did he risk dying? He didn't care about impressing these people. His goals were entirely separate.
+Moto didn't have a response. When he looked back on it, he couldn't quite explain why he'd taken the practice so seriously. Why did he risk dying? He didn't care about impressing these people.
 
-Iruka shook her head. "Iga wants to make you the perfect tool. That goes beyond combat training. The competitions, the prestige, the rankings. It's all designed to increase their control over you, to keep you from questioning too much so you'll throw away your life for the mission. 
+Iruka shook her head. "Iga wants to make you the perfect weapon. That goes beyond combat training. The competitions, the prestige, the rankings. It's all designed to increase their control over you, to keep you feeling special so you'll risk your life for the mission.
 
 "I used to be like you, ready to throw away anything to achieve my dreams. I've seen enough people die pointless deaths now to understand who's really benefitting from your boundless ambition."
 
