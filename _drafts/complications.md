@@ -133,7 +133,7 @@ Denri chuckled as she pictured their dumbfounded expressions. It almost made up 
 <br />
 <br />
 
-Denri managed to duck back into the main hallway before another set of guards came from the direction where Denri had heard voices earlier. They went running in the direction of Denri's prisoners.
+Denri managed to duck back into the main hallway before another set of guards came from the direction she had heard voices earlier. They went running in the direction of Denri's prisoners.
 
 Denri turned, planning to head out the way she came. But before she could take a step, a sound caught her attention. It sounded like a child crying. The sobs were coming from the other hallway, where the latest batch of guards had come from. 
 
@@ -165,13 +165,13 @@ There was a loud crash behind Denri, muffled by distance and walls. The guards m
 
 "I thought you took care of the guards."
 
-"I did! Sort of. Look, I'm just kind of winging it right now, OK? And doing a pretty good job of it considering I was asleep five minutes ago." Denri ignored Eizo's confused look and pulled out the ring of keys. She flipped through them, trying each on the locks. 
+"I did! Sort of. Look, I'm just kind of winging it right now, OK? And doing a pretty good job considering I was asleep five minutes ago." Denri ignored Eizo's confused look and pulled out the ring of keys. She flipped through them, trying each on the locks. 
 
 There were shouts and footsteps down the hallway. It sounded like the guards were checking with the sentries at the front. Not much time till they came this way. 
 
 "Did they bring you all in a back door or something? I don't think the front is a viable option anymore."
 
-Eizo nodded and pointed towards the hallway opposite the one Denri came through. "They brought us in through there."
+Eizo nodded and pointed towards the hallway opposite the one Denri entered through. "They brought us in through there."
 
 "Great. Can you run?" Denri found the right key and slotted it into the manacles around Aki's legs.
 
@@ -187,7 +187,7 @@ The girl wiped her eyes on her sleeve and nodded.
 
 "Perfect. Otherwise the bad guys won't be able to hear all my heroic jokes." Denri winked and earned a watery smile from Aki.
 
-Eizo's chains clattered to the ground and he lifted Aki in his arms. The two of them looked pathetically thin. "What's the plan?"
+Eizo's chains clattered to the ground and he lifted Aki in his arms. The two of them looked even thinner standing. "What's the plan?"
 
 "Step one is run. Step two is don't get caught." They took off for the back exit with the sound of boots stomping down the hallway behind them.
 
@@ -196,4 +196,138 @@ Eizo's chains clattered to the ground and he lifted Aki in his arms. The two of 
 ---
 <br />
 <br />
+
+They ran through the hallways, doing their best to balance speed with quiet footsteps. Behind paper doors they heard card games and drunken arguments. This was one of Danzo's larger dens, meaning it was filled with a lot of cronies drinking away the day.
+
+They managed to make it pretty far before a hollow clanging sounded throughout the building.
+
+"Well, looks like they know you two are gone." Aki clutched Eizo's shirt, her knuckles white. But she kept her word and remained quiet.
+
+Through the paper walls, they saw silhouettes looking around in confusion. A few drew long, sharp looking shadows and moved towards the door.
+
+"OK! Time to run very fast." Eizo grunted in agreement. His breath was too ragged to manage much more. Denri glanced back, a concerned look on her face. "Are you--?" She saw nothing but cold iron in Eizo's eyes. "Right, lets go."
+
+They burst into another intersection, the sound of pursuit close behind them. "How big _is_ this place? Honestly."
+
+Eizo moved past her, picking a direction with confidence and disappearing around the corner. Denri was impressed he'd been observant enough to memorize the path given his state. Presence of mind like that took training.
+
+A second later Eizo came running back into view, angry shouts following him. Denri grabbed one of the lanterns at the intersection and smashed it into the hallway as Eizo came running back. She was mildly disappointed that the paper walls didn't immediately erupt info flame. But there was an ominous crackle that might encourage a few guards to stay behind and deal with the issue. They turned and ran down the other hallway. 
+
+"I'm guessing we don't know where we're going anymore?"
+
+"Yes. I am. Sorry." Eizo was gasping desperately for air.
+
+Denri laughed. "Don't be! This is pretty standard. Things always work out in the end." She flashed Eizo a smile as they skidded around a corner. Denri hooked an arm around another lantern pole and sent it crashing to the ground. "Besides. I was just thinking how boring my morning was."
+
+A group of guards came bursting around the corner ahead of them. Denri skidded to a halt and turned to run the other direction. The guards behind them finally came into view.
+
+Seeing their prey surrounded, both sides drew their blades and moved forward cautiously. "Lay on the ground and we might let you live."
+
+Eizo set Aki down and pushed her behind him. "I will do my best to clear a path, get ready to run." His determined frown flickered in the lantern light.
+
+Lantern light? Denri looked around, confused. There weren't any lanterns in the hallway. But a large swath of light was glowing through the wall to their left.
+
+"Hey, eagle eye. You've been paying attention to the route we've been taking, right? How close do you think we are to the hallway where I threw that first lantern?"
+
+"Close. Why?" He raised his hands, preparing to charge the guards.
+
+"_Nice_." She smiled wickedly. "New plan! I get to break things after all. Stay close behind me, Aki." Eizo looked over his shoulder. 
+
+Denri let out a yell of delight and threw herself through the wall.
+
+<br />
+
+---
+<br />
+<br />
+
+Denri stumbled and hit the ground heavily amongst a pile of broken wood and ripped paper. A few jagged wooden pieces dug into her skin, drawing blood. She ignored the pain, giggling as she scrambled to her feet. She heard a shout and heavy footsteps as the guards from the hallway behind came rushing forward.
+
+The room Denri was now in was loud and hot. The door at the far side of the room was flung open and two of Danzo's goons were frantically trying to smother a roaring wall of flame in the hallway. The makeshift fire brigade didn't even bother to turn around.
+
+Aki gasped as she saw the flames. She started to back towards the hallway.
+
+"Sorry Aki, only one way forward and we don't have time for a pep talk." Denri snatched Aki's arm and started running. She hoped Eizo was chasing along behind instead of dying like a hero.
+
+Aki resisted at first, but the rush of the chase had filled Denri with adrenaline. Her iron grip wasn't letting go. By the time they reached the edge of the flames, Denri hardly had to pull the girl at all. They jumped through the fire together.
+
+The fire hadn't taken the hallway completely, but it was still too wide for Denri and Aki's short legs to clear in a single jump. Denri landed with one foot amidst the embers and used the leverage to push Aki onward. The small girl tumbled and rolled along the floor beyond the flames.
+
+Denri felt a searing pain in her foot. The tips of her hair started to singe. The pain didn't last long before she felt a heavy weight collide with her from behind. Denri and Eizo spilled into the hallway beyond.
+
+Denri sat up and immediately started ripping off the tattered remains of the now-burning shoe that encased her foot. Her fingertips burned as they ripped through the leather, revealing the raw, bloody skin of her foot.
+
+Behind them, the guards had forgotten them in favor of the flames that threatened to consume the building. It was probably best not to stick around though.
+
+Denri stood, placing weight on her burnt foot tentatively. She cried out immediately and crumpled toward the ground. Eizo caught her with a shoulder. "The exit is not far, you can lean on me."
+
+Denri nodded, wrapping her arm around the tall man's waist. His bony hip pressed into her armpit uncomfortably. "We really need to get some meat back on these bones."
+
+The trio limped towards the exit as quickly as they could. They were tense, waiting for the sound of pursuit. But it never came. Smoke filled the air towards the ceiling, forcing Eizo to hunch forward.
+
+They staggered through the exit and blinked in the daylight. A crowd had formed around the building, drawn by the clanging alarm and the smoke that billowed from the windows. A woman from the city watch ran up to them. "Are you three OK? What's going on in there?"
+
+Eizo stood straighter, his voice taken on a more commanding tone. "A lantern was left unattended. Gather the nearby watch and get in there to help before this spreads across the whole block. I need to get this one to a doctor."
+
+The woman snapped to attention, turning on her heel and running towards the corner. They made their way into a dark alley before the woman could realize she had just taken orders from a beggar. 
+
+"Quick thinking." Denri felt Eizo's hands shaking against her shoulder as they walked. She looked at him curiously, but his eyes were fixed ahead.
+
+They continued until they couldn't hear the metallic rhythm of Danzo's alarm. The three of them sank against a wall gratefully, regaining their composure. 
+
+As the adrenaline drained away, all of Denri's aches and pains came flooding in. Her foot begged the most attention, but the rest of her body was making a compelling case as well. Her muscles still felt like they'd been trampled by a small cow from when she shifted earlier. There was a bruise on her shoulder and countless stinging cuts from when she dove through the wall.
+
+Denri groaned. "Well, that all escalated."
+
+Eizo shook his head. "Not exactly subtle, no."
+
+"We're not entirely out of the woods yet, though. Danzo is going to come looking for us. I'm guessing you two don't have a place to lay low. You can hideout with me until things calm down a bit."
+
+"We shouldn't involve you any further."
+
+Denri started to respond, but Aki beat her to it. She pushed out from under Eizo's arm and turned towards him. "I wanna stay with her. She's amazing!"
+
+"Danzo will be looking for us. It's not safe for her."
+
+Aki pointed at Denri's foot. "_She_ rescued _us_. And she got hurt! When they were hurting us you said bleeding together made us family. And family never leaves each other. You promised!" 
+
+Eizo hesitated, his mouth hanging open slightly. Aki loomed over his seated form with all the imperiousness of a child who knows she's made a point. He acquiesced.
+
+"Is your home far?"
+
+"Well, home might be a bit of an exaggeration... but it's not too far." Denri winced as she pushed herself up the wall into a standing position.
+
+Aki gasped and pointed at Denri's midsection. A look of concern took over Eizo's face. Denri looked down and saw a large, angry blob of crimson covering her shirt near her midsection. She groaned loudly, both hands reaching towards the stain reflexively as her face contorted.
+
+"Those strawberries were so ripe!"
+
+<br />
+
+---
+<br />
+<br />
+
+It took longer than expected, since Denri had to lean against Eizo and hop on one foot, but 20 minutes later the trio slipped into an alleyway between an izakaya and a more upscale restaurant. It was dark, the buildings pressed so close together that even Aki had to turn sideways to sidle forward.
+
+Towards the back of the buildings, they came upon a heap of detritus. Broken slats of wood and chunks of rubble were wedged between the walls to create a barrier. A tattered curtain lay limply near the bottom. Denri pushed aside the curtain and crawled through the gap. Aki followed quickly enough, but it took Eizo a bit of time to find the right angle to jam himself through.
+
+Beyond the portal, the ground sloped down and curved right, opening up into a low-ceilinged space beneath the izakaya. Wooden beams stretched from floor to ceiling. Earthquake stilts. Denri and Aki were able to walk comfortably, though Eizo had to hunch.
+
+"Sorry, I've never really had a human over..." Denri fumbled in the darkness until she was able to light a lantern that struggled to illuminate about half the space. The light revealed a heap of clothes pushed together against one wall like a nest and a few makeshift shelves littered with dry food and other trinkets. The walls were covered with crude chalk drawings, their colors washed out in the dim lantern light. 
+
+Denri held her hands out in a welcoming gesture. "It's a bit sparse. Hard to get furniture in through the opening. Can't grow any plants in the darkness." She plopped down into the nest of clothing, sighing comfortably. There was a tentative meow from deeper in the darkness. Denri smiled. "But the roommates are great. Come on you two, don't be shy. Come closer!"
+
+Eizo cleared his throat uncomfortably. He shuffled a few steps closer. "Where, ah, where would you like us to stand?"
+
+Denri looked up and laughed. "Not you, stupid!" Denri rummaged in her pants and pulled out a strip of dried meat. She dangled it towards the darkness. "Come on! I got you both a snack."
+
+Two cats emerged from the darkness. One was predominantly white, with a black and orange mottled face and a bobbed tail. The other was pure black. The two cats approached Denri, keeping wary eyes on the newcomers. Denri ripped the small chunk of meat in half and handed each cat a piece.
+
+"These are my friends! Shiri is the feisty white one, he's a boy, and Onara is the little princess."
+
+Aki squealed as soon as the cats came into view, running towards them without hesitation. Onara startled and ran off to lick her paw, exuding wounded dignity. Denri managed to clamp down on Shiri and hold him in place so that Aki could jump into the pile of clothing and pet him. After a moment he acquiesced and climbed into her lap, eliciting another exclamation of joy.
+
+Denri winced when Onara approached and sniffed her foot tentatively.
+
+"A doctor should look at that before it gets infected." Eizo had seated himself away from the pile of clothes, his legs crossed formally beneat him.
 

@@ -121,35 +121,35 @@ Iruka shook her head. "Iga wants to make you the perfect weapon. That goes beyon
 <br />
 <br />
 
-For the last couple weeks, Moto had shared most of his meals with Seiko, the glimmer woman who worked in the Gearhouse. She no longer manned the railway carts in the evenings, but all of the workers had keys to operate the transportation system. Well, all of the workers except for Seiko at this particular moment.
+For the last couple weeks, Moto had shared most of his meals with Seiko, the glimmer who worked in the Gearhouse. She no longer manned the railway carts in the evenings, but every worker had keys to operate the transportation system. Well, all of the workers except for Seiko at this particular moment.
 
-Moto stepped out of the railcar and tucked the ring of keys into the sash around his waist. He arranged them carefully so they wouldn't jingle as he moved, then stepped into the nighttime shadows surrounding the tracks. He'd have them back to Seiko before she noticed a thing. She was so absorbed in her work when he left, there was a good chance she didn't even realize _he_ was gone.
+Moto stepped out of the railcar and tucked the ring of keys into the sash around his waist, arranging them carefully so they wouldn't jingle before he stepped into the nighttime shadows. He'd have the keys back to Seiko before she noticed a thing. She was so absorbed in her work when he left, there was a good chance she didn't even realize _he_ was gone.
 
-The moon was high and bright, forcing Moto to dart from rock to rock to stay in the shadows. Thankfully, it was late enough that anyone following the rules was asleep. Moto only had to slip past a couple guards and he'd have the Contract House all to himself. 
+The moon was high and bright, forcing Moto to dart from rock to rock to stay hidden. Thankfully, it was late enough that anyone following the rules was already asleep. He only had to slip past a couple guards and he'd have the Contract House to himself. 
 
-The terrain on this spire was rocky and desolate. The wind groaned as it blew through narrow pathways carved between jagged upthrusts of stone. Looming overhead, the master training grounds shot up violently. They formed a narrow, near-vertical peak, casting a shadow over the spire below. 
+The terrain on this spire was rocky and desolate. The wind groaned as it blew through narrow pathways carved between jagged upthrusts of stone. The master training grounds loomed overhead, a narrow, near-vertical peak that cast a shadow over everything below. 
 
-Looking up at the stone monolith, Moto felt a looming dread. The cold, lifeless silver light of the moon heightened the affect. This was where Soundstealer spent his days. This was the level he needed to reach. In this moment, it felt so far away.
+Looking up at the stone monolith, Moto felt a looming dread. The lifeless silver light of the moon heightened the effect. This was where Soundstealer spent his days. This was the level he needed to reach. It felt so far away.
 
-Moto returned his gaze to the ground in front of him, taking a deep breath and continuing forward. Stay focused.
+Moto returned his gaze to the ground before him. He took a deep breath and continued forward. Stay focused.
 
-The thought made Moto hesitate, as it had ever since his conversation with Iruka. His focus had kept him alive the last three years. It gave him the strength to shoulder the pain that would have buried him otherwise. It was his greatest advantage. But was it turning against him?
+The thought made Moto hesitate, as it had ever since his conversation with Iruka. His focus had kept him alive the last three years. It helped him shoulder the pain that would have buried him otherwise. But was it turning against him?
 
-Moto struck a fist against the stone beside him. His jaw clenched. No. He wouldn't question his resolve. He couldn't.
+Moto struck a fist against the stone, his jaw clenched. No. He wouldn't question his resolve. He couldn't.
 
-He pulled himself up a stone ledge and saw the Contract House. It was a large building, though it looked modest with the jonin spire looming behind it. Three stories tall, which a steep shingled roof that flared ornately at the bottom. The crests of the four houses were emblazoned along the front wall, lit from below by small bonfires. The ground in front of the building was clear. A well-kept stone pathway stretched from the front entrance.
+Moto shook his head and pulled himself up a stone ledge. On the other side was the Contract House. It was a large building. Three stories tall with a steep shingled roof that flared ornately at the bottom. The crests of the four houses were emblazoned along the front wall, lit from below by small bonfires. A well-kept stone pathway stretched from the front entrance.
 
-Compared to the austerity of the rest of the spire, the Contract House gave an air of regal superiority. This was where outsiders came to give the Daggers contracts, so it was a display of power as much as it was a functional bureaucratic building. Outsiders would reach this courtyard, shivering and out of breath from climbing through spartan trails, only to stop in wonder at the view before them.
+Compared to the austerity of the rest of the spire, the Contract House gave an air of regal superiority. This was where outsiders came to give the Daggers contracts. It was a display of power as much as it was a functional bureaucratic building.
 
-Moto slinked around to the side of the building, giving a wide birth to the warm pools of lantern light bobbing around the grounds at regular intervals. It wasn't hard to avoid the guards when you could climb sheer walls and swing from one place to the next without making noisy footsteps. But then again, the guards were probably placed to stop foreign spies, not members of the village.
+Moto slinked around to the side of the building, giving a wide birth to the warm pools of lantern light bobbing around the grounds at regular intervals. It wasn't hard to avoid the guards when you could climb sheer walls and swing from one place to the next without touching the ground. But then again, the guards were placed to stop foreign spies, not members of the village.
 
 Still, Moto was pleased to finally feel like his new powers were granting him an advantage.
 
-A narrow, shingled ledge wrapped around the top of the first and second floors, delineating them from the outside. Moto pulled himself onto the lower of the two and found a window hidden in shadow.
+A narrow, shingled ledge wrapped around the top of the first and second floors, delineating them from the outside. Moto pulled himself onto the lower of the two ledges and found a window hidden in shadow.
 
 He dropped into the hallway quietly, shutting the window behind him. The building was dark. 
 
-Unfortunately, Moto hadn't been able to learn much about the Contract House's layout beforehand. But he knew the building served several functions. It was the entrance to the jonin training grounds. It was where outsiders came to negotiate contracts and deliver payments. Daggers came to look through new contracts. Triumphant squads returned to collect payment. And finally, there was an archive kept of all previous contracts. That was his goal.
+Moto hadn't been able to learn much about the Contract House's layout beforehand. But he knew the building served several functions. It was the entrance to the jonin training grounds. Contracts were negotiated here. Payments were delivered and collected. Daggers looked through new missions. And there was an archive kept of all previous contracts. That was his goal.
 
 The jonin entrance, new contracts, and payment areas were probably on the first floor for ease of access. That seemed obvious enough. After some thought, Moto decided that the third floor was probably for contract negotiation. Not every client who came to Iga would be obsessed with secrecy. Not inside Iga itself at least, where the only prying eyes were the people being hired. But some of the more careful clients would want to avoid unnecessary exposure. That meant the contract negotiations would be as far away from normal operations as possible. Probably with a secret back entrance for particularly paranoid clients.
 
@@ -157,63 +157,67 @@ So Moto moved through the halls of the second floor.
 
 He placed his feet carefully, knowing that the hallway was probably filled with nightingales - floorboards built intentionally to chirp loudly underfoot. He froze whenever the warm glow of a patrol lantern passed by the window. Moto may have been new to obstacle courses and gravity training exercises, but he was not new to burglary.
 
-The first room Moto tried was a supply storage. It was filled with boxes of blank paper, ink bottles, and some sort of clear liquid that he thought might be used to preserve completed contracts. Such a large store of materials was probably worth a good deal of gold. Useless.
+The first room Moto tried was a supply storage. It was filled with boxes of blank paper, ink bottles, and some sort of clear liquid that he thought might be used to preserve the contracts. Such a large store of materials was probably worth a good deal of gold. Useless.
 
-The next room was filled with weapons. There were wooden fixtures holding staves and short katana. One wall was taken up completely by daggers, throwing knives, and shuriken. There was a large table filled with short, multi-bladed weapons connected at the handles by chains. All of the weapons had metal inlays. Many were affixed with small gems as well. Jonin weapons, infused with power by the glimmer weapon smiths. 
+The next room was filled with weapons. There were wooden fixtures holding staves and short katana. One wall was taken up completely by daggers, throwing knives, and shuriken. There was a large table filled with short, multi-bladed weapons connected at the handles by chains. Everything had metal inlays. Many weapons were affixed with small gems as well. Jonin weapons, infused with power by the glimmer weapon smiths. 
 
 Moto closed this door more reluctantly.
 
 The next door opened onto a large, echoing room. Row upon row of wooden shelves, filled with boxes carefully labelled. The archives. 
 
-Moto couldn't read the labels on the boxes in the dark, so he slid the door shut behind him and struck a match. He cupped his hands around the flame carefully to keep the light from shining too visibly. He slid the spent matches into his belt alongside the keys.
+Moto couldn't read the labels on the boxes in the dark, so he slid the door shut behind him and struck a match. He cupped his hands around the flame to keep the light from shining too visibly and slid the spent matches into his belt alongside the keys.
 
-It took a while, but eventually Moto figured out the organization scheme of the records. The archive was arranged primarily by the house of whichever Dagger led the mission. Each of the four major sections stretched towards the back of the room, the contracts getting older as they went. Some attempt had been made to group contracts by their leader, which left Moto moving back and forth down the Zephys archives looking for Soundstealer.
+It took a while, but eventually Moto figured out the organization scheme of the records. They were arranged by the house of whichever Dagger led the mission. Four major sections stretched towards the back of the room, the records getting older as they went. The contracts were further grouped by their leader, meaning they weren't completely chronological. Moto moved back and forth down the Zephys archives looking for Soundstealer.
 
-Moto started running low on matches, so he took the lantern off the wall and lit it. It had been nearly 30 minutes and no one had walked by the archives. Moto figured he could risk the light, but he kept its flame low, just in case.
+When Moto started running low on matches he took the lantern off the wall and lit it. It had been 30 minutes and no one had walked by. Moto figured he could risk the light, but he kept its flame low, just in case.
 
-Moto found what he was looking for roughly 15 years back in the archives. He lifted the box from the shelf carefully, wiping away a thick layer of dust. He pulled out a stack of contracts and thumbed through them.
+He found what he was looking for roughly 15 years back in the archives. Moto lifted the box from the shelf, wiping away a thick layer of dust. He pulled out a stack of contracts and thumbed through them.
 
-The pages had been coated in a clear resin to keep them from decaying. On each, beneath the list of terms and description of payment, was a long slash of red. Usually, the blood came from the target of an assassination, or a guard felled during an infiltration. Sometimes, it was smeared with the blood of a member from the squad. But every Dagger contract was signed with blood.
+The pages had indeed been coated in clear resin to keep them from decaying. On each, beneath the list of terms and description of payment, was a long slash of red. Usually, the blood came from the target of an assassination, or a guard felled during an infiltration. Sometimes, it was smeared with the blood of a member from the squad. But every Dagger contract was signed with blood. It felt a bit melodramatic to Moto.
 
-Moto rifled through the stacks quickly, checking the dates before pulling out another set of papers. About halfway through, a name caught his eye. One of the Daggers who completed the mission. Iruka Stonesong. Her name appeared more and more frequently, until she seemed to be a regular member of Soundstealer's squad. He filed that detail away for later.
+He rifled through the stacks quickly, checking the dates before pulling out another set of papers. About halfway through, a name caught his eye. One of the Daggers who completed the mission. Iruka Stonesong. Her name appeared more and more frequently, until she seemed to be a regular member of Soundstealer's squad.
 
-Moto reached for the next bundle of papers and his hand hit the bottom. There were only a couple pages left. Strange. The contracts in his hands were still six years old.
+Moto's mind reeled for a moment as the last few months slid into a new context. Was Iruka still one of Soundstealer's allies? Would she know his strengths and weaknesses? Could Moto get her to tell him?
 
-He pulled the pages out and flipped to the end, where he found a page that wasn't marked with blood. It was untreated and seemed to have been thrown in carelessly. The letters were written in the distracted hand of some administrative clerk.
+He'd spent a fair amount of time with Iruka over the last several months and gotten no sense of a connection to Soundstealer. Moto figured that meant they weren't close anymore. But still, he filed the information away for later use.
+
+Moto reached back into the box for the next bundle of papers and his hand hit the bottom. There were only a couple pages left. Strange. The contracts in his hands were still six years old.
+
+He pulled the pages out and flipped to the end, where he found a note that wasn't marked with blood. It was untreated, badly weathered, and seemed to have been thrown in carelessly. The letters were written in the distracted hand of some administrative clerk.
 
 _Further records held in private by request of Soundstealer. Approved by Hisoka._
 
 A stamp marked the bottom of the page. 
 
-Moto stared at the page with growing frustration. He resisted the urge to ball the paper up and throw it across the room. Six years of missing records. Why? Why did Soundstealer start holding his own contracts?
+Moto stared with growing frustration. He resisted the urge to ball the paper up and throw it across the room. Six years of missing records. Why? Why did Soundstealer start holding his own contracts?
 
-Moto's thoughts were interrupted by a sharp chirp coming from the hallway outside the archive. The nightingales.
+His thoughts were interrupted by a sharp chirp coming from the hallway outside the archive. The nightingales.
 
-Moto cursed softly and began stuffing the contracts back into the box, doing his best to return them in the order he'd found them. He extinguished his lantern and crept to the door. He could hear voices coming from further down the hallway.
+Moto cursed under his breath and began stuffing the contracts back into the box, doing his best to return them in the original order. He extinguished his lantern and crept to the door. He could hear voices coming from further down the hallway.
 
 "Sorry dad, I just stepped on a singer."
 
-The reply seemed to come from further away. Moto couldn't make out the words, but the voice sounded male.
+The reply came from further away. Moto couldn't make out the words, but the voice sounded male.
 
-"I am hurrying! I just thought I saw some light coming from the archives." Moto recognized the voice. Fumi. Did she say dad? Moto swallowed hard. Soundstealer was here. "Just give me a minute to pick some weapons. I'll meet you outside."
+"I am hurrying! I thought I saw some light coming from the archives but I must have been wrong." Moto recognized the voice. Fumi. 
 
-Fumi would stop at the second doorway. Moto nearly sighed out loud with relief.
+Did she say dad? Moto swallowed hard. Soundstealer was here. 
 
-The footsteps kept getting closer. 
+"I need to pick up some weapons. You go ahead and I'll meet you at the top." Moto nearly sighed out loud with relief.
 
-Moto scrambled back from the doorway, retreating down one of the archive's long aisles and hiding himself in the shadows.
+The footsteps hesitated down the hallway, then kept getting closer. Moto scrambled back from the doorway, retreating down one of the archive's long aisles and hiding himself in the shadows. His heart throbbing in his ears.
 
-The door slid open and silver moonlight pooled in the entrance. Fumi poked her head in, lit from behind. "Hello?" She took a step in and peered around. She reached to the hook by the doorway that held the lantern and found it missing. She turned back into the room, her body tense.
+The door slid open and moonlight pooled in the entrance. Fumi poked her head in, lit from behind. "Hello?" She reached for the lantern that hung by the doorway and found it missing. She tensed and moved into the room.
 
 Moto looked down at the traitorous lantern in his hands. Could he leave it on the ground and sneak around Fumi? Maybe she would think some clerk had forgotten to put it back when they finished. But the lantern was still warm. Even if he did escape, Fumi would know someone had been in the room recently.
 
-If Fumi thought an outsider had infiltrated Iga, she would tell the masters. Creating an unnecessary security lockdown would be a far more serious transgression than sneaking into the Contract House after hours. But only if they found out he was responsible for it. Was it worth the risk?
+If Fumi thought an outsider had infiltrated Iga, she would tell the masters. It was a far more serious transgression to create an unnecessary security lockdown than it was to sneak into the Contract House after hours. But only if they found out he was responsible for it. Was it worth the risk?
 
-Moto set the lantern down as Fumi walked down one of the rows. 
+Moto set the lantern down as Fumi ducked into one of the rows. 
 
 He waited until she rounded the corner, then turned to slip away. There was a loud clank as his foot caught the lantern on the ground.
 
-Moto was knocked to the ground as Fumi shot a blast of wind down the hallway. He landed on the ground heavily, groaning as Fumi came racing forward, drawing a dagger from her belt.
+Moto was knocked prone as Fumi shot a blast of wind down the hallway. He groaned as Fumi came racing forward, drawing a dagger from her belt.
 
 Moto held his hands up. "Wait, wait! It's me."
 
@@ -221,11 +225,11 @@ Fumi hesitated. "Moto?"
 
 He pulled himself into a sitting position. "Yeah."
 
-There was a faint clinking of metal as Fumi righted the lantern and lit it. Her face appeared in the darkness, lit from below as she stared at him warily. "What are you doing here?"
+There was a faint clink of metal as Fumi grabbed the lantern and lit it. Her face appeared in the darkness, lit from below as she stared at him warily. "What are you doing here?"
 
 Moto hesitated for a moment before replying. "I... uh... it's complicated."
 
-"Try explaining." Fumi stood frowning down at Moto where he sat on the ground.
+"Try explaining." Fumi frowned as she loomed over Moto.
 
 Moto let out a long sigh, sounding reluctant. "I was looking at old contracts."
 
@@ -233,33 +237,33 @@ Moto let out a long sigh, sounding reluctant. "I was looking at old contracts."
 
 "I'm worried about Keta." 
 
-The best way to lie was to let the person think they'd already caught you. With Moto sprawled across the floor after a failed escape attempt, Fumi would think she had already won.
+The best way to lie was to let them think they'd already caught you. With Moto sprawled across the floor, looking like a fool as he tried to escape, Fumi thought she had already won. She had no reason to think he kicked the lantern on purpose.
 
 "What are you talking about?"
 
-"It's hard to explain..." Fumi stared on silently. "Look, Keta is a good person. He came to Iga to help people. But Daggers don't always do good things. There's nothing wrong with that. Someone has to do these things. But I don't want it to be Keta." All true enough. "I was looking through the old contracts to see if it was possible to be a Dagger who only took good contracts."
+"It's hard to explain..." Fumi stared on silently. "Keta wants to help people. But Daggers don't always do good things. I don't want to see Keta become a bad person." All true enough. "I was looking through the old contracts to see if there were any clients who only used Daggers to help people."
 
-Fumi looked at him skeptically. "You expect me to believe that you're in here because you're worried about your boyfriend? You. The kid who snaps at everyone and avoids his housemates for no reason. You threw me off a cliff after I _saved_ you. Just so you could get what you want. Everyone knows how selfish you are, Moto. So why would you be in here for someone else?"
+Fumi looked at him skeptically. "You expect me to believe that you're in here because you're worried about your boyfriend? You threw me off a cliff after I _saved_ you. Just so you could get what you want. You're selfish. Everyone knows that. So why would you be in here for someone else?"
 
 Moto hadn't realized the other kids thought that way. It was true. He just didn't think he'd been so obvious.
 
-"I get it OK. I know I'm not a great person. I don't care about many people, but I _do_ care about Keta. He's the first person I've cared about since--" Moto caught himself. "In a long time. I joined the Daggers because I was tired of losing the things I cared about. I want to be able to protect him."
+"Look, I know I'm not a great person. I don't care about most people, but I _do_ care about Keta. He's the first person I've cared about since--" Moto caught himself. "In a long time. I want to protect him. Keep him from becoming more like me."
 
-There had been enough true emotion in Moto's voice to make Fumi hesitate. She sighed in frustration. "I hate this. I _want_ to believe you, Moto. I see how unhappy my dad is, being paranoid. Distrusting everyone around him. I want to do things differently than him. But every time I even think about giving you another chance, you do something like this."
+There had been enough true emotion in Moto's voice to make Fumi pause. She sighed. "I hate this. I _want_ to believe you, Moto. Everyone thinks that Daggers need to be ruthless and logical. But all the distrust makes my family miserable. I wanted to do things differently. I wanted to trust the people around me. But since you arrived, all you do is use people."
 
-At that moment, Moto decided Iruka was right. At least partially. He'd been so focused on getting stronger and finding out who hired Soundstealer. And he had nothing to show for that tunnel vision. He couldn't steal the information he needed like he originally planned. He would need to get it from others. But he'd made himself an outsider. If he hadn't been so standoffish with Fumi, she might have been more likely to trust him here. 
+Iruka was right. Moto had been so focused on achieving his goal. He thought he knew exactly how to get what he wanted and that certainty had burned a lot of bridges. Bridges he hadn't known he needed until now.
 
-He thought he knew exactly how to get what he wanted. That certainty had caused him to burn a lot of bridges. Bridges it turned out he needed.
+At least he had realized early. He would get in trouble for sneaking into the archives, but not so much trouble that they would kick him out. He could recover, working harder to build up the connections and resources he originally ignored. 
 
-At least he'd realized early. He would get in trouble for sneaking into the archives, but not so much trouble that they would kick him out. He could recover. And this time he would work harder to build up connections and resources. He might as well start on that now.
+He might as well start on that now.
 
-"Fumi, I'm sorry." He looked to the ground. "You're right. I've been pretty awful. I just-- I've been on my own for the last three years and I'm not used to being in a place where everyone _isn't_ trying to kill me and take my money. It might take a while for me to change, but I'll try to be better."
+"Fumi, I'm sorry." He looked to the ground. "You're right. I just-- I've been on my own for the last three years and I'm not used to being in a place where everyone _isn't_ trying to kill me and take my money. It might take a while for me to change, but I don't want to be like this. I want to be like you and Keta."
 
-Fumi let out another sigh, shaking her head. "This is stupid and I'm sure I'm going to regret this." Moto blinked in surprise as she offered her hand. He stared at it blankly. "Well? Hurry up and stand. It won't be long before my dad comes to see what's taking me so long. If he finds you, you're going to get in trouble."
+Fumi let out another sigh, shaking her head. "This is stupid and I'm sure I'm going to regret this." Moto blinked in surprise as she offered her hand. He stared at it blankly. "Well? Hurry up. If I take much longer my dad will realize I'm not following him up the mountain. If he finds you, you're going to get in trouble."
 
 Moto grabbed Fumi's wrist skeptically. "You're not going to turn me in?"
 
-"Look. We can keep sniping and cutting each other down at every opportunity. But that only leads in one direction. So consider this a gesture." She pulled him to his feet and caught his eyes. "I'm not going to be like other Daggers. I want to change the way people see us. So I'll start with you. You can trust me." Fumi broke into a smile and poked his chest. "Besides, if Keta can stand spending so much time with you, there must be something worthwhile buried in there."
+"We can keep sniping and cutting each other down at every opportunity. But that only leads in one direction." She pulled him to his feet and caught his eyes. "I meant what I said. I'm not going to be like other Daggers. I want to change the way Daggers think so we can all be happy. And if I can change you, the rest will be a breeze." Fumi broke into a smile and poked his chest. "Besides, if Keta can stand spending so much time with you, there must be something worthwhile buried in there."
 
 Moto turned his head to the side, uncertain what to think. "Thank you."
 
