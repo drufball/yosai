@@ -522,3 +522,5 @@ Moto shook his head, wincing at a twinge of pain in his shoulder. "She reminds m
 "My dad was an idiot. It worked out for her this time, but that kind of blind faith gets people killed."
 
 Moto clamped down on the flood of memories. Now wasn't the time for looking back. He could do that once his work was done. For now, it had only just begun.
+
+**You can read the next story in this series [here](https://yosai.world/compendium/tournament/momentum/).**

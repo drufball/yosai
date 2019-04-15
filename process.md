@@ -9,24 +9,24 @@ process. Right now, it's details about the things I'm making and consuming. Over
 it will also include summaries of feedback, polls, and other interactions with you, the
 reader.
 
-# Short Stories: 7/25
+# Short Stories: 8/25
 
 # Today's Stats
-**Words written:** 2,015    
+**Words written:** 1,036    
 
-**7 day average:** 1,809    
+**7 day average:** 1,737    
 
-**28 day average:** 1,831  
+**28 day average:** 1,841  
 
-**Hours spent writing:** 4  
+**Hours spent writing:** 3.1  
 
 **7 day average:** 3.4  
 
 **28 day average:** 3.4  
 
-**Hours spent editing:** 1  
+**Hours spent editing:** 1.1  
 
-**7 day average:** 1.2   
+**7 day average:** 1.1   
 
 **28 day average:** 1.1  
 
