@@ -1,18 +1,16 @@
-"Watch it." The man struck Denri on the shoulder and sent her spinning to the ground. His large frame loomed, covering her in shadow. She couldn't see his face beneath a rough-woven conical hat, but Denri figured his range of facial expressions was about as small as the chance he could scratch his head with the tree trunks he called arms. 
+"Watch it." The man struck Denri and sent her spinning to the ground. He loomed over her, his large frame covering her in shadow. She couldn't see his face beneath a rough-woven conical hat, but Denri figured the man's range of facial expressions was about as small as the chance he could scratch his nose with the tree trunks he called arms. 
 
-She guess he was sneering, but she wouldn't bet against something lewd either.
+"Sorry, sir." Denri scrambled backwards on all fours, looking towards the ground. She hunched her shoulders, shrinking her frame even further. Denri was average height for a flit, but at three and a half feet tall, the other four races liked to see her as a child. This probably wasn't the best time to correct the misconception.
 
-"Sorry, sir." Denri scrambled backwards on all fours, looking towards the ground. She hunched her shoulders, shrinking her frame even further. She was average height for a flit, but at three and a half feet tall the other four races liked to see her as a child. Now probably wasn't the best time to correct the misconception.
-
-The man scoffed and turned away, shouldering through the thick market crowd. Denri made a face then joined it with an obscene gesture. She pushed herself off the ground and dusted the dirt from her butt. She pulled her arm from behind her back and tossed the brute's coin purse in the air. There was a crudely stitched skull across the front.
+The man scoffed and turned away, shouldering through the thick market crowd. Denri made a face then joined it with an obscene gesture. She pushed herself off the ground and dusted the dirt from her butt as she pulled her arm from behind her back. She tossed the brute's coin purse in the air. There was a crudely stitched skull across the front.
 
 "Of course there is." Denri rolled her eyes.
 
-She wove through the crowd, moving away from the man. She noted what direction he traveled so she could check on him later. Thugs like that had a habit of hurting good people.
+Denri noted what direction the man traveled so she could check on him later. Thugs like that had a habit of hurting good people.
 
-Denri bounced back and forth, dodging knees and swinging hands. She hadn't gone far before she noticed a gap moving through the crowd. At its center was a dour face attached to a lean-muscled, feminine form. Most of Daggerstorm's knives were hidden, but people saw enough to understand her request for personal space.
+She turned and wove her way through the crowd, bouncing back and forth to dodge knees and swinging hands. Denri hadn't gone far before she noticed a gap moving through the crowd. At its center was a dour face attached to a lean-muscled, feminine form. Most of Daggerstorm's knives were hidden, but people saw enough to understand the request for personal space.
 
-Behind Denri, a male voice started yelling about a misplaced coin purse stitched with a skull. A wicked thought caught Denri's attention. She smiled.
+Behind Denri, a male voice started yelling about a misplaced coin purse stitched with a skull. A wicked thought entered her mind. She smiled.
 
 Denri pocketed a few coins from the pouch, then went bouncing up to Daggerstorm, eyes bright and innocent. "Miss! Miss!" Denri grabbed one of Daggerstorm's calloused hands. The dangerous woman looked down at Denri and frowned, but she didn't snatch her arm back. 
 
@@ -34,19 +32,19 @@ Daggerstorm dropped the coin into Denri's hand and pushed past her. "Excuse me w
 
 A few moments later, Denri was rewarded by the high-pitched whine of a man begging for mercy. 
 
-Denri hummed to herself as she slipped Daggerstorm's coin into her shirt, next to the handful of coins she'd taken from the thug's pouch. A generous reward for meting out some much-needed justice. 
+She hummed to herself as she slipped Daggerstorm's coin into her shirt, next to the handful of coins she'd taken from the thug's pouch. A generous reward for meting out some much-needed justice. 
 
 Denri liked Terminus. No one bugged you if you weren't causing trouble. Hero's shared a bit of coin with the beggars. Crime had the decency to stay organized and underground. But it didn't get that way by accident. 
 
 Just doing her part.
 
-Denri made her way to the edge of the street and prepared to slip into one of the many dark, twisty alleyways that snaked between the tall buildings of Terminus. But before she could slip away to safety, an opportunity caught her eye.
+Denri made her way to the edge of the street and prepared to slip into one of the many dark, twisty alleyways that snaked between the tall buildings of Terminus. But before she could disappear to safety, an opportunity caught her eye.
 
-She was standing in the shadow of a wide, ornate building. A steeply angled roof that curved back towards the sky at the bottom, deep blue shingles shining like dragon scales in the afternoon sun. A pair of lion dog statues stood vigil at the corners. Denri knew the place. A gang house belonging to Danzo, one of the larger crime bosses of the city.
+She was standing in the shadow of a wide, ornate building. It had a steeply angled roof with deep blue shingles that shone like dragon scales in the afternoon sun. A pair of lion dog statues stood vigil at the corners. Denri knew the place. A gang house that belonged to Danzo, one of the larger crime bosses of the city.
 
-The guards watching the front entrance had taken a few steps forward, turning their back to the door as they craned their necks to get a view of Daggerstorm and her latest prey. Denri was inching along the wall before she'd even processed all the information. Not that there was anything that would convincer her to waste an opportunity anyways.
+The guards watching the front entrance had taken a few steps forward, turning their back to the door as they craned their necks to get a view of Daggerstorm and her latest prey. Denri was inching along the wall before she'd thought twice. Not that there was anything that could convince her to waste an opportunity anyways.
 
-The lax guards probably meant more security inside, but she could face that problem when it came. Denri passed behind the guards and reached the doorway without issue. She blew a kiss towards the sky, thanking the Stormbringer for her good luck, then ducked through the entrance.
+The lax guards probably meant more security inside, but she could face that problem when it came. Denri reached the doorway without issue. She blew a kiss towards the sky, thanking the Stormbringer for her good luck, then ducked through the entrance.
 
 <br />
 
@@ -54,21 +52,21 @@ The lax guards probably meant more security inside, but she could face that prob
 <br />
 <br />
 
-The hallway on the other side was dimly lit, the air noticeably cooler. It stretched deeper into the building before ending in a T-intersection. Denri stuck to the shadows, waiting for her eyes to adjust. Once she was ready, she dropped into a crouch and inched towards the intersection. She pulled a heavily worn dagger from her belt, fogged it with her breath, then rubbed it with the cleanest scrap of her shirt she could find.
+Inside was dimly lit, the air noticeably cooler. A hallway stretched deeper into the building before ending in a T-intersection. Denri stuck to the shadows, waiting for her eyes to adjust. Once she was ready, she dropped into a crouch and inched towards the intersection. She pulled a heavily worn dagger from her belt, fogged it with her breath, then rubbed it with the cleanest scrap of her shirt she could find.
 
 Not exactly a mirror-finish, but it was bright enough to reflect small blobs that approximated real shapes. Denri slid the blade along the floor, using it to peer around each corner.
 
-The left hallway ended in another turn. A dull glow spilled out from deeper in the building. A few stern voices accompanied the light from wherever it emanated. 
+The left direction ended in another turn with a dull glow spilling out from around the corner. A few stern voices accompanied the light from wherever it emanated. 
 
-To the right of the intersection, a few doorways branched off the hallway before it dead-ended in darkness.
+The right direction had a few doorways branching off before the hallway dead-ended in darkness.
 
-The money and other valuables were probably deeper in the house, behind the serious voices to the left. But she wasn't itching to make an enemy out of one of the most dangerous men in Terminus. Just score a couple nice meals for her and her friends. Denri took the right hallway and started peering through the cracks along the edges of doors.
+The real valuables would be deeper in the house, behind the serious voices to the left. But Denri wasn't looking to make an enemy out of the most dangerous man in Terminus. Just score a couple nice meals for her and her friends. She took the right hallway and started peering through cracks along doors.
 
-The third door contained the food. Denri tried the sliding paper door but found it locked. She took a step back and dropped into a squat, squinting at the door while she thought. She could shoulder through the wooden frame easily enough, but the sound would draw guards. 
+The third room contained the food. Denri tried the sliding paper door but found it locked. She took a step back and dropped into a squat, squinting at the obstacle while she thought. She could shoulder through the wooden frame easily enough, but the sound would draw guards. 
 
-Dancing around the guards sounded fun. But from what she could see through the crack, all the food was in crates. She might need some time to pry them open.
+Dancing around some goons sounded fun. But from what she could see through the crack, all the food was in crates. She might need some time to pry them open.
 
-Denri sighed, bored by the lack of forward progress. She moved back to the door and dropped to her stomach so she could look through the widest part of the crack near the base of the door. She took a mental step forward, through the opening.
+Denri sighed, bored by the lack of forward progress. She moved back to the door and dropped to her stomach so she could look through the widest part of the crack. She took a mental step forward, through the opening.
 
 Denri's body tensed and her vision flickered a bright white-blue. There was a faint crackle in the air as her body shifted into a flow of electricity that jittered around the door frame. An instant later, she was standing on the other side, dusting her hands off with a self-satisfied smile.
 
@@ -80,31 +78,33 @@ She hopped up, resting her waist along the edge of the crate as her upper body d
 
 She came up for air a second later, struggling vainly to close her mouth around all three.
 
-A few minutes later, every pocket on Denri's person was testing the strength of it's threadbare seams. Denri's face was a mess of grease and sticky fruit juices. She smacked her lips and licked her fingers clean. She was looking forward to all the stomach aches she was about to have. A rare luxury.
+Ten minutes later, every pocket on Denri's person was testing the strength of it's threadbare seams. Her face was a mess of grease and sticky fruit juices. She smacked her lips and licked her fingers clean. She was looking forward to all the stomach aches she was about to have. A rare luxury.
 
-She replaced the last lid and looked around. Her belly was full, but she was a bit disappointed. She would have thought infiltrating one of Danzo's lairs would have been more exciting. Sure, she was only filching a few days of fancy food. But still. It had been a bit anticlimactic.
+Denri replaced the last lid and looked around. Her belly was full, but she was disappointed. She would have thought infiltrating one of Danzo's lairs would have been more exciting. Sure, she was only filching a few days of fancy food. But still. It felt a bit anticlimactic.
 
-She'd just have to make some fun for herself. Denri dug around in one of her pant pockets, feeling around a handful of dried meat, until she found the bundle of leather she was looking for. She unrolled the bundle on one of the crates, revealing an assortment of colored chalks. Denri picked a few colors and stepped up to the wall, face screwed up in concentration. 
+She'd just have to make some fun for herself. Denri dug around in one of her pant pockets, navigating around a handful of dried meat, until she found the bundle of leather she was looking for. She unrolled the bundle on one of the crates, revealing an assortment of colored chalks. Denri picked a few and stepped up to the wall, face screwed up in concentration. 
 
-She started with her usual calling card. A crudely drawn thundercloud with a mocking face and a suggestively placed lightning bolt. She had never seen Danzo before, so she drew what she imagined every rich old man looked like and put a name underneath. She added white squiggles around Danzo to show him being electrocuted by the phallic lightning.
+She started with her usual calling card. A crudely drawn thundercloud with a mocking face and a suggestively placed lightning bolt. She had never seen Danzo before, so she drew what she imagined every rich old man looked like and put a name underneath. She added white squiggles to show him being electrocuted by the phallic lightning.
 
 She took a step back, framing the drawing between her fingers and admiring her work. Denri was no artist, but everyone would get the joke. She closed her mouth to stifle a burp, her cheeks puffing out. "Thanks for the loot, Danzo buddy." She saluted the drawing and turned to the door, pushing against the handle.
 
 It didn't budge.
 
-"Ohhhh. Right. Still locked." She didn't worry much. It was hard to be upset after such a nice meal. Besides, this was not the first time Denri had shifted into a locked room with no way out. Another opportunity would come along. Besides, she still had her plan to throw herself through the door frame.
+"Ohhh. Right. Still locked." 
 
-Denri did a quick circuit of the room, looking for other doors or windows. Nothing. She walked back to the door and jammed a hairpin in the lock, twisting it back and forth until the thin metal broke. The door remained obstinately closed. Obvious ideas exhausted, Denri jumped up onto a food crate and sat with her chin resting on her hands as she stared at the door. "Hmmm..."
+She didn't worry much. It was hard to be upset after such a nice meal. And this was not the first time Denri had shifted into a locked room with no way out. Another opportunity would come along. Besides, she still had her plan to throw herself through the door frame.
+
+Denri did a quick circuit of the room, looking for other doors or windows. Nothing. She walked back to the door and jammed a hairpin in the lock, twisting it back and forth until the thin metal broke. The door remained obstinately closed. Obvious ideas exhausted, Denri jumped up onto a food crate and sat with her chin resting on her hands. She stared at the door. "Hmmm..."
 
 Denri woke a couple hours later. She lay sprawled across the crate, her left arm asleep beneath her body. She sat up in a daze, wiping a stream of drool off her cheek. What was she doing again?
 
 "I swear I heard something coming from the storage room." The voice came attached to a pair of boots tromping down the hall.
 
-Right. Escaping from the room.
+Right. Escaping.
 
 "You're always jumping at the wind. I didn't hear anything." The boots had a friend.
 
-"Honest! It sounded like some kind of growling or something. Do you think an animal got in? Boss will kill us if all the food is ruined." A warm glow shown through the thick paper walls. Two shadows made their way to the storage door. It jiggled. 
+"Honest! It sounded like some kind of growling or something." Denri took a modicum of offense. "Do you think an animal got in? Boss will kill us if all the food is ruined." A warm glow shown through the thick paper walls. Two shadows made their way to the storage door. It jiggled. 
 
 "See? Locked. No way an animal got in."
 
@@ -120,13 +120,11 @@ One of the boys snorted in laughter as the light fell on Denri's drawing. But th
 
 "Idiot. How do you think this got here? Someone must have snuck in!"
 
-Denri was slipping through the doorway now, about to disappear down the hallway. But then an opportunity caught her attention.
+Denri was slipping through the doorway when an opportunity caught her attention. The keys dangled in the lock, calling to her. These two kids were practically begging that she stir up a bit of mischief. Denri smiled.
 
-The keys dangled in the lock, calling to Denri. These two kids were practically begging her to stir up a bit of mischief. She smiled.
+She put her arm across her mouth and blew a loud, wet raspberry. It ripped through the silence like a loud fart in a quiet room, which was mostly the point. The two boys spun around, mouths hanging open like a pair of dumb monkeys. Denri couldn't have asked for more. She slammed the door shut and turned the lock.
 
-Denri put her arm across her mouth and blew a loud, wet raspberry. It ripped through the silence like a loud fart in a quiet room, which was mostly the point. The two boys spun around, mouths hanging open like a pair of dumb monkeys. Denri couldn't have asked for more. She slammed the door shut and turned the lock.
-
-By the time the two boys had processed what happened and run to the door, she had slipped the keys in her shirt and was halfway down the hallway. They started shouting and pounding against the door frame.
+By the time they had processed what happened and run to the door, Denri had slipped the keys in her shirt and was halfway down the hallway. They shouted and pounded against the door frame.
 
 Denri chuckled as she pictured their dumbfounded expressions. It almost made up for the fact that she didn't get to go smashing through any walls.
 
@@ -136,21 +134,21 @@ Denri chuckled as she pictured their dumbfounded expressions. It almost made up 
 <br />
 <br />
 
-Denri managed to duck back into the main hallway before another set of guards came from the direction she saw light earlier. They went running towards Denri's prisoners.
+Denri ducked back into the main hallway just before a set of guards came from the intersection's left hallway. They went running towards Denri's prisoners.
 
-Denri turned, planning to head out the way she came. But before she could take a step, she heard a sound like a child crying. The sobs were coming from the direction where the latest batch of guards had come from. 
+Denri turned, planning to head out the way she came. But before she could take a step, she heard a sound like a child crying. The sobs were coming from where the latest batch of guards had emerged. 
 
-Denri's feet were moving before she'd processed the information. She poked her head around the corner to make sure the guards weren't looking behind them, then darted further into the compound.
+Denri's feet were moving before she'd processed the information. She poked her head around the corner to make sure the guards weren't looking behind them. Unsurprisingly, they were not. She darted further into the compound.
 
-After a couple twists and turns, Denri found herself peering around a corner into a large room with hallways continuing to the right and straight ahead. This area was more brightly lit, with several lanterns around a low table near the right hallway. The table was covered in bottles of sake and playing cards.
+After a couple twists and turns, Denri found herself peering around a corner into a large room with exits to the right and straight ahead. This area was more brightly lit, with several lanterns around a low table. The table was covered in bottles of sake and playing cards.
 
-On the far left wall, two individuals were chained to the floor. One was a middle aged man who had clearly lived a hard life. His short, thick black hair was streaked throughout with gray and his skin was leathery from sun exposure. Scars crisscrossed his arms and face.
+Near the far left wall, two individuals were chained to the floor. One was a middle aged man who had clearly lived a hard life. His short, thick black hair was streaked throughout with gray and his skin was leathery from sun exposure. Scars crisscrossed his arms and face.
 
-Huddled between his arms, a young girl was crying, her tears muffled as she buried her face in the man's shirt. The girl's hair was in a long, sloppy braid down her back. She couldn't be older than ten.
+Huddled between his arms, was a young girl no older than ten. Her tears were muffled as she buried her face in the man's shirt. Her hair was in a long, sloppy braid down her back.
 
-Both of them wore dirty, tattered clothes and seemed dangerously thin.
+Both of them wore tattered clothes and seemed dangerously thin.
 
-Denri looked around the room. When she didn't see anyone else, she ran up to the pair. Up close, their features seemed different enough that Denri didn't think they were related. The man had a blocky jaw and large nose, while the girl was all delicate angles. But the man did have a _lot_ of scars. He could have looked like anything before.
+Denri ran up to the pair. Up close, their features were different enough that Denri didn't think they were related. The man had a blocky jaw and large nose, while the girl was all delicate angles. But the man did have a _lot_ of scars. He could have looked like anything before.
 
 "Hey, you two look like you could use a hand." 
 
@@ -164,19 +162,19 @@ The man eyed her warily, his arms tightening around the girl. But at the sound o
 
 The girl sniffed and wiped a trail of snot from her nose. "My name's Aki." She patted the man's arms encircling her. "This is Eizo."
 
-There was a loud crash behind Denri, muffled by distance and walls. The guards must have broken through the locked door. Aki immediately started crying again. Eizo gave Denri a stern look.
+There was a loud crash behind Denri, muffled by distance and walls. The guards must have broken through the locked door. Aki immediately started crying again while Eizo gave Denri a stern look.
 
 "I thought you took care of the guards."
 
-"I did! Sort of. Look, I'm just kind of winging it right now, OK? And doing a pretty good job considering I was asleep five minutes ago." Denri ignored Eizo's confused look and pulled out the ring of keys. She flipped through them, trying each on the locks. 
+"I did! Sort of. Look, I'm just kind of winging it right now. And doing a pretty good job considering I was asleep five minutes ago." Denri ignored Eizo's confused look and pulled out the ring of keys. She flipped through them, trying each on the locks. 
 
 There were shouts and footsteps down the hallway. The guards were checking with the sentries at the front. Not much time till they came this way. 
 
-"Did they bring you all in back or something? I don't think the front door is a viable option."
+"Did they bring you all in the back or something? I don't think the front door is a viable option."
 
-Eizo nodded and pointed towards the hallway opposite the one Denri entered through. "They brought us in through there."
+Eizo nodded and pointed towards one of the hallways. "They brought us in through there."
 
-"Great. Can you run?" Denri found the right key and slotted it into the manacles around Aki's legs.
+"Great. Can you run?" Denri found the right key and slotted it into the manacles around Aki's legs, then moved to the girl's hands.
 
 "I think so."
 
@@ -184,7 +182,7 @@ Eizo nodded and pointed towards the hallway opposite the one Denri entered throu
 
 "Yes." The set of the man's jaw suggested the answer would have been the same even if both his legs were broken.
 
-"Great." Denri handed the key to the man and then grabbed Aki by the shoulders gently. She was only slightly taller than the child. "Hey. We're going to get out of here now, OK?" Aki nodded, sending a couple tears spilling down her cheeks. "While we're running, I need you to do something for me. No matter what happens, you have to stay quiet. Not a single peep until we're outside. Can you do that for me?"
+"Great." Denri handed the key to the man and then grabbed Aki by the shoulders. She was only slightly taller than the child. "Hey. We're going to get out of here now, OK?" Aki nodded, sending a couple tears spilling down her cheeks. "While we're running, I need you to do something for me. No matter what happens, you have to stay quiet. Not a single peep until we're outside. Can you do that for me?"
 
 The girl wiped her eyes on her sleeve and nodded.
 
@@ -200,9 +198,9 @@ Eizo's chains clattered to the ground and he lifted Aki in his arms. The two of 
 <br />
 <br />
 
-They ran through the hallways, doing their best to balance speed with stealth. Behind paper doors they heard card games and drunken arguments. This was one of Danzo's larger dens, meaning it was filled with a lot of cronies drinking the day away.
+They ran through the hallways, doing their best to balance speed with stealth. Behind paper doors they heard card games and drunken arguments. This was one of Danzo's larger dens. It was filled with cronies drinking the day away.
 
-They managed to make it pretty far before a hollow clanging sounded throughout the building.
+They managed to make it pretty far before a hollow clanging sound filled the building.
 
 "Well, looks like they know you two are gone." Aki clutched Eizo's shirt, her knuckles white. But she kept her word and remained quiet.
 
@@ -212,15 +210,15 @@ Through the paper walls, they saw silhouettes looking around in confusion. A few
 
 They burst into another intersection, the sound of pursuit close behind them. "How big _is_ this place? Honestly."
 
-Eizo moved past her, picking a direction with confidence and disappearing around the corner. Denri was impressed he'd been observant enough to memorize the path on the way in, given his state. Presence of mind like that took training.
+Eizo moved past her, picking a direction with confidence and disappearing around the corner. Denri was impressed he'd been able to memorize the path on the way in, given his state. Presence of mind like that took training.
 
-A second later Eizo came running back into view, angry shouts following him. Denri grabbed one of the lanterns at the intersection and smashed it into the hallway as Eizo came running back. She was mildly disappointed that the paper walls didn't immediately erupt into flame. But there was an ominous crackle that might encourage a few guards to stay behind and deal with the issue. They turned and ran down the other hallway. 
+A second later Eizo came running back into view, angry shouts following him. Denri grabbed one of the lanterns at the intersection and smashed it into a wall as Eizo came running back. She was mildly disappointed that the paper didn't immediately erupt into flame. But there was an ominous crackle that might encourage a few guards to stay behind and deal with the issue. The trio turned and ran down the other hallway. 
 
 "I'm guessing we don't know where we're going anymore?"
 
-"Yes. I am. Sorry." Eizo was gasping desperately for air.
+"Yes. I am. Sorry." Eizo was gasping for air.
 
-Denri laughed. "Don't be! This is pretty standard. Things always work out in the end." She flashed Eizo a smile as they skidded around a corner and wove their way deeper into the compound. At one point, Denri hooked an arm around another lantern pole and sent it crashing to the ground. "Besides. I was just thinking how boring my morning was."
+Denri laughed. "Don't be! This is pretty standard. Things always work out in the end." She flashed Eizo a smile as they slid around a corner and wove their way deeper into the compound. At one point, Denri hooked an arm around another lantern pole and sent it crashing to the ground. "Besides. I was just thinking how boring my morning was."
 
 A group of guards came bursting around the corner ahead of them. Denri skidded to a halt and turned to run the other direction. The guards behind them finally came into view.
 
@@ -228,13 +226,13 @@ Seeing their prey surrounded, both sides drew their blades and moved forward cau
 
 Eizo set Aki down and pushed her behind him. "I will do my best to clear a path, get ready to run." His determined frown flickered in the lantern light.
 
-Lantern light? Denri looked around, confused. There weren't any lanterns in the hallway. But a large swath of light was glowing through the wall to their left.
+Lantern light? Denri looked around, confused. There weren't any lanterns in the hallway. But a dull light was wavering through the wall to their left.
 
 "Hey, eagle eye. You've been paying attention to the route we've been taking, right? How close do you think we are to the hallway where I threw that first lantern?"
 
 "Close. Why?" He raised his hands, preparing to charge the guards.
 
-"_Nice_." She smiled wickedly. "New plan! I get to break things after all. Stay close behind me, Aki." Eizo looked over his shoulder. 
+"_Nice_." Denri grinned. "New plan! I get to break things after all. Stay close behind me, Aki." Eizo looked over his shoulder. 
 
 Denri let out a yell of delight and threw herself through the wall.
 
