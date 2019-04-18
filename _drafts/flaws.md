@@ -180,11 +180,11 @@ Aki prickled. "Just because they're like animals doesn't mean we can't talk and 
 <br />
 <br />
 
-They rose before dawn. Everyone saw to their own meager travel packs, avoiding eye contact and working in silence. Denri coiled the rope they had used to hold the Tengu and put it away. 
+They rose before dawn. Everyone saw to their own meager travel packs, avoiding eye contact and working in silence. Denri coiled the rope they had used to hold the tengu and put it away. 
 
 The air was cold and bright, snapping them all awake as they slipped out of the cave and began climbing the mountain. The slope quickly steepened, until their shivers were replaced by a thin sheen of sweat. The mist at their feet and the fog of their breath both burned away as the sun rose.
 
-All three stopped to enjoy the view. They were a few hundred feet up, leaning forward against the steep slope. Jagged boulders cast long shadows around them. Below, the forest lay like a thick green carpet across the landscape, the last tendrils of mist coiling delicately in the shade of large cedar trees. The sun lit the sky a brilliant orange.
+All three stopped to enjoy the view. They were a few hundred feet up, leaning forward against the steep incline. Jagged boulders cast long shadows around them. Below, the forest lay like a thick green carpet across the landscape, the last tendrils of mist coiling delicately in the shade of large cedar trees. The sun lit the sky a brilliant orange.
 
 Denri let out a sigh, some of the tension in her shoulders fading. She hadn't seen a view like this since her time at sea. For a moment, she wished Aki was right about the monsters that lived in the wilds. She had grown fond of Terminus over the years, but the tight spaces and rigid, manmade lines never quite replaced the untamed beauty outside their walls.
 
@@ -198,23 +198,23 @@ Aki shook her head, ponytail flapping behind her. "Me and the other kids were ne
 
 "We should keep moving and stay quiet." Eizo gave a pointed look to Aki as he moved past her, continuing up the mountain.
 
-All of them stepped a bit lighter after the brief interchange. They made more eye contact as they moved, and Denri even got a few smiles from Aki as she made faces behind Eizo's back. The sunrise had worked better than any apology or longwinded discussion to brighten everyone's mood.
+All of them stepped a bit lighter after the brief interchange. They made more eye contact as they moved, and Denri even got a few smiles from Aki as she made faces behind Eizo's back. The sunrise had worked better than any apology to brighten everyone's mood.
 
 It didn't last long. They had been hiking for an hour before they heard a chorus of crows cawing at the base of the mountain around the cave where they had slept. Denri and the others threw themselves behind a boulder, hoping none of the creatures had seen them. 
 
-The eruption of sound send quickly shifted from chaos to silence.
+The eruption of sounds quickly shifted from chaos to silence.
 
 "I guess they figured out we're not there anymore." Denri felt the familiar pit of fear form in her gut. But after the frantic chase from the day before and reliving some of her memories with Aki, she had had a chance to prepare herself. She wouldn't let it paralyze her like last time. "Why weren't they just waiting for us outside the entrance?"
 
-Eizo looked calm. "They probably went back to camp to get help from their daitengu. And crow tengu aren't really intelligent enough to leave a guard behind."
+Eizo looked calm. "They probably went back to camp to get help from their daitengu. Crow tengu aren't really intelligent enough to leave a guard behind."
 
-"What's a daitengu?" Denri's firsthand knowledge of wilderness monsters was a handful of mostly repressed weeks screaming and running. And she hadn't exactly gone seeking more information out once she lived in Terminus. She never thought she'd be in a situation like this again.
+"What's a daitengu?" Denri's firsthand knowledge of wilderness monsters was a handful of mostly repressed weeks screaming and running. And she hadn't gone seeking more information out once she lived in Terminus. She never thought she'd be in a situation like this again.
 
 "The crow tengu we saw yesterday are sort of like caterpillars. As they get older, most will die of old age. But some go through a transformation into daitengu. They get bigger and more intelligent. In that form, they're capable of speaking, fighting, and strategizing like the 5 races. Some can even resonate like Heroes. Every crow tengu flock is lead by a group of daitengu."
 
-"Oh, great. I really felt like our experience yesterday was a little flat, you know?"
+"Oh, great. I really felt like our experience yesterday was missing something, you know?"
 
-"Daitengu hunting us would be very bad." Eizo looked at her flatly. Onara's yellow eyes blinked at her over his shoulder, like she hadn't spent years living under Denri's roof. Until the fighting started, the cat preferred to travel on top of Eizo's pack. A pack of thin red scars marked the one time Eizo had tried to protest.
+"Daitengu hunting us would be very bad." Eizo looked at her flatly. Onara's yellow eyes blinked at her over his shoulder, like she hadn't spent years living under Denri's roof. Until the fighting started, the cat preferred to travel on top of Eizo's pack. A row of thin red scars marked the one time Eizo had tried to protest.
 
 Aki squeezed Denri's hand. "_I'm_ glad you're being silly again." The little girl smiled.
 
@@ -226,7 +226,7 @@ Denri returned a shaky smile, her stomach a knot of tension. "I'm trying my best
 <br />
 <br />
 
-It didn't take long for the tengu to find them. For a while, it seemed like the creatures were focused on searching through the forest. Denri and the others stuck to the shadows of boulders as much as they could. But eventually the tengu turned their attention towards the mountain, and there was only so long they could hide against an enemy that could fly.
+For a while, the creatures were focused on searching through the forest. Denri and the others stuck to the shadows of boulders as much as they could. But eventually the tengu turned their attention towards the mountain. It didn't take long for the tengu to find them. There was only so long they could hide against an enemy that could fly.
 
 Denri stood atop a cliff face, breathing hard as she reached a hand down to help Aki up the ledge. The girl's hands and knees were covered in dirt and blood, yet she pushed on doggedly. "Did anyone ever tell you that you're pretty tough, kid?" Denri forced her voice to stay light, it was the only thing keeping the fear at bay.
 
@@ -240,13 +240,13 @@ Denri nodded, her hands shaking around the knotted club of wood she had gathered
 
 They heard the predatory click and scrape of talons landing against the rocky earth of the plateau. There was a series of caws as the creatures coordinated, followed by an abrupt silence as they pushed into the air again. The tension persisted a heartbeat longer before there was another hail of clicks and scrapes, this time scattered around the boulders near the cliff. The pattern repeated itself. Silence. Talons. The sounds grew closer.
 
-They heard a creature land on a stone nearby. Eizo took a small stone and bounced it off a nearby boulder. The nearby tengu made a curious sound, it's caw soft and with an upward inflection. Silence. There was a rush of feathers and disturbed earth as a crow tengu dropped to the ground amidst the boulders. It's back was to them.
+They heard a creature land on a stone nearby. Eizo took a small stone and bounced it off a boulder. The nearby tengu made a curious sound, it's caw soft and with an upward inflection. Silence. There was a rush of feathers and disturbed earth as a crow tengu dropped to the ground amidst the boulders. It's back was to them.
 
 Eizo pounced instantly. He brought his staff in a low sweep, cutting the creature's feet out from under it. As it fell, Eizo twisted the staff and delivered two sharp blows, one to the creature's chest and the other to the side of its head. The creature was unconscious before it hit the ground.
 
 A chorus of cries erupted around them as the tengu responded to the dull thwack of Eizo's staff against feathered flesh. Eizo stepped back against the boulder as the tengu descended.
 
-The remaining creatures had the sense to land together, alert and looking around them. Up close, Denri saw the daitengu did not have the large black beaks of the crow tengu. Besides the red skin and bone-white hair, the only difference between the daitengu faces and those humans was a long, beaklike nose.
+The remaining creatures had the sense to land together, alert and looking around them. Up close, Denri saw the daitengu did not have the large black beaks of the crow tengu. Besides the red skin and bone-white hair, the only difference between the daitengu faces and those of humans was a long, beaklike nose.
 
 Again, Eizo leapt forward without hesitation. Denri wondered if the man even understood what the word fear meant.
 
@@ -264,9 +264,9 @@ Denri grabbed a fist-sized rock and scrambled up the side of one of the boulders
 
 Denri stared up at the creatures, fear rising in her belly like a wave crashing inexorably towards the shore. She forced herself to wait. At the last moment, right before the lead tengu's claws dug into her belly, Denri shifted to the boulder 30 feet away.
 
-Expecting a soft, weighty target to absorb its impact, the tengu was moving too fast to react. It's claws briefly gripped a wisp of electricity, then nothing but air, as it crashed into the hard stone. The other tengu pulled up sharply, avoiding a second collision.
+Expecting a soft, weighty target to absorb its impact, the tengu was moving too fast to react. It's claws briefly gripped a wisp of electricity, then nothing but air, as it crashed into the hard stone. The other tengu pulled up, avoiding a second collision.
 
-Denri reappeared in a flash of light. "How'd you like that move! I call it the 'you looked like an idiot' and I thought of it 20 seconds ago!" Denri turned and began jumping from stone to stone. Her left foot burned from her partially-healed burn, but she had been careful to double-wrap it tightly that morning. She had to hope it would hold as long as needed.
+Denri reappeared in a flash of light. "How'd you like that move! I call it the 'you looked like an idiot'!" She turned and began jumping from stone to stone. Her left foot stung from her partially-healed burn, but she had been careful to double-wrap it tightly that morning. She had to hope it would hold as long as needed.
 
 Denri looked over her shoulder to make sure she was being followed. She was. The tengu that had avoided the boulder was closing quickly. The other was further behind, holding one leg close to its chest. 
 
@@ -274,15 +274,140 @@ Denri turned, planning to engage the first tengu before the second could catch u
 
 Denri's nerve broke at the last minute and she dove to the side. Her shoulder burned as the tengu's talons cut through her skin and the weight of the impact sent her spinning off balance. She fell to the rock, jarring her other shoulder. She pushed to her hands and knees and threw herself forward as the second tengu lashed out more carefully with its remaining good talon.
 
-Denri scrambled to her feet and started running again, blind panic pressing at the edges of her mind. She looked up and saw a distant flock of dark, feathered forms descending from higher up the mountain. More tengu would be joining the fight soon.
+Denri scrambled to her feet and started running again, blind panic pressing at the edges of her mind. She looked up and saw a distant flock of dark, feathered forms descending from higher up the mountain. More tengu would be joining the fight soon. Things were going bad very quickly.
 
-- Aki tries to help/talk to the tengu Eizo hurt, he tries to strike her
-- Denri too far away to help. Hurt foot ultimately gets her and the tengu following her descend
-- Eizo tied up by other tengu
-- Captured tengu eventually arrives to protect Aki, save Eizo
-- Aki can understand crow tengu
-- Says he went back to roost to tell everyone, found a party had already left
-- Daitengu skeptical, why should we trust someone with mark of Ninigi? Clearly here to hunt us.
-- Eizo shows his samurai mark faded, says he no longer follows that path
-- You are an outlaw just like us, offers for them to come back to the roost
-- Denri reluctant, but accepts
+Denri ran back towards Eizo. She needed to warn him before the new flock arrived. They needed to find a way to break off and run. As she ran, she Denri felt a wet squishing sound in her right boot. Her foot was bleeding through its bandages. She ignored it as much as she could, but the pain brought a limp to her gait.
+
+Slowed by her foot, Denri's pursuers closed quickly. She felt a taloned foot wrap around her arm, the skin cold and reptilian. Denri turned and lashed out with her club. The tengu's blocked the small knot of wood with its large, black-feathered wing. As she turned, another weight crashed into her chest, toppling her to the ground. The fall ripped Denri's arm free of the first tengu's talons, scoring long red lines down her arm.
+
+Denri landed on her back, the impact knocking the wind out of her. The second tengu landed on her chest, its black beak snapping forward towards her face. Denri just barely managed to get her head out of the way, then brought her club across the tengu's face. There was a solid _thud_ and the creature staggered backwards, shaking its head.
+
+The momentary reprieve gave Denri enough time to turn and scramble across the boulder on all fours. She jumped to the ground just as one of the tengu went diving through the space she had been. Denri landed awkwardly, taking most of her weight in her damaged foot, she yelled in pain and crumpled to the ground.
+
+She was near the clearing where the battle had begun. Eizo still stood at its center, his staff whirring through the air as he struggled to hold the two daitengu at bay. The shirt on his back was splotchy with blood where his wounds from yesterday had reopened. There was a loud screech from above as the second wave of tengu approached. Denri's vision blurred from the pain and exhaustion.
+
+At the edge of the circle, a flutter of motion caught Denri's attention and snapped her to focus. Aki was pressed against a boulder, inching towards the clearing. What was she doing?
+
+"Aki, no! Just run away!" Denri had flash of memory, seeing her parents calling the same thing to her.
+
+Eizo looked up at Aki's name, his eye's searching the clearing. He saw Aki and took a step towards her, but the two daitengu continued their strikes and he was forced to return his attention to them. His eyes kept darting back to the young girl, though. The daitengu's blows started landing against Eizo's body with more frequency. 
+
+Aki ignored Denri's warning, continuing toward the clearing. She made her way for one of the tengu that Eizo had attacked at the beginning of the fight. The one that he had hit on the arm but hadn't finished off. The creature lay in a heap on the ground, cawing in pain. Denri's heart sank when she realized what Aki was trying to do.
+
+Denri pushed herself to her feet and staggered forward drunkenly. Her foot exploded with pain every time it tried to take her weight. She half expected to be knocked back to the ground by one of the tengu above her, but the blow never came. They must have moved to join the approaching second flock to attack in safer numbers. 
+
+Aki was almost to the disabled tengu, her hand outstretched towards it in a soothing gesture. Denri wasn't going to make it in time.
+
+The tengu gave Aki a confused look as she approached. It snapped it's beak defensively but Aki continued forward. She made a strange, low sound. The tengu cocked its head, calming. Aki took another step forward and placed a gentle hand against its broken wing.
+
+One of the daitengu noticed what was happening and snapped a command towards the injured tengu. The crow tengu hesitated for a moment, then lashed out towards Aki, it's beak cutting into the small girl's arm. Aki yelped in pain, but wrapped her free arm around the tengu's shoulders, holding herself close. The hand holding it's wing began to glow. 
+
+Eizo screamed in response to Aki's pain. He swung wildly at one daitengu, shattering both of their staffs with the force of his blow and sending the daitengu sprawling to the ground. He took a step towards Aki but the other daitengu caught him across the back of the head and dropped him to the ground.
+
+Denri continued to hobble forward, desperation driving her forward. She cursed at the pain in her foot, slowing her down.
+
+The tengu's beak caught Aki in the side of the face and the small girl finally fell away. As she fell, her hand flashed, filling the clearing with light. 
+
+When Denri's vision returned she saw the tengu's wing had been healed. It looked on in awe as the color began to drain from it's feathers, turning bright white. Aki lay on the ground, her face covered in blood. One of the daitengu was moving towards her quickly.
+
+Denri fell to her knees. Her body couldn't move any further. "Stay away from her!" Denri slammed her fists into the ground. She felt a strange pulse run through her body. She watched as a current of electricity sparked down her arm, then radiated out from her. The energy wrapped itself around the tengu standing in the clearing and their bodies tense. They fell to the ground.
+
+Aki looked at her hands in wonder, then heard Aki coughing weakly. She turned her attention back to the girl and crawled towards her. 
+
+The second flock of tengu landed in the clearing. Aki tried to summon whatever power she had used a moment before, but Denri's body felt hollow. It was like she'd used every ounce of energy her body had to give. The tengu started to move towards her.
+
+"I'm sorry, kid." Denri collapsed.
+
+<br />
+
+---
+<br />
+<br />
+
+Denri woke with a start. She sat up on a bed of straw in a small wooden hut that rattled against a strong wind outside. She pushed herself to the edge of the bed, looking around in confusion. Her wounds had all been wrapped in fresh bandages.
+
+Was she still in danger? Her mind flashed to Aki and Eizo. She stood from the bed, wincing. Her muscles were stiff and sore. She walked clumsily to the front of the hut and cracked the door. A male daitengu in armor and carrying a sword stood guard outside. He was larger than the two creatures Eizo had fought before. He turned towards Denri as the door opened. She tensed and pulled away, shutting the door between them.
+
+A knock came at her door "Do not be alarmed, you are no longer in danger."
+
+Denri paused, caught off guard by the voice. Eizo said the daitengu were more intelligent, but she hadn't expected them to speak the language of the five races.
+
+"Please, I was asked to bring you to our elder when you woke. Your comrade is already there."
+
+Was it a trick? If it was, could she do anything about it in her injured state? If they were going to do something harmful, they probably would have done it while she was unconscious.
+
+She cracked the door again. "I don't exactly have a choice, do I?"
+
+"No I am afraid not."
+
+Denri walked with the creature, it's armor clanking as it marched beside her. They marched through a primitive village, a mix of lopsided wooden huts, tattered tents, and what looked like nests constructed in cracks and caves in the stone. Everything had been constructed in relation to a steady wind that tore through the town. Buildings huddled behind rocks or leaned against the wind. 
+
+Looking beyond the village, Denri saw that they were much higher up the mountain. The verdant forest below was like a formless green cloth stretching away to the horizon.
+
+"Sheesh, you all must have really hated your neighbors." 
+
+"That is a fairly accurate statement."
+
+Denri felt surprisingly calm. The past two days steeped in her childhood fears had pushed her past a threshold of sorts. Panic had been an unnatural emotion for her and for now it seemed she had used up whatever store existed within her. That or she was just too exhausted to properly quiver.
+
+They moved up the mountain, approaching a larger wooden structure nestled into the rocks. Along the way Denri noticed that her passage drew the attention of most tengu she passed. She couldn't read any kind of emotion on their faces, though. Not like Aki apparently good.
+
+Denri thought back to the flash of light from Aki's hand and the tengu's healed wing. "The girl I was with. Is she OK?"
+
+The daitengu looked sideways at her, his face uncomfortable. "I am unaware. I was set to guard you when you were brought to the village. She lived at that time, though she was badly injured. The elder will know more." They reached the large wooden structure and ducked beneath a cloth that covered the door.
+
+Inside was a wide, smoky room with cushions surrounding a sunken fire pit. On the far side of the pit, an older female daitengu sat with legs crossed and arms folded amidst billowing robes. Wavy, white hair dropped past her shoulders and pulled on the ground around her. A staff lay across her lap, one end capped with a large golden circle looped through 12 smaller rings.
+
+To the elderly woman's right, Eizo sat formally, staring at the fire. Denri could tell something was on his mind as both Shiri and Onara pressed against him without causing alarm.
+
+On the other side of the woman, a crow tengu knelt with head bowed. The feathers of its wings and a few streaks across its head were bleached white. The tengu that had attacked Aki.
+
+"Welcome. Please take a seat beside your friend." The woman gestured to a cushion beside Eizo. Denri caught Eizo's eye as she sat, trying to get a read on him. Did he have a plan? 
+
+He must have read some of the question on her face because Eizo shook his head. "Strange as it seems, I believe we are now guests of the sage." He nodded towards the woman. "Though I also believe we are guests that cannot leave."
+
+"I think prisoners is the word you're looking for, then." Having nothing better to do, Denri glared across the fire at the crow tengu. The creature had not yet lifted its head.
+
+The sage frowned. "I feel there is much confusion that we must unwind before this conversation can continue. I am Jakucho. Eizo has told me your name is Denri. Let me begin by asking a question that is of dire importance to my clan." The sage focused her attention on Eizo. 
+
+Denri raised a hand. "No, let's begin with Aki. Where is she? Is she OK?"
+
+The sage looked troubled for a moment. "She is with our best healer. The girl will recover, though she will bear scars. But please, one thing at a time. We will discuss the girl in just a moment." Denri crossed her arms and sat back. "We felt the presence of someone with a strong connection to Ninigi approaching through the woods. Yet you did not unleash any sort of power, and one of our brothers that you captured says that in closer proximity the connection felt dormant. Please explain."
+
+Eizo was quiet for a moment. "Dead, not dormant. I was once a Blade serving Sadashi. Trained in Ninigi's Citadel." Eizo pointed to one of the scars along his wrist, a circle with six hatch marks spread evenly along its circumference. "I had a change of heart and my abilities faded. I'm a deserter."
+
+The sage's eyes widened in surprise as Eizo showed the mark. "Your story confirms itself, otherwise the brothers and sisters who confronted you before would no longer be alive."
+
+Denri looked sideways at Eizo. She had only ever heard rumors about the Blades. Every Hero in Terminus who'd been around for a while seemed to have some near-death story stemming from an encounter with Ninigi's mythical fighting force.
+
+Jakucho pushed on. "It seems then that we have more in common than expected. We are also in hiding from Ninigi." This time it was Eizo's turn to look surprised.
+
+Denri elbowed Eizo. "Perhaps a bit of extra context for the person who doesn't really understand what's going on?"
+
+Eizo's eyes remained on Jakucho as he spoke. "Ninigi created the tengu as monsters to do his bidding. He's supposed to have total control over them. But Jakucho just implied that they are no longer following his orders."
+
+"Oh." Denri turned to Jakucho. "Now see that's much clearer, why didn't you just say that?" The sage's dour look remained. Denri turned back to Eizo. "I'm beginning to see the family resemblance."
+
+"We thought you were an enforcer sent by Ninigi to punish our disobedience. Perhaps you can understand our fear then." Eizo nodded. "But when you let captured one of our brothers and then let him free, we began to doubt. He flew here and insisted that you were not intent on harming us. He led the group of tengu that flew out to stop our hunting party from attacking you."
+
+"I am glad we spared his life, then."
+
+"Yes, that kindness very well saved your life."
+
+Denri prickled, remembering her earlier argument. "Yeah, well that kindness also nearly got our friend killed. Aki was just trying to help that tengu over there when it attacked her. She's just a child."
+
+Jakucho looked sad for a moment. "It is still hard for us to resist the directives given to us by Ninigi. Please understand that we were programmed at creation to oppose the five races. But we are trying to change."
+
+The black and white tengu finally raised its head and met Denri's eyes. _Attacking your friend is my greatest shame._
+
+Denri flinched backward. The creature hadn't spoken out loud. It's voice had appeared directly in her head. She turned to Eizo. "You didn't tell me they could get in our heads."
+
+"We can't. Nor are our crow tengu kin able to speak in the language of the 5 races. It seems that the girl did something to trigger a partial awakening within this one."
+
+_The awakening is the most sacred gift of our people. Even if it is not complete, I can see the world in a brighter light thanks to Aki._ The creature looked towards the ground. _And yet I have repaid her with violence._
+
+Jakucho held a hand towards the crow tengu. "Do not fear, Hattori. You will have a chance to repair your mistake when the girl wakes." The sage turned back to Eizo and Denri. "As far as we know, Hattori is now unique among the tengu. We have never seen anyone do what Aki has done."
+
+"What's the big deal? There are shifters that can enhance the animals that travel with them. Sparks are powerful and rare, but it's not like they're unheard of."
+
+"Aki is more than just a spark. We tengu are not animals. What Aki has done, it should only be possible for a god."
