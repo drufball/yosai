@@ -1,3 +1,18 @@
+---
+title: Opportunities
+era: tournament
+permalink: /compendium/tournament/:title/
+
+layout: post
+excerpt_separator: <!--more-->
+
+cast: "['Denri','Eizo','Aki','Danzo']"
+pronunciations: "['DEHN-ree','AY-zoh','AH-kee','DAHN-zoh']"
+colors: "['#69d4fc','#c98859','#e84326','#4e4e4e']"
+
+feedback: https://forms.gle/6GCMY7kjyeiYgCuYA
+---
+
 "Watch it." The man struck Denri and sent her spinning to the ground. He loomed over her, his large frame covering her in shadow. She couldn't see his face beneath a rough-woven conical hat, but Denri figured the man's range of facial expressions was about as small as the chance he could scratch his nose with the tree trunks he called arms. 
 
 "Sorry, sir." Denri scrambled backwards on all fours, looking towards the ground. She hunched her shoulders, shrinking her frame even further. Denri was average height for a flit, but at three and a half feet tall, the other four races liked to see her as a child. This probably wasn't the best time to correct the misconception.
@@ -5,6 +20,8 @@
 The man scoffed and turned away, shouldering through the thick market crowd. Denri made a face then joined it with an obscene gesture. She pushed herself off the ground and dusted the dirt from her butt as she pulled her arm from behind her back. She tossed the brute's coin purse in the air. There was a crudely stitched skull across the front.
 
 "Of course there is." Denri rolled her eyes.
+
+<!--more-->
 
 Denri noted what direction the man traveled so she could check on him later. Thugs like that had a habit of hurting good people.
 
