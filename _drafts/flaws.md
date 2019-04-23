@@ -1,44 +1,40 @@
-It was safe to say that Denri was panicking.
+It was safe to say that Denri was panicking. It felt odd. Distant, yet familiar. She thought she was past this.
 
-The feeling was odd. Distant, yet familiar. She thought she was past this.
+Denri crashed through the forest underbrush, leaping over decayed tree trunks and shouldering through the vines and shrubs that pulled against her clothes. She gripped Aki's hand, pulling the young girl along and trying to ignore the pain in her foot, still healing from the burn in Danzo's lair. The forest around them reverberated with the sound of crows.
 
-She crashed through the forest underbrush, leaping over decayed tree trunks and shouldering through the vines and shrubs that pulled against her clothes. She gripped Aki's hand tightly, pulling the young girl along and trying to ignore the growing pain in her injured foot. The dense forest around them reverberated with the sound of crows.
-
-Denri saw flashes of black feathered bodies leaping from tree to tree. The pursuing tengu looked like a cross between a small child and a crow. They were the same size and general shape as Denri, but their legs ended in talons. Their bodies were covered in black feathers, with large wings instead of arms. Their eyes were black and beady, overlooking a straight beak.
+Denri saw flashes of black feathered bodies leaping from tree to tree. The pursuing tengu looked like a cross between a small child and carrion birds. They were the same size and general shape as Denri, but their legs ended in talons. Their bodies were covered in black feathers, with large wings instead of arms. Their eyes were beady, overlooking a straight beak.
 
 Denri ducked as one of the creatures swooped from above, narrowly missing her shoulder. Her eyes glowed blue in the dark forest gloom, hunting desperately for a place to hide. Aki stumbled blindly behind, her human eyes unable to see in darkness like Denri's.
 
-Up ahead, the trees thinned and gave way to raw stone formations, the beginnings of the mountain range they needed to traverse. Denri squinted against the distance. It looked like there was a slash of darkness against one of the rocks. Was it a cave mouth? The distance made it hard to tell for sure, but it was their only hope.
+Up ahead, the trees thinned and gave way to raw stone formations, the beginning of the mountains they needed to traverse. Denri squinted against the distance. There was a slash of darkness against one of the rocks. Was it a cave mouth? The distance made it hard to tell for sure, but it was their only hope.
 
-The cawing was louder behind them, centered on Eizo. When the beasts appeared, he had raised his staff and told the other two to run. Her last image of the man was his tall, thin frame standing resolutely as the tengu descended on him. Eizo's body spoke of former martial prowess, but he was still badly emaciated from his time in captivity. Denri didn't think she would see him again.
+The cawing grew louder behind them, centered on Eizo. When the beasts appeared, he raised his staff and told the other two to run. Her last image of the man was his tall, thin frame standing resolutely as the tengu descended. Eizo's body spoke of former martial prowess, but he was still badly emaciated from his time in captivity. Denri didn't think she would see him again.
 
 Aki's hand ripped free of Denri's grip. There was a sharp inhale of surprise. 
 
-Denri pivoted, skidding to a halt. She could see Aki a few feet behind her, being lifted into the air by one of the foul creatures. Aki's hand was still outstretched towards Denri, as though her mind hadn't fully caught up to the situation.
+Denri pivoted, skidding to a halt. She could see Aki a few feet behind her, lifted into the air by one of the foul creatures. Her hand was still outstretched towards Denri, as though her mind hadn't fully caught up to the situation.
 
-Denri's reached towards the young girl, but her feet stayed rooted. Her heart hammered in her ears as she spiraled downward into the tengu's cold, compassionless eyes. Her stomach churned at the smell of carrion and rot emanating from the creatures.
+Denri reached towards the young girl, but her feet stayed rooted. Her heart hammered in her ears as she spiraled downward into the tengu's cold, compassionless eyes. Her stomach churned at the smell of carrion and rot emanating from the creatures. Her eyes lost focus as she heard the cries of her parents, telling her to run. 
 
-Her eyes lost focus as she heard the cries of her parents, telling her to run. 
-
-Denri was pulled back to the present by the hiss of onrushing wind. She tried to throw herself to the side, but she stumbled on her injured foot, grunting in pain. Pain blossomed in both shoulders as talons wrapped around her. The world shifted violently as she was lifted from the ground, her vision bobbing as the tengu lurched skyward.
+Denri was pulled back to the present by the hiss of onrushing wind. She tried to throw herself to the side, but stumbled on her injured foot, grunting. Sharp pain blossomed in both shoulders as talons wrapped around her. The world shifted violently as she was lifted from the ground, her vision bobbing as the tengu lurched skyward.
 
 She should be doing something. Escaping. Trying to save Aki. But the weight of her memories left her paralyzed. It was all happening again.
 
-There was a crash and a yell as Eizo came charging through the woods. He raised his staff, arms dripping blood from several wounds. He swung with both hands towards the creature carrying Aki, earning a pained caw as the staff connected with the creature's wing. The blow sent it swerving into a tree. Aki fell to the ground heavily.
+There was a crash and a yell as Eizo came charging through the woods. He raised his staff, arms dripping blood from several wounds. He swung with both hands towards the creature carrying Aki, earning a pained squawk as the staff connected with the creature's wing. The blow sent it swerving into a tree and Aki fell to the ground heavily.
 
 Eizo's arrival woke Denri from her panic. She twisted in the creature's grip, its talons pressing deeper into the muscles of her shoulder. She focused on the ground, near the cave she had seen earlier, then took a mental step towards it.
 
 The crow tengu cried out in surprise as its prey suddenly vanished, replaced by an arc of electricity shooting towards the ground. Denri reappeared by the cave and turned towards her friends. "Over here! There's a cave we can use to hold them off!"
 
-Eizo caught Aki under the arms, scooping her off the ground as he ran by her. His face was set like iron as he pushed his body to outpace the shapes lurching through the darkness behind him.
+Eizo caught Aki under the arms, scooping her off the ground as he ran by. His face was set like iron as he pushed his body to outpace the shapes lurching through the darkness behind him.
 
-Eizo made it to the cave right as a tengu dove into him, its legs stretched forward and it's wings thrown out behind. Talons dug into the meat of Eizo's back and sent them both careening through the mouth of the cave. Eizo curled his body around Aki as he hit the ground.
+Eizo made it to the cave right as a tengu dove into him, its legs stretched forward and it's wings thrown out behind. Talons dug into the meat of his back and sent them both careening through the mouth of the cave. Eizo curled his body around Aki as he hit the ground.
 
-The cave was a riot of flesh and feathers. From his prone position, Eizo brought his staff up to block the talons of the angry tengu looming over him.
+The cave became a riot of flesh and feathers. From his prone position, Eizo brought his staff up to block the talons of the angry tengu looming over him.
 
 Denri pressed herself against the wall.
 
-Eizo caught a taloned strike with one end of the staff, then swept the tengu's remaining foot with the other end. It went sprawling to the ground.
+Eizo caught a taloned strike with one end of the staff, then swept the creature's remaining foot with the other end. It went sprawling to the ground.
 
 Eizo stood in the span of a heartbeat. The butt of his staff struck against the tengu's head with practiced precision. It's angry squawks turned to groggy whimpers.
 
@@ -52,13 +48,13 @@ They were safe, for now.
 <br />
 <br />
 
-"We should kill it." Denri stood as far from the crow tengu as she could. It sat with its back to one of the cave walls, arms and legs bound by rope Denri had scavenged back in Terminus before they fled. The creature's body was tense, its gaze tracking every motion.
+"We should kill it." Denri stood as far from the crow tengu as she could. It sat with its back to one of the cave walls, arms and legs bound by rope Denri scavenged in Terminus before they fled. The creature's body was tense, its gaze tracking every motion.
 
-"I do not kill." Eizo leaned heavily against his staff. His arms and back were wrapped in bandages that they were quickly running low out of. There was little else they could do for him. He had only been free from bondage for a week, and they had been fleeing that whole time. His body needed time to recover.
+"I do not kill." Eizo leaned heavily against his staff. His arms and back were wrapped in bandages that they were quickly running out of. There was little else they could do for him. He had only been free from bondage for a week, and they had been fleeing that whole time. He needed time to recover.
 
 Denri scoffed. "You expect me to believe that you've never killed anyone after watching you fight? With all those scars? I know you want to hide your past but don't pick something that's so obviously a lie."
 
-Eizo flinched. He looked towards the ground. "I do not kill _anymore_." His voice was soft.
+Eizo flinched and looked towards the ground. "I do not kill _anymore_." His voice was soft.
 
 "Look, the world would be a lot better if people weren't so eager to kill. But when you _do_ find something evil, you have a responsibility to stop it. If you weren't sure, this is one of those times."
 
@@ -70,7 +66,7 @@ Eizo flinched. He looked towards the ground. "I do not kill _anymore_." His voic
 
 Denri waved her hands dismissively. "Questions like that are designed to paralyze people. If you overthink it, you can create doubt around anything. But we _know_ when someone is evil or dangerous to others. It's one thing to seek more context and try everything you can to be merciful. But I don't care how guilty you feel about things you did in your past, it's no excuse to spare something that's obviously going to hurt others."
 
-The crow tengu remained passive. Its attention shifted back and forth between Denri and Eizo as they spoke, but she couldn't tell if it understood their conversation, or was simply following the sounds. Whenever it looked at Eizo, it cocked its head sideways.
+The crow tengu remained passive. Its attention shifted back and forth between Denri and Eizo as they spoke, but she couldn't tell if it understood their conversation or was simply following the sounds. Whenever it looked at Eizo, it cocked its head sideways.
 
 "I do not believe it is as easy to tell good from evil as you think it is. And given the obvious fear and hatred you have for these creatures, I would not trust your judgment anyways."
 
@@ -80,7 +76,7 @@ Eizo turned his back on the crow tengu, placing himself between Denri and the cr
 
 Denri took a step forward, clenching her fists.
 
-Aki stomped between them, holding her hands up. Frustrated tears spilled down her cheeks. "Stop fighting! If anyone thinks something is wrong then we shouldn't do it. We're a family and family supports each other!"
+Aki stomped between them, holding her hands up. Frustrated tears spilled down her cheeks. "Stop fighting! We're supposed to take care of each other!" She looked back at the prisoner. "And I don't want to hurt the tengu either."
 
 Denri bit back a retort. Taking it out on Aki wasn't the right thing to do. And it didn't look like she was convincing Eizo one way or the other. She threw her hands in the air. "Fine. Do what you want." She stomped further into the cave.
 
@@ -90,9 +86,9 @@ Denri bit back a retort. Taking it out on Aki wasn't the right thing to do. And 
 <br />
 <br />
 
-Denri sat in the darkness, throwing rocks against the wall. She didn't understand people like Eizo. They always wanted to _think_ about the right thing to do. To weigh things against each other and make complicated theories about what was wrong and what wasn't.
+Denri sat in the darkness, throwing rocks against the wall. She didn't understand why people like Eizo always wanted to _think_ about the right thing to do. To weigh things against each other and make complicated theories about what was wrong and what wasn't.
 
-But doing the right thing wasn't something you thought about. Whenever she tried to figure things out intellectually, she just ended up justifying the things she wanted to do. Her mind was too crafty to really be trusted. Her gut was the one that told her the hard things she didn't want to hear.
+Doing the right thing wasn't something you thought about. Whenever she tried to figure things out intellectually, she just ended up justifying the things she wanted to do. Her mind was too crafty to really be trusted. Her gut was the one that told her the hard things she didn't want to hear.
 
 "Denri...?" Denri turned and saw Aki stumbling through the darkness of the cave.
 
@@ -102,7 +98,7 @@ Aki turned towards the sound and made her way towards Denri's glowing eyes. She 
 
 Denri sighed. "No. I'm just not used to dealing with others when I make my decisions."
 
-"Is that why you've been so different since we left Terminus?"
+"Is that why you've been different since we left Terminus?"
 
 "What do you mean?"
 
@@ -114,9 +110,9 @@ Aki let out the breath she was holding. She sidled closer to Denri, sliding unde
 
 Denri hadn't willfully thought about those days for years. She didn't really want to relive them. But maybe telling someone might help her process the fear she'd been dealing with. "When I was your age, I lived with my mom and dad on a boat."
 
-"Really? Did you go out to sea? What was it like?"
+"Really? Did you go out to sea? What was it like?" All the context of the discussion fled Aki's mind in her excitement.
 
-Denri chuckled. "Slow down. One question at a time. Yes, we went out to sea. We worked on a trading vessel that moved goods up and down the eastern coast. We stayed pretty close to shore, though, so it probably wasn't as grand as you're thinking."
+Denri chuckled. "One question at a time. Yes, we went out to sea. We worked on a trading vessel that moved goods up and down the eastern coast. We stayed pretty close to shore, though, so it probably wasn't as grand as you're thinking."
 
 "But you must have had _some_ adventures! Did you see any sea monsters?"
 
@@ -124,13 +120,13 @@ Denri chuckled. "Slow down. One question at a time. Yes, we went out to sea. We 
 
 Aki gasped. "Were you scared? What did you do?"
 
-"Of course I was scared! It was bigger than our boat! Some of the crew managed to scare it off by lighting a powder keg and throwing it into the water. Now _that_ was a big explosion."
+"Of course I was scared! It was bigger than our boat! Some of the crew managed to scare it off by lighting a powder keg and throwing it into the water. Now _that_ was exciting."
 
 Aki crossed her arms. "That's mean! I wouldn't have been scared. I would have tried to talk to it."
 
 "Oh?" Denri raised her arms in the air and started waving them around Aki, she dropped her voice into a spooky monotone. "Even with it's massive tentacles thrashing about around you?" Denri grabbed Aki's sides and started tickling. The pair devolved into a fit of giggling as Aki tried to squirm free. 
 
-Shiri's feline eyes peered around the corner, gleaming in the dim cave light. Aki threw her arms wide. "Shiri! You found us."
+Shiri's feline eyes peered around the corner at the noise, gleaming in the dim cave light. Aki threw her arms wide. "Shiri! You found us."
 
 "Of course he did. Those two cats have lived on the streets for years. They know how to steer clear of trouble and find their way back."
 
@@ -138,21 +134,21 @@ The mottled cat stalked forward, stepping across Aki's legs and arching his back
 
 "Why did your family stop sailing?"
 
-"Living on a boat you end up dealing with a lot of storms. Growing up, they were my favorite part of sailing. I thought they were beautiful, crackling through the sky on the horizon. And when you got caught in one, it was wild. There's nothing quite like the thrill of fighting the elements, knowing any minute your boat could crash against the rocks.
+"Living on a boat you end up dealing with a lot of storms. Growing up, they were my favorite part of sailing. I thought they were beautiful, crackling through the sky on the horizon. And when you got caught in one, it was wild. There's nothing quite like the thrill of fighting the elements, knowing any minute your boat could crash against the rocks." Denri let out a long breath.
 
-"Eventually, that's exactly what happened. Our ship got caught in a big storm and wrecked against the shore. My family barely made it out alive."
+"Eventually, that's exactly what happened. Our ship got caught in a big storm and wrecked against the shore. My family barely made it out."
 
 Aki was silent for a moment. "That's horrible."
 
-Denri shrugged. "It's just how nature works. If the storms didn't make things dangerous, we wouldn't have been able to make a living taking risks on other people's behalf.
+Denri shrugged. "It's just how nature works. If the storms didn't make sailing dangerous, we wouldn't have been able to make a living taking risks on other people's behalf.
 
-"We washed up pretty close to a town that was further south than Terminus. It was a small place, probably some new village set up by a recent Champion. We came knocking on their door, begging for help." Denri's fists clenched. "But they sent us away."
+"We got lucky and washed up pretty close to a town south of Terminus. It was a small place, probably some new village set up by a recent champion. We came knocking on their door, asking for help." Denri's fists clenched. "But they sent us away."
 
 "Why would they send people away?"
 
-"We were flits. Pretty much all of us take after Susano. But this town's champion followed Sakuya, one of the gods opposed to the Stormbringer. The champion thought letting us in might diminish Sakuya's favor and weaken the town.
+"We were a group of flits. Pretty much all of us take after Susano. But this town's champion followed Sakuya, one of the gods opposed to the Stormbringer. The champion thought letting us in might diminish Sakuya's favor and weaken the town.
 
-"My parents died trying to get us through the woods to someplace else."
+"My parents died trying to get us through the woods to Terminus."
 
 Aki burrowed deeper against Denri's side, giving a hug. "That must have been really scary."
 
@@ -162,11 +158,11 @@ Aki lay against Denri quietly for a few moments, petting Shiri in the darkness. 
 
 Denri looked down at Aki, the girl was staring blindly into the cave. "Those monsters are just as bad as the champion that wouldn't let my family in. They see people walking through the forest, scared and lost, and they prey upon them. They killed my parents without thinking twice."
 
-Aki looked up at Denri, her chin thrust forward defiantly. "But no one ever tries to talk to them. What if they're just scared too? Maybe they think they're defending themselves."
+Aki looked up at Denri, her chin thrust forward. "But no one ever tries to talk to them. What if they're just scared too? Maybe they think they're defending themselves."
 
 Denri patted Aki's hand. "Believe me, we can't talk with them. They're like animals."
 
-Aki prickled. "That doesn't mean we can't talk and try to understand them! Shiri is an animal but you know what he wants. You forgive him when he bites your finger."
+Aki prickled. "That doesn't mean we can't talk and try to understand them! Shiri is an animal but you forgive him when he bites your finger."
 
 "That's different."
 
