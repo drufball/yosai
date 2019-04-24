@@ -120,7 +120,7 @@ Aki sat back, caught off guard by Denri's response. "We don't have to! I just th
 <br />
 <br />
 
-The mountaintop was dark at night. Lanterns stood no chance against the wind, so the only light came from behind closed doors and boarded windows. Aki and Denri crouched in the darkness and leaning against the rough stone of the mountain. Eizo's hut sat before them, huddled against the cliff face that marked the highest point of the village. There were only a handful of buildings higher up. Eizo's desertion of Ninigi's Blades and Aki's unexplained powers to awaken tengu had earned them an honored spot.
+The mountaintop was dark at night. Lanterns stood no chance against the wind, so the only light came from behind closed doors and boarded windows. Aki and Denri crouched in the darkness and leaned against the rough stone of the mountain. Eizo's hut sat before them, huddled against the cliff face that marked the highest point of the village. There were only a handful of buildings higher up. Eizo's desertion of Ninigi's Blades and Aki's unexplained powers to awaken tengu had earned them an honored spot.
 
 Denri elbowed Aki. "Does he know you're gone?"
 
@@ -164,7 +164,7 @@ Eizo gave Aki a stern look. "I understand something like this from her, but I ex
 
 "I'm sorry." Aki looked miserable. "I just wanted to show Denri my new trick."
 
-Eizo moved his hand to Aki's shoulder. He still held Denri like a vice. She wondered if she would have to chew through her wrist to get free. "It was a very impressive trick. You're getting stronger every day." Eizo turned towards Denri. "You both are."
+Eizo moved his hand to Aki's shoulder. He still held Denri like a vice. She considered chewing through her wrist to get free. "It was a very impressive trick. You're getting stronger every day." Eizo turned towards Denri. "You both are."
 
 Aki brightened. "We are! Do you think the sage will let us leave soon then?"
 
@@ -182,12 +182,157 @@ Eizo and Denri both looked at Aki askance. "Say that again?"
 
 Eizo looked at Aki sternly. "Aki, we need to stay in hiding. We can't do something public like join the Tournament."
 
-"Sure we can! We could just use made up names so no one knows who we are. And if we win, then the gods have to give us a place where no one could bug us. Hattori and the other tengu could come live with us too!"
+"Sure we can! We could just use made up names so no one knows who we are."
 
 Denri thought for a moment. "You know, it might not actually be that crazy of an idea." Eizo's head whipped around to face her, looking betrayed. "No, really. If we're in the tournament, then in theory no one can mess with us, right? Or at least, the gods and other champions have to offer us a reasonable challenge before they can attack us. And if we win they would have to leave us alone."
 
 "What's your point?"
 
-"You've pissed off a god and at least one champion by deserting. And whatever is going on with Aki, there's got to be people of a similar level behind it. What I'm saying is that I'd rather deal with those people in a series of well-structured challenges that we have a chance of responding to. As opposed to, you know, just getting assassinated in our sleep."
+"You've pissed off a god and at least one champion by deserting. And whatever is going on with Aki, there's got to be people of a similar power level behind it. What I'm saying is that I'd rather deal with those people in a series of well-structured challenges that we have a chance of responding to. As opposed to, you know, just getting snuffed in our sleep."
 
+Aki nodded vigorously. "And if we win, then the gods have to give us a place where no one could bug us. Hattori and the other tengu could come live with us too!"
+
+Eizo scratched his chin. "I don't know. You make a good point that the Tournament rules might give us some cover. But there's so much we don't understand about what's going on with Aki. What if we broadcast ourselves and the people hunting her don't care about the tournament rules? And even if we do win, I'm not sure I want to be in charge of a domain, playing politics with the other champions."
+
+"No argument on that last point." Denri flopped down onto the bed. "No argument on that last point. If our ranking somehow gets high enough for that to be a possibility, we can talk about it then. Otherwise I'd rather not set ourselves some big grand mission. Let's just take it as it goes." Aki took a breath to protest, but Denri held up a hand. "I'm not saying we _can't_ do that. Just that there's a lot of steps between here and there. Let's focus on the world in front of us.
+
+"But to your other point. Even if we don't know what's going on with Aki, we know joining the Tournament would take the heat off you, right? That lets us focus at least. Besides, running across the country and going on adventures sounds like a lot more fun than spending our whole life in hiding."
+
+Eizo didn't look convinced. "I would still rather understand what's going on with Aki's abilities before we make ourselves known."
+
+Aki smiled and jumped forward wrapping her arms around Eizo and Denri in a hug. Denri returned the hug without thinking. "What's this for?"
+
+"Nobody mentions splitting up anymore. We talk like a family."
+
+Denri looked over Aki's shoulder and grinned at Eizo. "Sounds about right to me."
+
+Eizo hesitated for a moment, years of hardwired defense mechanisms warring for control. Then he returned the smile and leaned into the hug. As they hugged, Denri slid her hand towards Eizo's journal. He smacked it away playfully.
+
+<br />
+
+---
+<br />
+<br />
+
+A few days later, Denri stood in the training circle with Eizo, focusing on her triple staff. She held the weapon at each end, electricity arcing up and down its length. Sweat dripped down her brow as she maintained the flow.
+
+"Good. Now try to center the charge in the middle rod."
+
+Denri did as Eizo instructed, focusing on the center rod. The move was much harder than just arcing the energy up and down the staff between her hands. It was like going from tossing a ball back and forth to _becoming_ the ball and floating in midair. 
+
+It felt like poking something with a stick. The wood was separate from her body, yet somehow she could still get a sense of the thing being poked. It required a sort of half-focus, giving her body enough space to work instinctively while also directing the motion.
+
+The blue sparks traveling up and down the weapon coalesced into the center. As the sparks left the two end rods, they jerked out of Denri's hands and snapped together with a sharp clank. The staff fell to the ground with a clatter and a flash of discharged sparks. 
+
+"What happened?"
+
+"Interesting. I've heard that electric resonants could move metal with their abilities. I never understood how. But it seems like the rods are attracted to one another when they don't all have the same current."
+
+Denri picked up the staff and tried again, focusing her electricity into various parts of the staff. It was clumsy, but if she focused, she was able to make the staff twitch and snap in different directions. "Coooool."
+
+"Indeed. I have no idea how to incorporate this into any of the fighting styles I know, but it seems like it could be powerful. You'll have to experiment on your own."
+
+Denri smiled, her mind already spinning through possibilities. 
+
+"Your electrical output has increased a lot over the last couple weeks."
+
+"Yeah. Why is that? It's just sort of happening."
+
+"Increasing strength is somewhat natural. Using your power causes you to come into better alignment with the ideal that formed the bond. But usually the progress is not this quick. My guess is that you were already very well aligned, but the stress and fear brought on by being in the wilderness was suppressing it. As you grow more comfortable, you're returning to your earlier state of mind."
+
+Denri looked up at Eizo. "Wait, you're telling me I can lose my power if I get scared? That seems like the _most_ important time to have it!"
+
+Eizo shrugged. "Resonant bonds are sometimes quite fragile. That's why many champions keep their towns ideologically pure. You don't want your soldiers losing their power because someone made a good point over beers. 
+
+"A significant part of our training as Blades was mental exercises to keep a clear head and strong ideals. There are countless stories of promising new recruits panicking in their first battle and being left defenseless."
+
+Denri made a face. "Does that mean I'll have to become like you to keep my power?" She let her face fall slack and expressionless, moving her arms stiffly. She dropped her voice to imitate Eizo's. "I am a serious warrior. I do not like cats."
+
+"It depends on the resonance. Knowing you, I would guess your ideal is something more wild and chaotic." He smirked and rose an eyebrow at her expectantly.
+
+Denri looked at Eizo, momentarily stunned. "Wait. Are you trying to-- was that supposed to be a comeback? Oh buddy, we need to work on your banter."
+
+Eizo frowned, looking self conscious. But before he could respond, there was a flutter of wings. The two of them looked up in time to see Hattori as he descended from the sky, flapping hard against the wind. He landed heavily near them, the white feathers of his wings folding flat along his arms. His body seemed tense.
+
+Eizo took a step towards the tengu. "What's wrong?"
+
+"Jakucho has requested your presence at her hut immediately. One of our scouts saw a raiding party approaching through the woods. They looked like Blades."
+
+<br />
+
+---
+<br />
+<br />
+
+Denri and Eizo sat around the fire pit in Jakucho's hut. The old sage sat at the head of the room, her staff crossed over her lap and her face stern. Hattori sat along with a few of the more senior Daitengu. Denri got the feeling she and Hattori were only present because they had been in the area when Jakucho called her advisors.
+
+A crow tengu knelt by the fire near the door, delivering its report in a series of grunts and caws. Jakucho translated for Denri and Eizo's benefit.
+
+"He says a group of five knights are approaching from the north, they seemed to be moving purposefully in our direction."
+
+Eizo sat formally, his hands clenched on his knees. "What were their colors?"
+
+A brief interchange between Jakucho and the scout. "Red and orange. Their shields had the image of a sword thrust into the ground."
+
+"Sadashi." Eizo spoke quietly to himself. He lifted his head and addressed the rest of the group. "I would assume that if your scout saw them, they knew of the scout's presence as well."
+
+Jakucho nodded. "I believe they are here for us. If not, they would have tried to make contact with the scout and request aid on whatever their mission is. They would have no reason to believe we weren't loyal to Ninigi and his champions if they didn't know who we are." Many around the circle nodded in agreement, Eizo included. "I would like to hear this group's opinion on what to do before I make my decision."
+
+One to the daitengu bowed his head. "Elder, we should gather our hunters and strike them when they break cover from the trees and start up the mountain. The terrain will be in our favor and we won't have to worry about defending the rest of the villagers." A few of the other daitengu mumbled in agreement.
+
+Jakucho held up a hand for silence. "We have ignored Ninigi's orders, but we have no desire to fight him. If we attack his followers, he may decide that we are his enemies, not just deserters. I do not want to give him any more reason to hunt us. Eizo, you know the Blades better than any of us, what is your opinion?"
+
+"If Sadashi has sent a party of Blades this way, it's safe to say that they're serious about finding your village. Ninigi views disobedience more or less the same as a direct assault."
+
+"What do you think about attacking then?"
+
+Eizo kept his eyes toward ground. "I would not know. Your people know the land and your own capabilities far greater than me. I shouldn't make such a decision on your behalf."
+
+Jakucho gave him a stern look. "I am not looking for you to make the decision. Only to give your opinion."
+
+"I--." Eizo paused, looking uncomfortable. He clutched his hands nervously.
+
+Denri raised her hand, trying to draw the conversation off of Eizo. For some reason, he didn't seem to want to talk. "Wouldn't attacking be stupid?" The daitengu who had spoken earlier turned angrily towards Denri. She shrugged. "I'm not trying to be rude, but Jakucho said herself if Eizo still had his powers, the hunting party that captured us wouldn't have stood a chance. Now there are _five_ of them. Seems like bad odds to me."
+
+Jakucho nodded in agreement. "Attacking would almost certainly be pointless."
+
+"Then what are we to do? If they were able to find us this easily, they must be able to sense our presence. They'll just keep hunting us if we flee. And we can't just keep moving the entire village indefinitely."
+
+"That's not necessarily true. You all could sense Eizo as we were approaching through the woods, but you clearly missed some of the details. They might be using something similar. Do you have some sort of range? Maybe we can run if we get outside that."
+
+Jakucho shook her head. "We would already be out of range if they were using the same ability. That's why we roosted so deep in the wilderness. This must be something different."
+
+Denri turned to Eizo. "Well, is there some secret Blade power that lets them track us forever?"
+
+Eizo thought for a moment. "No, I can't think of any techniques we learned that would allow that. But it may not be an ability. Most of the Blade's equipment is supplied by the Twins. Who knows what kind of machines those two have concocted in the years since I left. They may have something that amplifies the Blade's ability to sense the tengu."
+
+Denri sat back, pointing at Eizo in triumph. "There you go. We don't need to attack. If we take whatever device they have and run, we'll leave them blind."
+
+Jakucho looked at Denri thoughtfully. "How do you propose we steal this device if it allows them to sense us as we approach?"
+
+"That's simple. _You_ don't. I do."
+
+<br />
+
+---
+<br />
+<br />
+
+Eizo and Denri stood at the edge of the village as the tengu hunting party prepared. The plan was to have a small group attack the Blades at the front to distract them. 
+
+"Any other big abilities I should know to look out for?"
+
+"Their power focuses through their blades and can cut nearly anything. Do not try to block their blows, you have to dodge. And they will heal quickly, so do not count one out just because they have fallen to the ground."
+
+"Oh, great. Unkillable killing machines. No big deal. Remind me again why you wanted to quit these folks?"
+
+Eizo ignored the frenetic humor and grabbed Denri by the shoulders. "Are you sure you want to do this? I thought you hated the monsters living in the wilderness. Why risk your life now?"
+
+Denri shrugged, trying to look calm. "I'm not some bleeding heart for all monster kind everywhere now. But these people are trying to be better. Some of them have a lot to atone for, and I don't like all of them, but they're trying."
+
+"That's very honorable of you."
+
+"Yeah, well that's me. Brave hero standing for her ideals like a big old idiot right here." There was a companionable silence as the two stood waiting for the tengu to finish their preparations.
+
+Denri looked at Eizo sideways. "By the way, what was the deal with you back in that meeting? The whole time I've known you, you're decisive military man through and through. But back there you turned green the moment Jakucho asked your opinion."
 
