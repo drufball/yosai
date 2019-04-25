@@ -256,7 +256,7 @@ Eizo frowned, looking self conscious. But before he could respond, there was a f
 
 Eizo took a step towards the tengu. "What's wrong?"
 
-"Jakucho has requested your presence at her hut immediately. One of our scouts saw a raiding party approaching through the woods. They looked like Blades."
+"Jakucho has requested your presence immediately. One of our scouts saw a raiding party approaching through the woods. They looked like Blades."
 
 <br />
 
@@ -264,7 +264,7 @@ Eizo took a step towards the tengu. "What's wrong?"
 <br />
 <br />
 
-Denri and Eizo sat around the fire pit in Jakucho's hut. The old sage sat at the head of the room, her staff crossed over her lap and her face stern. Hattori sat along with a few of the more senior Daitengu. Denri got the feeling she and Hattori were only present because they had been in the area when Jakucho called her advisors.
+Denri and Eizo sat around the fire pit in Jakucho's hut. The old sage sat at the head of the room, her staff crossed over her lap and her face stern. Hattori sat along with a few of the more senior daitengu. Denri got the feeling she and Hattori were only present because they had been in the area when Jakucho called her advisors.
 
 A crow tengu knelt by the fire near the door, delivering its report in a series of grunts and caws. Jakucho translated for Denri and Eizo's benefit.
 
@@ -296,7 +296,7 @@ Denri raised her hand, trying to draw the conversation off of Eizo. For some rea
 
 Jakucho nodded in agreement. "Attacking would almost certainly be pointless."
 
-"Then what are we to do? If they were able to find us this easily, they must be able to sense our presence. They'll just keep hunting us if we flee. And we can't just keep moving the entire village indefinitely."
+"Then what are we to do? If they were able to find us this easily, they must be able to sense our presence. They'll keep hunting us if we flee. And we can't just keep moving the entire village indefinitely."
 
 "That's not necessarily true. You all could sense Eizo as we were approaching through the woods, but you clearly missed some of the details. They might be using something similar. Do you have some sort of range? Maybe we can run if we get outside that."
 
@@ -304,7 +304,7 @@ Jakucho shook her head. "We would already be out of range if they were using the
 
 Denri turned to Eizo. "Well, is there some secret Blade power that lets them track us forever?"
 
-Eizo thought for a moment. "No, I can't think of any techniques we learned that would allow that. But it may not be an ability. Most of the Blade's equipment is supplied by the Twins. Who knows what kind of machines those two have concocted in the years since I left. They may have something that amplifies the Blade's ability to sense the tengu."
+Eizo thought for a moment. "No, I can't think of any techniques we learned that would allow that. But it may not be an ability. Most of the Blade's equipment is supplied by the Twins. Who knows what kind of machines those two have concocted in the years since I left. They may have something that amplifies a Blade's ability to sense the tengu."
 
 Denri sat back, pointing at Eizo in triumph. "There you go. We don't need to attack. If we take whatever device they have and run, we'll leave them blind."
 
@@ -318,7 +318,7 @@ Jakucho looked at Denri thoughtfully. "How do you propose we steal this device i
 <br />
 <br />
 
-Eizo and Denri stood at the edge of the village as the tengu hunting party prepared. The plan was to have a small group attack the Blades at the front to distract them. 
+Eizo and Denri stood at the edge of the village as the tengu hunting party prepared. The plan was to have a small group attack the Blades at the front to distract them as Denri snuck in the back. 
 
 "Any other big abilities I should know to look out for?"
 
@@ -332,7 +332,135 @@ Denri shrugged, trying to look calm. "I'm not some bleeding heart for all monste
 
 "That's very honorable of you."
 
-"Yeah, well that's me. Brave hero standing for her ideals like a big old idiot right here." There was a companionable silence as the two stood waiting for the tengu to finish their preparations.
+"Yeah, well, that's me. Brave hero standing for her ideals like a big old idiot right here." There was a companionable silence as the two stood waiting for the tengu to finish their preparations.
 
 Denri looked at Eizo sideways. "By the way, what was the deal with you back in that meeting? The whole time I've known you, you're decisive military man through and through. But back there you turned green the moment Jakucho asked your opinion."
+
+Eizo looked away. "It was nothing."
+
+Denri elbowed the man. His ribs weren't quite so bony anymore. "Hey, none of that. Remember what Aki said. Family now."
+
+Eizo continued staring across the tengu as they prepared for a moment. He returned his attention to Denri with a sigh. "I thought I could be a better person if I gave up a life of killing and violence. But then just as you said, I spared Hattori during that fight and he nearly killed Aki. I've been wrong so many times. I just don't want to make decisions with people's lives anymore."
+
+Denri wanted to tell Eizo that was stupid. You don't get to avoid morality just because it's hard. But Eizo's face looked so sad and uncertain. And she didn't want to punish him for opening up. "Well you're in luck. Aki and I are pretty much the best, so you can leave the decision making to us for a while and not feel too bad."
+
+Eizo smiled. "That's the plan."
+
+"Great, just one more reason not to die. No pressure or anything."
+
+As the two stood together, Hattori broke off from the other tengu and approached. "Ugh, remind me again why I have to take him along."
+
+"The Blades can sense other creatures with a bond to Ninigi. But since Aki awakened him, Hattori's bond has shifted to her. And your chances of success are much higher with--."
+
+Denri was looking at Eizo with an arched eyebrow and a wry smile.
+
+"Oh. You were just bantering."
+
+"Yup."
+
+<br />
+
+---
+<br />
+<br />
+
+Denri did her best to remain quiet as they moved through the trees. It wasn't easy, considering how Hattori's talons pinched her shoulders every time he flapped his wings. He brought them down to the ground a few hundred feet from the Blades' camp and Denri rubbed her shoulders gratefully.
+
+"That has got to be the _worst_ way to get around." She kept her voice low.
+
+_My talons were not originally meant to carry willing creatures..._
+
+"That's a happy thought."
+
+They made their way through the darkness towards the pinpoint of light that was the Blades' campfire. If she hadn't already known the Blades were dangerous, the fact that they were unconcerned about drawing the attention of monsters would have been a sure sign. They paused a hundred feet out and waited for the hunting party to make their move.
+
+A few minutes passed. Denri could see shadows walking across the campfire. Big with lots of sharp edges. There was a loud crash at the far side of the camp and the shadows turned. They ran to the other side of the campfire and resolved into gleaming suits of armor before disappearing into the woods.
+
+"Alright, that's our cue." Denri stood and started walking towards the camp. Hattori moved beside her clumsily, his eyes straining ahead of them. "Hey, stay focused." Her voice was barely a whisper.
+
+_I should be fighting with my brothers and sisters._ An elbow from Denri brought his attention back to the ground in front of him.
+
+They reached the edge of the camp and took a moment to make sure there weren't any stragglers. A felled tree lay near the edge of the clearing, its branches torn free to feed the fire. A few rounds had been cut from the trunk to make seats around the fire. A large tent stood on the opposite side of the fallen tree. The sounds of combat rang through the woods on the other side of camp, but the clearing was quiet.
+
+"You keep watch outside while I check in the tent. And take a look through their gear in case it's there."
+
+_Why do I have to be on watch? I'm already away from the fight. I want to do something._
+
+"Well, seeing as how you can give me a heads up _in my mind_ without alerting anyone, you can just deal with it. Unless of course you actually can read my thoughts."
+
+_Fine. I will keep watch outside._
+
+"That's what I thought."
+
+Denri swung around the clearing until she was near the tent, then slipped from the trees and padded towards her target. She reached the back of the tent and dropped to her stomach, lifting the canvas and peering inside. The tent was empty.
+
+A twig snapped to Denri's left and her head shot up, body filling with adrenaline. Hattori stood at the edge of the trees, frozen as he looked around. It seemed no one had heard his misstep. Denri rolled her eyes and then slid under the canvas and into the tent.
+
+Denri rifled through the Blades' belongings, starting with the packs that were stacked against the tent wall. The tengu hunters were on the lookout for a sensing device as well, but Denri didn't think the Blades would risk bringing the sensing device into a fight. They wouldn't need it up close anyways.
+
+Denri made it through the packs without finding anything out of the ordinary. She started tossing the bedrolls left and right, still with no success. Denri started to worry that the Blades had carried the device with them.
+
+There was a loud thud outside the tent, followed by a scramble of feet and a flurry of wings. _Help!_
+
+Denri pulled her folded triple staff from her waist and ripped open the front flap of the tent. Hattori was lying on the ground, backing hastily away from a mountain impersonating a man. A mountain wrapped in metal and moving with the quiet ease of a cat. He looked up at the sound of the tent flap and Denri felt 20 pounds heavier. Even his gaze was physically imposing. The sword hanging at his side glowed a faint silver.
+
+Hattori flipped onto all fours and tried to scramble towards her. _Time to get out of here!_ As he ran, the Blade took a step forward and swung his sword, arcing up from the ground towards Hattori's back.
+
+There wasn't time to think. Denri's body tensed and she shifted forwards, reappearing between Hattori and the onrushing blade. She brought her staff up, holding two of the rods and pulling the chain between them taught to catch the blow. The chain held for a heartbeat. Long enough for Denri to Eizo's voice in her mind, reminding her not to block. She staggered back into Hattori, pulling her head back just as the blade flared with light and cut through the chain like butter. She felt the passing wind against her chin as the blade arced toward the sky.
+
+Denri pushed off Hattori and swung the uncut segment of her staff like a nunchuck. The metal rod sparked with a burst of electricity as it arced toward the man's head. The giant man's sword twisted in the air and snapped across his body, cutting through the other chain easily. The end of Denri's staff flew through the air and landed behind the man. Then he introduced his boot to her chest and sent her careening through the air.
+
+Denri landed in a heap, barely managing to hang on to the two disconnected metal rods that were the remains of her staff. She spit some blood from her mouth. "OK, I'll give you round one." She staggered from her feet and raised her weapons. "But at least it's finally not monsters."
+
+She ran forward but came up short as the Blade reached forward and grabbed Hattori from the ground. The tengu kicked fruitlessly, trying to break free. On the man's wrist was a chunky, mechanical bracelet with a small weighted chain anchored at its center. As the giant knight lifted Hattori into a headlock with one arm, the chain snapped taught and pointed at the tengu.
+
+The device must have been sensitive enough to detect Hattori's lingering connection to Ninigi. The Blade's had known they were sneaking around the back the whole time.
+
+"Where is the girl?"
+
+Denri froze. "What?"
+
+The man called to the woods around them. "You try to hide your presence by sending one of your pets closer." We shook Hattori. "I'll just kill it if you don't come out."
+
+The Blade's words clicked into place and Denri cursed. The device wasn't sensing the remnant's of Hattori's connection to Ninigi. It was sensing his connection to Aki. They weren't here for the tengu.
+
+"So be it." The Blade brought his sword up towards Hattori's neck. 
+
+Denri raised both metal rods and filled them electricity. Many things happened at once. The two rods shot apart until the left one ripped out of her hand, pinwheeled through the air, and buried itself an inch deep in a tree trunk. A metal pot that had been resting on the nearby cook fire shot towards her. She pulled her hand down and the pot went careening into the forest. Finally, the man's sword ground to a halt in the air.
+
+The Blade strained against the magnetic pull. Denri staggered forward before she planted her feet, grabbed the rod with both hands, and leaned backwards with all her strength. The blade began inching forwards again as Denri slid, inch by inch, forward.
+
+"Hattori. If you wanted. To. Do. Something. Useful."
+
+Hattori fumbled around the pouch at his waist, his motions clumsy with his arms pinned to his side. He managed to fumble a dagger out of the pouch, then nearly lost it as Denri's magnetic field tried to rip it out of his hands. He clenched his fist and drove the dagger into the Blade's side. There was a sharp intake of breath and the man pulled on his sword with renewed strength.
+
+Denri flared the electrical current as bright as she could, trying to hold the blade at bay. The man's armor groaned in response. There was a loud whirring sound, followed by an earsplitting metallic _thwack_.
+
+The arm holding Hattori went slack. The tengu pried himself free and scrambled away. Sticking out of the Blade's shoulder was the metallic rod that he had cut from Denri's staff earlier. The metal was buried several inches deep. Denri released the electric current with a yelp as the other rod pried itself free from the tree trunk and shot towards her.
+
+"I meant to do that!"
+
+The man growled, stabbing his sword into the ground and reaching up to the rod embedded in his shoulder.
+
+"Seriously? You're just gonna rip that out no problem? What was Eizo _thinking_ leaving you guys?"
+
+Denri raced forward. "Hattori, we need to do something about that tracker on his wrist!"
+
+Hattori drew two daggers from his belt and leapt into the air as he threw them. The man ignored the weapons as they bounced off his armor. He grunted as he pulled the rod free of his shoulder and dropped it to the ground. He drew his sword again.
+
+"Try that again!" Denri slid past the man, putting him between her and Hattori. She pulsed energy into the rod in her hands as Hattori threw another wave of daggers. The weapons accelerated as Denri's field caught them, punching into the man's armor. He snarled in frustration and swung his blade behind him, aiming straight for Denri's neck.
+
+There was a loud whine as the blade cut through the air, moving too fast for Denri to duck out of the way. Well, if she couldn't dodge, at least she could make it hurt like hell. Denri drew another burst of electricity and focused it into her arm.
+
+There was a heavy, mental _click_ as Denri's perspective shifted. The energy took on a different tone as it flowed into her arm. Her muscles flared.
+
+Denri caught the Blade's arm, stopping its progress completely. He looked down at her in surprise, the metal buckling under her fingers. Denri filled the other arm with electricity and punched the man in the side. His armor buckled and he was thrown to the ground several feet away. Pain lanced up Denri's arm as the bones in her forearm cracked.
+
+Denri and Hattori both stared on in amazement for a moment. "Hah! Did you _see_ that? I was all like _pew_, _pew_." Denri punched the air a couple times, then winced at her broken arm. She stumbled as a wave of exhaustion and dizziness hit her.
+
+The Blade on the ground groaned and started to stir. "Are you _serious_?" Denri pointed with her good arm and called up to Hattori. "What are these things?" She staggered forward and stomped on the man's wrist several times, shattering the tracking device. "Hattori, let's get out of here."
+
+_One more thing._ Hattori landed near the fire and pulled out a burning branch. He tossed it into the Blades' tent. Denri gave him an impressed look.
+
+Then they ran away.
 
