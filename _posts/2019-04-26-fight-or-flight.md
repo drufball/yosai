@@ -13,6 +13,8 @@ colors: "['#69d4fc','#c98859','#c98859','#e84326','#e84326','#4e4e4e']"
 feedback: https://forms.gle/YYXyzP63Vpj7wJDeA
 ---
 
+**This is part 2 of an ongoing story series. You can read the first part [here](https://yosai.world/compendium/tournament/opportunities/).**
+
 It was safe to say that Denri was panicking. It felt odd. Distant, yet familiar. She thought she was past this.
 
 Denri crashed through the forest underbrush, leaping over decayed tree trunks and shouldering through the vines and shrubs that pulled against her clothes. She gripped Aki's hand, pulling the young girl along and trying to ignore the pain in her foot, still healing from the burn in Danzo's lair. The forest around them reverberated with the sound of crows.
