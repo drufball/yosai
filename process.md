@@ -9,32 +9,32 @@ process. Right now, it's details about the things I'm making and consuming. Over
 it will also include summaries of feedback, polls, and other interactions with you, the
 reader.
 
-# Short Stories: 8/25
+# Short Stories: 10/25
 
 # Today's Stats
-**Words written:** 2,131    
+**Words written:** 2,131
 
-**7 day average:** 1,978    
+**7 day average:** 1,978
 
-**28 day average:** 1,855  
+**28 day average:** 1,855
 
-**Hours spent writing:** 3.3  
+**Hours spent writing:** 3.3
 
-**7 day average:** 3.9  
+**7 day average:** 3.9
 
-**28 day average:** 3.6  
+**28 day average:** 3.6
 
-**Hours spent editing:** 0.5  
+**Hours spent editing:** 0.5
 
-**7 day average:** 0.7   
+**7 day average:** 0.7
 
-**28 day average:** 0.9  
+**28 day average:** 0.9
 
 # What I'm reading
 {% for book in site.data.books limit:1 %}
 [{{book.title}}]({{book.link}}){:target="_blank"} {% if book.recommend %}**(Recommended!)**{% else %}**(Not recommended.)**{% endif %}
 
-{{book.blurb}} 
+{{book.blurb}}
 {% endfor %}
 
 # Everything I've read in 2019
