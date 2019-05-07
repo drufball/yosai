@@ -1,56 +1,54 @@
-The wind was like an antsy child. It tugged at Denri's clothes, flapping the loose fabric against her body. It groaned as it blew though the village, eager to break free of the boring, ramshackle huts and go tumbling, frolicking down the steep mountain hillside. It never seemed to tire.
+The wind tugged at Denri's clothes like an antsy child, flapping the loose fabric against her body. It groaned as it blew though the village, eager to break free of the boring, ramshackle huts and go frolicking down the mountain hillside. It never seemed to tire.
 
-The tengu residents had long ago adapted. They walked easily at a half-falling angle that kept the wind's tireless enthusiasm in check. Sadly, the trick took longer than two months to learn.
+The tengu residents had long ago adapted. They subconsciously walked at a half-falling angle against the wind's tireless enthusiasm. Sadly, the trick took longer than two months to learn.
 
-Denri yelped as a strong gust blew her several feet to the right. She mourned the loss of her dignity as her arms pinwheeled through the air and she struggled to plant her feet. Denri just barely managed to lower her center of gravity before the gust blew her completely out of the training ring.
+Denri mourned the loss of dignity as a strong gust blew her several feet to the right. Her arms pinwheeled dramatically as she struggled to plant her feet and lower her center of gravity.
 
-Hattori turned to follow her as she staggered. He leaned back against the wind and held a staff ready in his hands. Hands that had existed for only a month.
+Hattori watched her from the center of the ring as she staggered. He leaned back against the wind and held a staff ready in his hands. Hands that had only existed for a month.
 
-The tengu's body was still going through changes from Aki's power. The feathers on his wings had thinned out and flattened against his arms to reveal arms like a human. Hattori's arms and head were now completely white, with a large patch of alabaster feathers spreading down his chest as well. His expression was still alien to Denri.
+The tengu's body was still changing from Aki's power. His wings had thinned and flattened against his arms, revealing the hands he now used to fight. His shoulders and head were completely white, with a large patch of alabaster feathers spreading down his chest as well. Yet his expression remained alien.
 
 _Are you OK?_
 
-The feeling of Hattori's voice in her mind was still unnatural to Denri. She made a face and thought something rude back at him.
+Hattori's voice still felt unnatural in her mind. She made a face and thought something rude back at him.
 
-_I do not understand why you keep doing that. You know I can only project my thoughts. I cannot hear you._
+_Why do you keep doing that? You know I can only project my thoughts. I cannot hear you._
 
-"If that's true then how did you know I was thinking anything at you? Hmm?"
+"If that's true then how did you know I was thinking anything? Hmm?"
 
 _You stood silently and your face moved as though you were speaking._
 
 Denri remained skeptical.
 
-"Stay focused." Eizo stood at the edge of the ring, his arms crossed behind his back. He was still thin, but his large frame was regaining muscle quickly. "Denri, keep your stance balanced. When the wind blows you like that, it's telling you that you're overextended."
+"Stay focused." Eizo stood at the edge of the ring, his arms crossed behind his back. His lanky frame was regaining muscle quickly. "Denri, keep your stance balanced. When the wind catches you like that, it's saying that you're overextended."
 
-Denri sighed and raised her triple staff, holding one of the forearm-length metal rods in each hand. A third rod hung between them, suspended by a short chain that connected it to the ends of the rods in her hands. "Learning martial arts, on top of a mountain, in the middle of the wilderness, and somehow these two make it boring _and_ annoying." Denri kept her voice quiet. Eizo was teaching at her request, after all.
+Denri sighed and raised her triple staff, holding a forearm-length metal rod in each hand. A third rod hung between, suspended by a short chain connecting it to the ends of each rod in her hands. "Learning martial arts, on top of a mountain, in the middle of the wilderness, yet somehow these two make it boring _and_ annoying."
 
-She advanced toward Hattori carefully, trying to keep all of Eizo's lessons in mind at once. It felt like an impossible task, but Denri forced herself to focus. She refused to let the wilderness shrink her back to a helpless, scared kid. She needed to get stronger.
+She inched toward Hattori, repeating all of Eizo's lessons in her mind at once. The tengu held his staff with both hands at one end, swinging it toward Denri's shoulder like a bat. She turned her body sideways, deflecting the blow. As she twisted, she swung the other rod toward his arm, but he blocked and shuffled backward on his taloned feet.
 
-The tengu held his staff with both hands at one end, extending his reach as he brought the weapon down towards Denri's shoulder. She deflected the blow with one rod and turned her body sideways. As she twisted, she swung the another rod around towards Hattori's arm. He brought the end of his staff up awkwardly as his taloned feet shuffled backwards.
+With each blow, Hattori's expressionless avian face stared back at her. Mocking Denri and the fear she felt in their first fight. Her strikes became frenzied.
 
-Denri pressed her advantage, raining blows down on both sides. Hattori matched her, flicking his staff from side to side as he blocked her attacks. Denri's strikes grew wilder as she grew frustrated. Hattori's expressionless avian face stared back at her.
+Denri made a feint toward Hattori's head, then pulled up short and swung toward his stomach with the other rod, sending a pulse of energy into the metal. There was a flash of electric discharge as the weapon connected with his side. The tengu grunted, his muscles spasming.
 
-Denri made a feint towards Hattori's head, then pulled up short and swung towards his stomach with the other rod. She sent a pulse of energy into the metal. There was a bright flash as the weapon connected with Hattori's side and a spark discharged. Hattori grunted, his muscles spasming. He managed to keep going, but the movements on that side of his body were less coordinated.
+Denri grabbed the triple staff at its center, planting her other hand on the ground as she sent a sweeping kick toward Hattori's legs. Jittering blue lines of electricity trailed from her foot as it swept across the ground. Hattori jumped backward to avoid the blow and landed off balance.
 
-Denri dropped both ends of the triple staff and grabbed its center in one hand. She planted the other hand on the ground and sent a low, sweeping kick towards Hattori's legs. Electricity trailed from her foot as it moved. Hattori jumped backwards to avoid the blow, landing off balance.
+Denri spun the triple staff behind her back and the weapon snapped straight with momentum. She focused behind Hattori and shifted, reappearing on the other side of the tengu in a burst of sparks.
 
-Denri followed through with her kick, spinning as she swung the triple staff behind her back. The weapon snapped straight as momentum pushed the rods out. Denri focused behind Hattori and shifted mid-spin, reappearing on the other side of the tengu in a flash of sparks.
+Her swing faltered as the wind suddenly caught her from the opposite side. She went tumbling forward, crashing to the ground on top of Hattori.
 
-But she hadn't accounted for the wind to suddenly be behind instead of in front. Her swing faltered and she went tumbling forward into Hattori's back, sending them both sprawling to the ground.
+Denri looked anywhere but Eizo as she disentangled herself from the mass of rumpled feathers that broke her fall. She didn't bother offering a helping hand.
 
-Denri looked anywhere but Eizo as she disentangled herself from the mass of rumpled feathers that broke her fall. She didn't bother offering a hand to Hattori.
+"Denri, you have a natural flare for offense. But you try too hard to _break_ your opponent's guard. Focus on remaining grounded in your stance. If you offer no weakness, eventually an enemy will show you theirs."
 
-"Denri, you clearly have a natural flare for offense. But you try too hard to _break_ your opponent's guard. Focus on remaining grounded in your stance. If you offer no weakness, eventually an enemy will show you theirs."
+"I know, I know."
 
-"I know, I know. I just get carried away."
+Eizo turned toward the tengu and stroked his chin. "Hattori, we may need to rethink your weapon choice. A two handed staff limits the mobility and range advantage of your wings."
 
-Eizo turned towards the tengu and stroked his chin. "Hattori, we may need to rethink your weapon choice. A two handed staff limits the mobility and range that you could have with your wings."
+Hattori planted his staff in the ground, jangling the four rings at the top. _This staff is the sacred weapon of the daitengu._
 
-Hattori planted the staff in the ground, jangling the four rings at the top. _This staff is the sacred weapon of my people. All daitengu use one._
+"But daitengu have wings on their back, allowing them to fly while they hold the weapon. Your situation is limited." Hattori's grip tightened on the staff and he pulled it toward his chest. Eizo's face softened. "I know it's not what you wanted. But you've got a chance to become something new."
 
-"But daitengu have wings on their back, allowing them to fly while they hold the weapon. Your situation is more limited." Hattori's grip tightened on the staff and he pulled it towards his chest. Eizo's face softened. "I know it's not exactly what you wanted. But you've got a chance to become something completely new."
-
-_I do not want to *be* something completely new._
+_I do not want to *be* something new._
 
 <br />
 
@@ -58,23 +56,23 @@ _I do not want to *be* something completely new._
 <br />
 <br />
 
-The hut's walls rattled in the wind. After two months living in the tengu village, Denri could almost tune it out.
+The hut's walls rattled in the wind. After two months living in the tengu village, Denri could almost tune it out as she sat on her straw bed with legs crossed and body hunched over a flat chunk of stone.
 
-She sat on her straw bed with legs crossed and body hunched over a flat chunk of stone. A single torch filled the small space with flickering light. Her bundle of colored chalks lay unfurled on the bed beside her. She held a stick of white in her hands as she made a series of delicate marks against the stone, her face set in concentration.
+A single torch filled the small space with flickering light. Her bundle of colored chalks lay unfurled on the bed beside her. She held a stick of white in her hands as she made a series of delicate marks against the stone, her face set in concentration.
 
-The once empty room was now filled with decorated stones. Some were covered with pleasing patterns of color. Others depicted stick figure scenes of dubious artistic quality. Nearly all were vulgar in some way.
+The empty room was now filled with decorated stones. Some were covered with pleasing patterns of color. Others depicted stick figure scenes of limited artistic quality. Nearly all were vulgar in some way.
 
-Shiri's head perked up from the bed and he looked towards the door. Denri paused from her drawing and looked to Onara, who lay across the room on a throne of dirty clothes. She was looking at the entrance too.
+Shiri's head perked up from the bed and he looked toward the door. Denri paused and looked to Onara, who lay across the room on a throne of dirty clothes. She was looking at the entrance too. A few minutes later, there was a knock and a whisper at the door. Denri called Aki inside.
 
-A few minutes later, there was a knock and a whisper at the door. Denri called Aki inside.
+"Had to be at least 5 minutes. That's the furthest they've ever sensed you."
 
-"That had to be at least 5 minutes. I think that's the furthest they've ever sensed you."
+Aki eased the door shut and turned into the room. She beamed. "I've been practicing! I told them I was coming when I left my room. I wasn't sure if the range was still too far though. Neither one of them is good about responding." Aki stuck her tongue out at Onara, then flopped onto the bed and pulled Shiri into her lap.
 
-Aki eased the door shut and turned into the room. She beamed. "I've been practicing! I told them I was coming when I left my room. I wasn't sure if the range was still too far for me though. Neither one of these two is good about responding." Aki stuck her tongue out at Onara, then flopped onto the bed next to Denri and pulled Shiri into her lap. She kicked her feet against the edge of the bed with the sort of frenetic energy that only a small child with a secret can muster.
+She kicked her feet against the edge of the bed with the frenetic energy that only a small child with a secret can muster.
 
-It gave Denri a momentary sense of vertigo. She had to remind herself that Aki was in fact a very young child.
+It gave Denri a momentary sense of vertigo. She had to remind herself that Aki was still a very young child.
 
-Ever since she awakened Hattori, Aki's body had been growing fast. The girl was now taller than Denri, with a body approaching that of a teenager. The large vertical slash where her right eye had been only served to make her look older.
+Ever since she awakened Hattori, Aki's body had been growing fast. The girl was now taller than Denri, with a body approaching that of a teenager. The large vertical slash where her right eye had been made her look even older.
 
 "What's got you so excited?"
 
@@ -82,15 +80,17 @@ Ever since she awakened Hattori, Aki's body had been growing fast. The girl was 
 
 "Yeah? What is it?"
 
-Aki wiggled and squirmed on the bed, jostling Shiri. The cat looked at her sideways, indignation writ over his face. "I don't wanna tell you, I wanna show you!"
+Aki wiggled and squirmed on the bed, jostling Shiri. The cat glared at her sideways. "I don't wanna tell you, I wanna show you!"
 
-"All right, all right. Can you contain yourself for a few minutes while I finish this drawing? Or are you gonna keep bouncing my cat until he pukes on my bed?" Aki bobbed her head up and down in a decidedly unrestrained way. But she did her best to hold still. Somehow that only raised the tension in the room.
+"All right, all right. Can you contain yourself for a few minutes while I finish this drawing? Or are you gonna keep bouncing my cat until he pukes on the bed?" Aki bobbed her head up and down in a decidedly unrestrained way. But she did her best to hold still. Somehow that only raised the tension in the room.
 
 After a few minutes, Denri felt Aki's chin rest on her shoulder. "What're you drawing?"
 
 Denri shooed her away. "I can't finish with you flopping all over me! Artists need space, you know."
 
-Denri made a few dramatic flicks of her wrist as she put the finishing touches to her work. Then she lifted the stone and turned it towards Aki with a healthy dose of pride. The dark stone depicted a tall, lanky stick figure with scraggly hair that looked passingly like Eizo. He stood beneath a tree, a stern frown on his face. Hattori sat in the branches above him. A white glob was in free fall from Hattori's butt to Eizo's head.
+Denri made a few dramatic flicks of her wrist as she put the finishing touches to her work. She lifted the stone and turned it toward Aki with a healthy dose of pride.
+
+The dark stone depicted a lanky stick figure with scraggly hair that looked passingly like Eizo. He stood beneath a tree, a frown on his face. Hattori sat in the branches above him. A white glob was in free fall from Hattori's butt to Eizo's head.
 
 Aki giggled. "Are you two getting along better?"
 
@@ -98,21 +98,21 @@ Denri hefted the stone and placed it along the wall with the rest of her masterp
 
 "Denri!"
 
-"You asked!"
+"You asked."
 
 Aki shook her head. "You should be nicer to him."
 
 "Hey, I talk to him and train with him and I'm not arguing to kill him anymore, right? He'll get nice Denri when he proves he deserves her. Besides, I thought you wanted to show me a new trick or something. Let's get back to that part."
 
-Aki made a huff a moment longer, but Denri held firm. Aki was excited about this new trick of hers. Denri knew she'd break first.
+Aki made a huff, but Denri stayed quiet. The young girl was too excited to hold out long.
 
-"Alright, alright!" A grin broke out across Aki's face. She leaned in towards Denri and lowered her voice to a whisper. "Do you wanna pull a prank with me?"
+"Alright, alright!" A grin broke out across Aki's face. She leaned in toward Denri and lowered her voice to a whisper. "Do you wanna pull a prank with me?"
 
 Denri looked at Aki seriously, her face dark. "Aki. You came here to pull a prank?"
 
 Aki sat back, caught off guard by Denri's response. "We don't have to! I just thought I could show you my new--."
 
-"And you let us waste all this time drawing on rocks and talking about Hattori? Lead with the fun stuff next time!" Denri clapped her hands and rubbed them together hungrily. "What did you have in mind? Should I bring my chalk?"
+"And you let us waste all this time drawing on rocks and talking about Hattori? Lead with the fun stuff next time!" Denri clapped her hands and rubbed them together. "What did you have in mind? Should I bring my chalk?"
 
 <br />
 
@@ -126,7 +126,7 @@ Denri elbowed Aki. "Does he know you're gone?"
 
 Aki nodded. "I told him I was going to see you."
 
-Denri threw her head back and groaned. "Aki! You have so much to learn. He's totally going to be on alert if he knows you're with me. Next time tell him you have to poop or something." Aki looked towards the ground, her shoulders slumping. "No, no, don't give me any of that 'I'm adorable and you made me sad' crap. I don't need that on my conscience. Where does he keep the journal?"
+Denri threw her head back and groaned. "Aki! You have so much to learn. He's totally going to be on alert if he knows you're with me. Next time tell him you have to poop or something." Aki looked toward the ground, her shoulders slumping. "No, no, don't give me any of that 'I'm adorable and you made me sad' crap. I don't need that on my conscience. Where does he keep the journal?"
 
 "It's always beside his bed at the back of the room."
 
@@ -136,11 +136,11 @@ Denri peeled off from Aki, her night vision letting her pick across the surface 
 
 Aki returned the thumbs up, then placed her hands along the ground. She seemed to strain for a moment. Then her skin darkened and rippled. Her body shrank and a tail sprouted from her back. Denri blinked and Aki was replaced by a perfect replica of Onara.
 
-Denri almost whistled in appreciation, then remembered where she was. She looked through the window as cat-Aki stalked towards the front door. Eizo was sitting in his underwear at a small desk, diligently repairing a hole in his pants. Denri felt only a flash of jealousy that Eizo and Aki got furniture in their house. She reserved the rest of her mental faculties for memorizing Eizo's current appearance. She was going to need an exceptionally nice rock to memorialize this scene.
+Denri almost whistled in appreciation, then remembered where she was. She looked through the window as cat-Aki stalked toward the front door. Eizo was sitting in his underwear at a small desk, diligently repairing a hole in his pants. Denri felt only a flash of jealousy that Eizo and Aki got furniture in their house. She reserved the rest of her mental faculties for memorizing Eizo's current appearance. She was going to need an exceptionally nice rock to memorialize this scene.
 
 The door swung open a crack as Aki pressed her feline head against the door. Eizo looked up at the sound.
 
-"Oh no." He stood up and started backing away from the door. Aki meowed and started walking towards him. "What do you want? I don't have any food." Eizo nearly jumped out of his skin as he backed into a low wooden stool. He grabbed his chest and muttered to himself. "I thought the other one snuck in too."
+"Oh no." He stood up and started backing away from the door. Aki meowed and started walking toward him. "What do you want? I don't have any food." Eizo nearly jumped out of his skin as he backed into a low wooden stool. He grabbed his chest and muttered to himself. "I thought the other one snuck in too."
 
 Aki meowed again. The girl was relentless. Denri used the moment of distraction to ease the window open. It was hard to work while clamping a hand over her mouth to stop the giggles.
 
@@ -150,7 +150,7 @@ Denri slid through the window as Aki curled in Eizo's lap. He winced as she knea
 
 Denri turned her attention to the small table by Eizo's bedside. How much extra furniture did these two need? Honestly. A small leather book was on top of the table. Denri snuck forward, bare feet moving soundlessly across the floor. She reached the table and probed her arm forward.
 
-Eizo's hand darted backwards, catching Denri's in a grip like iron. "May I help you?"
+Eizo's hand darted backward, catching Denri's in a grip like iron. "May I help you?"
 
 "Oh, you know. Just looking around for Onara. Have you seen her lately?" The cat in Eizo's lap stood and tried to slink away, head and tail drooping. Eizo caught the cat by the scruff of the neck. "Oh look, you found her! Good thing I came looking here first. Ha ha ha."
 
@@ -168,7 +168,7 @@ Eizo gave Aki a stern look. "I understand something like this from her, but I ex
 
 "I'm sorry." Aki looked miserable. "I just wanted to show Denri my new trick."
 
-Eizo moved his hand to Aki's shoulder. He still held Denri like a vice. She considered chewing through her wrist to get free. "It was a very impressive trick. You're getting stronger every day." Eizo turned towards Denri. "You both are."
+Eizo moved his hand to Aki's shoulder. He still held Denri like a vice. She considered chewing through her wrist to get free. "It was a very impressive trick. You're getting stronger every day." Eizo turned toward Denri. "You both are."
 
 Aki brightened. "We are! Do you think the sage will let us leave soon then?"
 
@@ -212,7 +212,7 @@ Denri looked over Aki's shoulder and grinned at Eizo. "Sounds about right to me.
 
 Eizo hesitated for a moment, years of hardwired defense mechanisms warring for control. Then he returned the smile and leaned into the hug.
 
-Denri slid her hand towards Eizo's journal but he smacked it away.
+Denri slid her hand toward Eizo's journal but he smacked it away.
 
 <br />
 
@@ -258,7 +258,7 @@ Denri looked at Eizo, momentarily stunned. "Are you trying to-- was that suppose
 
 Eizo frowned, looking self conscious. But before he could respond, there was a flutter of wings. The two of them looked up in time to see Hattori as he descended from the sky, flapping hard against the wind. He landed heavily near them, the white feathers of his wings folding flat along his arms. His body seemed tense.
 
-Eizo took a step towards the tengu. "What's wrong?"
+Eizo took a step toward the tengu. "What's wrong?"
 
 "Jakucho has requested your presence immediately. One of our scouts saw a raiding party approaching through the woods. They looked like Blades."
 
@@ -298,7 +298,7 @@ Eizo kept his eyes toward the ground. "I would not know. Your people know the la
 
 "I--." Eizo paused, looking uncomfortable. He clutched his hands nervously.
 
-Denri raised her hand, trying to draw the conversation off of Eizo. For some reason, he didn't want to talk. "Wouldn't attacking be stupid?" The daitengu who had spoken earlier turned angrily towards Denri. She shrugged. "I'm not trying to be rude, but Jakucho said herself if Eizo still had his powers, the hunting party that captured us wouldn't have stood a chance. Now there are _five_ of them. Seems like bad odds to me."
+Denri raised her hand, trying to draw the conversation off of Eizo. For some reason, he didn't want to talk. "Wouldn't attacking be stupid?" The daitengu who had spoken earlier turned angrily toward Denri. She shrugged. "I'm not trying to be rude, but Jakucho said herself if Eizo still had his powers, the hunting party that captured us wouldn't have stood a chance. Now there are _five_ of them. Seems like bad odds to me."
 
 Jakucho nodded in agreement. "Attacking would almost certainly be pointless."
 
@@ -376,11 +376,11 @@ _My talons were not originally meant to carry willing creatures..._
 
 "That's a happy thought."
 
-They made their way through the darkness towards the pinpoint of light that was the Blades' campfire. If she hadn't already known the Blades were dangerous, the fact that they were unconcerned about drawing attention in the wilderness would have been a sure sign. They paused a hundred feet out and waited for the hunting party to make their move.
+They made their way through the darkness toward the pinpoint of light that was the Blades' campfire. If she hadn't already known the Blades were dangerous, the fact that they were unconcerned about drawing attention in the wilderness would have been a sure sign. They paused a hundred feet out and waited for the hunting party to make their move.
 
 A few minutes passed. Denri could see shadows walking across the campfire. Big with lots of sharp edges. There was a loud crash at the far side of the camp and the shadows turned. They ran to the other side of the campfire and resolved into gleaming suits of armor before disappearing into the woods.
 
-"Alright, that's our cue." Denri stood and started walking towards the camp. Hattori moved beside her clumsily, his eyes straining ahead of them. "Hey, stay focused." Her voice was barely a whisper.
+"Alright, that's our cue." Denri stood and started walking toward the camp. Hattori moved beside her clumsily, his eyes straining ahead of them. "Hey, stay focused." Her voice was barely a whisper.
 
 _I should be fighting with my brothers and sisters._ An elbow from Denri brought his attention back to the ground in front of him.
 
@@ -398,7 +398,7 @@ _Fine. I will keep watch outside._
 
 "That's what I thought."
 
-Denri swung around the clearing until she was near the tent, then slipped from the trees and padded towards her target. She reached the back of the tent and dropped to her stomach, lifting the canvas and peering inside. The tent was empty.
+Denri swung around the clearing until she was near the tent, then slipped from the trees and padded toward her target. She reached the back of the tent and dropped to her stomach, lifting the canvas and peering inside. The tent was empty.
 
 A twig snapped to Denri's left and her head shot up, body filling with adrenaline. Hattori stood at the edge of the trees, frozen as he looked around. It seemed no one had heard his misstep. Denri rolled her eyes and then slid under the canvas and into the tent.
 
@@ -436,9 +436,9 @@ The man called to the woods around them. "You try to hide your presence by sendi
 
 The Blade's words clicked into place and Denri cursed. The device wasn't sensing the remnants of Hattori's connection to Ninigi. It was sensing his connection to Aki. They weren't here for the tengu.
 
-"So be it." The Blade brought his sword up towards Hattori's neck.
+"So be it." The Blade brought his sword up toward Hattori's neck.
 
-Denri raised both metal rods and filled them electricity. Many things happened at once. The two rods shot apart until the left one ripped out of her hand, pinwheeled through the air, and buried itself an inch deep in a tree trunk. A metal pot that had been resting on the nearby cook fire shot towards her. She pulled her hand out of the way and the pot went careening into the forest. Finally, the man's sword ground to a halt in the air.
+Denri raised both metal rods and filled them electricity. Many things happened at once. The two rods shot apart until the left one ripped out of her hand, pinwheeled through the air, and buried itself an inch deep in a tree trunk. A metal pot that had been resting on the nearby cook fire shot toward her. She pulled her hand out of the way and the pot went careening into the forest. Finally, the man's sword ground to a halt in the air.
 
 The Blade strained against the magnetic pull. Denri staggered forward before she planted her feet, grabbed the rod with both hands, and leaned back with all her strength. The weapon began inching forward again as Denri slid along the ground, inch by inch.
 
@@ -448,7 +448,7 @@ Hattori fumbled around the pouch at his waist, his motions clumsy with his arms 
 
 Denri flared the electrical current as bright as she could, trying to hold the sword at bay. The man's armor groaned in response. There was a loud whirring sound, followed by an earsplitting metallic _thwack_.
 
-The arm holding Hattori went limp, allowing the tengu to pry himself free and scramble away. Buried several inches deep in the Blade's shoulder was the metallic rod had been cut from Denri's staff earlier. Denri released the electric current as the other rod pried itself free from the tree trunk and shot towards her.
+The arm holding Hattori went limp, allowing the tengu to pry himself free and scramble away. Buried several inches deep in the Blade's shoulder was the metallic rod had been cut from Denri's staff earlier. Denri released the electric current as the other rod pried itself free from the tree trunk and shot toward her.
 
 "I meant to do that!"
 
@@ -466,7 +466,7 @@ There was a soft whine as the blade cut through the air, moving too fast for Den
 
 There was a heavy, mental _click_ as her perspective shifted. The energy took on a different tone as it flowed into her body. Her muscles flared.
 
-Denri caught the Blade's arm, stopping its progress completely. He looked down at her in surprise, his metal bracer warping under her fingers. Denri filled the other arm with electricity and punched the man in the side. His armor buckled as he rocketed backwards several feet and landed on his back. Pain lanced up Denri's arm from the strength of the impact.
+Denri caught the Blade's arm, stopping its progress completely. He looked down at her in surprise, his metal bracer warping under her fingers. Denri filled the other arm with electricity and punched the man in the side. His armor buckled as he rocketed backward several feet and landed on his back. Pain lanced up Denri's arm from the strength of the impact.
 
 Denri and Hattori both stared on in amazement. "Hah! Did you _see_ that? I was all like _pew_, _pew_." Denri punched the air a couple times, then winced at her bruised arm. She stumbled as a wave of exhaustion and dizziness hit her.
 
