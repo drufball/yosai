@@ -620,10 +620,10 @@ Keta walked up to the human-shaped bundles of silk and began cutting them free. 
 
 While Keta worked, Moto went to take a look at the light spider. It was even more grotesque up close. It bore a vague resemblance to the smaller black spiders, but its skin was stretched and torn like it had outgrown itself. The patterns of light were exposed, glowing innards where the skin had ripped open. The skin was light gray from the light shining through underneath.
 
-The light spider twitched and lunged feebly towards Moto. "Ah!" He pulled a dagger from his belt and stabbed the creature between the eyes. It fell back to the ground and the light in it's body went out.
+The light spider twitched and lunged feebly towards Moto. "Ah!"
 
 Keta turned. "Are you OK?"
 
-"Yeah, looks like this thing just had a little bit of juice left."
+"Yeah, looks like this thing just had a little bit of juice left." Moto pulled a dagger from his belt and stabbed the creature between the eyes. It fell back to the ground and the light in it's body went out.
 
 Back in the hallway from where they had come, echoing up from deep within the nest, a child began to scream.
