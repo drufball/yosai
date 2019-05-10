@@ -1,3 +1,20 @@
+---
+title: Awakening
+era: tournament
+permalink: /compendium/tournament/:title/
+
+layout: post
+excerpt_separator: <!--more-->
+
+cast: "['Denri','Eizo','Jakucho','Sadashi','Aki','Hattori','Danzo']"
+pronunciations: "['DEHN-ree','AY-zoh','JAH-koo-choh','SAH-DAH-shee','AH-kee','HA-toh-ree','DAHN-zoh']"
+colors: "['#69d4fc','#c98859','#c98859',#c98859','#e84326','#e84326','#4e4e4e']"
+
+feedback: https://forms.gle/8aBa6EKWXrAHwCYk8
+---
+
+**This is part 3 of an ongoing story series. If you haven't already, read the [last part](https://yosai.world/compendium/tournament/fight-or-flight/) or start from the [beginning](https://yosai.world/compendium/tournament/opportunities/).**
+
 The wind tugged at Denri's clothes like an antsy child, flapping the loose fabric against her body. It groaned as it blew though the village, eager to break free of the boring, ramshackle huts and go frolicking down the mountain hillside. It never seemed to tire.
 
 The tengu residents had long ago adapted. They subconsciously walked at a half-falling angle against the wind's tireless enthusiasm. Sadly, the trick took longer than two months to learn.

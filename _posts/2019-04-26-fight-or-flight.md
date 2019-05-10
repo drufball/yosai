@@ -6,9 +6,9 @@ permalink: /compendium/tournament/:title/
 layout: post
 excerpt_separator: <!--more-->
 
-cast: "['Denri','Eizo','Aki','Jakucho','Hattori','Danzo']"
-pronunciations: "['DEHN-ree','AY-zoh','JAH-koo-choh','AH-kee','HA-toh-ree','DAHN-zoh']"
-colors: "['#69d4fc','#c98859','#c98859','#e84326','#e84326','#4e4e4e']"
+cast: "['Denri','Eizo','Jakucho','Sadashi','Aki','Hattori','Danzo']"
+pronunciations: "['DEHN-ree','AY-zoh','JAH-koo-choh','SAH-DAH-shee','AH-kee','HA-toh-ree','DAHN-zoh']"
+colors: "['#69d4fc','#c98859','#c98859',#c98859','#e84326','#e84326','#4e4e4e']"
 
 feedback: https://forms.gle/YYXyzP63Vpj7wJDeA
 ---
@@ -438,3 +438,5 @@ Jakucho held a hand towards the crow tengu. "Do not fear, Hattori. You will have
 "What's the big deal? Shifters who can alter animals are powerful and rare, but it's not like they're unheard of."
 
 "We tengu are not animals. Even a spark would not be able to affect us. What Aki has done, it should only be possible for a god."
+
+**You can read the next story in this series [here](https://yosai.world/compendium/tournament/awakening/).**
