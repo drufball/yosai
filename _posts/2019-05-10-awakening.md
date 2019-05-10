@@ -21,6 +21,8 @@ The tengu residents had long ago adapted. They subconsciously walked at a half-f
 
 Denri mourned the loss of dignity as a strong gust blew her several feet to the right. Her arms pinwheeled dramatically as she struggled to plant her feet and lower her center of gravity.
 
+<!--more-->
+
 Hattori watched her from the center of the ring as she staggered. He leaned back against the wind and held a staff ready in his hands. Hands that had only existed for a month.
 
 The tengu's body was still changing from Aki's power. His wings had thinned and flattened against his arms, revealing the hands he now used to fight. His shoulders and head were completely white, with a large patch of alabaster feathers spreading down his chest as well. Yet his expression remained alien.
