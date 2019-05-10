@@ -27,11 +27,11 @@ Hattori watched her from the center of the ring as she staggered. He leaned back
 
 The tengu's body was still changing from Aki's power. His wings had thinned and flattened against his arms, revealing the hands he now used to fight. His shoulders and head were completely white, with a large patch of alabaster feathers spreading down his chest as well. Yet his expression remained alien.
 
-_Are you OK?_
+__Are you OK?__
 
 Hattori's voice still felt unnatural in her mind. She made a face and thought something rude back at him.
 
-_Why do you keep doing that? You know I can only project my thoughts. I cannot hear you._
+__Why do you keep doing that? You know I can only project my thoughts. I cannot hear you.__
 
 "If that's true then how did you know I was thinking anything? Hmm?"
 
@@ -63,11 +63,11 @@ Denri looked anywhere but Eizo as she disentangled herself from the mass of rump
 
 Eizo turned toward the tengu and stroked his chin. "Hattori, we may need to rethink your weapon choice. A two handed staff limits the mobility and range advantage of your wings."
 
-Hattori planted his staff in the ground, jangling the four rings at the top. _This staff is the sacred weapon of the daitengu._
+Hattori planted his staff in the ground, jangling the four rings at the top. __This staff is the sacred weapon of the daitengu.__
 
 "But daitengu have wings on their back, allowing them to fly while they hold the weapon. Your situation is limited." Hattori's grip tightened on the staff and he pulled it toward his chest. Eizo's face softened. "I know it's not what you wanted. But you've got a chance to become something new."
 
-_I do not want to *be* something new._
+__I do not want to *be* something new.__
 
 <br />
 
@@ -291,7 +291,7 @@ Eizo frowned, looking self conscious. But before he could respond, there was a f
 
 Eizo took a step toward the tengu. "What's wrong?"
 
-"Jakucho has requested your presence immediately. One of our scouts saw a raiding party approaching through the woods. They appear to be Blades."
+__Jakucho has requested your presence immediately. One of our scouts saw a raiding party approaching through the woods. They appear to be Blades.__
 
 <br />
 
@@ -407,7 +407,7 @@ Denri did her best to stay quiet as they flew through the trees. It wasn't easy;
 
 He brought them to the ground a few hundred feet from the Blades' camp. Denri rubbed her shoulders gratefully. "That has got to be the _worst_ way to get around." She kept her voice low.
 
-_My talons are not meant to carry willing creatures..._
+__My talons are not meant to carry willing creatures...__
 
 "That's a happy thought."
 
@@ -417,7 +417,7 @@ A few minutes passed. Big shadows with lots of sharp edges walked across the fir
 
 "Alright, that's our cue." Denri stood and started walking toward the camp. Hattori lumbered beside her, his eyes straining ahead while his feet stumbled frequently. "Hey, stay focused." Her voice was barely a whisper.
 
-_I should be fighting with my brothers and sisters._ An elbow from Denri brought his attention back to the ground in front of him.
+__I should be fighting with my brothers and sisters.__ An elbow from Denri brought his attention back to the ground in front of him.
 
 They reached the edge of the camp and made sure there weren't any stragglers.
 
@@ -427,11 +427,11 @@ The sounds of combat rang through the woods, but the clearing was quiet.
 
 "You keep watch outside while I check in the tent. And take a look around the fire in case the tracker is there."
 
-_Why do I have to be on watch? I'm already away from the fight. I want to do something._
+__Why do I have to be on watch? I'm already away from the fight. I want to do something.__
 
 "Well, since you can give me a heads up _in my mind_ - you know, without alerting anyone - you can just go right ahead and deal with it. Unless of course you actually can read my thoughts."
 
-_Fine. I will keep watch outside._
+__Fine. I will keep watch outside.__
 
 "That's what I thought."
 
@@ -449,7 +449,7 @@ Denri pulled the folded triple staff from her belt and ripped open the front fla
 
 He looked up at the sound of the tent flap and Denri felt 20 pounds heavier just from the weight of his gaze. The sword hanging in his hand glowed a faint silver.
 
-Hattori flipped onto all fours and scrambled toward her. _Time to get out of here!_ As he ran, the Blade took a step forward and swung his sword, arcing up from the ground toward Hattori's back.
+Hattori flipped onto all fours and scrambled toward her. __Time to get out of here!__ As he ran, the Blade took a step forward and swung his sword, arcing up from the ground toward Hattori's back.
 
 There wasn't time to think. Denri's body tensed and she shifted forward, reappearing between Hattori and the onrushing sword. She brought her staff up, holding two of the rods so the chain connecting them would catch the blow.
 
@@ -523,7 +523,7 @@ Then she filled the other arm with electricity and punched the man so hard his a
 
 The Blade on the ground groaned and started to stir. "Are you _serious_?" Denri pointed with her good arm and called up to Hattori. "What are these things?" She staggered forward and stomped on the man's wrist several times, shattering the tracking device. And probably some bones. "Hattori, let's get out of here."
 
-_One more thing._ Hattori landed near the fire and pulled out a burning branch. He tossed it into the Blades' tent. Denri gave him an impressed look.
+__One more thing.__ Hattori landed near the fire and pulled out a burning branch. He tossed it into the Blades' tent. Denri gave him an impressed look.
 
 Then they ran away.
 
@@ -541,11 +541,11 @@ Eizo and the sage both spoke at once. "Bad news."
 
 Denri paused. "Actually, the bad news makes no sense without the good news. I don't know why I asked."
 
-_We have destroyed the sensing device._
+__We have destroyed the sensing device.__
 
 Denri turned to Hattori and gave him an angry look. "Really? You're just going to snipe my news like that? You barely even _did_ anything in the fight!"
 
-_You were rambling._
+__You were rambling.__
 
 Denri turned back to the group with a sigh. "Well there you have it. No big dramatic reveal. Mission accomplished. They shouldn't be able to follow."
 
@@ -563,7 +563,7 @@ She wouldn't have thought it possible, but Eizo's back straightened even further
 
 "How did you manage to escape?"
 
-_Denri's resonance proved quite useful._
+__Denri's resonance proved quite useful.__
 
 Denri scoffed. "Understatement!" She turned to Aki. "You shoulda seen me! First I was throwing metal all over the place like _nyow_, _nyow_!" She threw her arms from left to right, reenacting the path of the projectiles.
 
