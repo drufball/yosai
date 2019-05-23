@@ -220,41 +220,39 @@ Ki looked sideways at Eizo. "I don't want to interfere with your training, but i
 
 "That's a very generous offer, but unfortunately we'll have to decline. We were hoping to find passage on a ship as soon as possible." Aki's shoulders slumped.
 
-<KIYOSHI BECOMES MORE STERN. REVEALS WHO SHE IS AND SAYS "CAN'T JUST LET A BUNCH OF UNKNOWNS LIKE YOU ENTER MY TOWN" LET'S FIGHT>
-
 Ki's face took on a slight frown, looking more stern. "Well, see, that leaves me with a bit of a problem."
 
 Eizo's hand returned to his sword, sensing the sudden shift in Ki's tone. "What problem is that?"
 
 "Well, you lot are clearly lying. You say you aren't Heroes, but you made your way across half the continent and you've got at least two resonants in your party. Not to mention whatever training it is writ all over you and the way you move.
 
-"You all seem like nice folks. I don't mind one bit sharing some knowledge and helping you out, in exchange for letting me get a sense for what you can do. But you want to make a straight shot into my town, with who knows what kind of powers and what kind of motivations. So, one more time, do you want to tell me a bit more about yourselves? Or let me test your strength?"
+"You all seem like nice folks. I don't mind one bit sharing some knowledge and helping you out, in exchange for letting me get a sense for what you can do. But you want to make a straight shot into my town, with who knows what kind of powers and what kind of motivations. So, one more time, do you want to tell me a bit more about yourselves?"
 
 Denri felt a pit of fear form in her stomach. It seemed as though Ki suddenly loomed much taller. Only Eizo seemed able to hold his ground, though his hand tightened on his blade. He spoke carefully.
 
-"I assure you, we are not Heroes and we mean your town no harm. If you are truly worried about our intentions, you are welcome to alert the authorities and they can watch as we do nothing but charter a ship and leave. Otherwise, I'm afraid we are done here."
+"I assure you, we are not Heroes and we mean your town no harm. If you are truly worried about our intentions, you are welcome to alert the authorities and they can watch us until we charter a ship and leave. Otherwise, I'm afraid we are done here."
 
-Ki shook her head, muttering to herself. "I don't like when things go this way. I really do just want to help you all along on your way. Once we make it official, my hands are tied." She looked Eizo square in the face, unblinking.
+Ki shook her head, muttering to herself. "I don't like when things go this way. I really do just want to help you all along your way. Once we make it official, my hands are tied." She looked Eizo square in the face, unblinking.
 
-"I think you misunderstood what I meant by 'my town'. Perhaps a more clear way of putting it is 'my domain'. My full name is Kiyoshi of the Whispers, and in the name of the Grand Tournament, I issue a challenge."
+"I think you misunderstood what I meant by 'my town'. Perhaps a more clear way of putting it is 'my domain'. My full name is Kiyoshi of the Whispers, and if you won't tell me any more, then I offer a formal challenge."
 
-Eizo took a step back his eyes widening. "I am sorry, I had no idea we were dealing with this town's Champion. My apologies for my insolence before."
+Eizo took a step back, his eyes widening. "I am sorry, I had no idea we were dealing with this town's Champion. My apologies for my insolence before."
 
-"I ask you formally now. What are your bounties?"
+"A bit late for that now. So I ask formally, What are your bounties?"
 
 Eizo raised a hand in a placating gesture. "We really don't have bounties. Please, if you are adamant that we not enter your town untested, we will be on our way. We can find another port."
 
-Seeing Eizo lose his composure only heightened the fear budding in Denri's stomach. But why was she so afraid? She turned back to Kiyoshi. Without moving, the woman's posture had somehow taken a dark, ominous tone.
+Eizo's loss of composure only heightened the fear budding in Denri's stomach. But why was she so afraid? She turned back to Kiyoshi. Without moving, the woman's posture had somehow taken a dark, ominous tone.
 
-Denri bristled. "Champion or not, I don't appreciate you trying to put fear in my head."
+Denri bristled. "Champion or not, I don't like you putting fear in my head."
 
-Kiyoshi cocked her head towards Denri. "I do not put fear inside your head, I only bring out what is already there."
+Kiyoshi smiled humorlessly. "I don't put fear in your head, I only bring out what's already there."
 
 "Denri, watch yourself. We are leaving."
 
-Denri looked over her shoulder at the wilderness behind them. Her heart sank at the thought of another night shivering in the darkness. She turned back toward Kiyoshi, her jaw thrust forward.
+Denri looked over her shoulder at the wilderness behind them. Her heart sank at the thought of another night shivering in the darkness. Maybe Kiyoshi was right. Maybe fear was at her center.
 
-"You think I'm afraid? I hope you don't mind being proven wrong. I accept your challenge."
+Denri turned back toward the Champion, her jaw thrust forward. "I accept your challenge."
 
 <br />
 
@@ -268,55 +266,185 @@ Kiyoshi and Denri stood facing one another across a rice paddy, water coming to 
 
 Denri looked to Eizo. "You said go big, right?"
 
-He shook his head violently. "You are not even remotely ready to take on a Champion. You must set the smallest terms possible. This foolishness has cost you your chance to set a high bounty."
+He shook his head violently. "You are not even remotely ready to take on a Champion. You must set the smallest terms possible. You'll have to raise your bounty slowly."
 
-"Right, big it is." Denri turned back to Kiyoshi before Eizo could protest. "If I win, you let us into your town with no more questions asked. And from now on, you have to give us a place to stay and your protection if we request it."
+"Right, big it is." Denri turned back to Kiyoshi before he could protest. "If I win, you let us into your town with no more questions asked." Denri held a finger to her chin thoughtfully. "And you have to give us a place to stay and your protection if we request it in the future. Guaranteed safe harbor."
 
 Kiyoshi raised an eyebrow. "Well then. That's quite the request. If I win, then, you all must let me look through your heads until I am satisfied. And if I find something that threatens my town, you all will become my prisoners."
 
-"Fair enough."
+"Fair enough." Denri wondered if Eizo would actually honor that deal if she lost. Or whether he would have a choice.
 
-<HATTORI REVEALS HIMSELF>
+__If Aki's freedom is at stake, then I am honor bound to fight as well.__
 
-<FIGHT. KIYOSHI ASKS FOR AKI AS TERMS. HATTORI REVEALS SELF (USE SOME DIALOG FROM BELOW) KIYOSHI FEEDS OFF OF DENRI'S FEAR OF MONSTERS (TURNS HER AGAINST HATTORI). DENRI OVERCOMES WHILE FIGHTING WITH HATTORI. HATTORI STAYS.>
-
-"No worry, just thought I'd offer." Ki clapped her hands together. "Well, I've kept you all standing around long enough. You seem like good people, so don't let me keep you any longer. Feel free to swing by if you change your mind. You know where to find me."
-
-The group said their goodbyes and started along the trail toward the town. They made it a few steps before they realized Hattori was still standing in place.
-
-__Perhaps you could train me?__
-
-Eizo turned sharply towards Hattori, but Ki seemed unsurprised. "I was wondering if you were going to say anything."
+Eizo turned sharply towards Hattori. Ki seemed unsurprised. "I was wondering when you were going to say something."
 
 __You knew?__
 
-She nodded. "I didn't want to pry any more than I needed to get a sense of your intentions. But I could feel your awareness brushing up against mine throughout the conversation."
+She nodded. "I could feel your awareness brushing up against mine throughout the conversation."
 
-__I'm sorry. I didn't realize.__
+__I didn't realize.__
 
-"No need for apologies. It takes a fair bit of training to direct and mask your attention enough that other mind resonants can't feel it. To be honest, I was surprised by how well Aki concealed herself for someone so inexperienced."
+"I thought not. It takes a fair bit of training to mask your attention enough that other mind resonants can't feel it. To be honest, I was surprised by how well the young one concealed herself given her inexperience."
 
-Eizo looked at Ki with narrowed eyes. "You do not seem surprised by Hattori's abilities."
+__And you are not surprised by my ability?__
 
-She shrugged. "It's weird for a tengu, sure. But there are plenty of monsters the gods made with soul resonance. Maybe Ninigi's tinkering a bit. So long as I don't sense any ill will, I don't mind if he's different."
+She shrugged. "It's weird for a tengu, sure. But I'll have plenty of time to get my questions answered when I'm looking through your minds. Your welcome to join the fight."
 
-Aki walked back to Hattori. "She can't train you, Eizo just said we have to keep going."
+Hattori stepped off the path into the rice paddy beside Denri. They nodded to each other and turned back towards the Champion.
 
-__I was thinking I could stay, if Ki is willing.__
+Eizo sat formally with his legs beneath himself. He looked to be lost in though. Probably thinking of contingency plans.
 
-Aki looked hurt. "You don't want to stay with us? Is it because I got mad at your for hiding in the tree?"
+"Alright, now I know the stakes I've got a sense for about how hard to go. Let's begin."
 
-__I do want to stay with you, mistress.__ Hattori looked down at his hands. __But I want to get stronger like you and Denri. I want to understand what I am becoming.__
+Denri staggered, her heart no longer beating in her chest. She fell to her hands and knees, vision swimming as she stared at the ground. Muddy water concealing her hands and reflecting the sky above her dully. She screwed her eyes shut and drew a desperate, panicked breath.
 
-Aki shook her head, tears spilling down her cheeks. "That's dumb! You're _becoming_ part of our family. I'm sorry I haven't been helping you practice too. Next time we play I can hide and you can look for me."
+Air returned in a ragged, tearing gasp. With it, her sensations returned to normal. She coughed, breathing heavily. She stared at the ground as she tried to recover.
 
-Hattori shook his head. __Eizo says we can't draw attention to ourselves yet. People will notice my presence if I go into town. But I can rejoin you when you return. It won't be that long. And perhaps I will learn something to teach you as well.__ Hattori turned back to Ki. __Would you accept me as a student for a time?__
+Kiyoshi's voice rang out in front of her. "I'm impressed you managed to resist. Your friend, unfortunately... well, monsters have always been easier to control. Violence is already in their nature."
+
+Denri stood, her hands shaking. She turned to Hattori, already knowing what she would see. The white tengu stood facing her, his eyes distant, his body crouched menacingly.
+
+"Hattori, snap out of it!"
+
+A wild screech filled her mind as the tengu flexed his arms at his sides. Talons extended from his fingertips. Denri took a step back. She knew his body was still changing from Aki's awakening, but this was...
+
+"Aki! Is there something you can do? You're still connected to him! Force Kiyoshi out."
+
+Silence. Denri looked behind her and saw both Eizo and Aki laying unconscious on the path.
+
+"The battle's just begun, and you're already asking for help? And what could the girl even do? Not a good sign. You're on your own, Denri."
+
+Hattori leapt to the air, water droplets flying from his feet. He screeched again and dove towards her, the strength of his mental cry forcing Denri to hold the sides of her head. Overwhelmed, it was all she could do to throw herself to the ground and avoid his taloned feat.
+
+She rolled through the water, dragging her hands through the mud to bring herself to a stop. She sent a pulse of energy through the water, but Hattori leapt into the air before it could reach him.
+
+"A storm-bringer. Rare. Though not so surprising for a flit, I guess."
+
+Hattori flew at her again, but this time Denri managed to sidestep his taloned feet and get a hand on his side. His body tensed as she hit him with a burst. But before she could pull away, he spun around and raked his new claws across her arm, drawing blood.
+
+Denri flared the energy in her hand and Hattori's body went rigid, collapsing into the water. Before he could stand, Denri leapt over him and ran towards Kiyoshi.
+
+"Well done. But you don't think that's the only defense I have, do you?" Kiyoshi raised a hand, fingers dangling like a puppet master. The water in front of Denri shimmered and rose, taking the form of a massive, translucent snake. The remnants of rice plants and water insects floated inside its body.
+
+Kiyoshi raised her other hand, directing it towards the woods by the field. Snarling and snapping filled the air as two weasels, each as large as Denri, burst from the trees, their bodies wreathed in flame. A hissing steam erupted as they leapt into the water.
+
+Denri shrank back as the creatures approached. She turned, only to see Hattori rise from the water, his screech filling her mind once more. She could feel her heart beating in her throat.
+
+She spun, crying out in fear as she arced electricity in all directions, trying to keep the monsters back. Except the energy didn't come. A feeble stutter of sparks slipped off her fingers. Denri looked at her hands in dismay. "No! What's happening?"
+
+Denri felt a searing heat against her shoulder as one of the weasels knocked her to the ground, muddy water filling her eyes and mouth. Denri clambered forward through the water, unable to see or hear as she coughed and scraped the water from her face. She pulled lightning into her body and leapt desperately, trying to get away.
+
+But she did not jump far. The surge of strength left her quickly, panic overwhelming her resonance. Denri pulled herself up the edge of the rice paddy, coughing up water. The monsters turned and began approaching again.
+
+"My, my. An adept even. No wonder you were confident."
+
+Denri tuned Kiyoshi out. She had to get the fear under control or she was dead. What did Eizo say? She willed herself to see the monsters for what they were.
+
+The weasels were nothing but flesh. Just bigger versions of creatures she had seen countless times. Their fur was no different than normal fur. And their claws. And teeth. And flames wreathing their bodies.
+
+Denri grabbed her head. Calm down!
+
+A thick tendril of water snapped out, grabbing her foot and pulling her bodily back into the water. Denri's cry was cut short as she was dragged through the muddy water.
+
+She came to a stop at Hattori's feet, the water snake pinning her legs and torso. The weasels held her wrists, their claws painfully hot. Denri sent an energy pulse all around her. Nothing more than a few sparks danced across her body.
+
+Hattori flexed his hands, talons out. He took a step towards her.
+
+Denri's mind raced a thousand miles. She forced a deep breath. Hattori was a crow tengu. Eizo broke his arm and Aki healed him. He was not invincible.
+
+Hattori knelt down. He reached for her neck.
+
+She had trained with him. He was clumsy with his feet, easy to knock off balance. Denri had beat him many times. He was just feathers and flesh and blood. Nothing made him stronger or faster than her.
+
+His talons wrapped around her throat, she felt the sharp points digging into her skin, drawing blood. Denri closed her eyes.
+
+He was not some inexorable force. He was frustrated when he couldn't fight with his brothers. He was hurt when his village no longer saw him as a tengu. He was lonely and afraid, uncertain of what he had become, which part of himself was real.
+
+Just like her.
+
+Denri took a deep breath. Her eyes snapped open, shining blue as lighting erupted from her hands. It crackled and tore across the water, seeming to rip the air apart around her.
+
+She blinked, and she was standing, lightning arcing wildly off her body. The monsters were gone. Her body was clean and dry, the water of the rice paddy placid around her ankles.
+
+To her right, Hattori knelt in the water, his beak touched to his chest and his eyes closed. His body twitched randomly.
+
+"Yes! Keep fighting, Denri. Get up!" Aki called from behind them, her voice full of frustration.
+
+Realization struck her all at once. She turned back to Kiyoshi, quieting the lightning that danced across her body. "None of it was real?"
+
+Kiyoshi stood, arms crossed and smirking. "It is Kiyoshi of the _Whispers_ after all." She threw up her hands. "The challenge was to overcome your fears and escape, and you did. A little melodramatically, but a win is a win. Well, half a win."
+
+Kiyoshi raised her hand in a vicious looking claw, pointing at Hattori. Denri didn't know what would happen, but it didn't look good for the tengu. She raised her hand and shot a bolt of lightning at the Champion.
+
+It passed straight through Kiyoshi's chest. Her form shimmered and faded. Movement caught Denri's eye to her right, behind Hattori.
+
+"You didn't think I only had the _one_ trick, did you?" Kiyoshi materialized from the air, aiming a knife at Hattori's back.
+
+Without thinking, Denri filled her legs with lightning and jumped. She collided with Hattori, pushing him away as Kiyoshi's struck. She felt the agonizing burn as the metal pierced her skin. Felt the cold dread as she saw the blade bury itself to the hilt in her heart.
+
+And then the blade was gone. Kiyoshi was holding her by the front of her shirt, pulling her out of the water of the paddy. Her chest still burned, her head and arms felt tingly and brittle. She flailed away from the Champion.
+
+"Whoa! Easy there. Your body's OK, but a hit like that is going to leave your head pretty shaky for a while."
+
+Denri staggered back, eyes white and wild. Hattori was pulling himself up from the water slowly.
+
+Kiyoshi's eyes scrunched closed as she smiled. "Congratulations, you won."
+
+<br />
+
+---
+<br />
+<br />
+
+Denri sat with a blanket around her shoulders. Every few minutes she flailed around with her hands, proving to herself the world was real.
+
+They sat around a table in Kiyoshi's modest home. It was a single room, with a wood stove and several jars of pickled winter vegetables on one side. A straw bed filled the opposite wall. Not what Denri would have expected for the home of a Champion.
+
+Kiyoshi handed her a cup of tea. "For what it's worth, I was rooting for you."
+
+Denri looked at her with mouth open. "_That_ was rooting for me?"
+
+"I said I didn't want to handle it officially. Once a challenge has been made I can't hold back. But the world is dangerous. More than once my people have been hurt trusting folks just because they had a nice face. I had to be certain."
+
+Aki made a face. "You're just saying that because we won and you have to let us in anyways!"
+
+Kiyoshi laughed. "Well, that's only partly right. True, Denri won--"
+
+__But I failed.__
+
+Kiyoshi nodded. "By right, I could collect the terms against Hattori. And since he said he was fighting on behalf of Aki, I could examine both your minds."
+
+The Champion held up a hand before they could say anything else. "But! The way Denri handled her fears, finding common ground and then taking a knife for someone, I figure I don't have anything to worry about. I'm satisfied."
+
+There was a long silence. Hattori stared toward the table.
+
+__I am sorry that I put us at risk.__
+
+Denri watched him. She could read the doubt written in his slumped shoulders. He had been standing up for them. Trying to prove his worth. Not to them, but himself.
+
+The tengu's expressions didn't seem so alien anymore.
+
+Denri clapped his shoulder, putting on a smile. "Being completely honest, I didn't really break out. I had no idea it was an illusion. Even once I escaped, I still fell for her fake image and the fake knife. I just got lucky that the fear made my powers stop working and I had a reason to try to calm down. Dumb luck."
+
+__Still. I was not strong enough to help.__ The tengu was silent for a long moment before he turned his eyes on Kiyoshi. __You offered to train Aki, but perhaps you would train me instead?__
+
+Aki was the first to speak. "She can't train you, Eizo said we have to keep going."
+
+__I was thinking I could stay behind, if Kiyoshi is willing.__
+
+Aki looked hurt. "Are you mad because I yelled at you for hiding in the tree?"
+
+__I am not mad, mistress.__ Hattori looked down at his hands. __But I want to get stronger so that I can help us. I want to understand what I am becoming.__
+
+Aki shook her head, tears spilling down her cheeks. "That's dumb! You're part of our family. I'm sorry I haven't been helping you practice too. Next time we play I can hide and you can look for me."
+
+Hattori shook his head. __People will notice my presence if I go into Sky Furnace. But I can rejoin you when you return. It won't be that long. And perhaps I will learn something to teach you as well.__ Hattori turned back to Kiyoshi. __Would you accept me as a student for a time?__
 
 "Sure, I figure if I could spare time for the girl I could spare time for you just as well. You're gonna have to help around the fields though."
 
-Hattori bowed deeply to Ki. __Yes, I am happy to help with your daily work. Thank you.__
+Hattori bowed his head. __Yes, I am happy to help with your daily work. Thank you.__
 
-"No need to thank. It'll be interesting." Ki chuckled. "Who's ever heard of a tengu helping around the house?"
+"No need to thank. It'll be interesting." Kiyoshi chuckled. "Who's ever heard of a tengu helping around the house?"
 
 Hattori turned back to the group. __I will wait here while you all explore Sky Furnace. If you cannot return to this town directly, Aki should be able to let me know.__
 
@@ -324,11 +452,9 @@ Aki looked at Hattori, her expression fragile. "You promise you're not trying to
 
 Hattori pressed his forehead against hers. __I promise.__ She nodded weakly.
 
-Eizo took a step forward and held out his hand. "If all goes well, you won't have much time. Train hard." As Hattori shook, Eizo held his gaze for a moment. "And stay guarded." The tengu nodded.
+Eizo stood from the table. "We had best take our leave." He held his hand out to Hattori. "If all goes well, you won't have much time. Train hard." As Hattori shook, Eizo held his gaze for a moment. "And stay guarded." The tengu nodded.
 
-Aki elbowed Denri in the side, nudging her towards the tengu.
-
-"I, uh... I'll see you around."
+Tears were flowing freely down Aki's cheeks as she wrapped her arms around the tengu's neck. When she was done, he turned to Denri.
 
 __When you return, I hope to be a better match in our training sessions.__
 
@@ -336,7 +462,7 @@ Denri nodded. "I'm still going to hit you in the face, but it would be nice if i
 
 "Denri!"
 
-"What! We're being manly. He gets it." Denri turned back to Hattori and shook his hand. "Good luck."
+"What! We're being manly. He gets it." Denri turned back to Hattori and gave him a quick hug. "Good luck."
 
 <br />
 
