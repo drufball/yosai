@@ -598,3 +598,5 @@ Aki brightened. "So that means we can join the Tournament!" She clapped her hand
 Denri clapped her shoulder. "That's one way to look at it, I guess."
 
 Eizo shook his head. "The Tournament might be our only way to make the gods play fair, but we can't just join. Once people know what the two of you can do, _everyone_ is going to come at us with _everything_. We won't be safe until we win."
+
+**You can read the next story in this series [here](https://yosai.world/compendium/tournament/whispers/).**
