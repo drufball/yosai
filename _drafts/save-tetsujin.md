@@ -1,41 +1,42 @@
-<br />
----
-<br />
-<br />
+Eizo was right about the chaos. Crews were running around barking orders so loud it was hard for Denri to hear her own thoughts. If the docks hadn't been mostly full of flits, she probably would have been trampled. It was wonderful.
 
-Eizo was right about the chaos. Crews were running around barking orders so loud it was hard for Denri to hear her own thoughts. If the docks hadn't been mostly full of flits, she probably would have been trampled.
+Captain Hama had docked midway down the right side of Kazora's crescent-bay port, forcing them to walk a ways through the docks. Denri was out ahead, swaggering forward with the unsteady, bow-legged gait of a long time sailor back on land. She grinned, catcalling the younger boys she saw darting into ships just like her mom always used to.
 
-They managed to haggle a set of masks off a kid sitting on a crate near edge of the docks. Aki was disappointed that they all depicted a stylized dragon with a blank expression. At least there was some selection of colors.
+Aki and Eizo plodded along behind her. Eizo scanning the crowd with his hand on his sword. Aki staring at Denri with wide eyes and mouth agape.
 
-The only way off the docks and up to the city was a large cable at the back of the port. A large, metal and glass sphere lumbered up and down the tether. Their group was shoved unceremoniously into the transport when it was their turn.
+They haggled a set of masks off a kid sitting on a crate near a particularly battered hot-iron. Aki was disappointed when the only options depicted a stylized dragon with a blank expression. But at least there was some selection of colors.
+
+The only way off the docks and up to the city was a large cable at the back of the port. A glass sphere the size of several carts lumbered up and down the tether. They were shoved unceremoniously into the transport when it was their turn.
 
 Denri squirmed her way through the crowd of passengers and pressed her face against the glass for one last look below. She smiled at the frenetic energy of the sailors crawling over their ships.
 
 The trip had been too short, but Denri made a resolution to herself. Somehow, before this was all over, she was going to get a boat.
 
-As she was fantasizing about the kind of boat she wanted, a flurry of activity caught Denri's eye. On the the far right side of the crescent bay, a ship was being unloaded with unusual energy. The crew was tugging at a number of large crates, stumbling over one another in their haste.
+As she was fantasizing about a life at sea, a flurry of activity caught Denri's eye. On the the far left side of the crescent bay, a ship was being unloaded with unusual energy. The crew was tugging at a number of large crates, stumbling over one another in their haste.
 
-They were dragging three crates bigger than a wagon towards an open flat of rock at the end of the docks. Judging by the number of people and the effort they were expending, the crates were unimaginably heavy. A man stood at the bow of the boat, calling down orders to the crew and thrusting a panicked finger towards the top of the volcano.
+They were dragging three crates bigger than a wagon towards an open flat of rock at the end of the docks. Judging by the number of people and the effort required, the crates were unimaginably heavy. A man stood at the bow of the boat, calling down orders to the crew and thrusting a panicked finger towards the top of the volcano.
 
-The sphere that Denri and the others were riding up to Sky Furnace began to rumble. Weakly at first, but soon there was a steady vibration running up the cable and shaking the windows in their frames. Everyone on the docks paused and looked up. Several crews ran to help the sailors struggling with the crates.
+The sphere that Denri and the others were riding began to rumble. Weakly at first, but soon there was a steady vibration running up the cable and shaking the glass in its frames. Everyone on the docks paused and looked up. Several crews ran to help the sailors struggling with the crates.
 
 "Uh... guys...?"
 
-Before Denri could get any further, there was a loud crash as a small plume of rock and lava erupted from the top of the mountain. A 50 foot long, serpentine form emerged from the spray. Black-grey scales glistened in the soft red glow as the iron dragon uncoiled from the pools of lava and swam into the sky, heavy rivulets of molten stone dripping from its back and claws.
+Before Denri could get any further, there was a loud crash as a small plume of rock and lava erupted from the top of the mountain as a 50 foot long, serpentine form emerged from the spray.
+
+Black-grey scales glistened in the soft red glow as the iron dragon uncoiled from the pools of lava and swam into the sky, heavy rivulets of molten stone dripping from its back and claws.
 
 Denri felt her stomach grow cold as the creature snaked down to the docks. The whiskers on either side of its face snapping back and forth as it tasted the air. Denri pressed back against the people behind her, who were craning to see below. For some reason the fools were chattering excitedly.
 
 "I didn't know there was a Gifting today. I've never seen Tetsujin emerge before!"
 
-"Isn't he splendid? They say no one but the Twins has seen him up close."
+"Isn't he splendid? They say no one but the Twins can command him."
 
-The crew below had finally managed to pull the crates onto the flat stone area, though they were still a ways from the center. As they saw Tetsujin approach, the men and women dropped their leads and fled back to their ship.
+The crew below had finally wrestled the crates onto the flat stone area, though they were still a ways from the center. As they saw Tetsujin approach, the men and women dropped their leads and fled back to their ship.
 
-Tetsujin's body coiled around the crates like a mother protecting her children. His head reared up and a gout of silver-gold flame erupted from his mouth, blanketing the crates. The wood caught instantly, burning away before Denri could blink.
+Tetsujin's body coiled around the crates like a mother protecting her children. His head reared up and a gout of silver flame erupted from his mouth, blanketing the crates. The wood caught instantly, burning away before Denri could blink.
 
-Within, were countless iron ingots that soon glowed with their own heat. The bars began to melt. Liquid iron spilling over Tetsujin's body, dripping from his scales. To Denri's horror, a laugh like crackling flame washed up from the dragon as he plunged his body into the molten iron.
+Within were countless iron ingots. They soon glowed with their own heat and began to melt, liquid iron spilling over Tetsujin's body, dripping from his scales. To Denri's horror, a laugh like crackling flame washed up from the dragon as he plunged his body into the molten ore.
 
-When he emerged, Tetsujin was gleaming. The iron had fused with his scales, turning him a pure silver, yet his body still moved with the supple undulations of a snake. The iron dragon made one final circle over the docks before he turned back to the mouth of the volcano. Denri's body shook as she watched the dragons talons, now shining metal blades, disappear beneath the surface of the lava.
+When he emerged, Tetsujin was gleaming. The iron had fused with his scales, turning him a pure silver, yet his body still moved with the supple undulations of a snake. He made one final circle over the docks before he turned back to the mouth of the volcano. Denri's body shook as she watched the dragon's talons, now shining metal blades, disappear beneath the surface of the lava.
 
 She pressed her way back through the crowd until she found Eizo and Aki. "Th-that thing lives beneath them?"
 
@@ -43,15 +44,15 @@ Aki still stared towards place where Tetsujin disappeared, her eyes alight. "He 
 
 "Beautiful! That thing is a monster! It's not safe here."
 
-A woman in a dragon mask - Denri suddenly understood the imagery - looked down at Denri and spoke in a soothing tone. "Do not worry, child. Testujin has lived in Kazora for over 300 years without issue. He is the Twins' greatest ally. The heat he generates is what keeps the city aloft!"
+A woman in a dragon mask - Denri suddenly understood the imagery - looked down at Denri and spoke in a soothing tone. "Do not worry, child. Tetsujin has lived in Kazora for over 300 years without issue. He serves the Twins without question. The heat he generates is what keeps the city aloft!"
 
 Eizo's hand rested on her shoulder. "Remember, focus on what it _is_, not what your mind fears it to be."
 
-Denri nodded queasily. Right. Not a dragon. Just a lump of scaly flesh. A _big_ lump of scaly, muscly flesh. With talons. And teeth. And fire breath. That bathes in molten iron.
+Denri nodded queasily. Right. Not a dragon. Just a lump of scaly flesh. A _big_ lump of scaly, muscly flesh. She took a deep breath. He served the Twins, so he could be beaten. His teeth and talons were bone, just like her. The metal coating his body was the same as Eizo's sword.
 
-<DENRI PROCESSES THIS A BIT BETTER USING EIZO'S TECHNIQUE>
+Denri swallowed hard and looked towards Sky Furnace as it approached from above. Her breathing slowed, though her chest remained tight and her cheeks hot. Tetsujin was frightening, but he was a creature like any other. They had no business with him, and he had no reason to single them out.
 
-Denri swallowed hard and looked towards Sky Furnace as it approached from above. This mission couldn't be over soon enough.
+<AKI ASKS ABOUT TETSUJIN BEING BOUND AND GETS MAD>
 
 <br />
 
