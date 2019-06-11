@@ -1,68 +1,74 @@
-The child's scream cut off, disappearing so suddenly it felt like missing a step. The pained cry echoed off the walls before fading into silence.
+The boy's scream cut off, jarring like a missed step. His pain echoed off the walls before fading into silence.
 
-Moto and Keta locked eyes. "Do you think that was--?"
+Moto and Keta locked eyes. "Do you think--?"
 
-They winced as an entire den full of spiders screeched in response. The sound stabbed at their ears, so high-pitched it was almost inaudible. It wasn't long before they would hear the chaotic drum line of spider legs racing towards them.
+A den full of spiders screeched in response, a knife-edged chittering stabbing at their ears. The chaotic drum line of approaching spider legs followed.
 
-"The kid! We've got to get to him before anything happens."
+"The kid! We've got to get to him."
 
 Keta nodded, then turned to the people he had freed from the webs. "We must go now. Hide here until you hear fighting, then run."
 
-Moto and Keta ran from the room without waiting to see how the prisoners reacted. They already took a huge risk rescuing them from the spiders in the first place. As far as he was concerned, they could handle the rest.
+They ran from the room without waiting to see how the prisoners responded. They had already done more for the prisoners than they needed to.
 
-Moto pulled the shutter all the way open on the lantern as they raced down the hallway. Their footsteps rang out against the stone as they worked their way back to the intersection. There was a loud snap as Keta crashed through one of the web trip wires stretched across the hall. No time left for caution.
+Moto pulled the shuttered lantern fully open as they raced down the hallway. Their footsteps rang against the stone as they retraced their steps. There was a loud _snap_ as Keta broke through one of the alarm webs stretched across the hall. No time left for caution.
 
-What went wrong? They killed the spiders fast and quiet, just like Moto planned. Did a spider escape? But the scream started the instant he killed the light spider. The timing was too perfect to be a coincidence. Somehow the other spiders knew when it died. This was revenge.
+What went wrong? They killed the spiders fast and quiet, just like Moto planned. Did a spider escape? But the scream began the instant he killed the light spider. The timing was too perfect to be a coincidence. Somehow the other spiders knew when it died.
 
-They never should have interfered with the other prisoners. He pushed the thought aside. There would be time for berating himself later. Now they had to focus.
+This was revenge. They never should have sidetracked to help the prisoners.
 
-Keta slid to a halt at the intersection they passed through earlier. He looked down the tunnel to the right, towards the exit. The sound of skittering legs bounced down the hallway. A thousand dice being tossed to decide their fate.
+He pushed the thought aside. There would be time for berating himself later. Focus.
+
+Keta slid to a halt at the intersection they passed through earlier and looked towards the exit. The sound of skittering legs bounced down the hallway. A thousand dice tossed to decide their fate.
 
 "I could collapse the tunnel." Keta balled his hand into a fist.
 
-Moto grabbed his wrist. "No. We don't know what to expect further in. We may need Iruka and Fumi's help down there more than we need them to handle the spiders at the front."
+Moto grabbed his wrist. "No. We don't know what's further in. We may need Iruka and Fumi's help more than we need to hold off those spiders."
 
-They continued left, their strides lengthening nearly out of control as the tunnel turned down sharply. Moto pulled on the walls and floor behind him to keep from falling forward. Keta's steps looked as much like leaping and falling as they did like running.
+They continued left, their strides lengthening out of control as the tunnel steepened sharply. Moto pulled on the tunnel behind him to keep from falling forward. Keta's steps were a mixture of leaping and falling.
 
-They took a sharp corner at full speed, Moto pulling against the inside wall and swinging around like a stone in a sling. Keta let his momentum carry him up the outside wall of the turn, diving off the stone into a forward roll in order to change direction.
+They took a sharp corner at full speed, Moto pulling on the inside wall and swinging around like a stone in a sling. Keta ran up the outside wall of the turn, diving off the stone into a forward roll.
 
-On the other side of the bend, the way was completely blocked with webs. At the speed they were moving, there was no time to stop. Moto threw his arms over his face and pulled on the walls in front of him. His body accelerated as he tried to punch through.
+On the other side of the bend, the way was completely blocked with webs. There was no time to stop. Moto threw his arms over his face and pulled on the walls in front, accelerating as he tried to punch through.
 
-He felt the stuttering pull of webs clinging then breaking under his momentum. He was slowing at an alarming rate. There was a sharp tug against his shoulder as a web finally managed to hold, spinning him around.
+He felt the stuttering pull of webs clinging then breaking under his momentum. But the trap stretched further into the tunnel than he expected. There was a sharp tug against his shoulder as a web finally held, spinning him around.
 
-He barely had time to realize he was stuck before Keta crashed into him, arms wrapping around Moto's waist. There was a final lurch as the webs gave way and then they were falling through the air.
+He barely registered he was stuck before Keta crashed into him, arms wrapping around his waist. There was a final lurch as the webs gave way and then they were falling through the air.
 
-They kept falling. With a curse, Moto realized they had gone off another cliff. He pulled against the ceiling desperately, trying to stop their descent. But it had taken him too long to act. He wasn't strong enough to catch their full weight this far from the ceiling. All he could do was soften the blow.
+They kept falling.
 
-They landed hard. Air shot out of Moto's lungs in a ragged wheeze as he took the brunt of the impact beneath Keta. His head snapped against stone and swirls of light danced across his vision. Keta bounced off of Moto, landing heavily a few feet away.
+With a curse, Moto realized they had gone off another cliff. He pulled against the ceiling desperately, trying to stop their descent. But he had waited too long. He wasn't strong enough to catch their full weight this far from the ceiling. All he could do was soften the blow.
 
-Moto groaned weakly, panic taking his mind as he tried and failed to breathe. He rocked onto his side and vomited. A sharp pain in his side told him at least one rib was broken.
+Air wheezed out of Moto's lungs as he took the brunt of the impact beneath Keta. His head snapped against stone and swirls of light danced across his vision. Keta bounced off, landing heavily a few feet away.
 
-Focus. Moto gritted his teeth and pressed himself into a sitting position. He shook his head to clear it, but that only set his vision spinning worse. He pressed his back against the rough stone wall and staggered to his feet.
+Moto groaned, panic taking his mind as he tried and failed to breathe. He rocked onto his side and vomited. A sharp pain in his side told him at least one rib was broken.
 
-They were standing at the bottom of another pit. Smooth floor and grooves running up the walls suggested running water had carved it long ago. A flickering light filled the room, sending shadows dancing and spinning across the walls. Their lantern had cracked open from the fall, igniting a patch of webbing near the edge of the cavern. The shifting lights heightened Moto's instability.
+Focus. Moto gritted his teeth and pressed himself into a sitting position. He shook his head to clear it. That only set his vision spinning worse. He pressed his back against the rough stone wall steadying himself as he staggered to his feet.
 
-A few feet ahead, Keta remained prone. The shapeling struggled against a clump of webbing that stretched across the ground and held him fast. Moto took an unsteady step forward.
+They were standing at the bottom of another pit. The smooth floor and deep grooves running up the walls suggested running water long since dried.
+
+A flickering light filled the room, sending shadows dancing across the walls. Their lantern had cracked open from the fall, igniting a patch of webbing near the edge of the cavern. The shifting lights heightened Moto's instability.
+
+A few feet ahead, Keta struggled against a clump of webbing stretched across the ground that held him fast. Moto took an unsteady step forward.
 
 "S-Stay away!"
 
-The whimpering voice drew Moto's attention further into the cavern. A young boy was scrambling backwards across the stone, one hand held to his head. The boy's clothes were ripped and badly worn. His hands were black with dirt and dried blood, and his short black hair was plastered to his head with grime.
+The whimpering voice drew Moto's attention further into the cavern. A young boy scrambled backwards across the stone, one hand held to his head. His clothes were ripped and badly worn, hands black with dirt and dried blood. His short black hair was plastered to his head with grime.
 
-Swarming around the boy was a herd of jorogumo. The boy hardly noticed them as they skittered across his hands and legs, his gaze remaining fixed on Moto and Keta. He must have been bitten.
+Swarming around the boy was a herd of jorogumo. He hardly noticed as they skittered across his hands and legs, his gaze remaining fixed on Moto. He must have been bitten.
 
-Moto turned his attention back to Keta. He needed to get him free before those spiders attacked. But before he could move forward, the webbing around Keta shook violently. The shapeling cried out as a large gash opened along his shoulder.
+Moto turned his attention back to Keta. Before he could move to help, the webbing warped and the shapeling cried out as a large gash opened on his shoulder.
 
-There was a hiss of steam as Keta ripped his other arm free from the web and lashed out at the air. His hand stuttered as it connected with substance. Moto's vision flickered as a giant light spider resolved itself out of thin air. It hissed as it pulled back from Keta's blow, preparing to strike again.
+There was a hiss of steam as Keta ripped his other arm free and lashed at the air. His hand stuttered as it connected with substance. The air flickered and a giant light spider resolved out of thin air. It hissed and pulled back from Keta's blow, preparing to strike again.
 
-Moto cursed, he took two drunken steps forward, swaying wildly. There was no way he could make it to Keta in his current condition. He grabbed a stone from behind and launched it toward the spider. The world tilted beneath him as he tried to aim and the rock went wide. It crashed into the ground at the boy's feet, shattering.
+Moto took two drunken steps forward, swaying wildly. He fell back to the wall. There was no way he could walk in his current condition. He pulled a stone at his feet and launched it toward the spider. The world tilted beneath him and his aim went wide. The rock crashed into the ground at the boy's feet, shattering.
 
-The boy cried out in pain as shrapnel shot past, scoring deep wounds in his arms. He screamed again, his eyes wide and staring as he reached out to the spiders swarming around him.
+The boy cried out in pain as shrapnel shot past, scoring deep wounds in his arms. He screamed again, his eyes wide as he reached out to the spiders swarming around him.
 
-There was a blinding flash of light and Moto heard the spiders screeching, crying out as if being ripped apart.
+A blinding flash of light filled the room. Behind it, Moto could hear the spiders crying out as if being ripped apart.
 
-When the light faded, the boy was lying unmoving amongst a pile of broken spiders. But the spiders weren't dead. Their bodies twitched across the ground as their skin stretched and ripped. Their forms grew grotesquely as they squealed in pain. A white glow emanated from the rents in their skin.
+When the light faded, the boy lay unmoving amongst a pile of broken bodies. But the spiders weren't dead. They twitched across the ground as their skin stretched and ripped. Their forms grew grotesquely as they screeched in pain. A white glow emanated from the rents in their skin.
 
-Slowly, five new light spiders pulled themselves from the ground. They hissed at Moto and Keta, who struggled with the light spider attacking him. Then they vanished.
+Slowly, five new light spiders pulled themselves from the ground. They hissed at Moto and Keta. Then they vanished.
 
 <br />
 
