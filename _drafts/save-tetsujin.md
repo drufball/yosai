@@ -86,7 +86,7 @@ They stepped down from the lift platform and walked around the ticking house to 
 
 Eizo caught the attention of a local crossing perpendicular to them.
 
-"Greetings." The woman's response was deadpan, even compared to Eizo.
+"Hello." The woman's response was deadpan, even compared to Eizo.
 
 "We were hoping to find a fairly specialized piece of equipment. Could I trouble you for some directions?"
 
@@ -112,7 +112,7 @@ The woman bowed as she backed away, then turned stiffly and walked away.
 
 Denri looked to Eizo. She got the sense he should do the talking while they were here.
 
-"We were hoping to purchase some tracking equipment that we saw a group of Heroes using. We do not know who made the equipment, but we know it was made here."
+"We were hoping to purchase some tracking equipment that we saw a group of heroes using. We do not know who made the equipment, but we know it was made here."
 
 "There are several zeppelins currently docked that sell tracking equipment. They are scattered, though."
 
@@ -120,9 +120,9 @@ Denri looked to Eizo. She got the sense he should do the talking while they were
 
 "That won't be possible." Denri sighed and rolled her eyes, earning a sharp look from the Arbiter before he continued. "Zeppelins are not allowed to display their affiliations while in Sky Furnace, and you are likewise forbidden from asking. Neutrality is key to Sky Furnace's continued function."
 
-"Ah, I suppose that makes sense. A broader list is fine then. We don't mind walking. And a recommendation for a good inn while we search.
+"Ah, I suppose that makes sense. A broader list is fine then. We don't mind walking. And a recommendation for a good inn while we're searching."
 
-The guard made them a list of names and gave the general locations of each. "The Dragon's Den is just a platform away from the Hub Spring. It will be easiest if you navigate to and from the center for each shop. Outsiders are not advised to try navigating the rim platforms."
+The guard made them a list of names and gave the general locations of each. "The Dragon's Den is one platform away from the Hub Spring. It will be easiest if you navigate to and from the center for each shop. Outsiders are not advised to try navigating the rim platforms."
 
 Eizo nodded and thanked the man. They turned to make their way.
 
@@ -134,114 +134,106 @@ Eizo nodded and thanked the man. They turned to make their way.
 <br />
 <br />
 
-They followed the Arbiter's directions to the Dragon's Den and found themselves standing on a flat, grass-covered platform criss-crossed with steel-cobbled walkways and a few benches looking out over the edges. A large statue, two times Eizo's height, stood at the center. It depicted a dragon coiled around a mound of treasure, it's claws gripping a horse-sized ornate chest protectively.
+They followed the Arbiter's directions to the Dragon's Den and found themselves standing on a flat, grass-covered platform criss-crossed with steel-cobbled walkways and a few benches looking out over the edges. A large statue, two times Eizo's height, stood at the center depicting a dragon coiled around a mound of treasure. It's claws gripped a horse-sized ornate chest protectively.
 
 "Perhaps we made a wrong turn?"
 
-"I don't think so. He said it was next to the Hub Spring." Denri gestured to the adjacent platform, dominated by a circular fountain at it's center that shot a wide plume of water up and over the edges of the platform. The people walking beneath the spring wavered behind the sheets of water. "If that's not the Hub Spring then I officially give up on understanding this place."
+"I don't think so. He said it was next to the Hub Spring." Denri gestured to the adjacent zeppelin, dominated by a circular fountain at it's center that shot a wide plume of water up and over the edges of the platform. The people walking beneath the spring wavered behind the sheets of water. "If that's not the Hub Spring then I officially give up on understanding this place."
 
-<STOPPED WRITING HERE>
+They milled about the platform uncomfortably, meandering down the steel pathways as they watched for signs of another outsider who might know something they didn't. Eventually they came to rest in one of the benches at the edge of the zeppelin, chatting idly as they waited.
 
-They spent the day crossing back and forth across Sky Furnace. The arbiter hadn't been kidding when he said the shops were scattered. It was sweaty work, trekking through the heated air above the volcano. And every rumble or sudden shift of the platforms sent Denri's eye down to where the iron dragon slept.
+Eizo sat stiff-backed, though Denri wasn't sure if the tension was from spending time idly or from Onara. Immediately after sitting, the black cat had slinked down from her position atop Eizo's pack, stretching luxuriously and commandeering his lap.
 
-They were hoping for a lead. Whoever built the Blades' sensor had some understanding of how Aki's power worked. So far every shop they entered had nothing but fancy compasses and alarms. And there were only two shops left on their list.
+"OK, I have to know what the deal is with you and cats. Onara loves you, but you act like the 9-tails himself is curled across your lap. What gives?"
 
-Denri was getting impatient.
+"I have said before, I do not like cats."
 
-They stepped into the second to last shop as the sun was beginning to set. The room they entered was simple, a few tables evenly spaced across the room with items for sale neatly on display. A spiral metal staircase led up to a second floor at the back. There was no one there.
+Denri rolled her eyes, stretching out and placing her feet on the back of the bench near Eizo's shoulders. "Yeah, I've gathered as much. But why?" Denri flapped an arm at Aki. "Do you know anything?"
 
-"Maybe there's a bell or something to call--."
+The young girl was laying on the ground in front of the bench, near the edge of the platform. Her eyes were closed behind the mask and she didn't respond to the question. Denri pointed a finger at her toes and arced a small charge. Aki jumped.
 
-"Hello?" Denri called loudly, pounding her hand against the wall. She was tired of stepping on egg shells.
+"Hmm?" She opened her eyes and Denri saw Shiri shake his head a few feet away before continuing his explorations. "Sorry, I was practicing. What was the question?"
 
-There was a clatter upstairs, followed by the sound of footsteps moving across the floor. A pair of legs appeared at the top of the steps and resolved themselves inch by inch into a heavyset man waddling down. The metal staircase groaned with each step.
+"Do you know why Eizo hates cats so much?"
 
-He reached the bottom out of breath, pulling his mask away from his face and wiping sweat from his bald head with a brightly colored silk rag. The handkerchief disappeared up one of his loose sleeves after its use.
+Aki shrugged. "I think it's because they're soft and cuddly and he's sharp and pointy."
 
-"May I help you? Speak quickly, I'm in the middle of an experiment."
+Denri stroked the chin of her mask in mock deliberation. "That must be it - he's protecting his image. When Onara sits in his lap it's like wrapping the hilt of a sword in big fluffy furs. Ridiculous."
 
-"We were looking for any tracking equipment you might have for sale."
+Aki snorted behind her mask, then clamped her hands across the mouth when she saw Eizo bristle. She couldn't stop the giggles completely, though.
 
-The man waved a dismissive hand towards the tables. "Yes, well my stock is on display. What you see is what I have."
+"Appearances are of little concern to me." His voice was laced with wounded dignity.
 
-"I'm sorry, we aren't familiar with many of these devices' functions. Many shops we visited have shown us things that can identify a creature's trail, or respond to movement. But we are looking for something that can detect someone's resonant bonds."
+"Oh yeah, sure." Denri shoved Eizo's shoulder with a foot. "Why don't you tell us the real reason then? Otherwise I'll just start calling you Furblade."
 
-The man did a good job hiding his response. Especially with the mask, he didn't give away much of a sign. But Denri could tell. His shoulders tightened and he took a step back towards the staircase. She didn't need anymore sign. This was their guy.
+"That does not even--." Eizo sighed and rubbed his eyes. "Very well. If you insist on prying, my first assignment with the Blades was at an outpost on the Cross in the mountains near Ninigi's Citadel. The area was filled with nekomata. I lost many friends to the demon cats." His voice was distant with memory.
 
-"You'll have to look elsewhere, I don't have anything like that. If that's all, then I have work to complete. Please show yourselves out." The man turned and made his way back upstairs.
+Denri had never really thought of Eizo having friends before. Now that she tried, she couldn't imagine him sitting around the fire, joking with the other new recruits. He seemed like he had been hard his whole life. "I'm sorry. I didn't mean to bring up bad memories."
 
-Eizo turned, shaking his head. "I suppose we have one more shop to check."
+Eizo shook his head. "It is fine. Perhaps it is best I overcome these mental barriers." He looked down at Onara and gave her a more earnest pet. She looked up at him and yawned, then rolled onto her back. He scratched her stomach a few times before continuing.
 
-"No need. We found him."
+"They aren't bad memories. Not really. Some are sad, but they come from a time when it felt like the violence, the deaths, did something good. I was more content in that outpost, even on the worst days, than I ever was in command."
 
-"How do you know?"
+Command? Eizo's tone did not invite further questions, but Denri was dying with curiosity. She was weighing the risks of probing deeper when Aki changed the subject.
 
-"Did you see how that reacted? Immediately tense. He's hiding something."
+"What is the Cross?"
 
-"Denri, we need more to go on than 'he looked tense'."
+"The Imperial Crossroads. You have seen them at least once before when we first met: the constructed pathway that you were being transported on when I tried to free you and Danzo captured us both."
 
-"I'm telling you, it's him! Let's at least take a look around. Just a quick scan." Denri took a few heavy steps towards the door, then opened and closed it loudly. She put a finger over her lips.
+"Oh yeah, I remember that! Why were you guarding it? It was just a path through the woods."
 
-She described what the tracking device looked like in a whisper and they started poking through the tables for anything with a similar construction. Eizo took one side, while Denri and Aki started at the other.
+"The Cross is far more important than that. Most domains are completely disconnected from one another. A merchant or a family may occasionally hire a group of heroes to escort them through the wilderness, but for the most part each domain is self sufficient. Even in larger domains with a few towns, trade between them can be dangerous.
 
-They were on the second table when Aki gasped. She dropped the device in her hands and pressed back against a table, getting as much distance as she could.
+"But Ninigi had the Imperial Crossroads built to connect the domains of the champions that follow him. And he has the Blades guard it so that anyone can travel them. They are one of a kind."
 
-"Woah, kid, what's wrong?"
+"Why don't the other gods build their own roads?"
 
-Aki pointed a trembling finger at the device. "I've seen that before."
+"They don't really care about connecting their domains. And if they did, none of them have a large force like the Blades to protect it. Even _with_ the Blades, Ninigi probably couldn't have done it if not for Sadashi's Penance."
 
-"I thought I asked you to show yourselves out." There was the heavy sound of footsteps above, moving towards the staircase.
+Denri had been zoning during Eizo's geography lesson, but she perked up at the name. "Isn't Sadashi the champion who's chasing us? What's this penance about?"
 
-Eizo made his way over and picked up the device. He frowned. "I haven't seen anything like this in the other shops."
+Eizo nodded. "The Warlord. Sadashi's domain is on the border of a great lake. So great, in fact, that two other domains were also founded on its shores. Several hundred years ago, Sadashi decided to wage war and conquer them."
 
-Aki was shaking like a leaf as she crouched behind Denri. The move was awkward given that Denri was shorter. She turned around to the girl and grabbed her face. "Hey, hey! It's OK. I'm not going to let anything happen to you."
+"Wait, but that's against the rules, right? No god or champion can interfere with another's domain."
 
-Aki took a stuttering breath and calmed a bit as she looked into Denri's eyes. "That's my girl. Can you tell me what this thing does?"
+"Sadashi decided to test that. His Blades quickly overwhelmed the other two domains. Then he set his sights more broadly."
 
-"It- it hurts." Aki closed her eyes and tears rolled down her cheeks.
+"Why didn't the gods just destroy his armies? There's no way he could have stood against all five of them."
 
-"Who used it on you?"
+"The gods are not as united as they once were. A thousand years of squabbling over the Tournament has left them territorial. Ninigi helped stop Sadashi's conquest, but beyond that he was loathe to let one of his champions die. Or even to give up the newly acquired domains.
 
-"The people who took care of me when I was growing up, I don't know their names or anything."
+"No one wanted the level of destruction that would come from a war between the gods, so they made a deal. Sadashi could keep the two domains he conquered, so long as their original champions still had a say in their governance.
 
-"What are you still doing here? Put that device down. I will call the Arbiters."
+"But as punishment for his aggression, nearly all of the Blades that Sadashi received from Ninigi were forced to build and guard the Imperial Crossroads. His army was crippled, spread thin across Yosai. And Ninigi swore that if Sadashi or any of his champions ever broke the rules again, the roads would be used to bring all of the Blades to attack and destroy them."
 
-The man was standing back at the top of the steps. He hadn't bothered to put his mask on and he looked angry.
+"It seems like Ninigi got the best of everyone, then. He keeps the two domains _and_ gets a bunch of roads?"
 
-Eizo helped up his hands. "My apologies, we didn't mean any harm. We were just--."
+"You underestimate Sadashi's strength. The five gods were able to halt his advance, but if Ninigi had supported him, it would have been far closer than the others would have you believe."
 
-There was a flash of sparks as Denri appeared behind the heavyset man, anger writ across her face. Her muscles flared as she charged her body, then grabbed the back of the man's robes and through him into the ceiling.
+Aki sat up, looking frightened. "Is Sadashi really that powerful?"
 
-The wooden roof buckled and the man fell heavily to the ground at her feet. He coughed weakly.
+"There has never been a champion like him. It is said that during the True Combat of Sadashi's Tournament, half of the Sanyaku pledged fealty to him and fought on his behalf. He won without a single scratch.
 
-"Denri!" Eizo began to charge for the steps. She ignored him and lifted the man to his knees.
+"Perhaps the Four Seasons together could oppose him. But he is a force beyond comprehension. And he has broken the rules of the Tournament in the past.
 
-"I've had a pretty stressful day, and I'm getting tired of all these delicate questions. Unlucky for you, you sell things that hurt my friends. So I'm going to ask this once and frost take you if you tell me you don't know what I'm talking about."
+"That is why I have been set on learning the nature of Aki's powers. Why does Sadashi pursue her? I must assume that he is reluctant to break the rules again, with his armies weakened and Ninigi's promise of enforcement.
 
-The man nodded nervously, his hands held out in deference.
+"But what if his ambition has returned? Does Aki play some part in that? Is she worth such a risk to him? Without knowing, we could be caught completely unaware."
 
-"Who do you sell that device to?"
+Aki sniffed behind her mask. Her eyes shined with tears and her shoulders were shaking. Denri shot a glare at Eizo then got to the ground and placed an arm around her shoulders.
 
-"I don't--"
+"Hey, there's no need to worry. I fought off the Blades once and I'll do it again if I have to. These things are only scary because we don't know what they really mean. Isn't that what you say, Eizo? Someone in this city knows at least part of what's going on. They have to if they can make that tracker we saw the Blades using.
 
-Denri threw the man across the second story room. His heavy body smashed through the wooden wall. There was a heavy _thud_ as he hit the ground outside. Whoops.
+"So we'll find that person and I'll zap them until they tell us what we want to know so we can avoid the danger. And eventually the two of us will be strong enough that nobody can mess with us anyways."
 
-"What are you doing Denri?" Eizo sounded panicked as he ran up the stairs.
+"Y-you promise?"
 
-No going back now. "I'm winging it." She ran forward and jumped through the hole in the wall.
+Denri charged her fingertips and tickled Aki until she started to giggle. "I promise, kid."
 
-There were shouts from the streets around them as Denri knelt over her prey. Blood trailed from his mouth and one of his arms was bent at a bad angle. Denri held up her hand and sparks danced across her fingers like a bared blade.
+<br />
 
-"I don't have much time. Last chance."
+---
+<br />
+<br />
 
-The man held his hands up. "No, wait! Please! Emiko. She buys them! Please don't kill me!"
 
-"Thanks." Denri slapped the man across the face. His body tensed from the electric shock and he fell unconscious.
-
-"Don't move!" Several arbiters were walking toward her warily, blades drawn. They had the entire building surrounded.
-
-Denri looked up to Eizo, who was standing by the hole in the wall and looking down at the guards. "Well, that escalated, huh?" He didn't laugh.
-
-"Doesn't look like we have much choice, but I think I found a pretty good debut." Denri turned back toward the approaching arbiters. She threw a trail of sparks in the air and yelled as loud as she could.
-
-"My name is Denri, an unranked tournament competitor. And I challenge the Twins!"

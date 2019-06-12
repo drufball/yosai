@@ -66,7 +66,7 @@ The boy cried out in pain as shrapnel shot past, scoring deep wounds in his arms
 
 A blinding flash of light filled the room. Behind it, Moto could hear the spiders crying out as if being ripped apart.
 
-When the light faded, the boy lay unmoving amongst a pile of broken bodies. But the spiders weren't dead. They twitched across the ground as their skin stretched and ripped. Their forms grew grotesquely as they screeched in pain. A white glow emanated from the rents in their skin.
+When the light faded, the boy lay unmoving amidst a pile of broken bodies. But the spiders weren't dead. They twitched across the ground as their skin stretched and ripped. Their forms grew grotesquely as they screeched in pain. A white glow emanated from the rents in their skin.
 
 Slowly, five new light spiders pulled themselves from the ground. They hissed at Moto and Keta. Then they vanished.
 
@@ -78,67 +78,73 @@ Slowly, five new light spiders pulled themselves from the ground. They hissed at
 
 Moto looked around in surprise. Without the spiders' light, there was nothing but the red glow of the spreading flames to light the room.
 
-Could the spiders teleport? Moto took another breath, willing himself to think through the fog in his head. No. The webbing around Keta had moved before the spider appeared. They were still here. Just invisible.
+Could the spiders teleport? Moto took another breath, willing himself to think through the fog in his head. The webbing around Keta had moved before the spider appeared. They were still there. Just invisible.
 
-Keta groaned with exertion, bringing Moto's attention back. The shapeling had pulled both arms free and was holding back the light spider's head as its fangs snapped at his neck. They seemed to be at an impasse for a moment, before Keta's arms flexed and he crushed the spiders' head between his hands. The boy twitched at the center of the room as it fell limp to the ground.
+Keta groaned, bringing Moto's attention back. The shapeling had pulled both arms free from the web and was holding the light spider's fangs as they snapped at his neck. They were locked for a moment, both sides straining, before Keta's arms flexed and he crushed the spiders' head between his hands. The young boy twitched at the center of the room.
 
-Keta was still struggling to free himself from the web. Moto reached forward and pulled with his power. The sudden shift in weight made him stagger forward, almost taking him off his feet. He held the wall to steady himself as Keta finally tore himself free and ran to his side.
+Keta still struggled to free himself from the web. Moto reached forward and pulled, but the sudden shift in weight almost took him off his feet. He held the wall to steady himself as Keta finally tore free and ran to his side.
 
-Moto looked around, trying to form a plan. They couldn't track the spiders by the sound of their movements. Echoes from the walls made it impossible to tell the creatures' location. The stone floor prevented any footprints. He strained his eyes against the darkness, looking for shadows. Whatever the creatures' ability was, it seemed to block any visual trace of their presence.
+Moto looked around, trying to form a plan. Echoes off the walls hid the creatures' location. The stone floor prevented any footprints. He strained his eyes against the darkness, looking for shadows. Whatever the creatures' ability was, it blocked any visual trace of their presence.
 
-His balance was still shifting beneath him, making precision impossible. If he couldn't aim, he'd just have to use another tact. Moto pulled against the littering of stones behind him and sent a scattershot through the room. There was a rocky clatter as most of the missiles struck the far wall, but a few stopped dead in the air, bouncing off the invisible spiders.
+Moto pulled against the loose stones behind him and sent a scattershot through the room. Most of the missiles clattered against the far wall, but a few stopped dead in the air, bouncing off the invisible spiders.
 
-With his back this close to the wall he couldn't get any sort of acceleration on his shots. He needed more runway. But if they moved away from the wall they could be surrounded.
+That confirmed they were still there, but with his back this close to the wall he couldn't accelerate his shots. He needed more runway to make them lethal. But if they moved away from the wall they would be surrounded.
 
-Light flared in front of Moto as a spider appeared, fangs bared. Moto pressed back against the wall and lashed out with his dagger. How had it avoided his scattershot?
+Light flared as a spider appeared, fangs bared. Moto pressed back against the wall and slashed with his dagger. How had it avoided his scattershot?
 
-He spun wildly as his dagger passed through thin air. The spider's shape flickered, then reformed. An illusion? There was a hiss to his right as another spider appeared, lunging toward him as he regained his balance.
+He stumbled sideways as his dagger met no resistance. The spider's shape flickered, then reformed. An illusion? There was a hiss to his right as another spider appeared, lunging toward him as he regained his balance.
 
-There was a meaty _crack_ as Keta unfurled the weighted silks around his wrists and brought both down on the attacking spiders' face in an overhead swing. The spider screeched as it pulled back and disappeared. But a direct hit from Keta should have completely caved its head in.
+Keta unfurled the weighted silks around his wrists and brought both down on the attacking spiders' face in an overhead swing. There was a meaty _crack_. The spider pulled back and disappeared. But a direct hit from Keta should have caved its head in.
 
-Moto glanced sideways. The shapeling was breathing heavily beside him, the wound on his shoulder still bleeding.
+Moto glanced sideways. The shapeling was breathing heavily, the wound on his shoulder still bleeding.
 
 "Are you too tired to pull fire?"
 
-Before he could answer, another spider appeared, leaping through the air towards Keta. Moto reached out to pull the creature off course, but there was no substance to the image. Another illusion. Except, was there something behind it? Moto pushed further out and felt real weight, flying behind the illusion.
+Another spider appeared, leaping through the air towards Keta. Moto reached out to pull it off course, but there was nothing there. Another illusion. Except, was there something behind it? Moto pulled further and felt real weight, flying behind the illusion.
 
 "It's not there! Aim behind it!"
 
-Keta changed the angle of his strike mid swing and brought one of his silks across the side of the creature, knocking it into the wall. Before it could regain its feet Keta swung his other silk down on its head. There was a sickening crunch and the spider lay twitching mindlessly. Four left.
+Keta altered the angle of his strike mid swing and brought his silk across the side of the creature, slamming it into the wall. His other silk came down on its head in a sickening crunch. The spider twitched mindlessly. Four left.
 
-Keta pulled back against Moto, scanning the darkness around them. "I still have some fire left, but I do not want to be defenseless if one of us is bitten again. I can handle these creatures naturally for now. How did you know where it was?"
+Keta pulled back against Moto, scanning the darkness. "I still have some fire left, but I do not want to be defenseless if one of us is bitten. I can handle these creatures naturally for now. How did you know where it was?"
 
-"My power has no effect on the illusions, but I can feel the weight of the real one behind it. It doesn't seem like they can make the images very far from their real body."
+"My power had no effect on the illusion, but I could feel the weight of the real one behind it. It doesn't seem like they can make the images very far from their body."
 
-Could he use that? He could test the illusions when they attacked, but he had caught the presence of the first spider by accident. His pulls were narrow and he wouldn't have much time to find the real thing. Unless...
+He could test the illusions when they attacked, but he had caught the presence of the first spider by accident. His pulls were narrow and he wouldn't have much time to find the real thing. Unless...
 
-Moto closed his eyes and softened his focus. He sent his power in a broad pulse. Pulling softly in all directions. He felt a faint pull from Keta beside him, then something more solid from the wall at his back. There was a flutter in front of them.
+Moto closed his eyes and softened his focus. He sent his power in a broad pulse. Pulling softly in all directions. He felt a faint tug from Keta, then something more solid from the wall at his back. There was a flutter in front of them.
 
-"In front of us!"
+"There!"
 
-Keta swung out with his silks, cutting a low arc that broke a couple legs of an approaching spider. It staggered, but managed to keep its feet. The sense wasn't precise, but it was something.
+Keta swung, cutting a low arc with his silks that broke a couple legs on an approaching spider. It staggered, but managed to keep its feet.
+
+It was something.
 
 "I can tell where they are, but I can't focus on anything else while I'm doing it..."
 
 "That is enough. I will strike where you tell me." Keta stepped forward, placing himself between Moto and the spiders.
 
-He could sense the general direction of enemies as they approached, but that wasn't enough to land hits that drove the creatures back. Anyone else would have been swinging wildly, hoping for an occasional lucky shot. But Keta's speed and control made it work.
+He could only sense the spiders' general direction, not their exact location. Anyone else would have been swinging wildly, hoping for a lucky shot. But Keta's speed and control made it work.
 
-Even without using his power, the shapeling was able to react in real-time, adjusting his blows mid swing as he responded to the weight of impact. When he landed a solid hit, he pounced immediately, lashing out with several more against the vulnerable foe.
+Even without his power, the shapeling could shift his strikes mid-swing, turning glancing blows into solid hits. When he connected, he pounced immediately, landing several more hits against the vulnerable foe.
 
-But soon the spiders adjusted their strategy. They started attacking all at once. They would snap forward in a wave, then retreat back out of range.
+The spiders adjusted their strategy quickly. They started attacking all at once, snapping forward in a wave before retreating out of range.
 
-It didn't take long until Keta's body was covered in shallow gashes from narrowly dodged attacks. One of Moto's arms hung limply from a deep bite into the meat of his shoulder. At least the light spider transformation seemed to burn away the jorogumo's venom.
+Soon Keta's body was covered in shallow gashes. One of Moto's arms hung limply from a deep bite into the meat of his shoulder. At least the light spider transformation burned away the jorogumo's venom.
 
-A chaotic wave of clicks and scrapes caught Moto's attention at the top of the cave, near the entrance. It was quiet at first. Hard to hear over the sounds of fighting. But it was growing louder. Reinforcements. But for who?
+A chaotic wave of clicks and scrapes caught Moto's attention from above, near the entrance to the cavern. It was hard to hear over the sounds of fighting, but it was growing louder. Reinforcements. For who?
 
-If it was more spiders, they would have to run. And if it was Fumi and Iruka, how would the light spiders react? They were focused on Moto and Keta now, while they had the upper hand. But if things looked bad, they might attack the kid to buy time for an escape. They needed to get to the boy.
+If it was more spiders, they would have to run. And if it was Fumi and Iruka, how would the light spiders react? They were focused on offense while they had the upper hand. But if things looked bad, they might attack the kid to buy time for an escape.
 
-But holding the light spiders off was hard enough while they only came from the front. If they moved to the center of the room, Keta couldn't cover every angle. Moto's balance had mostly returned, and the extra space would let him start throwing stones again. But using his power on offense would mean he couldn't detect the spiders.
+They needed to get to the boy.
+
+But if they moved to the center of the room, Keta couldn't cover every angle. Moto's balance had mostly returned, and the extra space would let him throw lethally again. But that was useless if he couldn't detect the spiders.
 
 If only Iruka was here. They needed two stone-bringers so they could use their gravity on offense and defense at the same time.
 
-At the same time... Moto's eyes snapped open. "I've got a plan!"
+At the same time...
+
+Moto's eyes snapped open. "I've got a plan!"
 
 Keta laughed between ragged breaths. "It is about time! I was beginning to think that you were slipping." He swung one of his yellow silks into the face of an onrushing spider.
 
@@ -146,47 +152,49 @@ Keta laughed between ragged breaths. "It is about time! I was beginning to think
 
 "Yes, but not much more. I won't be able to heal us anymore."
 
-Moto looked briefly at the blood covering Keta's arms. The wound in his own shoulder was bad too. There wasn't any other choice. If they made it out, they could bind their wounds until Keta recovered enough to heal them.
+Moto looked at the blood covering Keta's arms. The wound in his own shoulder was bad, not too mention his head from the fall earlier. But there wasn't any other choice. If they made it out, they could bind their wounds until Keta recovered to heal them.
 
-"We'll have to take a risk then. On my mark we're going to charge toward the boy. We have to reach him. Ignore everything else. Once we get him, I need you to pump me up with one blast. Then when I say so, use the second burst to jump as high as you possibly can."
+"We'll have to risk it. On my mark we're charging toward the boy. We have to reach him. Ignore everything else. Once we get him, I need you to pump me up with one blast. When I say so, use the second burst to jump as high as you possibly can."
 
 Keta nodded, no sign of doubt on his face. "I will be ready."
 
 "As _high_ as you can. Go!"
 
-Keta took off without hesitation, angling low as he ran. The shapeling's body rocked sideways as he shouldered past a spider. Moto kept as close as he could, ignoring the pain as a spider's fangs raked down his back. As he ran, Moto pulled one of Seiko's spheres from his pouch.
+Keta took off, angling low as he ran. His body rocked sideways as he shouldered past a spider. Moto kept as close as he could, ignoring the pain as fangs raked down his back. He pulled one of Seiko's spheres from his pouch.
 
 They reached the center and Moto turned, pressing his back against Keta. He waited until the shapeling had the boy in his arms. "Hit me!"
 
-Fire spread along Moto's back. It flared down his limbs and filled him with strength. It was almost too much to bear, like he was being burned from the inside out.
+Fire spread along Moto's back. It flared down his limbs and filled him with strength. It was almost too much to bear, like he was burning from the inside out.
 
-If he wanted to force the spiders away, he had to throw stones. But he couldn't sense his targets while attacking at the same time. So he did what Iruka taught him to. He changed his goal.
+They were focused on keeping the spiders away. But that forced him to choose between throwing stones or sensing the spiders. Offense or defense. So he did what Iruka taught him. He changed his goal.
 
-Moto reached out, broad like he was sensing. No need for precision if he grabbed hold of everything. Then, with fire coursing through his veins, he pulled the world inside himself.
+He reached out, broad like he was sensing. No need to know where they were if he grabbed hold of everything. Then, with fire coursing through his veins, Moto pulled the world inside himself.
 
-Even reinforced by Keta's power, it felt like Moto was being ripped apart. The entire cave groaned and stuttered. A loud _crack_ sounded somewhere beneath his feet. Keta groaned involuntarily as we was pressed flat against Moto. Then four large, invisible masses were crashing through the air, out of control.
+Even reinforced by Keta's flame, he thought he might be ripped apart. The entire cave groaned and stuttered. A loud _crack_ sounded beneath their feet. Keta groaned involuntarily as he was pressed flat against Moto.
+
+Then four large, invisible masses were crashing through the air, out of control.
 
 Moto released the pull before it really did rip him apart. He dropped Seiko's sphere. "Jump!"
 
-Another wave of heat, this time outside Moto's body, as Keta wrapped his arm around Moto's waist. The world lurched as they shot towards the ceiling. A heavy crunch sounded as the spiders collided where Moto had been standing. Moto reached out and pulled the switch.
+Another wave of heat as Keta wrapped his arm around Moto's waist. The world lurched as they shot towards the ceiling. A heavy crunch sounded where they had been standing. Moto reached out and pulled the switch.
 
 The spiders were visible for a fraction of a second before the explosion ripped through them.
 
-The spiders absorbed most of the bomb snap's detonation, but a concussive wave of spider guts still crashed into them from below. Moto felt the boy jerk violently beside him. He looked over in alarm, afraid that shrapnel from the blast had struck the kid. But he seemed unhurt as he hung, limp and unconscious in Keta's arm.
+A concussive wave of spider guts crashed into them from below. Moto felt the boy jerk violently beside him. He looked over in alarm, but the kid seemed unhurt as he hung, limp and unconscious, in Keta's arm.
 
-Moto pulled against the ceiling to slow their fall. Keta absorbed the rest of the impact in a crouch. They stood in a small crater, covered in grime and their own blood. Laughing in disbelief, Keta pulled Moto close and kissed him. "Amazing!"
+Moto pulled against the ceiling to slow their fall. Keta absorbed the rest, landing in a crouch. They stood in a small crater, covered in grime and their own blood. Laughing in disbelief, Keta pulled Moto close and kissed him. "Amazing!"
 
-Moto gave himself a moment's enjoyment, then pulled back. "We're not out of the woods yet." He turned back toward the cavern entrance overhead, where the approaching sounds had reached a crescendo.
+Moto allowed himself a moment's pleasure, then pulled back. "We're not out of it yet." He turned toward the cavern entrance overhead. The approaching sounds were loud now.
 
-His body felt like it had been trampled by a horse. Every muscle felt like lead. Keta was tapped out too. If it was more jorogumo, he could try to pull a few off the wall. Maybe the fall would disable them. But then they would have to run.
+His body felt like it had been trampled by a horse. Every muscle felt like lead. Keta was tapped out too. If it was more jorogumo, he could pull a few off the wall. Maybe the fall would disable them. But then they would have to run.
 
-Moto's heart sank as he watched a mob of black, alien legs curling around the edge of the cave. He reached up, getting ready to pull as many as he could, but before he could act he was hit by a heavy _whoomph_ as air was forced through the tunnel and into the cavern. The spiders at the entrance were thrown to the far wall, their bodies breaking against the far stone.
+Moto's heart sank as a mob of black, alien legs curled around the edge of the tunnel. But before he could act there was a heavy _whoomph_ as air was forced into the cavern. The spiders at the entrance were thrown to the far wall, their bodies breaking against the stone.
 
-Fumi came racing after them, swan diving through the entrance. She did a flip in the air and landed in a crouch, air rushing out around her to cushion the fall. "Don't worry. I'll take it from here." She paused for effect, then stood and looked around. She seemed to deflate as she saw the dead spiders littering the floor. "Oh, never mind."
+Fumi followed, swan diving through the entrance. She did a flip in the air and landed in a crouch in front of Keta, air rushing out to cushion the fall. "Don't worry. I'll take it from here." She paused for effect, then stood and looked around. She deflated when she saw the dead spiders littering the floor. "Oh, never mind."
 
-Keta gave her a kind look. "It was a wonderful entrance, at least."
+"Hey! You kids got the smaller kid?" Iruka stood at the ledge, shouting over her shoulder. The blade snap whirred around her as she shot it into the tunnel repeatedly. "Great. I'm sure the spiders thought your flip was very cool, but maybe lets focus on not dying?"
 
-"Hey! You kids got the smaller kid?" Iruka stood at the ledge, shouting to them over her shoulder. The blade snap whirred around her body as she shot it back into the tunnel repeatedly. "Great. Instead of showing off how about we get out of here?"
+Keta gave Fumi a kind look. "It was a wonderful entrance."
 
 <br />
 
