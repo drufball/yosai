@@ -202,99 +202,101 @@ Keta gave Fumi a kind look. "It was a wonderful entrance."
 <br />
 <br />
 
-Moto and Keta landed in the hallway at the top of the cavern with the help of a pull from Iruka. Fumi landed indelicately beside them with a blast of wind.
+Iruka pulled Moto and Keta into the hallway at the top of the cavern. Fumi crashed down beside them in a blast of wind.
 
-The hallway was littered with the shredded bodies of jorogumo. Some had been crushed against walls by Fumi's wind, but it seemed most had been dissected. The blade snap continued to whir around Iruka's shoulders like a restless hummingbird as she looked them up and down. The sound of more spiders approaching filled the hallway.
+The tunnel was littered with the shredded bodies of jorogumo. The blade snap whirred around Iruka's shoulders like a restless hummingbird as she looked them up and down. She ignored the sound of spiders approaching further up the hallway.
 
 "How are you two doing?"
 
-"Both our resonances are pretty exhausted. I might have a little bit left in me but Keta is tapped. Otherwise we're fine."
+"Both our resonances are exhausted. I might have a little bit left in me but Keta is tapped. Otherwise we're fine."
 
-Iruka raised an eyebrow at that last part. "At the risk of repeating myself, you look like garbage, kid. We need to update your definition of fine. The two of you stay at the back for now and let me and Fumi clear the way."
+Iruka raised an eyebrow. "At the risk of repeating myself, you look like garbage, kid. We need to update your definition of fine. The two of you stay at the back for now and let me and Fumi clear the way."
 
 Keta stood straighter. "I am still--."
 
-Iruka turned back toward the onrushing spiders. "As much as I would _love_ to sit here arguing the finer points of just how messed up your body really is right now, we kind of have more pressing concerns. You've done plenty to prove yourself. Time to trust the squad."
+Iruka turned toward the onrushing spiders. "As much as I would _love_ to sit here arguing the finer points of just how messed up your body is right now, I think we have more pressing concerns. You've done plenty to prove yourself. Time to trust the squad."
 
 Keta nodded, accepting the feedback gracefully. He shifted the unconscious kid onto his back. "I will carry the child, then."
 
-"Right. Stay close. Not that I'm giving you much choice." Iruka grinned as she launched forward. A heartbeat later, all three of them staggered forward as Iruka pulled them along behind her.
+"Right. Stay close. Not that I'm giving you much choice." Iruka grinned as she launched forward. A heartbeat later, all three of them staggered forward as Iruka pulled them behind her.
 
-Moto adapted to Iruka's pull the fastest. He'd had practice gravity running, after all. But the others adjusted to the extended gait just a few steps after. Just in time for the next wave of spiders to hit.
+Moto adapted to Iruka's pull the fastest. He'd had practice gravity running. But the others adjusted to the extended gait just a few steps after. Just in time for the next wave of spiders to hit.
 
-There were so many, running along the floor and walls and ceiling, clambering over one another in the rush to attack. Moto couldn't tell where one jorogumo began and the others ended. There had been more spiders in that first cavern than he thought.
+They ran along the floor and walls and ceiling, clambering over one another in the rush to attack. Moto couldn't tell where one jorogumo began and the another ended. There were more spiders in that first cavern than he thought.
 
-"Don't stop! We can't take them all so don't let them bog us down." Iruka's blade snap shot forward, slicing up one wall and back the other. Moto couldn't believe how many things she was focusing on at once. While she threw the weapon, she had to keep the blade spinning. And the whole time her pull against the three of them never faltered.
+"Don't stop! We can't take them all so don't let them bog us down." Iruka's blade snap shot forward, slicing up one wall and back the other. The whole time her pull against the three of them never faltered.
 
 Fumi stepped up to Iruka's side and punched the air with both fists. A gust ripped over the floor, knocking spiders into the side wall and clearing a path. Then the spiders were around them.
 
-Moto drew a dagger, pulling lightly in all directions to sense any spiders that got too close and driving them back with his blade. He kept an eye on Keta, but the shapeling wasn't having much trouble dodging the handful of spiders that made it past Iruka and Fumi uninjured.
+Moto drew a dagger, pulling lightly in all directions to sense anything that got too close. He kept an eye on Keta, but the shapeling wasn't having much trouble with the handful of spiders that made it past Iruka and Fumi uninjured.
 
-Now that she was among the spiders, Iruka had caught the blade snap and was opting to slam the monsters into walls and each other. She wore an easy smile while she worked.
+Surrounded, Iruka caught the blade snap and used her power in earnest. Moto was glad his balance had returned from earlier, otherwise watching her might have made him sick.
 
-Fumi didn't look nearly as casual, but Moto had to admit her skills had improved since the last time he saw her fight. Her arms blurred as she made a small torrent of wind around them, picking up dust and rocks and focusing them into a saw blade. Her arms sliced through jorogumo like paper.
+Her body twisted through the air like a leaf on the wind, changing direction inches from snapping jaws, crashing feat first into spiders on the ceiling. As she danced through the air, spiders flew in her wake, snapping into each other and skewering on rocky protrusions. She wore an easy smile while she worked.
 
-And then they were through. The monsters behind them turned, falling behind as Iruka pulled them forward. More sounds ahead suggested they weren't out of the woods yet. Moto kept his gravity sense on to catch any light spiders that might be trying to sneak up on them.
+Fumi wasn't nearly as casual, but her skills had improved since the last time Moto saw her fight. Her arms blurred as she made a small torrent of wind around them, picking up dust and rocks and focusing their flow into a saw blade. Her arms sliced through jorogumo like paper.
 
-They reached the intersection and Iruka charged toward the exit. There was a loud clattering of stones as Keta planted his feet and held against the forward pull. Iruka came to a halt and turned with a question on her face.
+And then they were through. The monsters behind them turned, falling behind as Iruka pulled forward. More chittering greeted them ahead. They weren't out of the woods yet. Moto kept his gravity sense up to catch any light spiders that might be sneaking up on them.
+
+They reached the intersection and Iruka continued for the exit. There was a clattering of stones as Keta planted his feet and held against her pull. Iruka turned with a question on her face.
 
 "What's the matter?"
 
-Keta was straining his eyes down the other tunnel, where the rest of the caravan had been. "Did you see anyone fleeing the cave as you entered?"
+Keta was straining his eyes down the other tunnel. "Did you see anyone fleeing the cave as you entered?"
 
 "What? No. Come on, we don't have time to stick around here." The spiders behind them were catching up.
 
-Keta kept his feet planted, calling down the tunnel. There was a pause, followed by a muted response. Keta turned to the rest of the group. "There are still people here."
+Keta kept his feet planted, calling down the tunnel. There was a pause, then a muted response. Keta turned to the rest of the group. "There are still people here."
 
-The spiders behind them came crashing around the corner, throwing themselves at Keta and the boy on his back. The shapeling crouched, dodging the first, but a second and a third slammed into him. He was thrown into the wall, desperately holding back the fangs of a spider. The boy fell to the floor several feet away.
+The spiders behind came crashing around the corner, throwing themselves at Keta and the child he carried. The shapeling dodged the first, but a second and a third slammed into him. He was thrown against the wall, holding back the fangs of a spider. The boy fell to the floor several feet away.
 
-Moto dove for the spider attacking Keta without thinking, burying his dagger in the side of its head as he shouldered it away. Another leapt through the air and Moto pulled from his foot to slam it into the ground. It bought Keta enough time to push off the wall and bring his foot down in a loud _crunch_ on the spider's head. The shapeling caught his breath and looked around.
+Moto dove for Keta without thinking, burying his dagger in the side of the spider's head as he shouldered it away. Another one leapt through the air and Moto pulled from his foot, slamming it to the ground. Keta pushed off the wall and brought his foot down in a loud _crunch_ on the spider's head.
 
-"The kid!" Moto spun, scanning the floor. Spiders swarmed over the boy's body. But instead of biting him, they lifted his unconscious form, carrying it between several spiders as they moved back down the tunnel. Moto took a step forward but more spiders stepped in to fill the gap.
+"The kid!" Moto spun, scanning the floor. Spiders swarmed over the boy's body. They lifted his unconscious form, carrying him away. Moto took a step forward but more of the monsters stepped in to fill the gap.
 
 His heart sank. After all this, was the kid going to slip away? Were they going to fail?
 
-Fumi came sprinting past, planting a foot against the wall and leaping over the front line of monsters. She yelled dramatically as she came down on the spiders carrying the boy. She sliced clean through one with her hand, planting it against the ground as she brought her foot around on the other spider like a scythe.
+Fumi came sprinting past, planting a foot against the wall and leaping over the front line of monsters, yelling dramatically as she came down on the spiders carrying the boy. She sliced through one with her hand, planting it against the ground as she brought her foot around on the other spider like a scythe.
 
-"Sorry Keta, we don't have time to wait around for more people." Iruka was doing her best to push back against the wave of spiders attacking from the front, but there were so many even she was being forced back. "They're on their own."
+"Sorry Keta, we don't have time to wait around for more people." Iruka was pushing back against the wave of spiders attacking from the front, but there were so many even she was stepping back. "They're on their own."
 
-Keta snapped one of his wrist silks like a whip, cutting a spiders' legs out from under it. "I will not leave people!"
+Keta snapped one of his wrist silks like a whip, breaking a spider's legs. "I will not leave them!"
 
-Iruka took another step back and the spiders finally rushed around the edges of the tunnel. If they didn't get out of here now, they were going to be overrun. But Keta stepped forward defiantly, determined to hold the spiders off. The sound of people running down the hallway started to get louder.
+Iruka took another step back and the spiders rushed around the edges of the tunnel. They were about to be overrun. But Keta stepped forward defiantly, determined to hold firm. The sound of people running down the hallway was getting louder.
 
-They were never going to convince Keta to leave those people behind. Especially not when they sounded so close. But how would they flee with that many more people in tow? Pressing their luck didn't just risk failing the mission. Their lives were at stake.
+Keta would never leave those people behind. Not when they sounded so close. But what would they do with more people in tow? Pressing their luck was going to get them all killed.
 
-Moto didn't have a choice. He pulled against the ceiling, bringing a rock crashing into the back of Keta's head. Caught off guard, the shapeling crumpled to the ground. Moto caught him and pushed towards Iruka. "Let's go!"
+Moto didn't have a choice. He pulled against the ceiling, bringing a rock crashing into the back of Keta's head. The shapeling crumpled to the ground. Moto caught him and pushed towards Iruka. "Let's go!"
 
-She stared at him for moment, then nodded and dove into the spider filled tunnel. Moto hefted Keta over a shoulder and pulled out the shield snap with his free hand. He pulled it open and used it to hold off the snapping fangs as they stumbled forward.
+She stared at him for moment, then nodded and dove into the spider filled tunnel. Moto hefted Keta over a shoulder and pulled out the shield snap with his free hand. He pulled it open and used it to ward off snapping fangs aimed for his throat.
 
-Keta got heavier. Moto looked up and saw a spider that had landed on the shapeling. He watched as the the spider bit into Keta's side.
+Keta got heavier. Moto looked up and saw a spider crouched on the shapeling. He watched helplessly as the the spider bit into Keta's side.
 
-"I got you!" A blast of wind ripped the spider off of Moto's back as Fumi came into view. She had the young boy thrown over her shoulders and was stepping forward methodically, clearing the path with blasts from her feet.
+"I got you!" A blast of wind ripped the spider off Moto's back as Fumi came into view. She had the young boy thrown over her shoulders and was stepping forward methodically, clearing the path with blasts from her feet.
 
-As they neared the other side, Moto heard a commotion behind them. He turned in time to see some of the prisoners throwing themselves at the spiders in the rear, clawing desperately as they tried to catch up to Moto and his squad. The spiders turned and descended on them. It was short work.
+As they neared the other side, Moto heard a commotion behind them. The prisoners were throwing themselves at the spiders in the rear, clawing desperately as they tried to catch up to Moto and his squad. The monsters turned and descended on them. It was short work, but the distraction bought Moto and the others some breathing room.
 
-The distraction bought them some breathing room, allowing them to push through to the other side. Iruka slowed enough to grab Keta off of Moto's shoulders and then began to pull them forward again.
+They burst through to the other side of the creatures. Iruka slowed enough to grab Keta off of Moto's shoulders and then began to pull them forward again.
 
 "Last hurdle! Everybody get ready to jump."
 
-Moto could see the end of the tunnel, opening onto the first chasm they traversed. Thin, black legs appeared over the edge. Moto pulled against the walls, accelerating as he leapt over the climbing spiders, following Iruka. He wobbled in the air, his resonance nearly exhausted, but he managed to land heavily on the far side of the chasm with Iruka's help.
+They were back at the first chasm. Thin, black legs curled around the edges of the tunnel. Moto pulled against the walls, accelerating as he leapt over the climbing spiders, following Iruka. He wobbled in the air, his resonance nearly exhausted, but he managed to land heavily on the far side of the chasm with Iruka's help.
 
-He turned to see Fumi come up short, the spiders from the cavern blocking her way. They were holding her back, preventing her from getting a clean angle on the jump.
+Fumi came up short, the spiders from the cavern blocking her way and preventing her from getting a clean angle on the jump.
 
-Moto braced himself against the wall. "Jump! I can help pull you."
+Moto braced himself against the wall. "Jump! I can help pull you!"
 
-Fumi looked up at him, then squared the boy on her shoulders and set her face. "It's OK, I can do it on my own!" She jumped, planting her foot against the side of the tunnel, then pushing off with a blast of wind and aiming for the wall of the cavern midway through.
+Fumi looked up at him, then squared the boy on her shoulders and set her face. "It's OK, I can do it on my own!" She jumped, planting her foot against the side of the tunnel, then pushing off with a blast of wind toward the wall of the cavern midway across.
 
-It was going to be close. And her resonance had to be tiring out by this point as well. Moto didn't want to risk it. As Fumi connected with the far wall of the cavern, coiling to make her final jump, Moto pulled against her, giving her extra lift.
+It was going to be close. And her resonance had to be tiring out by this point. Moto didn't want to risk it. As Fumi connected with the far wall of the cavern, coiling to make her final jump, Moto pulled against her for extra lift.
 
-He pulled a fraction of a second early, causing Fumi's footing to slip. She regained her composure in time to get a blast of wind behind her, but the jump was awkward. Moto cursed, pulling as hard as he could. As tired as he was, it wasn't much.
+He pulled early, causing Fumi's footing to slip. She managed a blast of wind behind her, but the jump was awkward. Moto cursed, pulling as hard as he could. It wasn't much.
 
-Fumi hit the stone hard, landing half in the tunnel. Her legs dangled into the cavern. She scrambled for a handhold with one hand, trying to hang onto the kid with the other. Then Iruka turned and pulled her up.
+Fumi hit the stone hard, landing half in the tunnel with her legs dangling into the cavern. She scrambled for a handhold with one hand, trying to hang onto the kid with the other before Iruka turned and pulled her up.
 
 "I said I had it! You nearly made me fall." Fumi glared at Moto.
 
-"I didn't mess up your jump that much! You weren't going to make it without me."
+"I didn't mess you up that much! You weren't going to make it without me."
 
 They both slid across the stone as Iruka pulled them backwards. "We _seriously_ need to discuss what counts as appropriate mission chatter with all three of you. Get moving for the exit!"
 
@@ -302,9 +304,9 @@ Moto shot Fumi one last glare, then lifted Keta onto his shoulders. The shapelin
 
 There was a loud crack and Moto's head whipped around. Iruka stood at the end of the tunnel with arms outstretched. The muscles on her neck stood out as she brought her arms toward her chest with great effort. There was another pop and the rock around her shifted. She jumped back as the tunnel began to collapse.
 
-She turned, making straight for the exit. "Don't just stand there! I have no idea if this whole tunnel is coming down after that."
+She turned, making straight for the exit. "Don't just stand there! I have no idea if this whole tunnel is coming down after that!"
 
-Moto turned with renewed energy, his legs pumping as he moved to the exit. Light began to pour in up ahead. He threw himself through the exit, staggering to the ground as a loud _thump_ sounded from deeper within. He rolled over onto his back, letting out a long sigh of relief as he stared at the sky. They made it.
+Moto turned with renewed energy, his legs pumping as he moved to the exit. Light blossomed ahead. He threw himself through the exit, staggering to the ground as a loud _thump_ sounded from deeper within. He rolled over onto his back, letting out a long sigh of relief as he stared at the sky. They made it.
 
 <br />
 
