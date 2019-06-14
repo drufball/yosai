@@ -1,8 +1,25 @@
+---
+title: Limits
+era: tournament
+permalink: /compendium/tournament/:title/
+
+layout: post
+excerpt_separator: <!--more-->
+
+cast: "['Moto','Fumi','Keta','Iruka', 'Seiko', 'Hako', 'genin', 'chunin', 'jonin','Koga','Iga','Isa','Otoya','Tsukuyomi', 'Hisoka', 'Sugi']"
+pronunciations: "['MOH-toh','FOO-mee','KAY-tah','ee-ROO-kah', 'SAY-koh', 'HAH-koh', 'geh-NIN', 'choo-NIN', 'joh-NIN','KOH-gah','EE-gah','EE-sah','oh-TOH-yah', 'soo-KOO-yoh-MEE', 'hee-SOH-kah', 'SOO-gee']"
+colors: "['#c98859','#69d4fc','#e84326','#c98859','#e84326','#273be2','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#273be2']"
+
+feedback: https://forms.gle/B2mpLip85GqXXPCm8
+---
+**This is part 4 of an ongoing story series. You can read the first part [here](https://yosai.world/compendium/tournament/daggers-of-iga/).**
 The boy's scream cut off, jarring like a missed step. His pain echoed off the walls before fading into silence.
 
 Moto and Keta locked eyes. "Do you think--?"
 
 A den full of spiders screeched in response, a knife-edged chittering stabbing at their ears. The chaotic drum line of approaching spider legs followed.
+
+<!--more-->
 
 "The kid! We've got to get to him."
 
@@ -81,6 +98,8 @@ Moto looked around in surprise. Without the spiders' light, there was nothing bu
 Could the spiders teleport? Moto took another breath, willing himself to think through the fog in his head. The webbing around Keta had moved before the spider appeared. They were still there. Just invisible.
 
 Keta groaned, bringing Moto's attention back. The shapeling had pulled both arms free from the web and was holding the light spider's fangs as they snapped at his neck. They were locked for a moment, both sides straining, before Keta's arms flexed and he crushed the spiders' head between his hands. The young boy twitched at the center of the room.
+
+![Keta fights the spider](/assets/keta-spider.png)
 
 Keta still struggled to free himself from the web. Moto reached forward and pulled, but the sudden shift in weight almost took him off his feet. He held the wall to steady himself as Keta finally tore free and ran to his side.
 
@@ -314,23 +333,23 @@ Moto turned with renewed energy, his legs pumping as he moved to the exit. Light
 <br />
 <br />
 
-They pushed as far into the woods as they could before they collapsed and made camp. It wasn't very far.
+They pushed into the woods as far as they could before they collapsed and made camp. It wasn't very far.
 
 Neither the boy nor Keta had woken, but the shapeling continued to twitch. They tied him to a tree in case he woke up, then set to binding everyone's wounds.
 
-Moto winced as he scrubbed his shoulder clean and rubbed ointment from his pouch into the wound, he kept one concerned eye on Keta. "Is he going to be OK?"
+Moto winced as he scrubbed his shoulder clean and rubbed a foul smelling ointment into the wound, he kept one eye on Keta. "Is he going to be OK?"
 
-Aside from a bit of dirt, Iruka was unharmed. She tended to Keta's ragged arms. "He should be fine, so long as we can keep him from hurting himself until the venom runs its course."
+Aside from a bit of dirt, Iruka was unharmed. She tended to Keta's bleeding arms. "He should be fine, so long as he doesn't hurt himself while the venom runs its course."
 
-Fumi looked at the ropes holding Keta in place. "Are those really going to hold him?"
+Fumi looked at the ropes around Keta. "Are those really going to hold him?"
 
-"If his resonance has anything left to give, the metabolic boost will burn through the venom anyways. So the answer is either yes or it doesn't matter."
+"If his resonance has anything left, the metabolic boost will burn through the venom anyways. So the answer is either yes or who cares."
 
-Fumi lowered herself to the ground and began putting together a fire. She did not use her usual burst of wind to cushion the fall, choosing to sit normally. So she had reached her limit too. Moto did his best to think back over the fight. How many times had they all used their powers? He filed the information away in case those limits were useful later.
+Fumi lowered herself to the ground and started work on a fire. She sat normally, without her typical burst of wind. She had reached her limit too. Moto thought back over the fight. How many times had they all used their powers? He filed the information away in case those limits were useful later.
 
-As he ran through the events, Moto felt a growing sense of uncertainty. They had saved the kid, but only barely. This mission was crucial to his plans, yet he had taken a lot of risks. Unnecessary risks. When the spiders were attacking Keta and the boy, Moto hadn't hesitated to jump for Keta. He didn't even think of the kid.
+As he ran through the mission, Moto felt a growing sense of uncertainty. They had saved the kid, but only barely. This mission was crucial to his plans. So why had he had taken so many risks? Unnecessary risks. When the spiders were attacking Keta and the boy, he hadn't hesitated to jump for Keta. He didn't even think of the kid.
 
-Most confusing, Moto wasn't sure he had made a mistake.
+Most confusing, Moto didn't feel like he had made a mistake.
 
 Fumi looked up and met his eyes. "What're you staring at?"
 
@@ -342,27 +361,27 @@ Moto recounted the events, describing the light spiders and their strange abilit
 
 "I've never heard anything like that before. You said the jorogumo _transformed_?"
 
-Moto nodded. "I'm not sure they did it themselves, though. It seemed like the change hurt. Their bodies weren't in great shape afterwards." Moto looked at the boy, lying by the fire as Fumi tended to him. "And it only happened when the boy touched them."
+Moto nodded. "I'm not sure they did it themselves, though. It seemed like the change hurt. Their bodies weren't in great shape afterwards." Moto looked at the boy, lying by the fire as Fumi turned and tended to him. "It only happened when the boy touched them."
 
 "You think he had something to do with it?"
 
-"I don't know. It sounds crazy, but it seemed like he had some connection with them. Whenever we killed a spider, the boy looked like it hurt him too. It was hard to tell, though, because he was flailing around like crazy. I think he was bitten. Should we tell his father?"
+"I don't know. It sounds crazy, but it seemed like he had some connection with them. Whenever we killed a spider, the boy looked like it hurt him too. It was hard to tell, though. He was probably just bitten or something. Should we tell his father?"
 
-Iruka considered for a moment. "Probably best not to. People pay for Daggers when they don't want questions asked. The dad may know what's up with the kid or he might not, but I guarantee whichever way it goes he'd rather we pretend like we didn't see anything."
+Iruka considered for a moment. "Probably best not to. People pay for Daggers when they don't want questions. The dad may know what's up with the kid or he might not, but I guarantee whichever way it goes he won't be happy we noticed and started asking."
 
 Fumi looked up from her ministrations. "Are you sure they attacked him? Where did you see him get bitten?"
 
 "I didn't see it. Probably happened before we arrived. The kid had already lost it by the time we got there. Why?"
 
-Fumi did one last pass over the boy. "Aside from a few bruises and scrapes from when we were carrying him out, the kid doesn't have a scratch on him."
+Fumi did one last pass over the boy. "Aside from a few bruises and these cuts on his arms, the kid is fine. Nothing that could be a bite."
 
-"That can't be right. He seemed mad when we approached him. And the spiders were all over him at the end, why wouldn't they bite?"
+"That can't be right. He seemed mad when we approached. And the spiders were all over him at the end, why wouldn't they bite him?"
 
-Fumi shrugged. "All I know is there's no spider bites. Maybe it was just shock?"
+Fumi shrugged. "All I know is there's no bite marks. Maybe it was just shock?"
 
-There was a faint rustle as Keta began to stir against the tree, his eyes flickering. Everyone tensed and watched, waiting to see how the shapeling would react.
+There was a rustle as Keta stirred against the tree, his eyes flickering. They tensed and watched, waiting to see how the shapeling would react.
 
-Keta's eyes snapped open and he began to strain against the ropes desperately, his feet scrambling for purchase along the ground. He groaned, his eyes white with fear. Moto took a step forward, his hand held out, but Iruka held him back.
+Keta's eyes snapped open and he began to strain against the ropes, his feet scrambling for purchase along the ground. He groaned, his eyes white with fear. Moto took a step forward, his hand held out, but Iruka held him back.
 
 "It's OK, kid. Nothing you can do right now but let it pass. It shouldn't take more than an hour. But right now getting close is only going to stress him worse."
 
@@ -372,7 +391,7 @@ Iruka hesitated. "You did what you thought you had to, and made the best of the 
 
 Fumi stepped up beside them, looking down at Keta as he continued to pull against his ropes. "He's not going to be happy when he hears how things went down."
 
-A pit formed in Moto's stomach as he thought about that conversation. "We don't have to tell him. We could say the prisoners made it out. A falling rock knocked him unconscious but we managed to pull everyone out and they went their separate ways."
+A pit formed in Moto's stomach. "We don't have to tell him. We could say the prisoners made it. A falling rock knocked him unconscious but we managed to pull everyone out and they went their separate ways."
 
 Iruka shook her head adamantly. "You can tell him what you want about how he got knocked out. That's between you two. But he needs to know what happened to the others."
 
@@ -384,21 +403,21 @@ Iruka turned to look at them. Her eyes rested primarily on Moto. "Overall, this 
 
 Moto blinked. "What for?"
 
-"You can _not_ be debating priorities in the middle of a mission like that. I'm not saying Keta was wrong to want to save those people. Or that you were wrong for stopping him. What's wrong is that you two didn't agree and we couldn't act decisively. That left us down a man and fighting off the back foot. More than anything, I want you to tell Keta what happened so you're forced to talk about how you'll handle a situation like that in the future."
+"You can't be debating priorities in the middle of a mission like that. I'm not saying either side was wrong. What was wrong was that we couldn't act decisively. That left us down a man and fighting off the back foot. I want you to tell Keta what happened so you're forced to talk and decide how you'll handle a situation like that in the future."
 
-There was a crash in the woods behind them, causing them all to turn and reach for weapons. The kid was up and away from the fire. They saw his back as he went crashing through the underbrush.
+There was a crash in the woods behind them. They turned, hands reaching for weapons. The kid was up and away from the fire, fleeing through the underbrush.
 
-Moto pulled the tangle snap from his belt, then realized he didn't have the energy left to use it. He took a step forward, but came up short as the kid snapped backward and started flying through the air toward Iruka. She brought him into her arms and held him in place as the boy struggled.
+Moto pulled the tangle snap from his belt, then realized he didn't have the energy left to use it. He took a step forward, but came up short as the kid snapped backward, flying through the air toward Iruka. She brought him into her arms and held him in place as the boy struggled.
 
-"Get away! They're gonna hurt me! I need to run!" The kid struggled in vain against Iruka's strong arms. She shushed him gently.
+"Get away! They're gonna hurt me! I need to run!" The kid struggled in vain against Iruka's strong arms.
 
-"It's OK, we're safe. The spiders are gone. They can't hurt you anymore."
+"It's OK, you're safe. The spiders are gone. They can't hurt you anymore."
 
 The kid turned his head wildly, straining backwards. "They took the light. Made it dark. Took me away. Let go!"
 
 Iruka continued to soothe him as she walked to the fire. "Hey, hey, everything is OK now." She pointed his head towards the fire. "See? No more dark. Plenty of light."
 
-The boy calmed a bit as he looked at the fire, his fit subsiding into a background of faint twitches and muttering.
+The boy calmed a bit as he looked at the fire, his fit subsiding to a background of twitches and muttering. His attention still skittered around the campsite.
 
 "That's right. We're not going to hurt you. We're here to save you."
 
@@ -410,11 +429,11 @@ The boy relaxed into Iruka's arms and she left his hands free so he could warm t
 <br />
 <br />
 
-Everyone but Iruka sat in a small room inside the Bloodhall. The boy, whose name was Kashi, sat nervously in the corner of the room, picking at the new robes he wore. Soundstealer stood, leaning against the wall. It was the first time they had seen him since he gave the mission.
+Everyone but Iruka sat in a small room inside the Bloodhall. The boy, whose name was Kashi, sat nervously in the corner of the room, picking methodically at the new robes he wore. Soundstealer was with them, leaning against the wall. It was the first time they had seen him since he gave the mission.
 
-"You have done well." He addressed Fumi. "Was there anything out of the ordinary?" Soundstealer's gaze traveled over the group lazily.
+"You have done well." He addressed Fumi. "Was there anything out of the ordinary?" Soundstealer's gaze crawled over the group.
 
-Remembering Iruka's suggestion to play dumb, Moto spoke up before the others could reply. "Not really, sir. He was lucky not to be bitten, that made the extraction much easier."
+Remembering Iruka's suggestion to play dumb, Moto spoke up before the others could reply. "Not really, sir. He was lucky not to be bitten, that made the extraction easier."
 
 Soundstealer watched him for a moment, his eyes probing. He held the stare just long enough to make Moto uncomfortable, then nodded.
 
@@ -434,37 +453,37 @@ Fumi bristled. "I don't _want_ a new squad. I can be strong and still have frien
 
 Soundstealer scoffed. "What does it matter who is the strongest squad of children? Your ultimate strength is more important."
 
-"Fine! We don't need your contracts anyways. We'll find our own."
+"Fine! We don't need your contracts anyways. We'll find our own." She leaned back in her seat, arms crossed.
 
-Moto sat with his mouth slightly open. What just happened? They had succeeded. That was supposed to bring him closer to Soundstealer. But just like that it was falling away.
+Moto sat with his mouth slightly open. What just happened? This mission was supposed to bring him closer to Soundstealer. But just like that it had fallen away.
 
-Moto looked to Keta, wondering how the shapeling would react to the conversation. His eyes were down, his hand on his chin thoughtfully. Keta had been quiet since he heard what happened to the prisoners.
+He looked to Keta, but the shapeling's eyes were down, his hand on his chin thoughtfully. Keta had been quiet since he heard what happened to the prisoners.
 
-A knock came at the far door, interrupting everyone's thoughts. Moto started to stand, but Soundstealer held out a hand. "That is unnecessary. I will take the boy inside and finalize the contract."
+A knock came at the far door, interrupting everyone's thoughts. Moto stood, but Soundstealer held out a hand. "That is unnecessary. I will take the boy inside and finalize the contract." The boy gave one last nervous look over his shoulder before Soundstealer led him inside and closed the door.
 
-The boy gave one last nervous look over his shoulder before Soundstealer led him inside and closed the door. As soon as he was out of sight Fumi turned to them. "Ignore him, guys. He can't be stubborn forever. We just need to prove him wrong. Eventually we're going to be so strong he'll be begging for us to help on contracts just like every other master."
+As soon as he was out of sight Fumi turned to them. "Ignore him, guys. He can't be stubborn forever. We just need to prove him wrong. Eventually we'll be so strong he'll be begging for us to help on contracts."
 
 Moto grunted noncommittally. He thought getting close to Fumi was a good way to get close to Soundstealer as well. But it seemed like the two were at odds. He needed to reconsider his plans.
 
 A few moments later Soundstealer walked from the room alone, folding the contract and placing it in his robe.
 
-Moto nodded towards the paper. "Doesn't one of us need to sign that?"
+Moto nodded towards the paper. "Does one of us need to sign that?"
 
 "Unnecessary. I signed it myself."
 
 Fumi bounced forward, earlier confrontation momentarily forgotten. "Can we at least see it? My first contract!"
 
-Soundstealer finished stowing the contract hastily and made his way for the door. "Control yourself, daughter. This is nothing to be excited about."
+Soundstealer finished stowing the contract and made for the door. "Control yourself, daughter. This is nothing to be excited about."
 
-Weird. Why didn't he want them to see the contract? They already knew the contents. Unless there was something on the final contract that he didn't want them to see. Moto pushed his bag beneath his chair as he stood, leaving the room without it.
+Was he hiding the contract? They already knew the contents. Unless there was something new on the final contract that he didn't want them to see. Moto pushed his bag beneath the chair as he stood, leaving the room without it.
 
 As they neared the exit, Moto slowed. "Ah! I forgot my bag. One second, let me go grab it." He turned and ran back up the stairs before anyone could suggest otherwise.
 
-Moto returned to the room and scooped up his bag. He looked around, then brought his ear to the door that Soundstealer entered before. Silent. He eased open the door and slipped inside. He moved fast, knowing he didn't have much time before Soundstealer would get suspicious.
+Moto returned to the room and scooped up his bag. He looked around, then brought his ear to the door that Soundstealer entered before. Silent. He eased open the door and slipped inside, moving fast. He didn't have much time before Soundstealer would get suspicious.
 
-On the desk was a stack of thick papers in case contracts needed to be updated or amended. Writing utensils sat beside the papers. Moto grabbed a stick of charcoal and rubbed it lightly across the top sheet. Faint white lines appeared where the page above had been written on. Moto read the first line he had rubbed.
+On the desk was a thick stack of paper in case contracts needed amendments. Writing utensils sat beside the stack. Moto grabbed a stick of charcoal and rubbed it lightly across the top sheet. Faint white lines appeared where the page above had been written on. He read some of the lines.
 
 __boy to be retrieved and returned to Jidoka unharmed. Soundstealer to__
 
-He smiled, snatching the paper and tucking it into his bag, then made his way out of the room and back down the stairs. If Soundstealer wasn't going to give them more missions, Moto would learn more about his clients by himself.
+He smiled, snatching the paper and tucking it into his bag. He made his way out of the room and back down the stairs. If Soundstealer wasn't going to give them more missions, Moto would learn about his clients on his own.
 

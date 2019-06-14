@@ -240,7 +240,7 @@ Denri charged her fingertips and tickled Aki until she started to giggle. "I pro
 <br />
 <br />
 
-Eventually, another traveller approached the platform. He looked around, confused in much the same way as Denri and the others had been. The traveller dropped his pack to the ground and produced a rolled up parchment, scanning its contents and then walking to the statue at the platform's center. He knocked on the chest in the dragon's claws.
+Eventually, another traveller approached the platform. He looked around, confused in much the same way as Denri and the others. The traveller dropped his pack to the ground and produced a rolled up parchment, scanning its contents and then walking to the statue at the platform's center. He knocked on the chest in the dragon's claws.
 
 After a long pause, there was the sound of many latches being undone before the front of the chest swung forward. Behind it was an elderly shapeling woman. Her hair was grey, done up in a messy bun pierced with a silver pick to hold it in place. Her already short form was badly hunched, and her eyes were massive behind thick glasses resting on a prominent nose.
 
@@ -264,19 +264,19 @@ Eizo took the hand awkwardly, balancing two packs. "Eizo. A pleasure--."
 
 Anko snatched his hand greedily, bringing it close to her chest. "With arms like these, yessir we've got rooms. You can take mine free of charge if you like." She winked.
 
-Denri would have paid any amount of money to see Eizo's face under the mask at that exact moment. He blinked in surprise, eyes moving so fast their motion was nearly audible. "That- no, that won't be necessary. Just two, uh, ordinary rooms, if you please." His voice ended in a panicked squeak as he tried to free his hand.
+Denri would have paid any amount of money to see Eizo's face under the mask at that exact moment. He blinked in surprise, eyes moving so fast their motion was nearly audible. "That- no, that won't be necessary. Just two, uh, ordinary rooms, if you please." He tried to free his hand.
 
-"Well, suit yourself. I know where to find you if you change your mind." The grin widened and she turned to let them pass, releasing Eizo's hand reluctantly. Aki gave a start as the old woman forced herself between the girl and Eizo. "Make sure to close the door, young lass."
+"Well, suit yourself. I know where to find you if you change your mind." The grin widened and she turned to let them pass, releasing Eizo's hand reluctantly. Aki gave a start as the old woman forced herself between the girl and Eizo. "Make sure to close the door, lass."
 
 Beyond the door was a steep, spiral staircase angling down out of sight. A few feet down the packs in Eizo's arms clattered as he stood abruptly straight.
 
 "Don't mind me lad, these stairs are steep for a delicate lady like myself. I need to hold on and steady myself. You wouldn't let a lady fall, would you?"
 
-Denri struggled to contain herself.
+Denri struggled to contain her laughter.
 
-The stairs ended in a mid-sized room lit by softly glowing lanterns. The room was sparse, with no chairs or tables for guests to congregate around. There was only a heavy wooden counter with a young boy seated behind it. When he saw Anko coming down the stairs, he gave a nervous laugh and sat in the stool behind the counter quickly.
+The stairs ended in a mid-sized room lit by softly glowing lanterns. The room was sparse, with no chairs or tables for guests to congregate. There was only a heavy wooden counter with a young boy seated behind it. When he saw Anko coming down the stairs, he gave a nervous laugh and retreated behind the counter quickly.
 
-"There, thank you for the help dear. You're a valiant man." Her hand did not move from his waist. Denri met Eizo's desperate eyes and hoped he couldn't tell she was smiling. "Now, two rooms you said? Nezumi!" The boy started in his seat. "Two rooms, make 'em good."
+"There, thank you for the help dear. You're a valiant man." Her hand did not move from his waist. Denri met Eizo's desperate eyes. She hoped he couldn't tell she was smiling. "Now, two rooms you said? Nezumi!" The boy started in his seat. "Two rooms, make 'em good."
 
 The boy jumped up and ran through a door at the back. Denri heard the sound of jangling keys.
 
@@ -288,17 +288,17 @@ Eizo's hand shot to the mask immediately. "That's OK. We'll have to get used to 
 
 Denri reached for her mask, enjoying Eizo's squirming. "That's silly! Let's take them off!" A serious look from Eizo staid her hand, though. "Maybe once we've had a chance to set everything down. Your hands are pretty full."
 
-Denri looked around, looking for something to change the conversation. "I'm awfully hungry. It doesn't look like there's much space to grab a meal here. Is there a common room somewhere else?"
+Denri looked around, hoping for something to change the conversation. "I'm awfully hungry. It doesn't look like there's much space to grab a meal here. Is there a common room somewhere else?"
 
-Anko shook her head. "Sometimes a wealthy lord will hire us to take them and their researchers to a remote research site. Or we just undock for a bit of travel. When that happens we set up the topside as a dining space. But here in Sky Furnace, public gathering spaces aren't allowed. We can bring private meals to your rooms though." Another wink for Eizo.
+Anko shook her head. "Sometimes a wealthy lord will hire us to take them and their researchers to a remote site. Or we just undock for a bit of travel. When that happens we set up topside as a dining space. But here in Sky Furnace, public gathering spaces aren't allowed. We can bring private meals to your rooms though." Another wink for Eizo.
 
 "Oh, just the rooms for now, thank you."
 
-After a few stern refusals, Eizo convinced Anko that he did not need any special accommodations. Denri was certain the upgrade would be conveniently placed beside Anko's own living space. They made their way through a narrow hall and down a few flights of stairs to their room. Eizo all but slammed the door as Anko tried to make a fuss about his blankets needing straightening.
+After a few stern refusals, Eizo convinced Anko that he did not need any special accommodations. Denri was certain the upgrade would be conveniently placed beside the elderly woman's own living space. They made their way through a narrow hall and down a few flights of stairs to their room. Eizo all but slammed the door as Anko fussed about his blankets needing straightening.
 
-Aki and Denri took a slightly larger room beside Eizo's, with two beds and a large glass window on the far wall.
+Aki and Denri took a larger room beside Eizo's, with two beds and a large glass window on the far wall.
 
-"Well, that explains why we couldn't find the inn!" Denri tossed her things on a bed and pressed her face to the glass. The room had a view straight into the mouth of the volcano.
+"Well, that explains why we couldn't find the inn!" Denri tossed her things on a bed and pressed her face to the glass. The entire inn was below the platform. Their room had a view straight into the mouth of the volcano.
 
 Aki joined her at the glass, peering down below. As they watched, a slow stream of ripples spread across the lava. Testujin's head emerged briefly before he sank below the surface again.
 
@@ -307,4 +307,90 @@ Aki wore a frown as she watched the dragon. "It's not fair."
 "Hm?"
 
 "It's not fair! Tetsujin was here first. Why do the Twins get to come and take it?"
+
+"At least he still gets to live here. It sounds like the town has been pretty accommodating. I can't imagine living so close to a monster like this all the time."
+
+"But he has to do what the Twins say all the time. They came and attacked him and now he's their slave. What if he doesn't want to serve them?"
+
+Denri turned from the window and looked at Aki seriously. "That's just how the world works. You could just as easily ask why do the monsters attack us in the woods."
+
+Aki stomped away from the window and threw herself on her bed, arms crossed and eyes shining. "They don't have a choice! The gods make them do it. We don't have to be mean back."
+
+The usual response came to Denri's lips. She pictured the faces of her parents as they fled through the woods, pursued gleefully by the monsters. At least they seemed gleeful. But now she saw Hattori's confusion, too. Torn between the world he was born to and what he was becoming. She shook her head.
+
+"They may not have a choice, but at some point that doesn't matter. Don't let Hattori confuse you. The other monsters _want_ to hurt us. It doesn't matter if the gods put that want inside them. If we try to help them they'll kill us just the same."
+
+"That's not true! The other tengu didn't want to fight either. I lived in a whole town filled with monsters and none of them wanted to hurt us!" As soon as she said the words, Aki's eyes went wide and she clamped her hands over her mouth.
+
+Denri paused, her mouth open. "You lived... with monsters?"
+
+There was a sharp knock at the door, followed by Eizo's voice. Denri called him in without thinking. He shut the door quickly behind him, pressing his back against the door.
+
+"I thought I could hear Anko coming down the hallway. That woman is-- what's the matter?"
+
+Denri was still staring at Aki. "You lived with monsters?"
+
+Aki looked at the bed sheepishly. "Eizo said I'm not supposed to tell anyone." She looked up at him. "I'm sorry! I was just angry. But it's OK I told Denri, right?"
+
+Eizo paused for a heartbeat. He looked at Denri, then nodded. "Yes, I suppose it is. But don't speak too loudly. For the same reason we should keep our masks on outside the rooms. Who knows who's watching and listening?"
+
+"Will someone please just tell me what's going on? Instead of talking like I'm not in the room."
+
+"Where I grew up there were monsters all around. They didn't attack us. They helped us. Me and the other kids would even play with some of them."
+
+Denri stared in disbelief. "You've got to be kidding me, there's no place in all of Yosai like that. I may not have heard much about the world, but _everyone_ would know about a place like that."
+
+"It was secret! Mama said no one else would understand. She didn't let anyone in or out."
+
+"Your mom ran this monster town?"
+
+"Mama took care of all of us."
+
+Eizo cleared his throat. "None of the children in the town knew who their real parents were."
+
+"Mama _was_ our real mom!"
+
+Eizo raised a soothing hand. "None of them knew who their _biological_ parents were. Based on Aki's descriptions and where she was coming from when I tried to free her, I think this town was some sort of experiment. I think 'Mama' was Emiko."
+
+Denri and Aki shouted at the same time.
+
+"One of the Four Seasons?!"
+
+"It wasn't an experiment! We were all family!"
+
+Eizo nodded in Denri's direction, confirming her question.
+
+"And you didn't think this would be useful information to tell me sooner?"
+
+Eizo looked chastened. "At first we didn't know if you could be trusted. And then... I'm sorry. We should have told you. Old habits die hard."
+
+Aki jumped in quickly. "And you were so mad about monsters. I didn't want you to hate me. Please don't be mad! I never would have been friends with the monsters that hurt your parents, I promise!"
+
+Tears spilled down Aki's cheeks, cutting momentarily through Denri's confusion and frustration. She walked from the window and sat beside Aki, putting an arm around her shoulder. "Don't worry kid, I'm not mad. Well, I'm not mad about the fact that you grew up with monsters." Denri paused for a second, then laughed to herself. "That sentence still sounds ridiculous.
+
+"But I _am_ mad you didn't tell me sooner! First of all, that's crazy. Second, what are we doing all the way here in Sky Furnace, messing around with all this Tournament stuff? Why don't we just go back to this town. If Emiko's protecting it then we should be fine, right?"
+
+Aki looked at the ground sadly. "I don't think it's safe there anymore. Not since the Question Man came."
+
+Eizo provided more concrete details. "One of Sadashi's followers somehow infiltrated the town."
+
+Aki's hands gripped each other tightly in her lap, her voice was brittle with remembered pain. "He asked the kids all sorts of questions. And he made us try to do things. Like changing things into different shapes, or hurting the monsters. Some kids had to live in a special house after they talked to him. We never got to see them."
+
+"This man kidnapped Aki and was taking her to Jidoka when I tried to free her. It's unclear if Emiko knows that the kidnapping was thwarted. She may think Aki is in Sadashi's hands.
+
+"Right now, Aki is just another Tournament competitor. It helps that her body looks older as well. But if details about where Aki came from got out, Emiko might connect the dots and come after us too."
+
+"She wouldn't come after us! Mama would try to help."
+
+"I am not so sure of that. But even if it were true, we don't know how deeply Sadashi has infiltrated her ranks. Her help may be another tool for the Warlord to control."
+
+Denri's head was reeling. "Well. I guess we were willing to take on one champion. One more won't hurt."
+
+Eizo shifted in his seat. "We should not rule out the possibility that whatever Emiko's role is, she works on behalf of all the Four Seasons. They serve different gods now, but the group has remained close."
+
+Denri laughed, only partly manic. "Sure, why not? Champions are hunting us, monsters are friends. We're in a city that floats above a volcano. I've pretty much lost all sense of normal and possible. So who's to say the four of us can't kick all their butts?"
+
+Eizo nodded. "If Sadashi wants Aki, it means she has power. Based on what she did with Hattori, I'm beginning to believe that whatever was happening in that monster town, it was the kids who were doing it. If we can learn how to harness it, we may not have to fight alone. With your strength as an Adept, supported by a force of monsters, we just might be able to win."
+
+Denri imagined herself standing at the head of an army of monsters and laughed. This time it really was manic.
 

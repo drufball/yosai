@@ -10,7 +10,7 @@ cast: "['Moto','Fumi','Keta','Iruka', 'Seiko', 'Hako', 'genin', 'chunin', 'jonin
 pronunciations: "['MOH-toh','FOO-mee','KAY-tah','ee-ROO-kah', 'SAY-koh', 'HAH-koh', 'geh-NIN', 'choo-NIN', 'joh-NIN','KOH-gah','EE-gah','EE-sah','oh-TOH-yah', 'soo-KOO-yoh-MEE', 'hee-SOH-kah', 'SOO-gee']"
 colors: "['#c98859','#69d4fc','#e84326','#c98859','#e84326','#273be2','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#273be2']"
 
-feedback: https://forms.gle/B2mpLip85GqXXPCm8
+feedback: https://forms.gle/jGLWYni6MCkzeWyw5
 ---
 **This is part 4 of an ongoing story series. You can read the first part [here](https://yosai.world/compendium/tournament/daggers-of-iga/).**
 
@@ -677,3 +677,5 @@ Keta turned. "What's going on?"
 "Looks like this thing had a little bit of juice left." Moto pulled a dagger from his belt and stabbed it between the eyes. The creature slumped to the ground and the light in its body went out.
 
 Back in the hallway from where they had come, echoing up from deep within the nest, a child began to scream.
+
+**You can read the next story in this series [here](https://yosai.world/compendium/tournament/momentum/).**
