@@ -9,7 +9,7 @@ process. Right now, it's details about the things I'm making and consuming. Over
 it will also include summaries of feedback, polls, and other interactions with you, the
 reader.
 
-# Short Stories: 12/25
+# Short Stories: 14/25
 
 # Today's Stats
 **Words written:** 1,190
