@@ -14,6 +14,8 @@ feedback: https://forms.gle/N5okzVV4wGXsxnf59
 ---
 **This is part 4 of an ongoing story series. If you haven't already, read the [last chapter](https://yosai.world/compendium/tournament/whispers/) or start from the [beginning](https://yosai.world/compendium/tournament/opportunities/).**
 
+![](/assets/img/Sky-Furnace.png)
+
 The port beneath Sky Furnace was chaos. Crews ran around barking orders so loud Denri could barely hear her own thoughts. If the docks hadn't been dominated by flits, she probably would have been trampled.
 
 It was wonderful.
