@@ -12,7 +12,7 @@ colors: "['#69d4fc','#c98859','#c98859',#c98859','#e84326','#e84326','#4e4e4e','
 
 feedback: https://forms.gle/N5okzVV4wGXsxnf59
 ---
-**This is part 4 of an ongoing story series. If you haven't already, read the [last chapter](https://yosai.world/compendium/tournament/whispers/) or start from the [beginning](https://yosai.world/compendium/tournament/opportunities/).**
+**This is part 5 of an ongoing story series. If you haven't already, read the [last chapter](https://yosai.world/compendium/tournament/whispers/) or start from the [beginning](https://yosai.world/compendium/tournament/opportunities/).**
 
 ![](/assets/img/Sky-Furnace.png)
 
@@ -413,3 +413,5 @@ Denri laughed, only partly manic. "Sure, why not? Champions are hunting us. Mons
 Eizo nodded. "If Sadashi wants Aki, it means she has power. Based on what she did with Hattori, I'm beginning to believe that whatever was happening in that monster town, it was the kids who were doing it. If we can learn how to harness that ability, we may not have to fight alone. With your strength as an Adept, supported by a force of monsters, we might be able to level the playing field."
 
 Denri imagined herself standing at the head of an army of monsters. She laughed. This time, it really was manic.
+
+**You can read the next story in this series [here](https://yosai.world/compendium/tournament/bounty/).**
