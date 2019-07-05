@@ -1,6 +1,27 @@
+---
+title: Secrets Revealed
+era: tournament
+permalink: /compendium/tournament/:title/
+
+layout: post
+excerpt_separator: <!--more-->
+
+cast: "['Denri','Eizo','Sadashi','Aki','Hattori','Danzo','Kiyoshi','Kazora','Anko','Nezumi','Shinmon','Yotogi']"
+pronunciations: "['DEHN-ree','AY-zoh','SAH-DAH-shee','AH-kee','HA-toh-ree','DAHN-zoh','KEE-yoh-shee','KAH-zoh-rah','AHN-koh','neh-ZOO-mee','shin-MON','YOH-TOH-gee']"
+colors: "['#69d4fc','#c98859','#c98859','#e84326','#e84326','#4e4e4e','#fcc72d','#fcc72d','#fcc72d','#fcc72d','#c98859','#c98859']"
+
+feedback: https://forms.gle/ayrtQha42Mw9EeMF8
+---
+
+**This is part 7 of an ongoing story series. If you haven't already, read the [last chapter](https://yosai.world/compendium/tournament/bounty/) or start from the [beginning](https://yosai.world/compendium/tournament/opportunities/).**
+
+![](/assets/img/Sky-Furnace.png)
+
 They darted from shadows to alleys to abandoned crates and carts, barely outpacing the Arbiter search parties that stormed the city. Every clang of the alarm bell knotted Denri's stomach tighter. It was ringing for her.
 
 They knew who she was. Even before she blasted one of the city guards, they knew enough to be suspicious. But now there was no doubt. No way to hide.
+
+<!--more-->
 
 They had to get out of the city. But Denri wouldn't leave Shiri and Onara. For years they had been her only family, living on the streets of Terminus.
 
