@@ -436,3 +436,5 @@ A bolt of lightning struck the ground directly in their path. She had just enoug
 His features were obscured by the crackling energy around him, but Denri could make out a manic grin that split his face. Then he was catching her out of the air, the muscles along his arm flaring as he spun, absorbing their momentum and crashing them into the ground.
 
 "Gotcha!"
+
+**You can read the next story in this series [here](https://yosai.world/compendium/tournament/lightnings-embrace/).**

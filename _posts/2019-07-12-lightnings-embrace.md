@@ -1,3 +1,22 @@
+---
+title: Lightning's Embrace
+era: tournament
+permalink: /compendium/tournament/:title/
+
+layout: post
+excerpt_separator: <!--more-->
+
+cast: "['Denri','Eizo','Sadashi','Aki','Hattori','Danzo','Kiyoshi','Kazora','Anko','Nezumi','Shinmon','Yotogi']"
+pronunciations: "['DEHN-ree','AY-zoh','SAH-DAH-shee','AH-kee','HA-toh-ree','DAHN-zoh','KEE-yoh-shee','KAH-zoh-rah','AHN-koh','neh-ZOO-mee','shin-MON','YOH-TOH-gee']"
+colors: "['#69d4fc','#c98859','#c98859','#e84326','#e84326','#4e4e4e','#fcc72d','#fcc72d','#fcc72d','#fcc72d','#c98859','#c98859']"
+
+feedback: https://forms.gle/5761HV2oDPMeWFdt5
+---
+
+**This is part 8 of an ongoing story series. If you haven't already, read the [last chapter](https://yosai.world/compendium/tournament/secrets-revealed/) or start from the [beginning](https://yosai.world/compendium/tournament/opportunities/).**
+
+![](/assets/img/Sky-Furnace.png)
+
 Denri's mind clawed free from a deep sleep of exhaustion. She was lying on a thin mattress with rough linens. The ceiling's polished steel plates had a dull, red sheen, reflecting torchlight from somewhere. She rolled onto her side.
 
 Her head throbbed as she moved. It felt like a horse had methodically stomped across her, taking care to bruise every inch. Three long lines on her arm, back, and hip burned sharply. Her right leg didn't move properly. Memories returned with the pain.
@@ -38,7 +57,7 @@ One sat stiff-backed in flowing red and gold robes. His long, black hair was bru
 
 The other sat cross-legged, hunched over a book. He wore fitted worker's clothes covered with belts and pouches. His short, tangled hair was held back by a pair of goggles with too many lenses. One of his arms was mechanical, with ticking gears and hissing steam waging a quiet war to dominate the room's background noise. It was the man who had appeared from the lightning.
 
-Fidgeting in front of them, Aki looked small in such a large room. Denri limped over and punched the young girl's hip, wincing as her own arm tensed with pain. Aki looked down, showing a bruised cheek and a busted lip. Alongside the scar where her right eye used to be, she struck a fearsome image.
+Fidgeting in front of them, Aki looked small in such a large room. Denri limped over and punched the young girl's hip, wincing as her own arm tensed with pain. Aki looked down, showing a bruised cheek and a busted lip. Added to the scar where Hattori had destroyed her right eye in that first fight with the tengu, she struck a fearsome image.
 
 The fancy twin cleared his throat. "Good. Now that you are both here, we may begin. I know of your name from the bounty report, Denri. And what is your name?"
 
