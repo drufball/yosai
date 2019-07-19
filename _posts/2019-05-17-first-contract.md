@@ -678,4 +678,4 @@ Keta turned. "What's going on?"
 
 Back in the hallway from where they had come, echoing up from deep within the nest, a child began to scream.
 
-**You can read the next story in this series [here](https://yosai.world/compendium/tournament/momentum/).**
+**You can read the next story in this series [here](https://yosai.world/compendium/tournament/limits/).**
