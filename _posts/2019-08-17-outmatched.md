@@ -1,6 +1,24 @@
+---
+title: Outmatched
+era: tournament
+permalink: /compendium/tournament/:title/
+
+layout: post
+excerpt_separator: <!--more-->
+
+cast: "['Moto','Fumi','Keta','Iruka', 'Seiko', 'Hako', 'genin', 'chunin', 'jonin','Koga','Iga','Isa','Otoya','Tsukuyomi', 'Hisoka', 'Sugi', 'Hibana', 'Haiyu']"
+pronunciations: "['MOH-toh','FOO-mee','KAY-tah','ee-ROO-kah', 'SAY-koh', 'HAH-koh', 'geh-NIN', 'choo-NIN', 'joh-NIN','KOH-gah','EE-gah','EE-sah','oh-TOH-yah', 'soo-KOO-yoh-MEE', 'hee-SOH-kah', 'SOO-gee', 'HEE-bah-nah', 'HIGH-yoo']"
+colors: "['#c98859','#69d4fc','#e84326','#c98859','#e84326','#273be2','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#273be2','#e84326','#c98859']"
+
+feedback: https://forms.gle/2CryBuxeN62tWWtk7
+---
+**This is part 8 of an ongoing story series. You can read the first part [here](https://yosai.world/compendium/tournament/daggers-of-iga/). Or read the last installment [here](https://yosai.world/compendium/tournament/choices/)**
+
 The genin milled about near the Playground's entrance, casting nervous glances into the wild forest that dominated the building's interior. After a week of constant training, Moto could see the woods below in his mind's eye with near-perfect detail. He scanned the trees one more time to be safe.
 
 The Playground's size still awed Moto. The roof vanished in the torchlight, well over a hundred feet above. The edges of the dense forest stretched even further away than the roof, several hundred feet in each direction.
+
+<!--more-->
 
 A small lake took up the right corner closest to the entrance. Rocky pillars, like miniature mountains, thrust from the vegetation at irregular intervals. The ropeways that usually crisscrossed through the air above had been removed.
 
