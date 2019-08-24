@@ -303,3 +303,5 @@ Had Keta found Hako? Did he retrieve the coin? With every minute that passed, Mo
 After what felt like ages, Keta appeared at the edge of the woods. He raced forward, staggering twice before he made it to the raised walkway around the Playground. When he stopped in front of Moto and Fumi, his knees buckled and he thumped roughly to the ground. He opened his hand to show a coin with a seven on it.
 
 Keta gave a lopsided grin, his usual grace gone in his tired state. "You see? Sometimes it is best to--." He slumped sideways, giving way to exhaustion. The shapeling was unconscious before his shoulder hit the ground.
+
+**You can read the next story in this series [here](https://yosai.world/compendium/tournament/frantic-combat/).**

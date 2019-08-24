@@ -1,8 +1,26 @@
+---
+title: Frantic Combat
+era: tournament
+permalink: /compendium/tournament/:title/
+
+layout: post
+excerpt_separator: <!--more-->
+
+cast: "['Moto','Fumi','Keta','Iruka', 'Seiko', 'Hako', 'genin', 'chunin', 'jonin','Koga','Iga','Isa','Otoya','Tsukuyomi', 'Hisoka', 'Sugi', 'Hibana', 'Haiyu']"
+pronunciations: "['MOH-toh','FOO-mee','KAY-tah','ee-ROO-kah', 'SAY-koh', 'HAH-koh', 'geh-NIN', 'choo-NIN', 'joh-NIN','KOH-gah','EE-gah','EE-sah','oh-TOH-yah', 'soo-KOO-yoh-MEE', 'hee-SOH-kah', 'SOO-gee', 'HEE-bah-nah', 'HIGH-yoo']"
+colors: "['#c98859','#69d4fc','#e84326','#c98859','#e84326','#273be2','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#273be2','#e84326','#c98859']"
+
+feedback: https://forms.gle/yCACKsKUqde99R3h6
+---
+**This is part 9 of an ongoing story series. You can read the first part [here](https://yosai.world/compendium/tournament/daggers-of-iga/). Or read the last installment [here](https://yosai.world/compendium/tournament/outmatched/)**
+
 Moto's squad lounged at the edge of the Playground's rocky spire. The massive building, with it's dark forest and the constant din of training Daggers, dominated the isolated mountain peak. Its dragon-scale roof thrust a hundred feet in the air, carving through the endless winds of Iga.
 
 The only other buildings were a few small sheds where rail carts from the four houses let off. Metallic rails twisted out from them like spider webs, disappearing into the clouds surrounding the spire.
 
 Even on good days, it was difficult to see more than a vague outline of the nearest spires. Today, it felt like the training grounds were trapped in their own world.
+
+<!--more-->
 
 A fresh wind tore across the spire, pulling everyone and everything toward the steep cliff edge with greedy fingers. Only the small village that supported Iga had any kind of approach from below. Every other complex stood on vertigo-inducing fingers of stone.
 
