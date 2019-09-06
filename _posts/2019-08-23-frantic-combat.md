@@ -351,3 +351,5 @@ Two men appeared at the edge of the ring, the flame of Ignis along the back and 
 Moto turned back to Fumi and was shocked to see the large pool of blood that had spread around his feet.
 
 There were limits to what could be healed. He looked at Iruka and saw concern in her eyes. All they could do was hold Fumi's shoulder and hope she hadn't crossed that line.
+
+**You can read the next story in this series [here](https://yosai.world/compendium/tournament/a-dangerous-game/).**

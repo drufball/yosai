@@ -1,3 +1,19 @@
+---
+title: A Dangerous Game
+era: tournament
+permalink: /compendium/tournament/:title/
+
+layout: post
+excerpt_separator: <!--more-->
+
+cast: "['Moto','Fumi','Keta','Iruka', 'Seiko', 'Hako', 'genin', 'chunin', 'jonin','Koga','Iga','Isa','Otoya','Tsukuyomi', 'Hisoka', 'Sugi', 'Hibana', 'Haiyu']"
+pronunciations: "['MOH-toh','FOO-mee','KAY-tah','ee-ROO-kah', 'SAY-koh', 'HAH-koh', 'geh-NIN', 'choo-NIN', 'joh-NIN','KOH-gah','EE-gah','EE-sah','oh-TOH-yah', 'soo-KOO-yoh-MEE', 'hee-SOH-kah', 'SOO-gee', 'HEE-bah-nah', 'HIGH-yoo']"
+colors: "['#c98859','#69d4fc','#e84326','#c98859','#e84326','#273be2','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#4e4e4e','#273be2','#e84326','#c98859']"
+
+feedback: https://forms.gle/yCACKsKUqde99R3h6
+---
+**This is part 10 of an ongoing story series. You can read the first part [here](https://yosai.world/compendium/tournament/daggers-of-iga/). Or read the last installment [here](https://yosai.world/compendium/tournament/frantic-combat/)**
+
 It didn't make sense.
 
 Fumi was loud and careless. Annoyingly overconfident. Always butting into his business. Everything that Moto had struggled tooth and nail for she had simply been given. She was a liability to his plans. She was Soundstealer's daughter.
